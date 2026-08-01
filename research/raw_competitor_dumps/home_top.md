@@ -1,0 +1,828 @@
+- generic [active] [ref=f386e1]:
+  - link [ref=f386e2] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f386e4]:
+    - heading "【交換できるくん】トイレ、ビルトインコンロ、食洗機、給湯器が安い！住宅設備専門店" [level=1] [ref=f386e7]
+    - generic [ref=f386e10]:
+      - generic [ref=f386e11]:
+        - link "交換できるくん" [ref=f386e13] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f386e14]
+        - link "全品無料10年保証｜交換できるくん" [ref=f386e15] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f386e16]
+        - link "東証グロース上場" [ref=f386e17] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f386e18]
+      - generic [ref=f386e19]:
+        - generic "検索" [ref=f386e23]:
+          - combobox [ref=f386e24]:
+            - generic [ref=f386e25]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f386e26]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f386e28] [cursor=pointer]:
+            - generic [ref=f386e30]: 検索
+        - generic [ref=f386e31]:
+          - link "閲覧履歴 閲覧履歴" [ref=f386e32] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f386e34]
+            - paragraph [ref=f386e35]: 閲覧履歴
+          - link "ログイン ログイン" [ref=f386e36] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f386e38]
+            - paragraph [ref=f386e39]: ログイン
+        - link "お見積り・お問い合わせはこちら お問合せ" [ref=f386e40] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f386e42]
+          - paragraph [ref=f386e43]: お問合せ
+        - generic [ref=f386e44]:
+          - link "カート内の商品数 カート" [ref=f386e45] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f386e47]
+            - paragraph [ref=f386e48]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - link [ref=f386e51] [cursor=pointer]:
+    - /url: /site_guide/promise/
+    - img "交換できるくん 全品無料10年保証付き｜メインビジュアル" [ref=f386e52]
+  - generic [ref=f386e53]:
+    - link [ref=f386e55] [cursor=pointer]:
+      - /url: /information/release20241129.html
+      - figure [ref=f386e56]:
+        - img "TBS系・がっちりマンデー！！で交換できるくんが紹介されました" [ref=f386e57]
+    - figure [ref=f386e59]:
+      - img "テレビCM放映中｜交換できるくん" [ref=f386e60]
+  - generic [ref=f386e61]:
+    - generic [ref=f386e62]:
+      - heading "選ばれる理由" [level=2] [ref=f386e63]
+      - list [ref=f386e64]:
+        - listitem [ref=f386e65]:
+          - img "出張なしのネット見積りだから安い・早い・便利" [ref=f386e67]
+          - generic [ref=f386e68]: 出張なしのネット見積りだから安い・早い・便利
+        - listitem [ref=f386e69]:
+          - img "追加請求なし全て込みだから安心です" [ref=f386e71]
+          - generic [ref=f386e72]: 追加請求なし全て込みだから安心です
+        - listitem [ref=f386e73]:
+          - img "商品も工事も無料10年保証つき" [ref=f386e75]
+          - generic [ref=f386e76]: 商品も工事も無料10年保証つき
+        - listitem [ref=f386e77]:
+          - img "責任施工で品質アフターサービス万全" [ref=f386e79]
+          - generic [ref=f386e80]: 責任施工で品質・アフターサービス万全
+        - listitem [ref=f386e81]:
+          - img "上場企業の安心 設立27年の信頼" [ref=f386e83]
+          - generic [ref=f386e84]: 上場企業の安心設立27年の信頼
+      - link "選ばれる理由をみる" [ref=f386e86] [cursor=pointer]:
+        - /url: /site_guide/promise/
+      - heading "商品カテゴリ" [level=2] [ref=f386e87]
+      - generic [ref=f386e88]:
+        - link "壁掛エアコン お支払い総額 100,800円～" [ref=f386e89] [cursor=pointer]:
+          - /url: /aircon/
+          - generic [ref=f386e90]:
+            - figure [ref=f386e91]
+            - generic [ref=f386e93]
+        - link "天井エアコン お支払い総額 267,748円～" [ref=f386e97] [cursor=pointer]:
+          - /url: /aircon/cassette/
+          - generic [ref=f386e98]:
+            - figure [ref=f386e99]
+            - generic [ref=f386e101]
+        - link "トイレ お支払い総額 101,531円～" [ref=f386e105] [cursor=pointer]:
+          - /url: /wc/
+          - generic [ref=f386e106]:
+            - figure [ref=f386e107]
+            - generic [ref=f386e109]
+        - link "ウォシュレット 温水洗浄便座 お支払い総額 38,990円～" [ref=f386e113] [cursor=pointer]:
+          - /url: /washlet/
+          - generic [ref=f386e114]:
+            - figure [ref=f386e115]
+            - generic [ref=f386e117]
+        - link "ガス給湯器 お支払い総額 80,096円～" [ref=f386e121] [cursor=pointer]:
+          - /url: /gas/
+          - generic [ref=f386e122]:
+            - figure [ref=f386e123]
+            - generic [ref=f386e125]
+        - link "エコキュート お支払い総額 351,360円～" [ref=f386e129] [cursor=pointer]:
+          - /url: /ecocute/
+          - generic [ref=f386e130]:
+            - figure [ref=f386e131]
+            - generic [ref=f386e133]
+        - link "ビルトイン 食洗機 お支払い総額 105,920円～" [ref=f386e137] [cursor=pointer]:
+          - /url: /kitchen/built_in/
+          - generic [ref=f386e138]:
+            - figure [ref=f386e139]
+            - generic [ref=f386e141]
+        - link "ビルトイン ガスコンロ お支払い総額 65,459円～" [ref=f386e145] [cursor=pointer]:
+          - /url: /gastable/
+          - generic [ref=f386e146]:
+            - figure [ref=f386e147]
+            - generic [ref=f386e149]
+        - link "IHクッキング ヒーター お支払い総額 83,270円～" [ref=f386e153] [cursor=pointer]:
+          - /url: /ih/
+          - generic [ref=f386e154]:
+            - figure [ref=f386e155]
+            - generic [ref=f386e157]
+        - link "レンジフード お支払い総額 100,360円～" [ref=f386e161] [cursor=pointer]:
+          - /url: /kitchen/food/
+          - generic [ref=f386e162]:
+            - figure [ref=f386e163]
+            - generic [ref=f386e165]
+        - link "コンロフード 同時交換 お支払い総額 156,053円～" [ref=f386e169] [cursor=pointer]:
+          - /url: /gastable/hood_set/
+          - generic [ref=f386e170]:
+            - figure [ref=f386e171]
+            - generic [ref=f386e173]
+        - link "蛇口・水栓 お支払い総額 19,813円～" [ref=f386e177] [cursor=pointer]:
+          - /url: /faucet/
+          - generic [ref=f386e178]:
+            - figure [ref=f386e179]
+            - generic [ref=f386e181]
+        - link "浴室乾燥機 お支払い総額 78,344円～" [ref=f386e185] [cursor=pointer]:
+          - /url: /bath-dry/
+          - generic [ref=f386e186]:
+            - figure [ref=f386e187]
+            - generic [ref=f386e189]
+        - link "洗面化粧台 お支払い総額 84,642円～" [ref=f386e193] [cursor=pointer]:
+          - /url: /powderroom/
+          - generic [ref=f386e194]:
+            - figure [ref=f386e195]
+            - generic [ref=f386e197]
+        - link "カップボード お支払い金額例 246,210円" [ref=f386e201] [cursor=pointer]:
+          - /url: /kitchen/cupboard/
+          - generic [ref=f386e202]:
+            - figure [ref=f386e203]
+            - generic [ref=f386e205]
+        - link "ディスポーザー お支払い総額 82,120円～" [ref=f386e209] [cursor=pointer]:
+          - /url: /disposer/
+          - generic [ref=f386e210]:
+            - figure [ref=f386e211]
+            - generic [ref=f386e213]
+        - link "ビルトイン ガスオーブン お支払い総額 190,586円～" [ref=f386e217] [cursor=pointer]:
+          - /url: /gastable/oven/
+          - generic [ref=f386e218]:
+            - figure [ref=f386e219]
+            - generic [ref=f386e221]
+        - link "電気オーブン お支払い総額 307,930円～" [ref=f386e225] [cursor=pointer]:
+          - /url: /ih/oven/
+          - generic [ref=f386e226]:
+            - figure [ref=f386e227]
+            - generic [ref=f386e229]
+        - link "石油給湯器 お支払い総額 173,189円～" [ref=f386e233] [cursor=pointer]:
+          - /url: /gas/oil/
+          - generic [ref=f386e234]:
+            - figure [ref=f386e235]
+            - generic [ref=f386e237]
+        - link "内窓・二重窓 お支払い金額例 40,040円～" [ref=f386e241] [cursor=pointer]:
+          - /url: /window/
+          - generic [ref=f386e242]:
+            - figure [ref=f386e243]
+            - generic [ref=f386e245]
+      - link "商品カテゴリ一覧をみる" [ref=f386e250] [cursor=pointer]:
+        - /url: /site_guide/item/list.html
+      - link [ref=f386e252] [cursor=pointer]:
+        - /url: /search/
+        - img "かんたん検索一覧" [ref=f386e253]
+    - generic [ref=f386e254]:
+      - heading [level=2] [ref=f386e255]:
+        - img "人気・売れ筋ランキング" [ref=f386e257]
+        - text: 人気・売れ筋ランキング
+      - generic [ref=f386e258]:
+        - list [ref=f386e259]:
+          - listitem [ref=f386e260]:
+            - link "1 レンジフード クララ 連動なし｜ノーリツ クララ｜連動なし｜レンジフード ノーリツ クララ｜連動なし ノーリツ クララ｜連動なし 当社で36.5%の方が購入！":
+              - /url: /kitchen/food/ranking.html
+          - listitem [ref=f386e261]:
+            - link "1 キッチン水栓 JF-AP461SYX(JW)｜リクシル APタイプ｜キッチン水栓 リクシル APタイプ JF-AP461SYX(JW) 当社で12.7%の方が購入！":
+              - /url: /faucet/ranking/
+          - listitem [ref=f386e262]:
+            - link "1 トイレ ピュアレストQR｜TOTO ピュアレストQR｜トイレ TOTO ピュアレストQR 当社で23.7%の方が購入！":
+              - /url: /wc/choice/ranking/#to_ranking
+          - listitem [ref=f386e263]:
+            - link "1 温水洗浄便座(TOTO) TCF6624｜TOTO SS1｜温水洗浄便座 TOTO SS1 TCF6624 当社で21.6%の方が購入！":
+              - /url: /washlet/ranking/
+          - listitem [ref=f386e264]:
+            - link "1 浴室乾燥機(1室換気) BS-161H-2｜マックス 天井埋込み型｜浴室乾燥機(1室換気) マックス 天井埋込み型 BS-161H-2 当社で29.1%の方が購入！":
+              - /url: /bath-dry/ranking/
+          - listitem [ref=f386e265]:
+            - link "1 壁掛ルームエアコン (2025年モデル)｜ダイキン Eシリーズ｜壁掛ルームエアコン ダイキン (2025年モデル) Eシリーズ 当社で52.0%の方が購入！":
+              - /url: /aircon/ranking/
+          - listitem [ref=f386e266]:
+            - link "1 エコキュート HE-S37LQS｜パナソニック｜エコキュート パナソニック フルオートタイプ HE-S37LQS 当社で21.0%の方が購入！":
+              - /url: /ecocute/ranking/
+          - listitem [ref=f386e267]:
+            - link "1 ガス給湯器 (壁掛・PS)(エコジョーズ) GT-C2472SAW-1 BL｜ノーリツ ｜ガス給湯器 ノーリツ GT-C2472SAW-1 BL +RC-J101E 当社で16.0%の方が購入！" [ref=f386e268] [cursor=pointer]:
+              - /url: /gas/ranking/
+          - listitem [ref=f386e280]:
+            - link "1 食洗機 NP-45MS9S｜パナソニック M9シリーズ｜食洗機 パナソニック パナソニック M9シリーズ NP-45MS9S 当社で31.3%の方が購入！" [ref=f386e281] [cursor=pointer]:
+              - /url: /kitchen/built_in/ranking.html
+          - listitem [ref=f386e293]:
+            - link "1 ガスコンロ フェイシスグランド｜パロマ フェイシスグランド｜ガスコンロ パロマ フェイシスグランド パロマ フェイシスグランド 当社で19.9%の方が購入！" [ref=f386e294] [cursor=pointer]:
+              - /url: /gastable/ranking.html
+          - listitem [ref=f386e307]:
+            - link "1 IHヒーター KZ-N1H6AK｜パナソニック Nシリーズ｜IHヒーター パナソニック パナソニック Nシリーズ KZ-N1H6AK 当社で21.4%の方が購入！" [ref=f386e308] [cursor=pointer]:
+              - /url: /ih/ranking.html
+          - listitem [ref=f386e320]:
+            - link "1 レンジフード クララ 連動なし｜ノーリツ クララ｜連動なし｜レンジフード ノーリツ クララ｜連動なし ノーリツ クララ｜連動なし 当社で36.5%の方が購入！":
+              - /url: /kitchen/food/ranking.html
+          - listitem [ref=f386e321]:
+            - link "1 キッチン水栓 JF-AP461SYX(JW)｜リクシル APタイプ｜キッチン水栓 リクシル APタイプ JF-AP461SYX(JW) 当社で12.7%の方が購入！":
+              - /url: /faucet/ranking/
+          - listitem [ref=f386e322]:
+            - link "1 トイレ ピュアレストQR｜TOTO ピュアレストQR｜トイレ TOTO ピュアレストQR 当社で23.7%の方が購入！":
+              - /url: /wc/choice/ranking/#to_ranking
+          - listitem [ref=f386e323]:
+            - link "1 温水洗浄便座(TOTO) TCF6624｜TOTO SS1｜温水洗浄便座 TOTO SS1 TCF6624 当社で21.6%の方が購入！":
+              - /url: /washlet/ranking/
+          - listitem [ref=f386e324]:
+            - link "1 浴室乾燥機(1室換気) BS-161H-2｜マックス 天井埋込み型｜浴室乾燥機(1室換気) マックス 天井埋込み型 BS-161H-2 当社で29.1%の方が購入！":
+              - /url: /bath-dry/ranking/
+          - listitem [ref=f386e325]:
+            - link "1 壁掛ルームエアコン (2025年モデル)｜ダイキン Eシリーズ｜壁掛ルームエアコン ダイキン (2025年モデル) Eシリーズ 当社で52.0%の方が購入！":
+              - /url: /aircon/ranking/
+          - listitem [ref=f386e326]:
+            - link "1 エコキュート HE-S37LQS｜パナソニック｜エコキュート パナソニック フルオートタイプ HE-S37LQS 当社で21.0%の方が購入！":
+              - /url: /ecocute/ranking/
+          - listitem [ref=f386e327]:
+            - link "1 ガス給湯器 (壁掛・PS)(エコジョーズ) GT-C2472SAW-1 BL｜ノーリツ ｜ガス給湯器 ノーリツ GT-C2472SAW-1 BL +RC-J101E 当社で16.0%の方が購入！":
+              - /url: /gas/ranking/
+          - listitem [ref=f386e328]:
+            - link "1 食洗機 NP-45MS9S｜パナソニック M9シリーズ｜食洗機 パナソニック パナソニック M9シリーズ NP-45MS9S 当社で31.3%の方が購入！":
+              - /url: /kitchen/built_in/ranking.html
+          - listitem [ref=f386e329]:
+            - link "1 ガスコンロ フェイシスグランド｜パロマ フェイシスグランド｜ガスコンロ パロマ フェイシスグランド パロマ フェイシスグランド 当社で19.9%の方が購入！":
+              - /url: /gastable/ranking.html
+          - listitem [ref=f386e330]:
+            - link "1 IHヒーター KZ-N1H6AK｜パナソニック Nシリーズ｜IHヒーター パナソニック パナソニック Nシリーズ KZ-N1H6AK 当社で21.4%の方が購入！":
+              - /url: /ih/ranking.html
+          - listitem [ref=f386e331]:
+            - link "1 レンジフード クララ 連動なし｜ノーリツ クララ｜連動なし｜レンジフード ノーリツ クララ｜連動なし ノーリツ クララ｜連動なし 当社で36.5%の方が購入！":
+              - /url: /kitchen/food/ranking.html
+          - listitem [ref=f386e332]:
+            - link "1 キッチン水栓 JF-AP461SYX(JW)｜リクシル APタイプ｜キッチン水栓 リクシル APタイプ JF-AP461SYX(JW) 当社で12.7%の方が購入！":
+              - /url: /faucet/ranking/
+          - listitem [ref=f386e333]:
+            - link "1 トイレ ピュアレストQR｜TOTO ピュアレストQR｜トイレ TOTO ピュアレストQR 当社で23.7%の方が購入！":
+              - /url: /wc/choice/ranking/#to_ranking
+        - button "Previous slide" [ref=f386e334] [cursor=pointer]
+        - button "Next slide" [ref=f386e335] [cursor=pointer]
+      - generic [ref=f386e336]: ※2026年6月に集計した販売実績のうち当社で該当のシリーズや商品を選んだ割合を算出
+      - link "人気・売れ筋ランキングをみる" [ref=f386e338] [cursor=pointer]:
+        - /url: /ranking/
+    - generic [ref=f386e339]:
+      - heading "商品レビュー 商品レビュー" [level=2] [ref=f386e340]:
+        - generic:
+          - img "商品レビュー"
+        - text: 商品レビュー
+      - generic [ref=f386e341]:
+        - list [ref=f386e342]:
+          - listitem [ref=f386e343]:
+            - link "IHヒーター(3口) Panasonic IHヒーター(3口) Aシリーズ/T6タイプ KZ-A1T6S 平均レビュー 4.5      50件":
+              - /url: /ih/panasonic/KZ-A1T6K_KZ-A1T6S/
+          - listitem [ref=f386e344]:
+            - link "浴室乾燥機(1室換気) MAX 浴室乾燥機(1室換気) ドライファン BS-161H-2 平均レビュー 4.6      470件":
+              - /url: /bath-dry/choice/brand/max/BS-161H-2/
+          - listitem [ref=f386e345]:
+            - link "浴室乾燥機(3室換気) ノーリツ 浴室乾燥機(3室換気) ガス温水式／BDV-4106AUKNC-J3-BL 平均レビュー 4.6      220件":
+              - /url: /bath-dry/choice/brand/noritz/BDV-4106AUKNC-J3-BL/
+          - listitem [ref=f386e346]:
+            - link "壁掛エアコン(6畳用) ダイキン 壁掛エアコン(6畳用) Eシリーズ(2025年) S225ATES-W 平均レビュー 4.6      337件":
+              - /url: /aircon/brand/daikin/S225ATES-W/
+          - listitem [ref=f386e347]:
+            - link "壁掛エアコン(18畳用) ダイキン 壁掛エアコン(18畳用) AXシリーズ(2026年) S566ATAP-W 平均レビュー 4.5      15件":
+              - /url: /aircon/brand/daikin/S566ATAP-W/
+          - listitem [ref=f386e348]:
+            - link "レンジフード(幅75cm) ノーリツ レンジフード(幅75cm) クララ(コンロ連動なし) NFG7S25MSV 平均レビュー 4.6      92件":
+              - /url: /kitchen/food/noritz/NFG7S25MSV/
+          - listitem [ref=f386e349]:
+            - link "レンジフード(幅75cm) リンナイ レンジフード(幅75cm) XGRシリーズ XGR-REC-AP754SV 平均レビュー 4.7      43件":
+              - /url: /kitchen/food/rinnai/XGR-REC-AP754SV/
+          - listitem [ref=f386e350]:
+            - link "食洗機(ディープ) Panasonic 食洗機(ディープ) B1シリーズ NP-45BD1S 平均レビュー 4.5      44件" [ref=f386e351] [cursor=pointer]:
+              - /url: /kitchen/built_in/panasonic/NP-45BD1S/
+          - listitem [ref=f386e368]:
+            - link "食洗機(ミドル) Panasonic 食洗機(ミドル) B1シリーズ NP-45BS1S 平均レビュー 4.3      47件" [ref=f386e369] [cursor=pointer]:
+              - /url: /kitchen/built_in/panasonic/NP-45BS1S/
+          - listitem [ref=f386e386]:
+            - link "ガスコンロ(3口) Paloma ガスコンロ(3口) リプラ PD-509WS-60CV 平均レビュー 4.6      670件" [ref=f386e387] [cursor=pointer]:
+              - /url: /gastable/paloma/PD-509WS-60CV/
+          - listitem [ref=f386e404]:
+            - link "ガスコンロ(3口) Paloma ガスコンロ(3口) スタンダード PD-N36 平均レビュー 4.5      289件" [ref=f386e405] [cursor=pointer]:
+              - /url: /gastable/paloma/PD-N36/
+          - listitem [ref=f386e422]:
+            - link "トイレ(タンクレス) TOTO トイレ(タンクレス) ネオレスト AS1セット 平均レビュー 4.5      252件":
+              - /url: /wc/toto/as1/
+          - listitem [ref=f386e423]:
+            - link "トイレ(WL一体型) TOTO トイレ(WL一体型) GGA1セット 平均レビュー 4.6      65件":
+              - /url: /wc/toto/gga1/
+          - listitem [ref=f386e424]:
+            - link "蛇口(キッチン) TOTO 蛇口(キッチン) GGシリーズ TKS05305JA 平均レビュー 4.5      242件":
+              - /url: /faucet/kitchen/TKS05305JA/
+          - listitem [ref=f386e425]:
+            - link "蛇口(浴室) TOTO 蛇口(浴室) GGシリーズ TBV03445J1 平均レビュー 4.5      178件":
+              - /url: /faucet/bathroom/TBV03445J1/
+          - listitem [ref=f386e426]:
+            - link "IH(2口+ラジエント) Panasonic IH(2口+ラジエント) Wシリーズ/W1タイプ KZ-W163S 平均レビュー 4.4      110件":
+              - /url: /ih/panasonic/KZ-W163S/
+          - listitem [ref=f386e427]:
+            - link "IHヒーター(3口) Panasonic IHヒーター(3口) Aシリーズ/T6タイプ KZ-A1T6S 平均レビュー 4.5      50件":
+              - /url: /ih/panasonic/KZ-A1T6K_KZ-A1T6S/
+          - listitem [ref=f386e428]:
+            - link "浴室乾燥機(1室換気) MAX 浴室乾燥機(1室換気) ドライファン BS-161H-2 平均レビュー 4.6      470件":
+              - /url: /bath-dry/choice/brand/max/BS-161H-2/
+          - listitem [ref=f386e429]:
+            - link "浴室乾燥機(3室換気) ノーリツ 浴室乾燥機(3室換気) ガス温水式／BDV-4106AUKNC-J3-BL 平均レビュー 4.6      220件":
+              - /url: /bath-dry/choice/brand/noritz/BDV-4106AUKNC-J3-BL/
+          - listitem [ref=f386e430]:
+            - link "壁掛エアコン(6畳用) ダイキン 壁掛エアコン(6畳用) Eシリーズ(2025年) S225ATES-W 平均レビュー 4.6      337件":
+              - /url: /aircon/brand/daikin/S225ATES-W/
+          - listitem [ref=f386e431]:
+            - link "壁掛エアコン(18畳用) ダイキン 壁掛エアコン(18畳用) AXシリーズ(2026年) S566ATAP-W 平均レビュー 4.5      15件":
+              - /url: /aircon/brand/daikin/S566ATAP-W/
+          - listitem [ref=f386e432]:
+            - link "レンジフード(幅75cm) ノーリツ レンジフード(幅75cm) クララ(コンロ連動なし) NFG7S25MSV 平均レビュー 4.6      92件":
+              - /url: /kitchen/food/noritz/NFG7S25MSV/
+          - listitem [ref=f386e433]:
+            - link "レンジフード(幅75cm) リンナイ レンジフード(幅75cm) XGRシリーズ XGR-REC-AP754SV 平均レビュー 4.7      43件":
+              - /url: /kitchen/food/rinnai/XGR-REC-AP754SV/
+          - listitem [ref=f386e434]:
+            - link "食洗機(ディープ) Panasonic 食洗機(ディープ) B1シリーズ NP-45BD1S 平均レビュー 4.5      44件":
+              - /url: /kitchen/built_in/panasonic/NP-45BD1S/
+          - listitem [ref=f386e435]:
+            - link "食洗機(ミドル) Panasonic 食洗機(ミドル) B1シリーズ NP-45BS1S 平均レビュー 4.3      47件":
+              - /url: /kitchen/built_in/panasonic/NP-45BS1S/
+          - listitem [ref=f386e436]:
+            - link "ガスコンロ(3口) Paloma ガスコンロ(3口) リプラ PD-509WS-60CV 平均レビュー 4.6      670件":
+              - /url: /gastable/paloma/PD-509WS-60CV/
+          - listitem [ref=f386e437]:
+            - link "ガスコンロ(3口) Paloma ガスコンロ(3口) スタンダード PD-N36 平均レビュー 4.5      289件":
+              - /url: /gastable/paloma/PD-N36/
+          - listitem [ref=f386e438]:
+            - link "トイレ(タンクレス) TOTO トイレ(タンクレス) ネオレスト AS1セット 平均レビュー 4.5      252件":
+              - /url: /wc/toto/as1/
+          - listitem [ref=f386e439]:
+            - link "トイレ(WL一体型) TOTO トイレ(WL一体型) GGA1セット 平均レビュー 4.6      65件":
+              - /url: /wc/toto/gga1/
+          - listitem [ref=f386e440]:
+            - link "蛇口(キッチン) TOTO 蛇口(キッチン) GGシリーズ TKS05305JA 平均レビュー 4.5      242件":
+              - /url: /faucet/kitchen/TKS05305JA/
+        - button "Previous slide" [ref=f386e441] [cursor=pointer]
+        - button "Next slide" [ref=f386e442] [cursor=pointer]
+      - link "商品レビューをみる" [ref=f386e444] [cursor=pointer]:
+        - /url: /review/
+    - generic [ref=f386e445]:
+      - heading "動画コンテンツ 動画コンテンツ" [level=2] [ref=f386e446]:
+        - generic:
+          - img "動画コンテンツ"
+        - text: 動画コンテンツ
+      - list [ref=f386e448]:
+        - listitem [ref=f386e449]:
+          - link "商品紹介・お知らせ NEW 【2026年度最新版】メーカー別ミドルハイグレードコンロ徹底比較！" [ref=f386e450] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=knlZg0iV7FQ
+            - generic [ref=f386e451]
+            - img "【2026年度最新版】メーカー別ミドルハイグレードコンロ徹底比較！" [ref=f386e454]
+        - listitem [ref=f386e455]:
+          - link "商品紹介・お知らせ NEW 【2026年最新版】東京都民なら絶対使いたい補助金！東京ゼロエミポイントを90秒で解説「エアコン」編" [ref=f386e456] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=Nne5rCzUFhY
+            - generic [ref=f386e457]
+            - img "【2026年最新版】東京都民なら絶対使いたい補助金！東京ゼロエミポイントを90秒で解説「エアコン」編" [ref=f386e460]
+        - listitem [ref=f386e461]:
+          - link "商品紹介・お知らせ NEW 【2026年最新版】東京都民なら絶対使いたい補助金！東京ゼロエミポイントを90秒で解説「給湯器・エコキュート」編" [ref=f386e462] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=ur_oP4-t7AY
+            - generic [ref=f386e463]
+            - img "【2026年最新版】東京都民なら絶対使いたい補助金！東京ゼロエミポイントを90秒で解説「給湯器・エコキュート」編" [ref=f386e466]
+        - listitem [ref=f386e467]:
+          - link "商品紹介・お知らせ 【実体験レポート】10年保証が大切な理由をスタッフが実体験を元に解説！" [ref=f386e468] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=86qLewgR1H8
+            - generic [ref=f386e469]: 商品紹介・お知らせ
+            - img "【実体験レポート】10年保証が大切な理由をスタッフが実体験を元に解説！" [ref=f386e472]
+        - listitem [ref=f386e473]:
+          - link "商品紹介・お知らせ 最新2025年モデルを徹底比較｜エコキュート交換のおすすめ動画" [ref=f386e474] [cursor=pointer]:
+            - /url: https://youtu.be/gQMvb_pyIec
+            - generic [ref=f386e475]: 商品紹介・お知らせ
+            - img "最新2025年モデルを徹底比較｜エコキュート交換のおすすめ動画" [ref=f386e478]
+        - listitem [ref=f386e479]:
+          - link "商品紹介・お知らせ 2025年最新版！スタンダードグレードエアコン徹底比較！オススメ機種はこれ！" [ref=f386e480] [cursor=pointer]:
+            - /url: https://youtu.be/AuU2pzpgevs
+            - generic [ref=f386e481]: 商品紹介・お知らせ
+            - img "2025年最新版！スタンダードグレードエアコン徹底比較！オススメ機種はこれ！" [ref=f386e484]
+        - listitem [ref=f386e485]:
+          - link "サービス紹介・他 【交換できるくんCM】食洗機をコスパよく！編です。" [ref=f386e486] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=R97WpTcvkIs
+            - generic [ref=f386e487]: サービス紹介・他
+            - img "【交換できるくんCM】食洗機をコスパよく！編です。" [ref=f386e490]
+        - listitem [ref=f386e491]:
+          - link "商品紹介・お知らせ 今年もあります！補助金最大13万円！給湯省エネ事業2025を2分で解説" [ref=f386e492] [cursor=pointer]:
+            - /url: https://youtu.be/5NDuGAs86kA
+            - generic [ref=f386e493]: 商品紹介・お知らせ
+            - img "今年もあります！補助金最大13万円！給湯省エネ事業2025を2分で解説" [ref=f386e496]
+      - link "公開中の動画をみる" [ref=f386e498] [cursor=pointer]:
+        - /url: /media/youtube.html
+    - generic [ref=f386e499]:
+      - heading "お客様の声 お客様の声" [level=2] [ref=f386e500]:
+        - generic:
+          - img "お客様の声"
+        - text: お客様の声
+      - list [ref=f386e502]:
+        - listitem [ref=f386e503]:
+          - link "お客様の声｜交換できるくん 交換できるくんはネット検索で知り、対応の早さ丁寧さ、価格で依頼を決めました。案内は丁寧でわかりやすく、工事当日は、非常に丁寧な作業で感心しました。質問の答えも的確でした。" [ref=f386e504] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98903
+            - img "お客様の声｜交換できるくん" [ref=f386e506]
+            - generic [ref=f386e507]: 交換できるくんはネット検索で知り、対応の早さ丁寧さ、価格で依頼を決めました。案内は丁寧でわかりやすく、工事当日は、非常に丁寧な作業で感心しました。質問の答えも的確でした。
+        - listitem [ref=f386e508]:
+          - link "お客様の声｜交換できるくん エアコン交換を検討している中で、交換できるくんに「おまとめ工事割引」があることを知り、コンロ・レンジフードも同時に交換しました。工事は手際よく、かつ丁寧に作業して頂きました。" [ref=f386e509] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98899
+            - img "お客様の声｜交換できるくん" [ref=f386e511]
+            - generic [ref=f386e512]: エアコン交換を検討している中で、交換できるくんに「おまとめ工事割引」があることを知り、コンロ・レンジフードも同時に交換しました。工事は手際よく、かつ丁寧に作業して頂きました。
+        - listitem [ref=f386e513]:
+          - link "お客様の声｜交換できるくん 以前もお世話になり、他も見ましたがお値段的にも良かったし、10年保証の安心感もあり依頼しました。見積りのメール対応が丁寧で、説明もキチンとしていただき納得の仕様となりました。" [ref=f386e514] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98895
+            - img "お客様の声｜交換できるくん" [ref=f386e516]
+            - generic [ref=f386e517]: 以前もお世話になり、他も見ましたがお値段的にも良かったし、10年保証の安心感もあり依頼しました。見積りのメール対応が丁寧で、説明もキチンとしていただき納得の仕様となりました。
+        - listitem [ref=f386e518]:
+          - link "お客様の声｜交換できるくん 見積り以外にはお金を取らないという安心感が決め手になり依頼しました。案内スタッフも工事スタッフも丁寧な対応で安心して任せられました。また何かあったらお願いしたいと思います。" [ref=f386e519] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98709
+            - img "お客様の声｜交換できるくん" [ref=f386e521]
+            - generic [ref=f386e522]: 見積り以外にはお金を取らないという安心感が決め手になり依頼しました。案内スタッフも工事スタッフも丁寧な対応で安心して任せられました。また何かあったらお願いしたいと思います。
+        - listitem [ref=f386e523]:
+          - link "お客様の声｜交換できるくん 交換できるくんは、情報サイトで知り、価格とアフターサービスで依頼を決めました。取付工事やわかりやすい商品説明をありがとうございました。皆様の対応もとても親切でした。" [ref=f386e524] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98705
+            - img "お客様の声｜交換できるくん" [ref=f386e526]
+            - generic [ref=f386e527]: 交換できるくんは、情報サイトで知り、価格とアフターサービスで依頼を決めました。取付工事やわかりやすい商品説明をありがとうございました。皆様の対応もとても親切でした。
+        - listitem [ref=f386e528]:
+          - link "お客様の声｜交換できるくん 以前の給湯器交換に続き今回のエアコンも安心してお願いすることができました。見積りから工事まで、わかりやすくスムーズで、また交換の機会があれば、お願いしたいと思います。" [ref=f386e529] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98691
+            - img "お客様の声｜交換できるくん" [ref=f386e531]
+            - generic [ref=f386e532]: 以前の給湯器交換に続き今回のエアコンも安心してお願いすることができました。見積りから工事まで、わかりやすくスムーズで、また交換の機会があれば、お願いしたいと思います。
+        - listitem [ref=f386e533]:
+          - link "お客様の声｜交換できるくん 「がっちりマンデー」で紹介されていて、東証上場企業である事によって信頼感があり、一番コスパが良く安心が保証できるなと感じたため依頼。スムーズな対応で工事も問題なかったです。" [ref=f386e534] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98687
+            - img "お客様の声｜交換できるくん" [ref=f386e536]
+            - generic [ref=f386e537]: 「がっちりマンデー」で紹介されていて、東証上場企業である事によって信頼感があり、一番コスパが良く安心が保証できるなと感じたため依頼。スムーズな対応で工事も問題なかったです。
+        - listitem [ref=f386e538]:
+          - link "お客様の声｜交換できるくん 食洗機が故障したため交換を検討しました。案内スタッフは非常に丁寧に対応して下さり、施工スタッフも申し分ありませんでした。また、機会があれば利用したいと思います。" [ref=f386e539] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98679
+            - img "お客様の声｜交換できるくん" [ref=f386e541]
+            - generic [ref=f386e542]: 食洗機が故障したため交換を検討しました。案内スタッフは非常に丁寧に対応して下さり、施工スタッフも申し分ありませんでした。また、機会があれば利用したいと思います。
+        - listitem [ref=f386e543]:
+          - link "お客様の声｜交換できるくん このお値段で本当に大丈夫？とつい心配になってしまいましたが、案内スタッフも、工事担当の方も丁寧な対応をしていただき、今ではとても感謝しております。また機会があればお願いしたい。" [ref=f386e544] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98671
+            - img "お客様の声｜交換できるくん" [ref=f386e546]
+            - generic [ref=f386e547]: このお値段で本当に大丈夫？とつい心配になってしまいましたが、案内スタッフも、工事担当の方も丁寧な対応をしていただき、今ではとても感謝しております。また機会があればお願いしたい。
+        - listitem [ref=f386e548]:
+          - link "お客様の声｜交換できるくん 見積もりから注文にいたるまでの対応が非常に早く、かつ丁寧で安心でき依頼を決めました。工事当日も言葉遣い、マナー等、安心してお任せできました。交換後も問題なく利用しています。" [ref=f386e549] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98595
+            - img "お客様の声｜交換できるくん" [ref=f386e551]
+            - generic [ref=f386e552]: 見積もりから注文にいたるまでの対応が非常に早く、かつ丁寧で安心でき依頼を決めました。工事当日も言葉遣い、マナー等、安心してお任せできました。交換後も問題なく利用しています。
+      - link "お客様の声をみる" [ref=f386e554] [cursor=pointer]:
+        - /url: /voice/index.php/archives/category/customerphotos
+    - generic [ref=f386e555]:
+      - heading "施工事例 施工事例" [level=2] [ref=f386e556]:
+        - generic:
+          - img "施工事例"
+        - text: 施工事例
+      - list [ref=f386e558]:
+        - listitem [ref=f386e559]:
+          - link "トイレ トイレ施工事例" [ref=f386e560] [cursor=pointer]:
+            - /url: /wc/blog/
+            - generic [ref=f386e561]: トイレ
+            - img "トイレ施工事例" [ref=f386e563]
+        - listitem [ref=f386e564]:
+          - link "給湯器 給湯器施工事例" [ref=f386e565] [cursor=pointer]:
+            - /url: /gas/blog/
+            - generic [ref=f386e566]: 給湯器
+            - img "給湯器施工事例" [ref=f386e568]
+        - listitem [ref=f386e569]:
+          - link "エコキュート エコキュート施工事例" [ref=f386e570] [cursor=pointer]:
+            - /url: /ecocute/blog/
+            - generic [ref=f386e571]: エコキュート
+            - img "エコキュート施工事例" [ref=f386e573]
+        - listitem [ref=f386e574]:
+          - link "食洗機 食洗機施工事例" [ref=f386e575] [cursor=pointer]:
+            - /url: /kitchen/built_in/blog/
+            - generic [ref=f386e576]: 食洗機
+            - img "食洗機施工事例" [ref=f386e578]
+        - listitem [ref=f386e579]:
+          - link "ガスコンロ ガスコンロ施工事例" [ref=f386e580] [cursor=pointer]:
+            - /url: /gastable/blog/
+            - generic [ref=f386e581]: ガスコンロ
+            - img "ガスコンロ施工事例" [ref=f386e583]
+        - listitem [ref=f386e584]:
+          - link "IHヒーター IHヒーター施工事例" [ref=f386e585] [cursor=pointer]:
+            - /url: /ih/blog/
+            - generic [ref=f386e586]: IHヒーター
+            - img "IHヒーター施工事例" [ref=f386e588]
+        - listitem [ref=f386e589]:
+          - link "レンジフード レンジフード施工事例" [ref=f386e590] [cursor=pointer]:
+            - /url: /kitchen/food/blog/
+            - generic [ref=f386e591]: レンジフード
+            - img "レンジフード施工事例" [ref=f386e593]
+        - listitem [ref=f386e594]:
+          - link "キッチン水栓 キッチン水栓施工事例" [ref=f386e595] [cursor=pointer]:
+            - /url: /faucet/blog/kitchen/
+            - generic [ref=f386e596]: キッチン水栓
+            - img "キッチン水栓施工事例" [ref=f386e598]
+        - listitem [ref=f386e599]:
+          - link "浴室乾燥機 浴室乾燥機施工事例" [ref=f386e600] [cursor=pointer]:
+            - /url: /bath-dry/blog/
+            - generic [ref=f386e601]: 浴室乾燥機
+            - img "浴室乾燥機施工事例" [ref=f386e603]
+        - listitem [ref=f386e604]:
+          - link "壁掛エアコン 壁掛エアコン施工事例" [ref=f386e605] [cursor=pointer]:
+            - /url: /aircon/blog/
+            - generic [ref=f386e606]: 壁掛エアコン
+            - img "壁掛エアコン施工事例" [ref=f386e608]
+      - link "施工事例をみる" [ref=f386e610] [cursor=pointer]:
+        - /url: /blog/
+    - generic [ref=f386e611]:
+      - heading "サービスのご案内" [level=2] [ref=f386e612]
+      - list [ref=f386e614]:
+        - listitem [ref=f386e615]:
+          - link "安心工事・工事価格表 安心工事・工事価格表" [ref=f386e616] [cursor=pointer]:
+            - /url: /construction/
+            - generic [ref=f386e617]: 安心工事・工事価格表
+            - img "安心工事・工事価格表" [ref=f386e619]
+        - listitem [ref=f386e620]:
+          - link "全品無料10年保証付き 10年保証" [ref=f386e621] [cursor=pointer]:
+            - /url: /guar/
+            - generic [ref=f386e622]: 全品無料10年保証付き
+            - img "10年保証" [ref=f386e624]
+        - listitem [ref=f386e625]:
+          - link "工事対応エリア 工事対応エリア" [ref=f386e626] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+            - generic [ref=f386e627]: 工事対応エリア
+            - img "工事対応エリア" [ref=f386e629]
+        - listitem [ref=f386e630]:
+          - link "ショールームのご案内 ショールームのご案内" [ref=f386e631] [cursor=pointer]:
+            - /url: /sr/showroom.html
+            - generic [ref=f386e632]: ショールームのご案内
+            - img "ショールームのご案内" [ref=f386e634]
+    - generic [ref=f386e635]:
+      - heading "お知らせ" [level=2] [ref=f386e636]
+      - list [ref=f386e638]:
+        - listitem [ref=f386e639]:
+          - generic [ref=f386e640]:
+            - text: お知らせ
+            - link "テレビ番組「DayDay.」に取材協力しました" [ref=f386e642] [cursor=pointer]:
+              - /url: /information/release20260724.html
+        - listitem [ref=f386e643]:
+          - generic [ref=f386e644]:
+            - text: お知らせ
+            - link "動画アイコンテレビ番組「Live News イット！」で当社が取り上げられました" [ref=f386e646] [cursor=pointer]:
+              - /url: /information/release20260717.html
+        - listitem [ref=f386e648]:
+          - generic [ref=f386e649]:
+            - text: お知らせ
+            - link "一部メーカー希望小売価格改定のお知らせ" [ref=f386e651] [cursor=pointer]:
+              - /url: /information/kakakukaitei20241118.html
+        - listitem [ref=f386e652]:
+          - generic [ref=f386e653]:
+            - text: お知らせ
+            - link "補助金「住宅省エネ2026キャンペーン」ページを公開いたしました" [ref=f386e655] [cursor=pointer]:
+              - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f386e656]:
+          - generic [ref=f386e657]:
+            - text: お知らせ
+            - link "テレビ番組「アサデス。KBC」に取材協力しました" [ref=f386e659] [cursor=pointer]:
+              - /url: /information/release20260511.html
+        - listitem [ref=f386e660]:
+          - generic [ref=f386e661]:
+            - text: お知らせ
+            - link "テレビ番組「グッド！モーニング」で当社が取り上げられました" [ref=f386e663] [cursor=pointer]:
+              - /url: /information/release20260318.html
+        - listitem [ref=f386e664]:
+          - generic [ref=f386e665]:
+            - text: お知らせ
+            - link "「エアコン2027年問題」解説ページを公開いたしました" [ref=f386e667] [cursor=pointer]:
+              - /url: /aircon/contents/2027problem/
+        - listitem [ref=f386e668]:
+          - generic [ref=f386e669]:
+            - text: お知らせ
+            - link "動画アイコンテレビ番組「がっちりマンデー!!」の取材第二弾を受けました" [ref=f386e671] [cursor=pointer]:
+              - /url: /information/release20251017.html
+      - link "お知らせ一覧をみる" [ref=f386e674] [cursor=pointer]:
+        - /url: /information/
+    - generic [ref=f386e675]:
+      - heading "閲覧した商品の履歴 （過去30日間）" [level=2] [ref=f386e676]:
+        - text: 閲覧した商品の履歴
+        - generic [ref=f386e677]: （過去30日間）
+      - generic [ref=f386e678]:
+        - list [ref=f386e679]:
+          - listitem [ref=f386e680]:
+            - link "Panasonic KZ-N1H6AK Panasonic KZ-N1H6AK 商品＋交換工事込み価格 83,270円(税込)" [ref=f386e681] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/ih/panasonic/KZ-N1H6AK/
+          - listitem [ref=f386e690]:
+            - link "Noritz NFG7S25MSV Noritz NFG7S25MSV 商品＋交換工事込み価格 123,881円(税込)" [ref=f386e691] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/kitchen/food/noritz/NFG7S25MSV/
+          - listitem [ref=f386e700]:
+            - link "TOTO TCF6624 TOTO TCF6624 商品＋交換工事込み価格 66,600円(税込)" [ref=f386e701] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/washlet/toto/TCF6624/
+          - listitem [ref=f386e710]:
+            - link "TOTO toto_as1 TOTO toto_as1 商品＋交換工事込み価格 322,620円(税込)" [ref=f386e711] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/wc/toto/as1/
+          - listitem [ref=f386e720]:
+            - link "Paloma PD-893WS-U60GH Paloma PD-893WS-U60GH 商品＋交換工事込み価格 137,379円(税込)" [ref=f386e721] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/gastable/paloma/PD-893WS-U60GH/
+          - listitem [ref=f386e730]:
+            - link "Panasonic KZ-N1H6AK Panasonic KZ-N1H6AK 商品＋交換工事込み価格 83,270円(税込)" [ref=f386e731] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/ih/panasonic/KZ-N1H6AK/
+          - listitem [ref=f386e740]:
+            - link "Noritz NFG7S25MSV Noritz NFG7S25MSV 商品＋交換工事込み価格 123,881円(税込)" [ref=f386e741] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/kitchen/food/noritz/NFG7S25MSV/
+        - button "Previous slide" [ref=f386e750] [cursor=pointer]
+        - button "Next slide" [ref=f386e751] [cursor=pointer]
+      - link "閲覧した商品の履歴を一覧でみる" [ref=f386e753] [cursor=pointer]:
+        - /url: /history/
+  - generic [ref=f386e755]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f386e757] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f386e758]
+      - generic [ref=f386e759]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f386e761] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f386e762]
+      - generic [ref=f386e763]: 天井エアコン
+    - link "トイレ トイレ" [ref=f386e765] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f386e766]
+      - generic [ref=f386e767]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f386e769] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f386e770]
+      - generic [ref=f386e771]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f386e773] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f386e774]
+      - generic [ref=f386e775]: 給湯器
+    - link "エコキュート エコキュート" [ref=f386e777] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f386e778]
+      - generic [ref=f386e779]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f386e781] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f386e782]
+      - generic [ref=f386e783]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f386e785] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f386e786]
+      - generic [ref=f386e787]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f386e789] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f386e790]
+      - generic [ref=f386e791]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f386e793] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f386e794]
+      - generic [ref=f386e795]: レンジフード
+    - link "蛇口 蛇口" [ref=f386e797] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f386e798]
+      - generic [ref=f386e799]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f386e801] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f386e802]
+      - generic [ref=f386e803]: 浴室乾燥機
+    - generic [ref=f386e804]: その他>>
+  - navigation [ref=f386e806]:
+    - generic [ref=f386e807]:
+      - generic [ref=f386e808]:
+        - link "ご利用の流れ" [ref=f386e811] [cursor=pointer]:
+          - /url: /site_guide/use/kouji.html
+        - generic [ref=f386e813]: 総合メニュー
+      - generic [ref=f386e820]:
+        - link "人気ランキング" [ref=f386e821] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f386e823] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f386e825] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f386e827] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f386e829] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f386e831] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f386e833]:
+    - generic [ref=f386e834]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f386e837]
+    - generic [ref=f386e838]:
+      - generic [ref=f386e839]:
+        - term [ref=f386e840]:
+          - img "サービス案内" [ref=f386e841]
+          - text: サービス案内
+        - definition [ref=f386e842]:
+          - list [ref=f386e843]:
+            - listitem [ref=f386e844]
+            - listitem [ref=f386e846]
+            - listitem [ref=f386e848]
+            - listitem [ref=f386e850]
+            - listitem [ref=f386e852]
+            - listitem [ref=f386e854]
+            - listitem [ref=f386e856]
+            - listitem [ref=f386e858]
+      - generic [ref=f386e860]:
+        - term [ref=f386e861]:
+          - img "情報コンテンツ" [ref=f386e862]
+          - text: 情報コンテンツ
+        - definition [ref=f386e863]:
+          - list [ref=f386e864]:
+            - listitem [ref=f386e865]
+            - listitem [ref=f386e867]
+            - listitem [ref=f386e869]
+            - listitem [ref=f386e871]
+            - listitem [ref=f386e873]
+            - listitem [ref=f386e875]
+            - listitem [ref=f386e877]
+            - listitem [ref=f386e879]
+      - generic [ref=f386e881]:
+        - term [ref=f386e882]:
+          - img "企業情報" [ref=f386e883]
+          - text: 企業情報
+        - definition [ref=f386e884]:
+          - listitem [ref=f386e885]:
+            - link "会社概要" [ref=f386e886] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f386e887]:
+            - link "選ばれる理由" [ref=f386e888] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f386e889]:
+            - link "ショールーム（東京・大阪）" [ref=f386e890] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f386e891]:
+            - link "スタッフ紹介" [ref=f386e892] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f386e893]:
+            - link "スタッフブログ" [ref=f386e894] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f386e895]:
+            - link "リフォームからチェンジへ" [ref=f386e896] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f386e897]:
+            - link "活動レポート" [ref=f386e898] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f386e899]:
+          - link [ref=f386e901] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f386e905] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f386e909] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f386e913] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f386e917] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f386e921] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f386e924]:
+        - link [ref=f386e925] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f386e929]: お問い合わせ一覧
+        - link [ref=f386e930] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f386e934]: マイページ・会員登録
+        - link [ref=f386e935] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f386e936]
+        - paragraph [ref=f386e937]: 個人情報保護の認証取得
+    - generic [ref=f386e938]:
+      - paragraph [ref=f386e939]: 企業サイト
+      - generic [ref=f386e940]:
+        - list [ref=f386e941]:
+          - listitem [ref=f386e942]:
+            - link "コーポレートサイト" [ref=f386e943] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f386e944]
+          - listitem [ref=f386e945]:
+            - link "投資家向けサイト" [ref=f386e946] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f386e947]
+          - listitem [ref=f386e948]:
+            - link "採用情報サイト" [ref=f386e949] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f386e950]
+          - listitem [ref=f386e951]:
+            - link "交換技能アカデミー" [ref=f386e952] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f386e953]
+        - list [ref=f386e954]:
+          - listitem [ref=f386e955]:
+            - link "東証グロースに上場しています 証券コード 7695" [ref=f386e956] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+    - generic [ref=f386e962]:
+      - list [ref=f386e963]:
+        - listitem [ref=f386e964]:
+          - link "個人情報の取扱い" [ref=f386e965] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f386e966]:
+          - link "特定商取引法に基づく表記" [ref=f386e967] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f386e968]:
+          - link "サイト利用規約" [ref=f386e969] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f386e970]:
+          - link "コンテンツ著作権" [ref=f386e971] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f386e972]:
+          - link "施工スタッフ募集" [ref=f386e973] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f386e974]
+      - list [ref=f386e975]:
+        - listitem [ref=f386e976]: © Koukandekirukun, Inc. 2001-2026

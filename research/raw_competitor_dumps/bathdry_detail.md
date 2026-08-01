@@ -1,0 +1,957 @@
+- generic [active] [ref=f414e1]:
+  - link [ref=f414e921] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - generic: 円
+  - banner [ref=f414e2]:
+    - heading "【工事費込み】天井埋込み型浴室換気暖房乾燥機 1室換気 100V｜マックス(MAX)｜BS-161H-2" [level=1] [ref=f414e5]
+    - generic [ref=f414e8]:
+      - generic [ref=f414e9]:
+        - link [ref=f414e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f414e12]
+        - link [ref=f414e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f414e14]
+        - link [ref=f414e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f414e16]
+      - generic [ref=f414e17]:
+        - generic "検索" [ref=f414e21]:
+          - combobox [ref=f414e22]:
+            - generic [ref=f414e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f414e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f414e26] [cursor=pointer]:
+            - generic [ref=f414e28]: 検索
+        - generic [ref=f414e29]:
+          - link [ref=f414e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f414e32]
+            - paragraph [ref=f414e33]: 閲覧履歴
+          - link [ref=f414e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f414e36]
+            - paragraph [ref=f414e37]: ログイン
+        - link [ref=f414e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f414e40]
+          - paragraph [ref=f414e41]: お問合せ
+        - generic [ref=f414e42]:
+          - link [ref=f414e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f414e45]
+            - paragraph [ref=f414e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f414e47]:
+    - main [ref=f414e48]:
+      - list [ref=f414e50]:
+        - listitem [ref=f414e51]:
+          - link "交換できるくん home" [ref=f414e52] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f414e53]:
+          - link "浴室乾燥機" [ref=f414e54] [cursor=pointer]:
+            - /url: /bath-dry/
+          - text: ">"
+        - listitem [ref=f414e55]:
+          - link "メーカーから選ぶ" [ref=f414e56] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+          - text: ">"
+        - listitem [ref=f414e57]:
+          - link "マックス(MAX)" [ref=f414e58] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+          - text: ">"
+        - listitem [ref=f414e59]:
+          - link "BS-161H-2" [ref=f414e60] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/BS-161H-2/
+      - list [ref=f414e62]:
+        - listitem [ref=f414e63]:
+          - img "旗" [ref=f414e64]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f414e65] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f414e66]:
+          - img "旗" [ref=f414e67]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f414e68] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f414e70]:
+        - generic [ref=f414e71]:
+          - heading "ランキング1位 マックス 天井埋込み型浴室換気暖房乾燥機 『ドライファン』 BS-161H-2 1室換気・100V｜天井開口:410×285mm｜DCモーター｜リモコン付属" [level=2] [ref=f414e72]:
+            - generic [ref=f414e73]:
+              - img "ランキング1位" [ref=f414e75]
+              - generic [ref=f414e76]:
+                - text: マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』BS-161H-2
+                - generic [ref=f414e77]: 1室換気・100V｜天井開口:410×285mm｜DCモーター｜リモコン付属
+          - generic [ref=f414e78]:
+            - generic [ref=f414e81] [cursor=pointer]:
+              - generic [ref=f414e82]: 
+              - generic [ref=f414e83]: 
+              - generic [ref=f414e84]: 
+              - generic [ref=f414e85]: 
+              - generic [ref=f414e86]: 
+              - generic [ref=f414e87]: 470件
+            - link [ref=f414e89] [cursor=pointer]:
+              - /url: /guar/
+              - img "商品も工事も無料10年保証付き" [ref=f414e90]
+            - img "【工事費込み】天井埋込み型浴室換気暖房乾燥機 1室換気 100V｜マックス(MAX)｜BS-161H-2" [ref=f414e91]
+        - generic [ref=f414e93]:
+          - paragraph [ref=f414e94]: "除菌・消臭機能 : プラズマクラスターなし"
+          - generic [ref=f414e95]:
+            - link "プラズマクラスターなし":
+              - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-161H-2/
+              - paragraph: プラズマクラスターなし
+            - link [ref=f414e96] [cursor=pointer]:
+              - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-161H-CX-2/
+              - paragraph [ref=f414e97]: プラズマクラスターあり
+        - generic [ref=f414e98]:
+          - generic [ref=f414e99]:
+            - strong [ref=f414e100]: マックス BS-161H-2
+            - generic [ref=f414e101]:
+              - text: マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』
+              - generic [ref=f414e102]:
+                - generic [ref=f414e103]: 100V・1室換気
+                - generic [ref=f414e104]: 開口寸法:410×285mm
+                - generic [ref=f414e105]: DCモーター
+                - generic [ref=f414e106]: リモコン付属
+          - generic [ref=f414e107]:
+            - generic [ref=f414e108]: 商品
+            - generic [ref=f414e109]:
+              - generic [ref=f414e110]: メーカー希望小売価格： オープン価格
+              - generic [ref=f414e112]:
+                - generic [ref=f414e113]: 交換できるくん価格
+                - generic [ref=f414e114]:
+                  - generic [ref=f414e115]: 53,900
+                  - generic [ref=f414e116]: 円(税込)
+          - generic [ref=f414e117]:
+            - generic [ref=f414e118]: まるごとサービスパック
+            - generic [ref=f414e119]:
+              - generic [ref=f414e120]:
+                - list [ref=f414e121]:
+                  - listitem [ref=f414e122]:
+                    - generic [ref=f414e125]: 基本工事費
+                    - figure [ref=f414e126]:
+                      - img "plus" [ref=f414e127]
+                  - listitem [ref=f414e128]:
+                    - generic [ref=f414e131]: 出張費運搬費
+                  - listitem [ref=f414e132]:
+                    - generic [ref=f414e135]: 部材費室内養生費
+                  - listitem [ref=f414e136]:
+                    - generic [ref=f414e139]: 設置前清掃使用説明
+                  - listitem [ref=f414e140]:
+                    - generic [ref=f414e143]: 廃材運搬処分
+                  - listitem [ref=f414e144]:
+                    - generic [ref=f414e147]: 諸経費事務経費
+                - paragraph [ref=f414e148]: まるごとサービスパックは、上記全てを含めたコミコミ価格です！
+              - generic [ref=f414e150]:
+                - generic [ref=f414e151]: 31,900
+                - generic [ref=f414e152]: 円(税込)
+          - generic [ref=f414e153]:
+            - generic [ref=f414e154]: 保証
+            - generic [ref=f414e155]:
+              - generic [ref=f414e156]:
+                - figure [ref=f414e157]:
+                  - img "無料十年保証詳細はこちら" [ref=f414e158]
+                - paragraph [ref=f414e159]:
+                  - text: ご参考：
+                  - generic [ref=f414e160]: メーカー延長保証価格
+              - generic [ref=f414e161]: 無料
+          - generic [ref=f414e163]:
+            - generic [ref=f414e164]:
+              - generic [ref=f414e165]: 商品価格+工事費用+10年保証
+              - generic [ref=f414e166]:
+                - generic [ref=f414e167]: 合計
+                - text: 85,800
+                - generic [ref=f414e168]: 円(税込)
+            - generic [ref=f414e169]:
+              - button "取付工事お見積" [ref=f414e173] [cursor=pointer]
+              - generic [ref=f414e174]:
+                - paragraph [ref=f414e175]:
+                  - link "お気に入り" [ref=f414e177] [cursor=pointer]:
+                    - /url: /system/item_favorite/addj/id=58275,58275,53584/
+                - generic [ref=f414e179] [cursor=pointer]:
+                  - figure [ref=f414e180]
+                  - paragraph [ref=f414e182]:
+                    - text: LINE
+                    - generic [ref=f414e183]: で共有
+          - generic [ref=f414e184]:
+            - paragraph [ref=f414e186]:
+              - text: ※お住まいの状況により必要となる追加費用はお見積りでご案内いたします。 お見積り内容以外で、工事日当日に追加請求することは一切ございませんので、ご安心ください。
+              - link "工事費やオプション費などの詳細はこちら >" [ref=f414e187] [cursor=pointer]:
+                - /url: /bath-dry/guide/cost/
+            - generic [ref=f414e188]: ※その他、商品についてのご質問はこちらからお問い合わせください。
+        - table [ref=f414e189]:
+          - rowgroup [ref=f414e190]:
+            - row [ref=f414e191]:
+              - columnheader "商品詳細" [ref=f414e192]
+          - rowgroup [ref=f414e193]:
+            - row [ref=f414e194]:
+              - rowheader "商品特性" [ref=f414e195]
+              - cell [ref=f414e196]:
+                - heading "人気のマックス浴室暖房乾燥機！1室換気でおすすめの機種です。" [level=5] [ref=f414e197]
+                - heading "DCモーターの採用" [level=3] [ref=f414e198]
+                - generic [ref=f414e199]:
+                  - paragraph [ref=f414e200]: DCモーターを搭載することで省エネ性をアップさせました。
+                  - figure [ref=f414e201]:
+                    - img "DCモーターの採用" [ref=f414e202]
+                  - list [ref=f414e203]:
+                    - listitem [ref=f414e204]: ●風量：80m3/h 配置
+                    - listitem [ref=f414e205]: ●電気料金：1kWh=27円(税込)で試算
+                    - listitem [ref=f414e206]: ●1年365日で試算
+                - heading "衣類乾燥" [level=3] [ref=f414e207]
+                - generic [ref=f414e208]:
+                  - paragraph [ref=f414e209]: 雨の日や花粉の多い日は外干しができませんが・・・
+                  - figure:
+                    - img "衣類乾燥"
+                  - paragraph [ref=f414e211]: シーンに合わせて3つのモードから乾燥モードを選べます。 ［強］洗濯物が多く、短時間で乾かしたいときに便利です。 ［かぜ］少ない洗濯物をゆっくりふんわり乾かす省エネモードです。 ［弱］夜間など静かに乾かしたいときに便利です。
+                - heading "浴室暖房" [level=3] [ref=f414e212]
+                - paragraph [ref=f414e214]: 特に冬の時期に注意が必要なヒートショック（温度差による急激な血圧変化）事故の防止にも役立ちます。あらかじめ浴室を暖めておけば、寒い冬場でも快適で心地よいバスタイムを実現します。入浴中は風量を抑えて、やさしく暖めます。
+                - heading "浴室換気" [level=3] [ref=f414e215]
+                - paragraph [ref=f414e217]: 入浴後など浴室を使用した後に、こもった湿気や水分を強力な換気機能で取り除きます。
+                - heading "涼風" [level=3] [ref=f414e218]
+                - paragraph [ref=f414e220]: 浴室に風を送りながら換気をします。浴室が暑く蒸している時に扇風機代わりになります。（冷房機能ではありません。）
+                - heading "24時間換気" [level=3] [ref=f414e221]
+                - paragraph [ref=f414e223]: 室内の汚れた空気・湿気・臭気を排出して、新鮮な外気を取り入れる"計画換気"を実行します。
+            - row [ref=f414e224]:
+              - rowheader "基本仕様" [ref=f414e225]
+              - cell [ref=f414e226]:
+                - table [ref=f414e227]:
+                  - rowgroup [ref=f414e228]:
+                    - row [ref=f414e229]:
+                      - rowheader "品番" [ref=f414e230]
+                      - cell "BS-161H-2" [ref=f414e231]
+                    - row [ref=f414e232]:
+                      - rowheader "メーカー名" [ref=f414e233]
+                      - cell "マックス株式会社（MAX）" [ref=f414e234]
+                    - row [ref=f414e235]:
+                      - rowheader "シリーズ名／商品名" [ref=f414e236]
+                      - cell "浴室換気暖房乾燥機（電気式） Hシリーズ／ドライファン" [ref=f414e237]
+                    - row [ref=f414e238]:
+                      - rowheader "換気室数" [ref=f414e239]
+                      - cell "1室換気" [ref=f414e240]
+                    - row [ref=f414e241]:
+                      - rowheader "定格電圧" [ref=f414e242]
+                      - cell "AC100V(50Hz/60Hz)" [ref=f414e243]
+                    - row [ref=f414e244]:
+                      - rowheader "天井開口寸法" [ref=f414e245]
+                      - cell "285ｘ410mm 高さ171mm以上" [ref=f414e246]
+                    - row [ref=f414e247]:
+                      - rowheader "消費電力 [50Hz/60Hz]" [ref=f414e248]: 消費電力[50Hz/60Hz]
+                      - cell "・乾燥（強）1130W ・暖房（入浴前）1250W ・涼風（強）17W ・換気（ブロー）15W ・24時間換気 6W" [ref=f414e249]
+                    - row [ref=f414e250]:
+                      - rowheader "運転モード" [ref=f414e251]
+                      - cell "5モード ・乾燥（強・弱・かぜ） ・暖房（入浴前・入浴中） ・涼風（強・弱） ・換気（標準・ブロー） ・24時間換気" [ref=f414e252]
+                    - row [ref=f414e253]:
+                      - rowheader "発売" [ref=f414e254]
+                      - cell "2021年モデル(2021年9月1日発売)" [ref=f414e255]
+            - row [ref=f414e256]:
+              - rowheader "関連情報" [ref=f414e257]
+              - cell [ref=f414e258]:
+                - generic [ref=f414e259]:
+                  - paragraph [ref=f414e260]:
+                    - link "メーカーサイト" [ref=f414e261] [cursor=pointer]:
+                      - /url: https://www.max-ltd.co.jp/product/dry-fan/bathroom_dryer/01/
+                  - paragraph [ref=f414e262]:
+                    - link "製品仕様書及び承認図（PDFファイル）" [ref=f414e263] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/bath-dry/pdf/BS-161H-2_sp.pdf
+                  - paragraph [ref=f414e264]:
+                    - link "取扱説明書（PDFファイル）" [ref=f414e265] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/item_img/pdf/BS-161H-2_BS-261H-2_manual.pdf
+                  - paragraph [ref=f414e266]:
+                    - link "施工説明書（PDFファイル）" [ref=f414e267] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/item_img/pdf/BS-161H-2_BS-161H-CX-2_sekou.pdf
+            - row [ref=f414e268]:
+              - rowheader "ページ位置" [ref=f414e269]
+              - cell [ref=f414e270]:
+                - list [ref=f414e271]:
+                  - listitem [ref=f414e272]:
+                    - link "交換できるくん home" [ref=f414e273] [cursor=pointer]:
+                      - /url: /
+                    - text: ">"
+                  - listitem [ref=f414e274]:
+                    - link "浴室乾燥機" [ref=f414e275] [cursor=pointer]:
+                      - /url: /bath-dry/
+                    - text: ">"
+                  - listitem [ref=f414e276]:
+                    - link "メーカーから選ぶ" [ref=f414e277] [cursor=pointer]:
+                      - /url: /bath-dry/choice/brand/
+                    - text: ">"
+                  - listitem [ref=f414e278]:
+                    - link "マックス(MAX)" [ref=f414e279] [cursor=pointer]:
+                      - /url: /bath-dry/choice/brand/max/
+                    - text: ">"
+                  - listitem [ref=f414e280]:
+                    - link "BS-161H-2" [ref=f414e281] [cursor=pointer]:
+                      - /url: /bath-dry/choice/brand/max/BS-161H-2/
+            - row [ref=f414e282]:
+              - rowheader "旧品番" [ref=f414e283]
+              - cell "BS-161H" [ref=f414e284]
+            - row [ref=f414e285]:
+              - cell [ref=f414e286]:
+                - generic [ref=f414e287]:
+                  - heading "マックス「BS-161H-2」施工事例" [level=3] [ref=f414e288]
+                  - paragraph [ref=f414e289]: ※旧品番の事例も含みます
+                  - generic [ref=f414e290]:
+                    - link "神奈川県秦野市｜マックス浴室暖房乾燥機の施工事例 2026/04/07" [ref=f414e291] [cursor=pointer]:
+                      - /url: /bath-dry/blog/130875/
+                      - generic [ref=f414e292]: 神奈川県秦野市｜マックス浴室暖房乾燥機の施工事例
+                      - generic [ref=f414e293]: 2026/04/07
+                      - figure [ref=f414e294]:
+                        - img "神奈川県秦野市｜マックス浴室暖房乾燥機の施工事例" [ref=f414e295]
+                    - link "東京都品川区｜マックス浴室暖房乾燥機の施工事例 2025/06/30" [ref=f414e296] [cursor=pointer]:
+                      - /url: /bath-dry/blog/126455/
+                      - generic [ref=f414e297]: 東京都品川区｜マックス浴室暖房乾燥機の施工事例
+                      - generic [ref=f414e298]: 2025/06/30
+                      - figure [ref=f414e299]:
+                        - img "東京都品川区｜マックス浴室暖房乾燥機の施工事例" [ref=f414e300]
+                    - link "東京都八王子市｜マックス浴室暖房乾燥機の施工事例 2025/06/09" [ref=f414e301] [cursor=pointer]:
+                      - /url: /bath-dry/blog/125727/
+                      - generic [ref=f414e302]: 東京都八王子市｜マックス浴室暖房乾燥機の施工事例
+                      - generic [ref=f414e303]: 2025/06/09
+                      - figure [ref=f414e304]:
+                        - img "東京都八王子市｜マックス浴室暖房乾燥機の施工事例" [ref=f414e305]
+                    - link "東京都江戸川区｜マックス浴室暖房乾燥機の施工事例 2025/05/20" [ref=f414e306] [cursor=pointer]:
+                      - /url: /bath-dry/blog/124647/
+                      - generic [ref=f414e307]: 東京都江戸川区｜マックス浴室暖房乾燥機の施工事例
+                      - generic [ref=f414e308]: 2025/05/20
+                      - figure [ref=f414e309]:
+                        - img "東京都江戸川区｜マックス浴室暖房乾燥機の施工事例" [ref=f414e310]
+                  - link "この商品の施工事例をもっと見る" [ref=f414e312] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/blog/?s=BS-161H-2
+                - generic [ref=f414e313]:
+                  - heading "マックス「BS-161H-2」お客様の声・口コミ" [level=3] [ref=f414e314]
+                  - paragraph [ref=f414e315]: ※旧品番の事例も含みます
+                  - generic [ref=f414e316]:
+                    - link "神奈川県横浜市｜浴室乾燥機交換のお客様 2026/07/29" [ref=f414e317] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98760
+                      - generic [ref=f414e318]: 神奈川県横浜市｜浴室乾燥機交換のお客様
+                      - generic [ref=f414e319]: 2026/07/29
+                      - figure [ref=f414e320]:
+                        - img "神奈川県横浜市｜浴室乾燥機交換のお客様" [ref=f414e321]
+                    - link "滋賀県大津市｜蛇口交換のお客様 2026/06/29" [ref=f414e322] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98062
+                      - generic [ref=f414e323]: 滋賀県大津市｜蛇口交換のお客様
+                      - generic [ref=f414e324]: 2026/06/29
+                      - figure [ref=f414e325]:
+                        - img "滋賀県大津市｜蛇口交換のお客様" [ref=f414e326]
+                    - link "広島県安芸郡｜浴室乾燥機交換のお客様 2026/06/26" [ref=f414e327] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98575
+                      - generic [ref=f414e328]: 広島県安芸郡｜浴室乾燥機交換のお客様
+                      - generic [ref=f414e329]: 2026/06/26
+                      - figure [ref=f414e330]:
+                        - img "広島県安芸郡｜浴室乾燥機交換のお客様" [ref=f414e331]
+                    - link "岡山県倉敷市｜浴室乾燥機交換のお客様 2026/06/26" [ref=f414e332] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98045
+                      - generic [ref=f414e333]: 岡山県倉敷市｜浴室乾燥機交換のお客様
+                      - generic [ref=f414e334]: 2026/06/26
+                      - figure [ref=f414e335]:
+                        - img "岡山県倉敷市｜浴室乾燥機交換のお客様" [ref=f414e336]
+                  - link "この商品のお客様の声をもっと見る" [ref=f414e338] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/voice/?s=BS-161H-2
+            - row [ref=f414e339]:
+              - cell "商品レビュー・口コミ 4.6      470件 日付順 ↓ 評価順 いいね数順 星による評価  写真       やまたか様 2026-07-22 よい商品でした TOTO製から買い替えました。まだそれほど使用してないので少し使用した感じでは問題ないです。DCタイプで値段も安めだったのでこの製品にしました。以前は時間表示のディスプレイがありましたがそれは今回なく、ランプでタイマー時間を確認しながらボタンのみで設定しますが特に使いづらくはないです。  役に立った 1      威風堂々様 2026-07-14 16年目に突入し、ついに交換した。 2年前頃よりモーター音が大きくなり、二階で休んでいても聞こえていたため、耳栓を使用していた。このたび、DCモーター搭載のこちらの機種に交換し、音は静かなのはもちろん、今まではなかった入タイマーや浴室乾燥の風の調節が出来る点など、たいへん満足した。 あとは、耐久性が良いことを願います。  役に立った 0      購入ユーザー様 2026-07-03 満足しています 以前のは17～18年位前のだったので音もしだしてカビも凄かったので今回の商品は大満足です  役に立った 0      あろは様 2026-07-03 タイトルなし 前の物は、音がうるさくなって来ていたので、交換後は静かで快適です。 蓋も黄ばんでいたのが、白に戻って嬉しいです。  役に立った 0      購入ユーザー様 2026-06-30 音が静かになった 24時間換気の音が静かで、リビングにいるとついているのかわからないくらい。  役に立った 0   1 2 3 4 5 6 7 8 9   全ての商品レビュー一覧" [ref=f414e340]:
+                - heading "商品レビュー・口コミ" [level=3] [ref=f414e341]
+                - generic [ref=f414e344]:
+                  - generic [ref=f414e345]:
+                    - generic [ref=f414e349]:
+                      - strong [ref=f414e351]: "4.6"
+                      - generic [ref=f414e352]: 
+                      - generic [ref=f414e353]: 
+                      - generic [ref=f414e354]: 
+                      - generic [ref=f414e355]: 
+                      - generic [ref=f414e356]: 
+                      - generic [ref=f414e357]: 470件
+                    - generic [ref=f414e359]:
+                      - generic [ref=f414e360]:
+                        - generic [ref=f414e361] [cursor=pointer]: 日付順 ↓
+                        - generic [ref=f414e362] [cursor=pointer]: 評価順
+                        - generic [ref=f414e363] [cursor=pointer]: いいね数順
+                      - generic [ref=f414e365]:
+                        - generic [ref=f414e366]:
+                          - combobox [ref=f414e367]:
+                            - option "星による評価" [selected]
+                            - option "★5(303件)"
+                            - option "★4(150件)"
+                            - option "★3(16件)"
+                            - option "★2(1件)"
+                            - option "★1(0件)"
+                          - text: 
+                        - generic [ref=f414e368]:
+                          - combobox [ref=f414e369]:
+                            - option "写真" [selected]
+                            - option "写真有り"
+                          - text: 
+                  - generic [ref=f414e371]:
+                    - generic [ref=f414e372]:
+                      - generic [ref=f414e373]:
+                        - generic [ref=f414e374]:
+                          - generic [ref=f414e375]:
+                            - generic [ref=f414e376]: 
+                            - generic [ref=f414e377]: 
+                            - generic [ref=f414e378]: 
+                            - generic [ref=f414e379]: 
+                            - generic [ref=f414e380]: 
+                          - generic [ref=f414e381]: やまたか様
+                        - generic [ref=f414e382]: 2026-07-22
+                      - generic [ref=f414e384]:
+                        - generic [ref=f414e385]: よい商品でした
+                        - paragraph [ref=f414e386]: TOTO製から買い替えました。まだそれほど使用してないので少し使用した感じでは問題ないです。DCタイプで値段も安めだったのでこの製品にしました。以前は時間表示のディスプレイがありましたがそれは今回なく、ランプでタイマー時間を確認しながらボタンのみで設定しますが特に使いづらくはないです。
+                      - button " 役に立った 1" [ref=f414e390] [cursor=pointer]:
+                        - generic [ref=f414e391]: 
+                        - generic [ref=f414e392]: 役に立った
+                        - generic [ref=f414e393]: "1"
+                    - generic [ref=f414e394]:
+                      - generic [ref=f414e395]:
+                        - generic [ref=f414e396]:
+                          - generic [ref=f414e397]:
+                            - generic [ref=f414e398]: 
+                            - generic [ref=f414e399]: 
+                            - generic [ref=f414e400]: 
+                            - generic [ref=f414e401]: 
+                            - generic [ref=f414e402]: 
+                          - generic [ref=f414e403]: 威風堂々様
+                        - generic [ref=f414e404]: 2026-07-14
+                      - generic [ref=f414e406]:
+                        - generic [ref=f414e407]: 16年目に突入し、ついに交換した。
+                        - paragraph [ref=f414e408]: 2年前頃よりモーター音が大きくなり、二階で休んでいても聞こえていたため、耳栓を使用していた。このたび、DCモーター搭載のこちらの機種に交換し、音は静かなのはもちろん、今まではなかった入タイマーや浴室乾燥の風の調節が出来る点など、たいへん満足した。 あとは、耐久性が良いことを願います。
+                      - button " 役に立った 0" [ref=f414e412] [cursor=pointer]:
+                        - generic [ref=f414e413]: 
+                        - generic [ref=f414e414]: 役に立った
+                        - generic [ref=f414e415]: "0"
+                    - generic [ref=f414e416]:
+                      - generic [ref=f414e417]:
+                        - generic [ref=f414e418]:
+                          - generic [ref=f414e419]:
+                            - generic [ref=f414e420]: 
+                            - generic [ref=f414e421]: 
+                            - generic [ref=f414e422]: 
+                            - generic [ref=f414e423]: 
+                            - generic [ref=f414e424]: 
+                          - generic [ref=f414e425]: 購入ユーザー様
+                        - generic [ref=f414e426]: 2026-07-03
+                      - generic [ref=f414e428]:
+                        - generic [ref=f414e429]: 満足しています
+                        - paragraph [ref=f414e430]: 以前のは17～18年位前のだったので音もしだしてカビも凄かったので今回の商品は大満足です
+                      - button " 役に立った 0" [ref=f414e434] [cursor=pointer]:
+                        - generic [ref=f414e435]: 
+                        - generic [ref=f414e436]: 役に立った
+                        - generic [ref=f414e437]: "0"
+                    - generic [ref=f414e438]:
+                      - generic [ref=f414e439]:
+                        - generic [ref=f414e440]:
+                          - generic [ref=f414e441]:
+                            - generic [ref=f414e442]: 
+                            - generic [ref=f414e443]: 
+                            - generic [ref=f414e444]: 
+                            - generic [ref=f414e445]: 
+                            - generic [ref=f414e446]: 
+                          - generic [ref=f414e447]: あろは様
+                        - generic [ref=f414e448]: 2026-07-03
+                      - generic [ref=f414e450]:
+                        - generic [ref=f414e451]: タイトルなし
+                        - paragraph [ref=f414e452]: 前の物は、音がうるさくなって来ていたので、交換後は静かで快適です。 蓋も黄ばんでいたのが、白に戻って嬉しいです。
+                      - button " 役に立った 0" [ref=f414e456] [cursor=pointer]:
+                        - generic [ref=f414e457]: 
+                        - generic [ref=f414e458]: 役に立った
+                        - generic [ref=f414e459]: "0"
+                    - generic [ref=f414e460]:
+                      - generic [ref=f414e461]:
+                        - generic [ref=f414e462]:
+                          - generic [ref=f414e463]:
+                            - generic [ref=f414e464]: 
+                            - generic [ref=f414e465]: 
+                            - generic [ref=f414e466]: 
+                            - generic [ref=f414e467]: 
+                            - generic [ref=f414e468]: 
+                          - generic [ref=f414e469]: 購入ユーザー様
+                        - generic [ref=f414e470]: 2026-06-30
+                      - generic [ref=f414e472]:
+                        - generic [ref=f414e473]: 音が静かになった
+                        - paragraph [ref=f414e474]: 24時間換気の音が静かで、リビングにいるとついているのかわからないくらい。
+                      - button " 役に立った 0" [ref=f414e478] [cursor=pointer]:
+                        - generic [ref=f414e479]: 
+                        - generic [ref=f414e480]: 役に立った
+                        - generic [ref=f414e481]: "0"
+                    - generic [ref=f414e482]:
+                      - link "" [ref=f414e484] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - generic:
+                        - link "":
+                          - /url: javascript:void(0)
+                      - generic [ref=f414e485] [cursor=pointer]: "1"
+                      - generic [ref=f414e486] [cursor=pointer]: "2"
+                      - generic [ref=f414e487] [cursor=pointer]: "3"
+                      - generic [ref=f414e488] [cursor=pointer]: "4"
+                      - generic [ref=f414e489] [cursor=pointer]: "5"
+                      - generic [ref=f414e490] [cursor=pointer]: "6"
+                      - generic [ref=f414e491] [cursor=pointer]: "7"
+                      - generic [ref=f414e492] [cursor=pointer]: "8"
+                      - generic [ref=f414e493] [cursor=pointer]: "9"
+                      - link "" [ref=f414e495] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "" [ref=f414e497] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                - link "全ての商品レビュー一覧" [ref=f414e499] [cursor=pointer]:
+                  - /url: /review/
+      - generic [ref=f414e501]:
+        - link "工事エリアについて 工事エリアについて 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。" [ref=f414e502] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+          - generic [ref=f414e503]:
+            - generic [ref=f414e504]: 工事エリアについて
+            - generic [ref=f414e505]:
+              - img "工事エリアについて" [ref=f414e507]
+              - generic [ref=f414e508]: 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。
+          - text: ">"
+        - link "お支払い方法について お支払い方法について 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。" [ref=f414e509] [cursor=pointer]:
+          - /url: /site_guide/use/pay.html
+          - generic [ref=f414e510]:
+            - generic [ref=f414e511]: お支払い方法について
+            - generic [ref=f414e512]:
+              - img "お支払い方法について" [ref=f414e514]
+              - generic [ref=f414e515]: 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。
+          - text: ">"
+        - link "無料10年保証について 無償標準保証 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。" [ref=f414e516] [cursor=pointer]:
+          - /url: /guar/
+          - generic [ref=f414e517]:
+            - generic [ref=f414e518]: 無料10年保証について
+            - generic [ref=f414e519]:
+              - img "無償標準保証" [ref=f414e521]
+              - generic [ref=f414e522]: 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。
+          - text: ">"
+        - link "お伺いする工事担当について お伺いする工事担当 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。" [ref=f414e523] [cursor=pointer]:
+          - /url: /site_guide/company/staff.html
+          - generic [ref=f414e524]:
+            - generic [ref=f414e525]: お伺いする工事担当について
+            - generic [ref=f414e526]:
+              - img "お伺いする工事担当" [ref=f414e528]
+              - generic [ref=f414e529]: 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。
+          - text: ">"
+        - link "おまとめ工事割引について おまとめ工事割引 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。" [ref=f414e530] [cursor=pointer]:
+          - /url: /construction/campaign/omatome.html
+          - generic [ref=f414e531]:
+            - generic [ref=f414e532]: おまとめ工事割引について
+            - generic [ref=f414e533]:
+              - img "おまとめ工事割引" [ref=f414e535]
+              - generic [ref=f414e536]: 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。
+          - text: ">"
+        - link "会員登録について 会員登録 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。" [ref=f414e537] [cursor=pointer]:
+          - /url: /system/auth/
+          - generic [ref=f414e538]:
+            - generic [ref=f414e539]: 会員登録について
+            - generic [ref=f414e540]:
+              - img "会員登録" [ref=f414e542]
+              - generic [ref=f414e543]: 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。
+          - text: ">"
+      - generic [ref=f414e544]:
+        - heading "浴室乾燥機 人気ページ" [level=3] [ref=f414e545]
+        - generic [ref=f414e547]:
+          - link [ref=f414e548] [cursor=pointer]:
+            - /url: /bath-dry/
+            - img "浴室乾燥機 トップページ" [ref=f414e550]
+            - paragraph [ref=f414e551]: 浴室乾燥機 トップページ 浴室乾燥機の最新機種が驚きのネット特価でお安く交換できます。
+          - link [ref=f414e552] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - img "浴室乾燥機 種類から選ぶ" [ref=f414e554]
+            - paragraph [ref=f414e555]: 浴室乾燥機 種類から選ぶ 電気式？ガス式？ご自宅の環境に合った選び方をご紹介します。
+          - link [ref=f414e556] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+            - img "浴室乾燥機 人気ランキング" [ref=f414e558]
+            - paragraph [ref=f414e559]: 浴室乾燥機 人気ランキング 売れ筋おすすめ機種をランキング形式でご紹介します。
+          - link [ref=f414e560] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+            - img "浴室乾燥機 メーカー比較" [ref=f414e562]
+            - paragraph [ref=f414e563]: 浴室乾燥機 メーカー比較 メーカーごとの特徴や機能の違いなどを徹底解説します。
+          - link [ref=f414e564] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - img "浴室乾燥機 マックス" [ref=f414e566]
+            - paragraph [ref=f414e567]: 浴室乾燥機 マックス 電気式浴室暖房・換気・乾燥機ジャンルで当社、大人気メーカー！
+          - link [ref=f414e568] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+            - img "浴室乾燥機の工事エリア" [ref=f414e570]
+            - paragraph [ref=f414e571]: 7大都市圏対応 工事エリア 浴室乾燥機の交換工事対応エリアはこちらからご確認ください。
+    - generic [ref=f414e573]:
+      - link [ref=f414e575] [cursor=pointer]:
+        - /url: /bath-dry/ranking/
+        - img "浴室乾燥機人気・売れ筋ランキング" [ref=f414e576]
+      - list [ref=f414e577]:
+        - generic [ref=f414e578]: 浴室乾燥機
+        - listitem [ref=f414e580]:
+          - link "浴室乾燥機TOP" [ref=f414e581] [cursor=pointer]:
+            - /url: /bath-dry/
+        - listitem [ref=f414e582]:
+          - link "サイトマップ" [ref=f414e583] [cursor=pointer]:
+            - /url: /bath-dry/sitemap/
+      - list [ref=f414e584]:
+        - generic [ref=f414e585]: 浴室乾燥機の選び方
+        - listitem [ref=f414e587]:
+          - link "浴室乾燥機の選び方" [ref=f414e588] [cursor=pointer]:
+            - /url: /bath-dry/choice/
+      - list [ref=f414e589]:
+        - generic [ref=f414e590]: 浴室乾燥機を選ぶ
+        - listitem [ref=f414e592]:
+          - link "後継機種検索" [ref=f414e593] [cursor=pointer]:
+            - /url: /bath-dry/successor/
+        - listitem [ref=f414e594]:
+          - link "人気ランキングから選ぶ" [ref=f414e595] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+        - listitem [ref=f414e596]:
+          - link "設置タイプ・種類から 選ぶ" [ref=f414e597] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - text: 設置タイプ・種類から選ぶ
+        - listitem [ref=f414e598]:
+          - link "天井埋込み（電気）" [ref=f414e599] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/
+        - listitem [ref=f414e600]:
+          - link "天井埋込み（ガス）" [ref=f414e601] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/gas_dryer/
+        - listitem [ref=f414e602]:
+          - link "壁掛タイプ" [ref=f414e603] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/wall_hanging_type/
+        - listitem [ref=f414e604]:
+          - link "メーカー比較から選ぶ" [ref=f414e605] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+        - listitem [ref=f414e606]:
+          - link "マックスロゴ マックス >" [ref=f414e607] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - img "マックスロゴ" [ref=f414e608]
+            - generic [ref=f414e609]: マックス >
+        - listitem [ref=f414e610]:
+          - link "マックス後継品番検索" [ref=f414e611] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/search_part_number/
+        - listitem [ref=f414e612]:
+          - link "パナソニックロゴ パナソニック >" [ref=f414e613] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/panasonic/
+            - img "パナソニックロゴ" [ref=f414e614]
+            - generic [ref=f414e615]: パナソニック >
+        - listitem [ref=f414e616]:
+          - link "三菱電機ロゴ 三菱電機 >" [ref=f414e617] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/mitsubishi/
+            - img "三菱電機ロゴ" [ref=f414e618]
+            - generic [ref=f414e619]: 三菱電機 >
+        - listitem [ref=f414e620]:
+          - link "高須産業ロゴ 高須産業 >" [ref=f414e621] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/takasu/
+            - img "高須産業ロゴ" [ref=f414e622]
+            - generic [ref=f414e623]: 高須産業 >
+        - listitem [ref=f414e624]:
+          - link "TOTOロゴ TOTO >" [ref=f414e625] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/toto/
+            - img "TOTOロゴ" [ref=f414e626]
+            - generic [ref=f414e627]: TOTO >
+        - listitem [ref=f414e628]:
+          - link "リンナイロゴ リンナイ >" [ref=f414e629] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/rinnai/
+            - img "リンナイロゴ" [ref=f414e630]
+            - generic [ref=f414e631]: リンナイ >
+        - listitem [ref=f414e632]:
+          - link "ノーリツロゴ ノーリツ >" [ref=f414e633] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/noritz/
+            - img "ノーリツロゴ" [ref=f414e634]
+            - generic [ref=f414e635]: ノーリツ >
+      - list [ref=f414e636]:
+        - generic [ref=f414e637]: 交換工事について
+        - listitem [ref=f414e639]:
+          - link "交換工事費" [ref=f414e640] [cursor=pointer]:
+            - /url: /bath-dry/guide/cost/
+        - listitem [ref=f414e641]:
+          - link "工事対応エリア" [ref=f414e642] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f414e643]:
+          - link "対応可能な工事事例" [ref=f414e644] [cursor=pointer]:
+            - /url: /bath-dry/guide/other/
+        - listitem [ref=f414e645]:
+          - link "無料10年保証" [ref=f414e646] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f414e647]:
+          - link "工事当日の流れ" [ref=f414e648] [cursor=pointer]:
+            - /url: /bath-dry/guide/exchange/
+      - list [ref=f414e649]:
+        - generic [ref=f414e650]: よくあるご質問
+        - listitem [ref=f414e652]:
+          - link "商品について" [ref=f414e653] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/
+        - listitem [ref=f414e654]:
+          - link "見積り・注文について" [ref=f414e655] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-esti.html
+        - listitem [ref=f414e656]:
+          - link "工事について" [ref=f414e657] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-construction.html
+      - list [ref=f414e658]:
+        - generic [ref=f414e659]: お客様の声・施工事例
+        - listitem [ref=f414e661]:
+          - link "お客様の声" [ref=f414e662] [cursor=pointer]:
+            - /url: /voice/?s=%E6%B5%B4%E5%AE%A4%E4%B9%BE%E7%87%A5%E6%A9%9F&x=0&y=0
+        - listitem [ref=f414e663]:
+          - link "施工事例" [ref=f414e664] [cursor=pointer]:
+            - /url: /bath-dry/blog/
+        - listitem [ref=f414e665]:
+          - link "スタッフブログ" [ref=f414e666] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/dry
+        - listitem [ref=f414e667]:
+          - link "商品レビュー" [ref=f414e668] [cursor=pointer]:
+            - /url: /review/?category=bath-dry
+      - list [ref=f414e669]:
+        - generic [ref=f414e670]: 浴室乾燥機をもっと知る
+        - listitem [ref=f414e672]:
+          - link "浴室乾燥機とは" [ref=f414e673] [cursor=pointer]:
+            - /url: /bath-dry/contents/about/
+        - listitem [ref=f414e674]:
+          - link "電気式とガス式の比較" [ref=f414e675] [cursor=pointer]:
+            - /url: /bath-dry/choice/comparison/
+        - listitem [ref=f414e676]:
+          - link "寿命・故障時の対応" [ref=f414e677] [cursor=pointer]:
+            - /url: /bath-dry/contents/life/
+        - listitem [ref=f414e678]:
+          - link "電気代節約のポイント" [ref=f414e679] [cursor=pointer]:
+            - /url: /bath-dry/contents/electricity_bill/
+        - listitem [ref=f414e680]:
+          - link "24時間換気システム" [ref=f414e681] [cursor=pointer]:
+            - /url: /bath-dry/contents/ventilation24/
+        - listitem [ref=f414e682]:
+          - link "浴室カビ対策" [ref=f414e683] [cursor=pointer]:
+            - /url: /bath-dry/contents/kabi/
+        - listitem [ref=f414e684]:
+          - link "お手入れ・掃除方法" [ref=f414e685] [cursor=pointer]:
+            - /url: /bath-dry/contents/care/
+        - listitem [ref=f414e686]:
+          - link "梅雨対策に衣類乾燥" [ref=f414e687] [cursor=pointer]:
+            - /url: /bath-dry/contents/rainy_season/
+        - listitem [ref=f414e688]:
+          - link "ヒートショック対策" [ref=f414e689] [cursor=pointer]:
+            - /url: /bath-dry/contents/heat_shock/
+      - list [ref=f414e690]:
+        - generic [ref=f414e691]: 浴室乾燥機関連商品
+        - listitem [ref=f414e693]:
+          - link "レンジフード" [ref=f414e694] [cursor=pointer]:
+            - /url: /kitchen/food/
+  - generic [ref=f414e696]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f414e698] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f414e699]
+      - generic [ref=f414e700]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f414e702] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f414e703]
+      - generic [ref=f414e704]: 天井エアコン
+    - link "トイレ トイレ" [ref=f414e706] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f414e707]
+      - generic [ref=f414e708]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f414e710] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f414e711]
+      - generic [ref=f414e712]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f414e714] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f414e715]
+      - generic [ref=f414e716]: 給湯器
+    - link "エコキュート エコキュート" [ref=f414e718] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f414e719]
+      - generic [ref=f414e720]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f414e722] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f414e723]
+      - generic [ref=f414e724]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f414e726] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f414e727]
+      - generic [ref=f414e728]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f414e730] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f414e731]
+      - generic [ref=f414e732]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f414e734] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f414e735]
+      - generic [ref=f414e736]: レンジフード
+    - link "蛇口 蛇口" [ref=f414e738] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f414e739]
+      - generic [ref=f414e740]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f414e742] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f414e743]
+      - generic [ref=f414e744]: 浴室乾燥機
+    - generic [ref=f414e745]: その他>>
+  - navigation [ref=f414e747]:
+    - generic [ref=f414e748]:
+      - generic [ref=f414e749]:
+        - generic [ref=f414e750]: 浴室乾燥機
+        - generic [ref=f414e757]: 総合メニュー
+      - generic [ref=f414e764]:
+        - link "人気ランキング" [ref=f414e765] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f414e767] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f414e769] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f414e771] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f414e773] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f414e775] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f414e777]:
+    - generic [ref=f414e778]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f414e781]
+    - generic [ref=f414e782]:
+      - generic [ref=f414e783]:
+        - term [ref=f414e784]:
+          - img "サービス案内" [ref=f414e785]
+          - text: サービス案内
+        - definition [ref=f414e786]:
+          - list [ref=f414e787]:
+            - listitem [ref=f414e788]:
+              - link "ご利用の流れ" [ref=f414e789] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f414e790]:
+              - link "無料10年保証" [ref=f414e791] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f414e792]:
+              - link "工事対応エリア" [ref=f414e793] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f414e794]:
+              - link "工事価格表" [ref=f414e795] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f414e796]:
+              - link "おまとめ工事割引" [ref=f414e797] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f414e798]:
+              - link "お支払い方法" [ref=f414e799] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f414e800]:
+              - link "よくあるご質問" [ref=f414e801] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f414e802]:
+              - link "営業日カレンダー" [ref=f414e803] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f414e804]:
+        - term [ref=f414e805]:
+          - img "情報コンテンツ" [ref=f414e806]
+          - text: 情報コンテンツ
+        - definition [ref=f414e807]:
+          - list [ref=f414e808]:
+            - listitem [ref=f414e809]:
+              - link "最新情報・お知らせ" [ref=f414e810] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f414e811]:
+              - link "売れ筋・人気ランキング" [ref=f414e812] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f414e813]:
+              - link "お客様の声" [ref=f414e814] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f414e815]:
+              - link "施工事例" [ref=f414e816] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f414e817]:
+              - link "商品レビュー" [ref=f414e818] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f414e819]:
+              - link "かんたん検索一覧" [ref=f414e820] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f414e821]:
+              - link "閲覧した商品の履歴" [ref=f414e822] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f414e823]:
+              - link "動画コンテンツ" [ref=f414e824] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f414e825]:
+        - term [ref=f414e826]:
+          - img "企業情報" [ref=f414e827]
+          - text: 企業情報
+        - definition [ref=f414e828]:
+          - listitem [ref=f414e829]:
+            - link "会社概要" [ref=f414e830] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f414e831]:
+            - link "選ばれる理由" [ref=f414e832] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f414e833]:
+            - link "ショールーム（東京・大阪）" [ref=f414e834] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f414e835]:
+            - link "スタッフ紹介" [ref=f414e836] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f414e837]:
+            - link "スタッフブログ" [ref=f414e838] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f414e839]:
+            - link "リフォームからチェンジへ" [ref=f414e840] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f414e841]:
+            - link "活動レポート" [ref=f414e842] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f414e843]:
+          - link [ref=f414e845] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f414e849] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f414e853] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f414e857] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f414e861] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f414e865] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f414e868]:
+        - link [ref=f414e869] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f414e873]: お問い合わせ一覧
+        - link [ref=f414e874] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f414e878]: マイページ・会員登録
+        - link [ref=f414e879] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f414e880]
+        - paragraph [ref=f414e881]: 個人情報保護の認証取得
+    - generic [ref=f414e882]:
+      - paragraph [ref=f414e883]: 企業サイト
+      - generic [ref=f414e884]:
+        - list [ref=f414e885]:
+          - listitem [ref=f414e886]:
+            - link "コーポレートサイト" [ref=f414e887] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f414e888]
+          - listitem [ref=f414e889]:
+            - link "投資家向けサイト" [ref=f414e890] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f414e891]
+          - listitem [ref=f414e892]:
+            - link "採用情報サイト" [ref=f414e893] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f414e894]
+          - listitem [ref=f414e895]:
+            - link "交換技能アカデミー" [ref=f414e896] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f414e897]
+        - list [ref=f414e898]:
+          - listitem [ref=f414e899]:
+            - link [ref=f414e900] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f414e901]:
+                - paragraph [ref=f414e902]: 東証グロースに上場しています
+                - paragraph [ref=f414e903]: 証券コード 7695
+              - figure [ref=f414e904]:
+                - img "東証(JPX)ロゴ" [ref=f414e905]
+    - generic [ref=f414e906]:
+      - list [ref=f414e907]:
+        - listitem [ref=f414e908]:
+          - link "個人情報の取扱い" [ref=f414e909] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f414e910]:
+          - link "特定商取引法に基づく表記" [ref=f414e911] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f414e912]:
+          - link "サイト利用規約" [ref=f414e913] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f414e914]:
+          - link "コンテンツ著作権" [ref=f414e915] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f414e916]:
+          - link "施工スタッフ募集" [ref=f414e917] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f414e918]
+      - list [ref=f414e919]:
+        - listitem [ref=f414e920]: © Koukandekirukun, Inc. 2001-2026

@@ -1,0 +1,1495 @@
+- generic [active] [ref=f330e1]:
+  - link [ref=f330e1510] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f330e2]:
+    - heading "温水洗浄便座が最大58%OFF｜ウォシュレットなどのトイレ便座交換" [level=1] [ref=f330e5]
+    - generic [ref=f330e8]:
+      - generic [ref=f330e9]:
+        - link [ref=f330e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f330e12]
+        - link [ref=f330e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f330e14]
+        - link [ref=f330e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f330e16]
+      - generic [ref=f330e17]:
+        - generic "検索" [ref=f330e21]:
+          - combobox [ref=f330e22]:
+            - generic [ref=f330e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f330e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f330e26] [cursor=pointer]:
+            - generic [ref=f330e28]: 検索
+        - generic [ref=f330e29]:
+          - link [ref=f330e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f330e32]
+            - paragraph [ref=f330e33]: 閲覧履歴
+          - link [ref=f330e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f330e36]
+            - paragraph [ref=f330e37]: ログイン
+        - link [ref=f330e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f330e40]
+          - paragraph [ref=f330e41]: お問合せ
+        - generic [ref=f330e42]:
+          - link [ref=f330e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f330e45]
+            - paragraph [ref=f330e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f330e50]:
+    - list [ref=f330e51]:
+      - group "1 / 3" [ref=f330e52]:
+        - link "パナソニック(Panasonic) 10年保証 Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換 特価 【在庫限り】 95シリーズ CH951SPF 商品+交換工事+10年保証 38,990円(税込)" [ref=f330e53] [cursor=pointer]:
+          - /url: /washlet/panasonic/CH951SPF/
+          - heading [level=3] [ref=f330e54]:
+            - img "パナソニック(Panasonic)" [ref=f330e57]
+            - img "10年保証" [ref=f330e59]
+          - generic [ref=f330e60]:
+            - generic [ref=f330e61]:
+              - img "Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換" [ref=f330e63]
+              - generic [ref=f330e64]: 特価
+            - paragraph [ref=f330e67]:
+              - generic [ref=f330e68]: 【在庫限り】
+              - text: 95シリーズ
+            - generic [ref=f330e69]: CH951SPF
+            - generic [ref=f330e71]:
+              - generic [ref=f330e72]: 商品+交換工事+10年保証
+              - generic [ref=f330e73]: 38,990円(税込)
+      - group "2 / 3" [ref=f330e74]:
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換 本体 58% OFF KBシリーズ CW-KB31A 商品+交換工事+10年保証 63,649円(税込)" [ref=f330e75] [cursor=pointer]:
+          - /url: /washlet/inax/CW-KB31A/
+          - heading [level=3] [ref=f330e76]:
+            - img "LIXIL(INAX)" [ref=f330e79]
+            - img "10年保証" [ref=f330e81]
+          - generic [ref=f330e82]:
+            - generic [ref=f330e83]:
+              - img "LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換" [ref=f330e85]
+              - generic [ref=f330e86]:
+                - text: 本体
+                - generic [ref=f330e87]: 58%
+                - text: "OFF"
+            - generic [ref=f330e88]: KBシリーズ
+            - generic [ref=f330e89]: CW-KB31A
+            - generic [ref=f330e91]:
+              - generic [ref=f330e92]: 商品+交換工事+10年保証
+              - generic [ref=f330e93]: 63,649円(税込)
+      - group "3 / 3" [ref=f330e94]:
+        - img "人気機種第1位" [ref=f330e96]
+        - link "TOTO 10年保証 TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換 本体 52% OFF SS1 TCF6624 商品+交換工事+10年保証 66,600円(税込)" [ref=f330e97] [cursor=pointer]:
+          - /url: /washlet/toto/TCF6624/
+          - heading [level=3] [ref=f330e98]:
+            - img "TOTO" [ref=f330e101]
+            - img "10年保証" [ref=f330e103]
+          - generic [ref=f330e104]:
+            - generic [ref=f330e105]:
+              - img "TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換" [ref=f330e107]
+              - generic [ref=f330e108]:
+                - text: 本体
+                - generic [ref=f330e109]: 52%
+                - text: "OFF"
+            - generic [ref=f330e110]: SS1
+            - generic [ref=f330e111]: TCF6624
+            - generic [ref=f330e113]:
+              - generic [ref=f330e114]: 商品+交換工事+10年保証
+              - generic [ref=f330e115]: 66,600円(税込)
+      - group "1 / 3" [ref=f330e116]:
+        - link "パナソニック(Panasonic) 10年保証 Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換 特価 【在庫限り】 95シリーズ CH951SPF 商品+交換工事+10年保証 38,990円(税込)" [ref=f330e117] [cursor=pointer]:
+          - /url: /washlet/panasonic/CH951SPF/
+          - heading [level=3] [ref=f330e118]:
+            - img "パナソニック(Panasonic)" [ref=f330e121]
+            - img "10年保証" [ref=f330e123]
+          - generic [ref=f330e124]:
+            - generic [ref=f330e125]:
+              - img "Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換" [ref=f330e127]
+              - generic [ref=f330e128]: 特価
+            - paragraph [ref=f330e131]:
+              - generic [ref=f330e132]: 【在庫限り】
+              - text: 95シリーズ
+            - generic [ref=f330e133]: CH951SPF
+            - generic [ref=f330e135]:
+              - generic [ref=f330e136]: 商品+交換工事+10年保証
+              - generic [ref=f330e137]: 38,990円(税込)
+      - group "2 / 3" [ref=f330e138]:
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換 本体 58% OFF KBシリーズ CW-KB31A 商品+交換工事+10年保証 63,649円(税込)" [ref=f330e139] [cursor=pointer]:
+          - /url: /washlet/inax/CW-KB31A/
+          - heading [level=3] [ref=f330e140]:
+            - img "LIXIL(INAX)" [ref=f330e143]
+            - img "10年保証" [ref=f330e145]
+          - generic [ref=f330e146]:
+            - generic [ref=f330e147]:
+              - img "LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換" [ref=f330e149]
+              - generic [ref=f330e150]:
+                - text: 本体
+                - generic [ref=f330e151]: 58%
+                - text: "OFF"
+            - generic [ref=f330e152]: KBシリーズ
+            - generic [ref=f330e153]: CW-KB31A
+            - generic [ref=f330e155]:
+              - generic [ref=f330e156]: 商品+交換工事+10年保証
+              - generic [ref=f330e157]: 63,649円(税込)
+      - group "3 / 3" [ref=f330e158]:
+        - img "人気機種第1位" [ref=f330e160]
+        - link "TOTO 10年保証 TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換 本体 52% OFF SS1 TCF6624 商品+交換工事+10年保証 66,600円(税込)" [ref=f330e161] [cursor=pointer]:
+          - /url: /washlet/toto/TCF6624/
+          - heading [level=3] [ref=f330e162]:
+            - img "TOTO" [ref=f330e165]
+            - img "10年保証" [ref=f330e167]
+          - generic [ref=f330e168]:
+            - generic [ref=f330e169]:
+              - img "TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換" [ref=f330e171]
+              - generic [ref=f330e172]:
+                - text: 本体
+                - generic [ref=f330e173]: 52%
+                - text: "OFF"
+            - generic [ref=f330e174]: SS1
+            - generic [ref=f330e175]: TCF6624
+            - generic [ref=f330e177]:
+              - generic [ref=f330e178]: 商品+交換工事+10年保証
+              - generic [ref=f330e179]: 66,600円(税込)
+      - group "1 / 3" [ref=f330e180]:
+        - link "パナソニック(Panasonic) 10年保証 Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換 特価 【在庫限り】 95シリーズ CH951SPF 商品+交換工事+10年保証 38,990円(税込)" [ref=f330e181] [cursor=pointer]:
+          - /url: /washlet/panasonic/CH951SPF/
+          - heading [level=3] [ref=f330e182]:
+            - img "パナソニック(Panasonic)" [ref=f330e185]
+            - img "10年保証" [ref=f330e187]
+          - generic [ref=f330e188]:
+            - generic [ref=f330e189]:
+              - img "Panasonic CH951Sシリーズの交換が工事費込みで安い｜品番CH951SPF｜トイレ便座交換" [ref=f330e191]
+              - generic [ref=f330e192]: 特価
+            - paragraph [ref=f330e195]:
+              - generic [ref=f330e196]: 【在庫限り】
+              - text: 95シリーズ
+            - generic [ref=f330e197]: CH951SPF
+            - generic [ref=f330e199]:
+              - generic [ref=f330e200]: 商品+交換工事+10年保証
+              - generic [ref=f330e201]: 38,990円(税込)
+      - group "2 / 3" [ref=f330e202]:
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換 本体 58% OFF KBシリーズ CW-KB31A 商品+交換工事+10年保証 63,649円(税込)" [ref=f330e203] [cursor=pointer]:
+          - /url: /washlet/inax/CW-KB31A/
+          - heading [level=3] [ref=f330e204]:
+            - img "LIXIL(INAX)" [ref=f330e207]
+            - img "10年保証" [ref=f330e209]
+          - generic [ref=f330e210]:
+            - generic [ref=f330e211]:
+              - img "LIXIL(INAX) シャワートイレKB31Aの交換が工事費込みで安い｜品番CW-KB31A｜トイレ便座交換" [ref=f330e213]
+              - generic [ref=f330e214]:
+                - text: 本体
+                - generic [ref=f330e215]: 58%
+                - text: "OFF"
+            - generic [ref=f330e216]: KBシリーズ
+            - generic [ref=f330e217]: CW-KB31A
+            - generic [ref=f330e219]:
+              - generic [ref=f330e220]: 商品+交換工事+10年保証
+              - generic [ref=f330e221]: 63,649円(税込)
+      - group "3 / 3" [ref=f330e222]:
+        - img "人気機種第1位" [ref=f330e224]
+        - link "TOTO 10年保証 TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換 本体 52% OFF SS1 TCF6624 商品+交換工事+10年保証 66,600円(税込)" [ref=f330e225] [cursor=pointer]:
+          - /url: /washlet/toto/TCF6624/
+          - heading [level=3] [ref=f330e226]:
+            - img "TOTO" [ref=f330e229]
+            - img "10年保証" [ref=f330e231]
+          - generic [ref=f330e232]:
+            - generic [ref=f330e233]:
+              - img "TOTO ウォシュレットSS1の交換が工事費込みで安い｜品番TCF6624｜トイレ便座交換" [ref=f330e235]
+              - generic [ref=f330e236]:
+                - text: 本体
+                - generic [ref=f330e237]: 52%
+                - text: "OFF"
+            - generic [ref=f330e238]: SS1
+            - generic [ref=f330e239]: TCF6624
+            - generic [ref=f330e241]:
+              - generic [ref=f330e242]: 商品+交換工事+10年保証
+              - generic [ref=f330e243]: 66,600円(税込)
+    - button "Previous slide" [ref=f330e244] [cursor=pointer]
+    - button "Next slide" [ref=f330e245] [cursor=pointer]
+  - generic [ref=f330e246]:
+    - main [ref=f330e247]:
+      - text: ">"
+      - list [ref=f330e249]:
+        - listitem [ref=f330e250]:
+          - img "旗" [ref=f330e251]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f330e252] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f330e253]:
+          - img "旗" [ref=f330e254]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f330e255] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - heading "温水洗浄便座を選ぶ (ウォシュレット・シャワートイレ)" [level=2] [ref=f330e256]
+      - generic [ref=f330e257]:
+        - paragraph [ref=f330e258]: 気になるメーカーや機能を絞り込んで、お好みの便座を検索いただけます！リモコンタイプや清掃性など豊富な項目メニューからご自宅に合ったトイレ便座がかんたんに見つかります。
+        - figure [ref=f330e259]:
+          - link [ref=f330e260] [cursor=pointer]:
+            - /url: /washlet/search/
+            - img "ウォシュレット・温水洗浄便座の絞り込み検索" [ref=f330e261]
+      - heading "条件から温水洗浄便座を選ぶ" [level=3] [ref=f330e262]
+      - generic [ref=f330e264]:
+        - link "温水洗浄便座の選び方｜ウォシュレット・トイレ便座交換 温水洗浄便座の選び方" [ref=f330e265] [cursor=pointer]:
+          - /url: /washlet/choice/
+          - img "温水洗浄便座の選び方｜ウォシュレット・トイレ便座交換" [ref=f330e266]
+          - generic [ref=f330e267]: 温水洗浄便座の選び方
+        - link "ウォシュレットを売れ筋・人気ランキングから選ぶ｜ウォシュレット・トイレ便座交換 人気ランキングから選ぶ" [ref=f330e269] [cursor=pointer]:
+          - /url: /washlet/ranking/
+          - img "ウォシュレットを売れ筋・人気ランキングから選ぶ｜ウォシュレット・トイレ便座交換" [ref=f330e270]
+          - generic [ref=f330e271]: 人気ランキングから選ぶ
+        - link "ウォシュレットの設置条件を確認する｜ウォシュレット・トイレ便座交換 設置条件を確認する" [ref=f330e272] [cursor=pointer]:
+          - /url: /washlet/conditions/
+          - img "ウォシュレットの設置条件を確認する｜ウォシュレット・トイレ便座交換" [ref=f330e273]
+          - generic [ref=f330e274]: 設置条件を確認する
+        - link "ウォシュレットを機能比較で選ぶ｜ウォシュレット・トイレ便座交換 機能比較表から選ぶ" [ref=f330e275] [cursor=pointer]:
+          - /url: /washlet/function/
+          - img "ウォシュレットを機能比較で選ぶ｜ウォシュレット・トイレ便座交換" [ref=f330e276]
+          - generic [ref=f330e277]: 機能比較表から選ぶ
+      - heading "温水洗浄便座を知る" [level=3] [ref=f330e278]
+      - generic [ref=f330e279]:
+        - link [ref=f330e280] [cursor=pointer]:
+          - /url: /washlet/official_retail/
+          - img "メーカーカタログ掲載品と量販店リテール向けモデルの違い｜ウォシュレット（トイレ便座）を知る" [ref=f330e282]
+          - generic [ref=f330e283]: リテール向けモデルとの違い メーカーカタログ掲載品と家電量販店が扱うリテールモデルの違い
+        - link [ref=f330e284] [cursor=pointer]:
+          - /url: /washlet/toilet_change/
+          - img "トイレ本体（便器やタンク）と一緒にウォシュレット交換をおすすめする理由｜ウォシュレット（トイレ便座）を知る" [ref=f330e286]
+          - generic [ref=f330e287]: 便器と一緒の交換をおすすめ 便器も一緒に交換すれば、工事代もお得で、さらに快適なトイレ空間に！
+        - link [ref=f330e288] [cursor=pointer]:
+          - /url: /washlet/diy/
+          - img "ウォシュレットの取り付け方・DIYの手順｜ウォシュレット（トイレ便座）を知る" [ref=f330e290]
+          - generic [ref=f330e291]: ウォシュレットの取り付け方 便座の取り外しからフレキ管などの給水・排水配管接続を行うDIY手順
+      - link "13,800円(税込) ※オート洗浄・リモコン洗浄タイプは16,800円(税込) ウォシュレット取り付け工事費｜トイレ便座交換工事費は汚れた古い便座の処分や工事保証が全て込み" [ref=f330e293] [cursor=pointer]:
+        - /url: /washlet/const/
+        - generic [ref=f330e294]: 13,800円(税込)
+        - generic [ref=f330e295]: ※オート洗浄・リモコン洗浄タイプは16,800円(税込)
+        - img "ウォシュレット取り付け工事費｜トイレ便座交換工事費は汚れた古い便座の処分や工事保証が全て込み" [ref=f330e296]
+      - generic [ref=f330e298]:
+        - text: ∨ 続きを見る
+        - generic [ref=f330e299]:
+          - heading "2026年6月度 温水洗浄便座 人気売れ筋ランキング！" [level=3] [ref=f330e300]
+          - list [ref=f330e301]:
+            - listitem [ref=f330e302]:
+              - generic [ref=f330e303]:
+                - img "壁掛ウォシュレットランキング 総合1位" [ref=f330e305]
+                - generic [ref=f330e306]:
+                  - figure [ref=f330e307]:
+                    - img "TOTO" [ref=f330e308]
+                  - paragraph [ref=f330e309]: ベーシックグレード
+                - paragraph [ref=f330e311]: SSシリーズ SS1
+              - generic [ref=f330e312]:
+                - generic [ref=f330e313]:
+                  - link [ref=f330e315] [cursor=pointer]:
+                    - /url: /washlet/toto/ss/#to_SS1_grade
+                    - img "TOTO ウォシュレット SSシリーズ SS1" [ref=f330e316]
+                  - generic [ref=f330e317]: きれい除菌水によるノズル自動洗浄や、つぎ目のないクリーン便座など清潔機能が充実。シンプルで使いやすいデザインが魅力。
+                - generic:
+                  - generic [ref=f330e319]:
+                    - generic [ref=f330e320]: 52%
+                    - text: "OFF"
+                  - text:     
+                - generic [ref=f330e321]:
+                  - paragraph [ref=f330e322]: 平均レビュー 4.5
+                  - generic [ref=f330e325] [cursor=pointer]:
+                    - generic [ref=f330e326]: 
+                    - generic [ref=f330e327]: 
+                    - generic [ref=f330e328]: 
+                    - generic [ref=f330e329]: 
+                    - generic [ref=f330e330]: 
+                    - generic [ref=f330e331]: 173件
+                - generic [ref=f330e332]: TCF6624
+                - generic [ref=f330e333]:
+                  - generic [ref=f330e334]:
+                    - text: 工事費用込み価格
+                    - generic [ref=f330e335]:
+                      - generic [ref=f330e336]: 66,600
+                      - generic [ref=f330e337]: 円(税込)
+                  - link "商品詳細 はこちら" [ref=f330e339] [cursor=pointer]:
+                    - /url: /washlet/toto/TCF6624/
+                    - text: 商品詳細はこちら
+            - listitem [ref=f330e340]:
+              - generic [ref=f330e341]:
+                - img "壁掛ウォシュレットランキング 総合2位" [ref=f330e343]
+                - generic [ref=f330e344]:
+                  - figure [ref=f330e345]:
+                    - img "TOTO" [ref=f330e346]
+                  - paragraph [ref=f330e347]: ハイグレード
+                - paragraph [ref=f330e349]: アプリコット F1A
+              - generic [ref=f330e350]:
+                - generic [ref=f330e351]:
+                  - link [ref=f330e353] [cursor=pointer]:
+                    - /url: /washlet/toto/apricot/#to_f1f1a_grade
+                    - img "TOTO ウォシュレット アプリコット F1A" [ref=f330e354]
+                  - generic [ref=f330e355]: 人気のアプリコット！F1Aは「ノズルきれい」「便器きれい」や「オート・リモコン便器洗浄」搭載しています。
+                - generic:
+                  - generic [ref=f330e357]:
+                    - generic [ref=f330e358]: 36%
+                    - text: "OFF"
+                  - text:     
+                - generic [ref=f330e359]:
+                  - paragraph [ref=f330e360]: 平均レビュー 4.4
+                  - generic [ref=f330e363] [cursor=pointer]:
+                    - generic [ref=f330e364]: 
+                    - generic [ref=f330e365]: 
+                    - generic [ref=f330e366]: 
+                    - generic [ref=f330e367]: 
+                    - generic [ref=f330e368]: 
+                    - generic [ref=f330e369]: 259件
+                - generic [ref=f330e370]: TCF4714A
+                - generic [ref=f330e371]:
+                  - generic [ref=f330e372]:
+                    - text: 工事費用込み価格
+                    - generic [ref=f330e373]:
+                      - generic [ref=f330e374]: 119,232
+                      - generic [ref=f330e375]: 円(税込)
+                  - link "商品詳細 はこちら" [ref=f330e377] [cursor=pointer]:
+                    - /url: /washlet/toto/TCF4714A/
+                    - text: 商品詳細はこちら
+            - listitem [ref=f330e378]:
+              - generic [ref=f330e379]:
+                - img "壁掛ウォシュレットランキング 総合3位" [ref=f330e381]
+                - generic [ref=f330e382]:
+                  - figure [ref=f330e383]:
+                    - img "Panasonic" [ref=f330e384]
+                  - paragraph [ref=f330e385]: ベーシックグレード
+                - paragraph [ref=f330e387]: 95シリーズ CH951
+              - generic [ref=f330e388]:
+                - generic [ref=f330e389]:
+                  - link [ref=f330e391] [cursor=pointer]:
+                    - /url: /washlet/panasonic/toware/#to_recommendedModel
+                    - img "Panasonic 温水洗浄便座 ビューティ・トワレ 95シリーズ CH951" [ref=f330e392]
+                  - generic [ref=f330e393]: 【在庫限り】当社最安値の温水洗浄便座！基本機能もしっかり搭載した、ベーシックモデルです。
+                - generic:
+                  - generic [ref=f330e394]: 交換できるくん価格
+                  - text:     
+                - generic [ref=f330e396]:
+                  - paragraph [ref=f330e397]: 平均レビュー 4.4
+                  - generic [ref=f330e400] [cursor=pointer]:
+                    - generic [ref=f330e401]: 
+                    - generic [ref=f330e402]: 
+                    - generic [ref=f330e403]: 
+                    - generic [ref=f330e404]: 
+                    - generic [ref=f330e405]: 
+                    - generic [ref=f330e406]: 77件
+                - generic [ref=f330e407]: CH951SPF
+                - generic [ref=f330e408]:
+                  - generic [ref=f330e409]:
+                    - text: 工事費用込み価格(税込)
+                    - generic [ref=f330e410]:
+                      - generic [ref=f330e411]: 38,990
+                      - generic [ref=f330e412]: 円
+                  - link "商品詳細 はこちら" [ref=f330e414] [cursor=pointer]:
+                    - /url: /washlet/panasonic/CH951SPF/
+                    - text: 商品詳細はこちら
+            - listitem [ref=f330e415]:
+              - generic [ref=f330e416]:
+                - img "壁掛ウォシュレットランキング 総合4位" [ref=f330e418]
+                - generic [ref=f330e419]:
+                  - figure [ref=f330e420]:
+                    - img "LIXIL" [ref=f330e421]
+                  - paragraph [ref=f330e422]: ベーシックグレード
+                - paragraph [ref=f330e424]: KBシリーズ KB31A
+              - generic [ref=f330e425]:
+                - generic [ref=f330e426]:
+                  - link [ref=f330e428] [cursor=pointer]:
+                    - /url: /washlet/inax/kbka/#to_KB31A_grade
+                    - img "LIXIL(INAX) シャワートイレ KBシリーズ KB31A" [ref=f330e429]
+                  - generic [ref=f330e430]: シンプルな袖リモコン仕様のKB31グレードは、たっぷり感のある洗い心地を実現
+                - generic:
+                  - generic [ref=f330e432]:
+                    - generic [ref=f330e433]: 58%
+                    - text: "OFF"
+                  - text:     
+                - generic [ref=f330e434]:
+                  - paragraph [ref=f330e435]: 平均レビュー 4.5
+                  - generic [ref=f330e438] [cursor=pointer]:
+                    - generic [ref=f330e439]: 
+                    - generic [ref=f330e440]: 
+                    - generic [ref=f330e441]: 
+                    - generic [ref=f330e442]: 
+                    - generic [ref=f330e443]: 
+                    - generic [ref=f330e444]: 30件
+                - generic [ref=f330e445]: CW-KB31A
+                - generic [ref=f330e446]:
+                  - generic [ref=f330e447]:
+                    - text: 工事費用込み価格(税込)
+                    - generic [ref=f330e448]:
+                      - generic [ref=f330e449]: 63,649
+                      - generic [ref=f330e450]: 円
+                  - link "商品詳細 はこちら" [ref=f330e452] [cursor=pointer]:
+                    - /url: /washlet/inax/CW-KB31A/
+                    - text: 商品詳細はこちら
+            - listitem [ref=f330e453]:
+              - generic [ref=f330e454]:
+                - img "壁掛ウォシュレットランキング 総合5位" [ref=f330e456]
+                - generic [ref=f330e457]:
+                  - figure [ref=f330e458]:
+                    - img "TOTO" [ref=f330e459]
+                  - paragraph [ref=f330e460]: ハイグレード
+                - paragraph [ref=f330e462]: アプリコット F1
+              - generic [ref=f330e463]:
+                - generic [ref=f330e464]:
+                  - link [ref=f330e466] [cursor=pointer]:
+                    - /url: /washlet/toto/apricot/#to_f1f1a_grade
+                    - img "TOTO ウォシュレット アプリコット F1" [ref=f330e467]
+                  - generic [ref=f330e468]: 操作しやすい壁リモコンタイプ。便器きれい搭載でお手入れの手間も削減。オート洗浄機能はありません。
+                - generic:
+                  - generic [ref=f330e470]:
+                    - generic [ref=f330e471]: 36%
+                    - text: "OFF"
+                  - text:     
+                - generic [ref=f330e472]:
+                  - paragraph [ref=f330e473]: 平均レビュー 4.3
+                  - generic [ref=f330e476] [cursor=pointer]:
+                    - generic [ref=f330e477]: 
+                    - generic [ref=f330e478]: 
+                    - generic [ref=f330e479]: 
+                    - generic [ref=f330e480]: 
+                    - generic [ref=f330e481]: 
+                    - generic [ref=f330e482]: 129件
+                - generic [ref=f330e483]: TCF4714
+                - generic [ref=f330e484]:
+                  - generic [ref=f330e485]:
+                    - text: 工事費用込み価格(税込)
+                    - generic [ref=f330e486]:
+                      - generic [ref=f330e487]: 108,136
+                      - generic [ref=f330e488]: 円
+                  - link "商品詳細 はこちら" [ref=f330e490] [cursor=pointer]:
+                    - /url: /washlet/toto/TCF4714/
+                    - text: 商品詳細はこちら
+      - link [ref=f330e492] [cursor=pointer]:
+        - /url: /washlet/ranking/
+        - img "ウォシュレット・トイレ便座｜最新の人気・売れ筋ランキング" [ref=f330e493]
+      - heading "メーカー・シリーズ一覧" [level=2] [ref=f330e494]
+      - list [ref=f330e495]:
+        - listitem [ref=f330e496]:
+          - generic [ref=f330e497]:
+            - link "TOTOロゴ TOPページ" [ref=f330e498] [cursor=pointer]:
+              - /url: /washlet/toto/
+              - img "TOTOロゴ" [ref=f330e499]
+              - figure
+              - generic [ref=f330e500]: TOPページ
+            - figure [ref=f330e501]:
+              - img "TOTO ウォシュレット" [ref=f330e502]
+            - img "TOTO ウォシュレット│特長と交換費用" [ref=f330e503]
+          - generic [ref=f330e504]:
+            - generic [ref=f330e505]: 代表的な機能
+            - generic [ref=f330e506]: ※機種により異なる
+          - generic [ref=f330e507]:
+            - generic [ref=f330e509]:
+              - generic [ref=f330e510]: ノズル
+              - generic [ref=f330e511]: クリーンノズル
+            - generic [ref=f330e513]:
+              - generic [ref=f330e514]: 清潔機能
+              - generic [ref=f330e515]: きれい除菌水
+            - generic [ref=f330e517]:
+              - generic [ref=f330e518]: 快適・エコ機能
+              - generic [ref=f330e519]: ダブル保温便座
+          - generic [ref=f330e520]: 工事費込み 66,600円(税込)～
+          - link "詳しくはこちら >" [ref=f330e521] [cursor=pointer]:
+            - /url: /washlet/toto/
+        - listitem [ref=f330e522]:
+          - generic [ref=f330e523]:
+            - link "LIXILロゴ TOPページ" [ref=f330e524] [cursor=pointer]:
+              - /url: /washlet/inax/
+              - img "LIXILロゴ" [ref=f330e525]
+              - figure
+              - generic [ref=f330e526]: TOPページ
+            - figure [ref=f330e527]:
+              - img "LIXIL(INAX) シャワートイレ" [ref=f330e528]
+            - img "LIXIL(INAX) シャワートイレ│特長と交換費用" [ref=f330e529]
+          - generic [ref=f330e530]:
+            - generic [ref=f330e531]: 代表的な機能
+            - generic [ref=f330e532]: ※機種により異なる
+          - generic [ref=f330e533]:
+            - generic [ref=f330e535]:
+              - generic [ref=f330e536]: ノズル
+              - generic [ref=f330e537]: ビデ専用ノズル
+            - generic [ref=f330e539]:
+              - generic [ref=f330e540]: 清潔機能
+              - generic [ref=f330e541]: ノズル除菌(銀イオン水)
+            - generic [ref=f330e543]:
+              - generic [ref=f330e544]: 快適・エコ機能
+              - generic [ref=f330e545]: エアシールド脱臭
+          - generic [ref=f330e546]: 工事費込み 63,649円(税込)～
+          - link "詳しくはこちら >" [ref=f330e547] [cursor=pointer]:
+            - /url: /washlet/inax/
+        - listitem [ref=f330e548]:
+          - generic [ref=f330e549]:
+            - link "パナソニックロゴ TOPページ" [ref=f330e550] [cursor=pointer]:
+              - /url: /washlet/panasonic/
+              - img "パナソニックロゴ" [ref=f330e551]
+              - figure
+              - generic [ref=f330e552]: TOPページ
+            - figure [ref=f330e553]:
+              - img "パナソニック ビューティ・トワレ" [ref=f330e554]
+            - img "Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ│特長と交換費用" [ref=f330e555]
+          - generic [ref=f330e556]:
+            - generic [ref=f330e557]: 代表的な機能
+            - generic [ref=f330e558]: ※機種により異なる
+          - generic [ref=f330e559]:
+            - generic [ref=f330e561]:
+              - generic [ref=f330e562]: ノズル
+              - generic [ref=f330e563]: ステンレスノズル
+            - generic [ref=f330e565]:
+              - generic [ref=f330e566]: 清潔機能
+              - generic [ref=f330e567]: Ag＋抗菌
+            - generic [ref=f330e569]:
+              - generic [ref=f330e570]: 快適・エコ機能
+              - generic [ref=f330e571]: スマート暖房便座
+          - generic [ref=f330e572]: 工事費込み 40,794円(税込)～
+          - link "詳しくはこちら >" [ref=f330e573] [cursor=pointer]:
+            - /url: /washlet/panasonic/
+      - heading "メーカー別 お取り扱いシリーズ" [level=3] [ref=f330e574]
+      - generic [ref=f330e575]:
+        - list [ref=f330e576]:
+          - listitem [ref=f330e577]:
+            - generic [ref=f330e578] [cursor=pointer]:
+              - generic [ref=f330e579]: TOTO ウォシュレットの シリーズ一覧
+              - figure [ref=f330e580]:
+                - img "TOTOロゴ" [ref=f330e581]
+            - list:
+              - listitem [ref=f330e582]:
+                - link "TOTOロゴ アプリコット│TOTO ウォシュレット アプリコット 平均レビュー 4.5      工事費込み 108,136円(税込)～" [ref=f330e583] [cursor=pointer]:
+                  - /url: /washlet/toto/apricot/
+                  - img "TOTOロゴ" [ref=f330e585]
+                  - img "アプリコット│TOTO ウォシュレット" [ref=f330e587]
+                  - generic [ref=f330e588]:
+                    - generic [ref=f330e589]: アプリコット
+                    - generic [ref=f330e590]:
+                      - paragraph [ref=f330e591]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e592]: "4.5"
+                      - generic [ref=f330e595]:
+                        - generic [ref=f330e596]: 
+                        - generic [ref=f330e597]: 
+                        - generic [ref=f330e598]: 
+                        - generic [ref=f330e599]: 
+                        - generic [ref=f330e600]: 
+                    - generic [ref=f330e601]: 工事費込み 108,136円(税込)～
+              - listitem [ref=f330e602]:
+                - link "TOTOロゴ SSシリーズ│TOTO ウォシュレット SSシリーズ 平均レビュー 4.5      工事費込み 66,600円(税込)～" [ref=f330e603] [cursor=pointer]:
+                  - /url: /washlet/toto/ss/
+                  - img "TOTOロゴ" [ref=f330e605]
+                  - img "SSシリーズ│TOTO ウォシュレット" [ref=f330e607]
+                  - generic [ref=f330e608]:
+                    - generic [ref=f330e609]: SSシリーズ
+                    - generic [ref=f330e610]:
+                      - paragraph [ref=f330e611]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e612]: "4.5"
+                      - generic [ref=f330e615]:
+                        - generic [ref=f330e616]: 
+                        - generic [ref=f330e617]: 
+                        - generic [ref=f330e618]: 
+                        - generic [ref=f330e619]: 
+                        - generic [ref=f330e620]: 
+                    - generic [ref=f330e621]: 工事費込み 66,600円(税込)～
+              - listitem [ref=f330e622]:
+                - link "TOTOロゴ Pシリーズ PSシリーズ│TOTO ウォシュレット P/PSシリーズ 平均レビュー 5.0      工事費込み 88,446円(税込)～" [ref=f330e623] [cursor=pointer]:
+                  - /url: /washlet/toto/ps-p/
+                  - img "TOTOロゴ" [ref=f330e625]
+                  - img "Pシリーズ PSシリーズ│TOTO ウォシュレット" [ref=f330e627]
+                  - generic [ref=f330e628]:
+                    - generic [ref=f330e629]: P/PSシリーズ
+                    - generic [ref=f330e630]:
+                      - paragraph [ref=f330e631]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e632]: "5.0"
+                      - generic [ref=f330e635]:
+                        - generic [ref=f330e636]: 
+                        - generic [ref=f330e637]: 
+                        - generic [ref=f330e638]: 
+                        - generic [ref=f330e639]: 
+                        - generic [ref=f330e640]: 
+                    - generic [ref=f330e641]: 工事費込み 88,446円(税込)～
+              - listitem [ref=f330e642]:
+                - link "TOTOロゴ 暖房便座・普通便座│TOTO 暖房便座・普通便座 平均レビュー 5.0      当社でトイレ交換をご注文いただくお客様のみご購入いただけます。" [ref=f330e643] [cursor=pointer]:
+                  - /url: /washlet/benza/toto/
+                  - img "TOTOロゴ" [ref=f330e645]
+                  - img "暖房便座・普通便座│TOTO" [ref=f330e647]
+                  - generic [ref=f330e648]:
+                    - generic [ref=f330e649]: 暖房便座・普通便座
+                    - generic [ref=f330e650]:
+                      - paragraph [ref=f330e651]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e652]: "5.0"
+                      - generic [ref=f330e655]:
+                        - generic [ref=f330e656]: 
+                        - generic [ref=f330e657]: 
+                        - generic [ref=f330e658]: 
+                        - generic [ref=f330e659]: 
+                        - generic [ref=f330e660]: 
+                    - generic [ref=f330e661]: 当社でトイレ交換をご注文いただくお客様のみご購入いただけます。
+        - list [ref=f330e662]:
+          - listitem [ref=f330e663]:
+            - generic [ref=f330e664] [cursor=pointer]:
+              - generic [ref=f330e665]: LIXIL シャワートイレの シリーズ一覧
+              - figure [ref=f330e666]:
+                - img "LIXILロゴ" [ref=f330e667]
+            - list:
+              - listitem [ref=f330e668]:
+                - link "LIXILロゴ New PASSO│LIXIL(INAX) シャワートイレ New PASSO 平均レビュー 4.6      工事費込み 86,158円(税込)～" [ref=f330e669] [cursor=pointer]:
+                  - /url: /washlet/inax/passo/
+                  - img "LIXILロゴ" [ref=f330e671]
+                  - img "New PASSO│LIXIL(INAX) シャワートイレ" [ref=f330e673]
+                  - generic [ref=f330e674]:
+                    - generic [ref=f330e675]: New PASSO
+                    - generic [ref=f330e676]:
+                      - paragraph [ref=f330e677]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e678]: "4.6"
+                      - generic [ref=f330e681]:
+                        - generic [ref=f330e682]: 
+                        - generic [ref=f330e683]: 
+                        - generic [ref=f330e684]: 
+                        - generic [ref=f330e685]: 
+                        - generic [ref=f330e686]: 
+                    - generic [ref=f330e687]: 工事費込み 86,158円(税込)～
+              - listitem [ref=f330e688]:
+                - link "LIXILロゴ VAシリーズ│LIXIL(INAX) シャワートイレ VAシリーズ 平均レビュー 5.0      工事費込み 111,480円(税込)～" [ref=f330e689] [cursor=pointer]:
+                  - /url: /washlet/inax/va/
+                  - img "LIXILロゴ" [ref=f330e691]
+                  - img "VAシリーズ│LIXIL(INAX) シャワートイレ" [ref=f330e693]
+                  - generic [ref=f330e694]:
+                    - generic [ref=f330e695]: VAシリーズ
+                    - generic [ref=f330e696]:
+                      - paragraph [ref=f330e697]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e698]: "5.0"
+                      - generic [ref=f330e701]:
+                        - generic [ref=f330e702]: 
+                        - generic [ref=f330e703]: 
+                        - generic [ref=f330e704]: 
+                        - generic [ref=f330e705]: 
+                        - generic [ref=f330e706]: 
+                    - generic [ref=f330e707]: 工事費込み 111,480円(税込)～
+              - listitem [ref=f330e708]:
+                - link "LIXILロゴ KBシリーズ KAシリーズ│LIXIL(INAX) シャワートイレ KB/KAシリーズ 平均レビュー 4.6      工事費込み 63,649円(税込)～" [ref=f330e709] [cursor=pointer]:
+                  - /url: /washlet/inax/kbka/
+                  - img "LIXILロゴ" [ref=f330e711]
+                  - img "KBシリーズ KAシリーズ│LIXIL(INAX) シャワートイレ" [ref=f330e713]
+                  - generic [ref=f330e714]:
+                    - generic [ref=f330e715]: KB/KAシリーズ
+                    - generic [ref=f330e716]:
+                      - paragraph [ref=f330e717]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e718]: "4.6"
+                      - generic [ref=f330e721]:
+                        - generic [ref=f330e722]: 
+                        - generic [ref=f330e723]: 
+                        - generic [ref=f330e724]: 
+                        - generic [ref=f330e725]: 
+                        - generic [ref=f330e726]: 
+                    - generic [ref=f330e727]: 工事費込み 63,649円(税込)～
+              - listitem [ref=f330e728]:
+                - link "LIXILロゴ 旧カスカディーナ対応 KS220タイプ│LIXIL(INAX) シャワートイレ KS220タイプ 平均レビュー 4.0      工事費込み 79,008円(税込)～" [ref=f330e729] [cursor=pointer]:
+                  - /url: /washlet/inax/ks220/
+                  - img "LIXILロゴ" [ref=f330e731]
+                  - img "旧カスカディーナ対応 KS220タイプ│LIXIL(INAX) シャワートイレ" [ref=f330e733]
+                  - generic [ref=f330e734]:
+                    - generic [ref=f330e735]: KS220タイプ
+                    - generic [ref=f330e736]:
+                      - paragraph [ref=f330e737]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e738]: "4.0"
+                      - generic [ref=f330e741]:
+                        - generic [ref=f330e742]: 
+                        - generic [ref=f330e743]: 
+                        - generic [ref=f330e744]: 
+                        - generic [ref=f330e745]: 
+                        - generic [ref=f330e746]: 
+                    - generic [ref=f330e747]: 工事費込み 79,008円(税込)～
+              - listitem [ref=f330e748]:
+                - link "LIXILロゴ 暖房便座・普通便座│LIXIL 暖房便座・普通便座 当社でトイレ交換をご注文いただくお客様のみご購入いただけます。" [ref=f330e749] [cursor=pointer]:
+                  - /url: /washlet/benza/lixil/
+                  - img "LIXILロゴ" [ref=f330e751]
+                  - img "暖房便座・普通便座│LIXIL" [ref=f330e753]
+                  - generic [ref=f330e754]:
+                    - generic [ref=f330e755]: 暖房便座・普通便座
+                    - generic [ref=f330e757]: 当社でトイレ交換をご注文いただくお客様のみご購入いただけます。
+        - list [ref=f330e758]:
+          - listitem [ref=f330e759]:
+            - generic [ref=f330e760] [cursor=pointer]:
+              - generic [ref=f330e761]: パナソニック ビューティ トワレのシリーズ一覧
+              - figure [ref=f330e762]:
+                - img "パナソニックロゴ" [ref=f330e763]
+            - list:
+              - listitem [ref=f330e764]:
+                - link "パナソニックロゴ AWMシリーズ 泡コートトワレ│Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ AWMシリーズ 平均レビュー 4.0      工事費込み 114,525円(税込)～" [ref=f330e765] [cursor=pointer]:
+                  - /url: /washlet/panasonic/awa_toware/
+                  - img "パナソニックロゴ" [ref=f330e767]
+                  - img "AWMシリーズ 泡コートトワレ│Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ" [ref=f330e769]
+                  - generic [ref=f330e770]:
+                    - generic [ref=f330e771]: AWMシリーズ
+                    - generic [ref=f330e772]:
+                      - paragraph [ref=f330e773]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e774]: "4.0"
+                      - generic [ref=f330e777]:
+                        - generic [ref=f330e778]: 
+                        - generic [ref=f330e779]: 
+                        - generic [ref=f330e780]: 
+                        - generic [ref=f330e781]: 
+                        - generic [ref=f330e782]: 
+                    - generic [ref=f330e783]: 工事費込み 114,525円(税込)～
+              - listitem [ref=f330e784]:
+                - link "パナソニックロゴ MSシリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ MSシリーズ 平均レビュー 4.0      工事費込み 74,062円(税込)～" [ref=f330e785] [cursor=pointer]:
+                  - /url: /washlet/panasonic/toware_01/
+                  - img "パナソニックロゴ" [ref=f330e787]
+                  - img "MSシリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ" [ref=f330e789]
+                  - generic [ref=f330e790]:
+                    - generic [ref=f330e791]: MSシリーズ
+                    - generic [ref=f330e792]:
+                      - paragraph [ref=f330e793]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e794]: "4.0"
+                      - generic [ref=f330e797]:
+                        - generic [ref=f330e798]: 
+                        - generic [ref=f330e799]: 
+                        - generic [ref=f330e800]: 
+                        - generic [ref=f330e801]: 
+                        - generic [ref=f330e802]: 
+                    - generic [ref=f330e803]: 工事費込み 74,062円(税込)～
+              - listitem [ref=f330e804]:
+                - link "パナソニックロゴ MTシリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ MTシリーズ 平均レビュー 4.7      工事費込み 54,984円(税込)～" [ref=f330e805] [cursor=pointer]:
+                  - /url: /washlet/panasonic/toware_02/
+                  - img "パナソニックロゴ" [ref=f330e807]
+                  - img "MTシリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ" [ref=f330e809]
+                  - generic [ref=f330e810]:
+                    - generic [ref=f330e811]: MTシリーズ
+                    - generic [ref=f330e812]:
+                      - paragraph [ref=f330e813]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e814]: "4.7"
+                      - generic [ref=f330e817]:
+                        - generic [ref=f330e818]: 
+                        - generic [ref=f330e819]: 
+                        - generic [ref=f330e820]: 
+                        - generic [ref=f330e821]: 
+                        - generic [ref=f330e822]: 
+                    - generic [ref=f330e823]: 工事費込み 54,984円(税込)～
+              - listitem [ref=f330e824]:
+                - link "パナソニックロゴ 96シリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ 96シリーズ 平均レビュー 4.5      工事費込み 40,794円(税込)～" [ref=f330e825] [cursor=pointer]:
+                  - /url: /washlet/panasonic/toware/
+                  - img "パナソニックロゴ" [ref=f330e827]
+                  - img "96シリーズ │Panasonic(パナソニック) 温水洗浄便座 ビューティ・トワレ" [ref=f330e829]
+                  - generic [ref=f330e830]:
+                    - generic [ref=f330e831]: 96シリーズ
+                    - generic [ref=f330e832]:
+                      - paragraph [ref=f330e833]:
+                        - text: 平均レビュー
+                        - generic [ref=f330e834]: "4.5"
+                      - generic [ref=f330e837]:
+                        - generic [ref=f330e838]: 
+                        - generic [ref=f330e839]: 
+                        - generic [ref=f330e840]: 
+                        - generic [ref=f330e841]: 
+                        - generic [ref=f330e842]: 
+                    - generic [ref=f330e843]: 工事費込み 40,794円(税込)～
+      - heading "7月31日更新 トイレ便座 お客様の声・施工事例" [level=2] [ref=f330e844]:
+        - generic [ref=f330e845]: 7月31日更新
+        - paragraph [ref=f330e846]: トイレ便座 お客様の声・施工事例
+      - heading "トイレ便座を交換したお客様の声" [level=3] [ref=f330e847]
+      - generic [ref=f330e849]:
+        - link "2026/7/24 NEW 埼玉県ふじみ野市のお客様 「見積りのメールが丁寧でわかりやすく、トイレのオート便器洗浄を間違えて設定していましたが、提案も的確で助かった部分もありま…" [ref=f330e850] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98734
+          - generic [ref=f330e851]:
+            - generic [ref=f330e852]: 2026/7/24
+            - generic [ref=f330e853]: NEW
+          - figure "埼玉県ふじみ野市のお客様" [ref=f330e854]:
+            - img "2026/7/24 埼玉県ふじみ野市のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e857]: 「見積りのメールが丁寧でわかりやすく、トイレのオート便器洗浄を間違えて設定していましたが、提案も的確で助かった部分もありま…
+        - link "2026/7/22 東京都品川区のお客様 「ホームページで必要な機種はすぐに見つかり、迅速に見積り頂きました。工事当日は午後を希望していましたが、昼前になるとの事で…" [ref=f330e858] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98494
+          - generic [ref=f330e859]: 2026/7/22
+          - figure "東京都品川区のお客様" [ref=f330e861]:
+            - img "2026/7/22 東京都品川区のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e864]: 「ホームページで必要な機種はすぐに見つかり、迅速に見積り頂きました。工事当日は午後を希望していましたが、昼前になるとの事で…
+        - link "2026/6/5 京都府向日市のお客様 「3月中旬頃、トイレシャワーが使用不可となったため交換を検討した。今どきのツールGoogle Geminiにたずねたところ見積候補に御社…" [ref=f330e865] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98132
+          - generic [ref=f330e866]: 2026/6/5
+          - figure "京都府向日市のお客様" [ref=f330e868]:
+            - img "2026/6/5 京都府向日市のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e871]: 「3月中旬頃、トイレシャワーが使用不可となったため交換を検討した。今どきのツールGoogle Geminiにたずねたところ見積候補に御社…
+        - link "2026/6/3 京都府京都市のお客様 「ウォシュレットの水が出なくなり、設置から15年以上が経過しているため、修理でなく交換を決定しました。交換できるくんは、イン…" [ref=f330e872] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98080
+          - generic [ref=f330e873]: 2026/6/3
+          - figure "京都府京都市のお客様" [ref=f330e875]:
+            - img "2026/6/3 京都府京都市のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e878]: 「ウォシュレットの水が出なくなり、設置から15年以上が経過しているため、修理でなく交換を決定しました。交換できるくんは、イン…
+        - link "2026/5/15 奈良県磯城郡のお客様 「通常の古い便器、便座でウォシュレットでないので、1，2階とも取替たいと思った。当初は2階は便座だけにしようと思ってたが、便器…" [ref=f330e879] [cursor=pointer]:
+          - /url: /voice/index.php/archives/97603
+          - generic [ref=f330e880]: 2026/5/15
+          - figure "奈良県磯城郡のお客様" [ref=f330e882]:
+            - img "2026/5/15 奈良県磯城郡のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e885]: 「通常の古い便器、便座でウォシュレットでないので、1，2階とも取替たいと思った。当初は2階は便座だけにしようと思ってたが、便器…
+        - link "2026/5/11 広島県広島市のお客様 「トイレが水漏れしていたので交換を検討しました。交換できるくんは、ネットで知りました。以前も別の場所をして頂いて良かったの…" [ref=f330e886] [cursor=pointer]:
+          - /url: /voice/index.php/archives/97595
+          - generic [ref=f330e887]: 2026/5/11
+          - figure "広島県広島市のお客様" [ref=f330e889]:
+            - img "2026/5/11 広島県広島市のお客様｜ウォシュレット交換の施工事例"
+          - paragraph [ref=f330e892]: 「トイレが水漏れしていたので交換を検討しました。交換できるくんは、ネットで知りました。以前も別の場所をして頂いて良かったの…
+      - link "お客様の声をもっと見る" [ref=f330e894] [cursor=pointer]:
+        - /url: /voice/index.php/archives/tag/washlet
+      - heading "トイレ便座の施工事例" [level=3] [ref=f330e895]
+      - generic [ref=f330e897]:
+        - link "2026/07/31 NEW 埼玉県さいたま市大宮区のお客様 TOTO ウォシュレット 『TCF4714AK』 時計アイコン 約1時間" [ref=f330e898] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_qr/133483/
+          - generic [ref=f330e899]:
+            - generic [ref=f330e900]: 2026/07/31
+            - generic [ref=f330e901]: NEW
+          - figure "埼玉県さいたま市大宮区のお客様" [ref=f330e902]:
+            - img "2026/07/31 埼玉県さいたま市大宮区のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e904]:
+            - paragraph [ref=f330e905]: TOTO ウォシュレット 『TCF4714AK』
+            - generic [ref=f330e906]:
+              - img "時計アイコン" [ref=f330e907]
+              - generic [ref=f330e908]: 約1時間
+        - link "2026/07/09 神奈川県横浜市中区のお客様 TOTO ウォシュレット 『TCF6624』 時計アイコン 約1時間" [ref=f330e909] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_ex/133063/
+          - generic [ref=f330e910]: 2026/07/09
+          - figure "神奈川県横浜市中区のお客様" [ref=f330e912]:
+            - img "2026/07/09 神奈川県横浜市中区のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e914]:
+            - paragraph [ref=f330e915]: TOTO ウォシュレット 『TCF6624』
+            - generic [ref=f330e916]:
+              - img "時計アイコン" [ref=f330e917]
+              - generic [ref=f330e918]: 約1時間
+        - link "2026/07/09 東京都足立区のお客様 TOTO ウォシュレット 『TCF6624』 時計アイコン 約1時間" [ref=f330e919] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_mr/133059/
+          - generic [ref=f330e920]: 2026/07/09
+          - figure "東京都足立区のお客様" [ref=f330e922]:
+            - img "2026/07/09 東京都足立区のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e924]:
+            - paragraph [ref=f330e925]: TOTO ウォシュレット 『TCF6624』
+            - generic [ref=f330e926]:
+              - img "時計アイコン" [ref=f330e927]
+              - generic [ref=f330e928]: 約1時間
+        - link "2026/07/02 兵庫県神戸市北区のお客様 TOTO ウォシュレット 『CS400B+SH401BA』 時計アイコン 約2時間" [ref=f330e929] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_ex/132839/
+          - generic [ref=f330e930]: 2026/07/02
+          - figure "兵庫県神戸市北区のお客様" [ref=f330e932]:
+            - img "2026/07/02 兵庫県神戸市北区のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e934]:
+            - paragraph [ref=f330e935]: TOTO ウォシュレット 『CS400B+SH401BA』
+            - generic [ref=f330e936]:
+              - img "時計アイコン" [ref=f330e937]
+              - generic [ref=f330e938]: 約2時間
+        - link "2026/07/02 東京都葛飾区のお客様 TOTO ウォシュレット 『CS215BPR+SH215BAS』 時計アイコン 約2時間" [ref=f330e939] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_mr/132541/
+          - generic [ref=f330e940]: 2026/07/02
+          - figure "東京都葛飾区のお客様" [ref=f330e942]:
+            - img "2026/07/02 東京都葛飾区のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e944]:
+            - paragraph [ref=f330e945]: TOTO ウォシュレット 『CS215BPR+SH215BAS』
+            - generic [ref=f330e946]:
+              - img "時計アイコン" [ref=f330e947]
+              - generic [ref=f330e948]: 約2時間
+        - link "2026/07/02 大阪府大東市のお客様 TOTO ウォシュレット 『CS215BPR+SH215BAS』 時計アイコン 約6時間" [ref=f330e949] [cursor=pointer]:
+          - /url: /wc/blog/toto/purerest_mr/132537/
+          - generic [ref=f330e950]: 2026/07/02
+          - figure "大阪府大東市のお客様" [ref=f330e952]:
+            - img "2026/07/02 大阪府大東市のお客様｜ウォシュレット交換の施工事例"
+          - generic [ref=f330e954]:
+            - paragraph [ref=f330e955]: TOTO ウォシュレット 『CS215BPR+SH215BAS』
+            - generic [ref=f330e956]:
+              - img "時計アイコン" [ref=f330e957]
+              - generic [ref=f330e958]: 約6時間
+      - link "施工事例をもっと見る" [ref=f330e960] [cursor=pointer]:
+        - /url: /washlet/blog/
+      - heading "温水洗浄便座の交換工事費(まるごとサービスパック)" [level=2] [ref=f330e961]
+      - table [ref=f330e963]:
+        - rowgroup [ref=f330e964]:
+          - row [ref=f330e965]:
+            - cell [ref=f330e966]:
+              - paragraph [ref=f330e968]: 温水洗浄便座の交換
+            - cell [ref=f330e969]:
+              - paragraph [ref=f330e971]: オート洗浄・リモコン洗浄付き温水洗浄便座の交換
+          - row
+          - row [ref=f330e972]:
+            - cell "まるごとサービスパック費用 13,800円(税込)" [ref=f330e973]
+            - cell "まるごとサービスパック費用 16,800円(税込)" [ref=f330e974]
+          - row [ref=f330e975]:
+            - cell [ref=f330e976]:
+              - paragraph [ref=f330e977]: オート洗浄、リモコン洗浄が搭載されていない機種の温水洗浄便座は、全てのメーカー(TOTO、リクシル、パナソニック)共通の工事費となります。普通便座からの交換の場合は、配管分岐作業も含みます。
+            - cell [ref=f330e978]:
+              - paragraph [ref=f330e979]: 使用後、便器から離れると自動で便器を洗浄する「オート洗浄機能」とリモコンのボタン操作だけで便器洗浄ができる「リモコン洗浄機能」が搭載されている機種の工事費です。
+              - link "詳しくはこちら >" [ref=f330e980] [cursor=pointer]:
+                - /url: /washlet/toto/autowash_matching.html
+      - generic [ref=f330e981]:
+        - paragraph [ref=f330e982]: ※給水ホースに接続している分岐金具がはめ込みタイプ（カプラー式）の場合は、ナット式に適応したものに取り替えるためのオプション費が別途かかります。
+        - paragraph [ref=f330e983]: ※トイレ室内にコンセントが無い場合、オプション工事として電源コンセント設置をお受けしています。現場状況によってはアース工事が必要になります。
+        - paragraph [ref=f330e984]: ※東芝のクリーンウォッシュ、サンエイ(SANEI)、カクダイのトイレ便座はお取り扱いしておりません。
+      - generic [ref=f330e985]:
+        - generic [ref=f330e987]:
+          - paragraph [ref=f330e989]: 交換できるくんの温水洗浄便座交換 内訳
+          - generic [ref=f330e990]:
+            - generic [ref=f330e991]:
+              - generic [ref=f330e992]:
+                - figure [ref=f330e993]:
+                  - img "ウォシュレットの商品代金" [ref=f330e994]
+                - paragraph [ref=f330e995]: 商品代金
+              - generic [ref=f330e996]: 25,190円(税込)～
+            - figure [ref=f330e997]:
+              - img "＋アイコン" [ref=f330e998]
+            - generic [ref=f330e999]:
+              - generic [ref=f330e1000]:
+                - figure [ref=f330e1001]:
+                  - img "まるごとサービスパック(基本工事費含む)" [ref=f330e1002]
+                - paragraph [ref=f330e1003]: まるごとサービスパック
+              - generic [ref=f330e1004]: 13,800円(税込)～
+            - figure [ref=f330e1005]:
+              - img "＋アイコン" [ref=f330e1006]
+            - generic [ref=f330e1007]:
+              - generic [ref=f330e1008]:
+                - figure [ref=f330e1009]:
+                  - img "全品無料10年保証" [ref=f330e1010]
+                - paragraph [ref=f330e1011]:
+                  - text: 商品･工事
+                  - superscript [ref=f330e1012]: ※
+                  - text: 全品10年保証
+              - generic [ref=f330e1013]: 無料
+        - generic [ref=f330e1015]:
+          - generic [ref=f330e1016]: 「まるごとサービスパック」は 下記すべて含めたコミコミ価格!
+          - generic [ref=f330e1019]:
+            - generic [ref=f330e1020]:
+              - img "基本工事費・撤去費｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1022]
+              - paragraph [ref=f330e1025]: 基本工事費撤去費
+            - generic [ref=f330e1026]:
+              - img "出張費・運搬費｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1028]
+              - paragraph [ref=f330e1031]: 出張費運搬費
+            - generic [ref=f330e1032]:
+              - img "部材費・室内養生費｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1034]
+              - paragraph [ref=f330e1037]: 部材費室内養生費
+            - generic [ref=f330e1038]:
+              - img "設置前清掃｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1040]
+              - paragraph [ref=f330e1043]: 設置前清掃使用説明
+            - generic [ref=f330e1044]:
+              - img "廃棄処分費｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1046]
+              - paragraph [ref=f330e1049]: 廃材運搬処分
+            - generic [ref=f330e1050]:
+              - img "諸経費・事務経費｜ウォシュレット交換の基本工事費・工賃に含まれる項目" [ref=f330e1052]
+              - paragraph [ref=f330e1055]: 諸経費事務経費
+        - paragraph [ref=f330e1056]: ※無料10年保証は2022年10月1日以降のお見積り依頼から対象となります。
+        - paragraph [ref=f330e1057]: ※養生範囲は「室内で交換作業をするスペース」になります。それ以外（マンションのエントランス、エレベーターなど）をご希望の場合はご相談ください（別費用となります）。
+      - link "ウォシュレット(トイレ便座交換)の工事費・オプション費について >" [ref=f330e1059] [cursor=pointer]:
+        - /url: /washlet/const/
+      - heading "温水洗浄便座交換の流れ" [level=3] [ref=f330e1060]
+      - generic [ref=f330e1062]:
+        - generic [ref=f330e1063]:
+          - heading "1 商品を選ぶ" [level=4] [ref=f330e1064]:
+            - generic [ref=f330e1065]: "1"
+            - text: 商品を選ぶ
+          - generic [ref=f330e1066]:
+            - figure [ref=f330e1067]:
+              - img "商品を選ぶ|ウォシュレット 交換・リフォームの流れ【交換できるくん】" [ref=f330e1068]
+            - paragraph [ref=f330e1069]: 交換されたいウォシュレットをお選びください。当社にてお客様にあった商品をご案内することも可能です。
+        - generic [ref=f330e1070]:
+          - heading "2 見積りをご依頼" [level=4] [ref=f330e1071]:
+            - generic [ref=f330e1072]: "2"
+            - text: 見積りをご依頼
+          - generic [ref=f330e1073]:
+            - figure [ref=f330e1074]:
+              - img "見積りをご依頼|ウォシュレット 交換・リフォームの流れ【交換できるくん】" [ref=f330e1075]
+            - paragraph [ref=f330e1076]: ウォシュレットが決まったら見積りをご依頼ください。現行の画像をお送りいただければ、設置適合確認も当社で行います。
+        - generic [ref=f330e1077]:
+          - heading "3 ご注文" [level=4] [ref=f330e1078]:
+            - generic [ref=f330e1079]: "3"
+            - text: ご注文
+          - generic [ref=f330e1080]:
+            - figure [ref=f330e1081]:
+              - img "ご注文|ウォシュレット 交換・リフォームの流れ【交換できるくん】" [ref=f330e1082]
+            - paragraph [ref=f330e1083]: 見積りの内容にご納得いただいたらご注文手続きをお願いいたします。工事日程のご希望をお伺いします。
+        - generic [ref=f330e1084]:
+          - heading "4 工事お伺い" [level=4] [ref=f330e1085]:
+            - generic [ref=f330e1086]: "4"
+            - text: 工事お伺い
+          - generic [ref=f330e1087]:
+            - figure [ref=f330e1088]:
+              - img "交換工事|ウォシュレット 交換・リフォームの流れ【交換できるくん】" [ref=f330e1089]
+            - paragraph [ref=f330e1090]: 工事担当が商品を持って、お客様のご自宅へお伺いし、交換工事一式（本体及び分岐金具の止水栓接続や給水ホース取り付け等）を行います。
+      - generic [ref=f330e1092]:
+        - link [ref=f330e1093] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+          - generic [ref=f330e1094]:
+            - paragraph [ref=f330e1095]: 工事対応エリアを確認 ▲
+            - paragraph [ref=f330e1096]: 札幌・仙台・関東・東海・関西中国・福岡の7都市圏に対応！
+        - generic [ref=f330e1097]:
+          - link [ref=f330e1098] [cursor=pointer]:
+            - /url: /guar/
+            - img "工事保証について" [ref=f330e1099]
+          - link [ref=f330e1100] [cursor=pointer]:
+            - /url: /site_guide/use/pay.html
+            - img "お支払いについて" [ref=f330e1101]
+      - generic [ref=f330e1102]:
+        - link "おまとめ工事割引実施中！":
+          - /url: /construction/campaign/omatome.html
+          - img "おまとめ工事割引実施中！"
+      - link [ref=f330e1104] [cursor=pointer]:
+        - /url: /system/estimateForm/form/washlet/
+        - img "ウォシュレットかんたんネット見積りはこちら" [ref=f330e1105]
+      - heading "温水洗浄便座交換の良くある質問" [level=2] [ref=f330e1106]
+      - list [ref=f330e1108]:
+        - listitem [ref=f330e1109]:
+          - paragraph [ref=f330e1111] [cursor=pointer]: Q.ウォシュレットやトイレ便座の交換費用は総額でいくらぐらい？
+          - generic:
+            - text: A.
+            - generic:
+              - paragraph [ref=f330e1112]: トイレ便座の種類により異なりますが、「温水洗浄便座」は工事費込みで３万円台～、洗浄機能が搭載されていない「普通便座・暖房便座」は商品代のみで４千円台～が費用相場の目安となります。交換できるくんでは普通便座・暖房便座の交換工事はお受けしておりませんので、ご了承ください。温水洗浄便座で価格差が生まれるポイントは主に機能の違いによるものです。上位の機種になると「温風乾燥機能」や「便フタ自動開閉機能」など選べる快適機能が多くなります。
+              - link "ウォシュレット・温水洗浄便座の費用と機能比較について >" [ref=f330e1113] [cursor=pointer]:
+                - /url: /washlet/function/
+        - listitem [ref=f330e1114]:
+          - paragraph [ref=f330e1116] [cursor=pointer]: Q.選んだ温水洗浄便座(トイレ便座)に合う便器はどれ？
+          - generic:
+            - text: A.
+            - generic:
+              - paragraph [ref=f330e1117]: トイレの種類は「組み合わせトイレ」、「一体型トイレ」、「タンクレストイレ」の３種類ありますが、選んだ温水洗浄便座を自由にセットできるのは「組み合わせトイレ」となります。 違うメーカー同士でも組み合わせて使用することができますが、一体感を重視するなら同じメーカーのセットをおすすめしています。 見た目にある程度目をつむるならコスパの良いパナソニックとTOTO・LIXILの組み合わせも問題ありません。
+              - link "違うメーカーの便器と便座を合わせた例 >" [ref=f330e1118] [cursor=pointer]:
+                - /url: /washlet/panasonic/toware/match/
+              - link "トイレ本体も同時に交換される場合はこちら >" [ref=f330e1119] [cursor=pointer]:
+                - /url: /wc/
+        - listitem [ref=f330e1120]:
+          - paragraph [ref=f330e1122] [cursor=pointer]: Q.人気のウォシュレットやトイレ便座はどれ？
+          - generic:
+            - text: A.
+            - generic:
+              - paragraph [ref=f330e1123]: 交換できるくんでは販売台数を元に売れ筋のおすすめランキングを定期更新しています。 機種ごとに人気の理由を、機能面やコスト面からコメントしていますので温水洗浄便座選びのご参考に活用ください。
+              - link "ウォシュレット・温水洗浄便座の人気ランキング >" [ref=f330e1124] [cursor=pointer]:
+                - /url: /washlet/ranking/
+        - listitem [ref=f330e1125]:
+          - paragraph [ref=f330e1127] [cursor=pointer]: Q.トイレ便座にサイズはあるの？
+          - generic:
+            - text: A.
+            - generic:
+              - paragraph [ref=f330e1128]: 便座のサイズには、便器の大きさに合わせてエロンゲートといわれる大形サイズとレギュラーといわれる普通サイズの２タイプあります。普通便座・暖房便座では２タイプ販売されている場合がありますが、温水洗浄便座ではエロンゲート（大形）とレギュラー（普通）が兼用タイプのため、ご選択いただきやすくなっています。
+              - link "温水洗浄便座のサイズについて >" [ref=f330e1129] [cursor=pointer]:
+                - /url: /washlet/size/
+        - listitem [ref=f330e1130]:
+          - paragraph [ref=f330e1132] [cursor=pointer]: Q.ウォシュレットや温水洗浄便座の交換にかかる時間はどれくらい？
+          - generic:
+            - text: A.
+            - generic:
+              - paragraph [ref=f330e1133]: トイレ便座のみの交換であれば約1～2時間ほどが目安になります。 トイレ本体交換で約2～3時間、床や壁の張り替えを含めたトイレリフォームで半日～1日ほどの施工時間で完了いたします。 ※いずれも交換できるくんで施工した場合にかかる時間の目安です。
+              - link "トイレ便座や便器交換にかかる時間について >" [ref=f330e1134] [cursor=pointer]:
+                - /url: /wc/how/duration/
+      - heading "「実物を見ながら検討したい」「担当者と直接会って相談したい」というお客様" [level=2] [ref=f330e1135]
+      - generic [ref=f330e1136]:
+        - generic [ref=f330e1137]:
+          - text: 当社のショールーム（東京・大阪）に、TOTO・LIXIL（リクシル）の人気シリーズを展示しております。 お気軽にご来店ください。
+          - link "ショールームのご案内はこちら":
+            - /url: /sr/showroom.html
+            - img "ショールームのご案内はこちら"
+        - generic [ref=f330e1138]:
+          - img "交換できるくん ショールーム担当スタッフ" [ref=f330e1139]
+          - img "交換できるくん ショールーム内トイレ" [ref=f330e1140]
+      - heading "温水洗浄便座(ウォシュレット・シャワートイレ) 人気ページ" [level=3] [ref=f330e1141]
+      - generic [ref=f330e1143]:
+        - link [ref=f330e1144] [cursor=pointer]:
+          - /url: /washlet/
+          - img "ウォシュレット（温水洗浄便座） トップページ" [ref=f330e1146]
+          - paragraph [ref=f330e1147]: 温水洗浄便座 トップページ ウォシュレットなどが驚きのネット特価でお安く交換できます。
+        - link [ref=f330e1148] [cursor=pointer]:
+          - /url: /washlet/conditions/
+          - img "ウォシュレット（温水洗浄便座） 設置できる？条件を確認" [ref=f330e1150]
+          - paragraph [ref=f330e1151]: 設置できる？条件を確認 ご自宅でお使いのトイレに設置できる？確認ポイントをまとめました。
+        - link [ref=f330e1152] [cursor=pointer]:
+          - /url: /washlet/ranking/
+          - img "温水洗浄便座 人気ランキング" [ref=f330e1154]
+          - paragraph [ref=f330e1155]: 温水洗浄便座 人気ランキング 売れ筋おすすめ機種をランキング形式でご紹介します。
+        - link [ref=f330e1156] [cursor=pointer]:
+          - /url: /washlet/toto/apricot/
+          - img "ウォシュレット（温水洗浄便座） TOTO アプリコット" [ref=f330e1158]
+          - paragraph [ref=f330e1159]: TOTO アプリコット 当社、大人気ウォシュレット「アプリコット」特集ページです。
+        - link [ref=f330e1160] [cursor=pointer]:
+          - /url: /washlet/toto/ss/
+          - img "ウォシュレット（温水洗浄便座） TOTO SSシリーズ" [ref=f330e1162]
+          - paragraph [ref=f330e1163]: TOTO SSシリーズ 掃除のしやすさとお手頃な価格が人気、ウォシュレットSS1がおすすめです。
+        - link "温水洗浄便座 取付け工事費 13,800円～ 温水洗浄便座の取付け工事費 交換できるくんなら追加費用なし。7大都市圏で交換工事に駆けつけます。" [ref=f330e1164] [cursor=pointer]:
+          - /url: /washlet/const/
+          - generic [ref=f330e1166]:
+            - img "温水洗浄便座 取付け工事費" [ref=f330e1167]
+            - generic [ref=f330e1168]: 13,800円～
+          - paragraph [ref=f330e1169]: 温水洗浄便座の取付け工事費 交換できるくんなら追加費用なし。7大都市圏で交換工事に駆けつけます。
+    - generic [ref=f330e1171]:
+      - link [ref=f330e1173] [cursor=pointer]:
+        - /url: /washlet/ranking/
+        - img "ウォシュレット・温水洗浄便座人気・売れ筋ランキング" [ref=f330e1174]
+      - list [ref=f330e1175]:
+        - generic [ref=f330e1177]:
+          - text: 温水洗浄便座
+          - paragraph [ref=f330e1178]: ウォシュレット・シャワートイレ
+        - listitem [ref=f330e1179]:
+          - generic [ref=f330e1180]: 温水洗浄便座TOP
+        - listitem [ref=f330e1181]:
+          - link "サイトマップ" [ref=f330e1182] [cursor=pointer]:
+            - /url: /washlet/sitemap/
+      - list [ref=f330e1183]:
+        - generic [ref=f330e1184]: 温水洗浄便座の選び方
+        - listitem [ref=f330e1186]:
+          - link "温水洗浄便座の選び方" [ref=f330e1187] [cursor=pointer]:
+            - /url: /washlet/choice/
+        - listitem [ref=f330e1188]:
+          - link "設置条件を確認する" [ref=f330e1189] [cursor=pointer]:
+            - /url: /washlet/conditions/
+        - listitem [ref=f330e1190]:
+          - link "機能で比較する" [ref=f330e1191] [cursor=pointer]:
+            - /url: /washlet/function/
+        - listitem [ref=f330e1192]:
+          - link "節電で比較する" [ref=f330e1193] [cursor=pointer]:
+            - /url: /washlet/save_electricity/
+        - listitem [ref=f330e1194]:
+          - link "リテールモデルとの違い" [ref=f330e1195] [cursor=pointer]:
+            - /url: /washlet/official_retail/
+        - listitem [ref=f330e1196]:
+          - link "便器も一緒に交換がお得" [ref=f330e1197] [cursor=pointer]:
+            - /url: /washlet/toilet_change/
+      - list [ref=f330e1198]:
+        - generic [ref=f330e1199]: 温水洗浄便座を選ぶ
+        - listitem [ref=f330e1201]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f330e1202] [cursor=pointer]:
+            - /url: /washlet/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f330e1203]:
+          - link "人気ランキングから選ぶ" [ref=f330e1204] [cursor=pointer]:
+            - /url: /washlet/ranking/
+        - listitem [ref=f330e1205]:
+          - link "TOTOロゴ ウォシュレットTOP >" [ref=f330e1206] [cursor=pointer]:
+            - /url: /washlet/toto/
+            - img "TOTOロゴ" [ref=f330e1207]
+            - generic [ref=f330e1208]: ウォシュレットTOP >
+        - listitem [ref=f330e1209]:
+          - link "アプリコット" [ref=f330e1210] [cursor=pointer]:
+            - /url: /washlet/toto/apricot/
+        - listitem [ref=f330e1211]:
+          - link "SSシリーズ" [ref=f330e1212] [cursor=pointer]:
+            - /url: /washlet/toto/ss/
+        - listitem [ref=f330e1213]:
+          - link "ウォシュレット一体形 取替機能部" [ref=f330e1214] [cursor=pointer]:
+            - /url: /washlet/toto/z_spare/
+            - text: ウォシュレット一体形取替機能部
+        - listitem [ref=f330e1215]:
+          - link "P/PSシリーズ" [ref=f330e1216] [cursor=pointer]:
+            - /url: /washlet/toto/ps-p/
+        - listitem [ref=f330e1217]:
+          - link "暖房便座・普通便座" [ref=f330e1218] [cursor=pointer]:
+            - /url: /washlet/benza/toto/
+        - listitem [ref=f330e1219]:
+          - link "LIXILロゴ シャワートイレTOP >" [ref=f330e1220] [cursor=pointer]:
+            - /url: /washlet/inax/
+            - img "LIXILロゴ" [ref=f330e1221]
+            - generic [ref=f330e1222]: シャワートイレTOP >
+        - listitem [ref=f330e1223]:
+          - link "New PASSO" [ref=f330e1224] [cursor=pointer]:
+            - /url: /washlet/inax/passo/
+        - listitem [ref=f330e1225]:
+          - link "VAシリーズ" [ref=f330e1226] [cursor=pointer]:
+            - /url: /washlet/inax/va/
+        - listitem [ref=f330e1227]:
+          - link "KB/KAシリーズ" [ref=f330e1228] [cursor=pointer]:
+            - /url: /washlet/inax/kbka/
+        - listitem [ref=f330e1229]:
+          - link "旧カスカディーナ対応品" [ref=f330e1230] [cursor=pointer]:
+            - /url: /washlet/inax/ks220/
+        - listitem [ref=f330e1231]:
+          - link "暖房便座・普通便座" [ref=f330e1232] [cursor=pointer]:
+            - /url: /washlet/benza/lixil/
+        - listitem [ref=f330e1233]:
+          - link "パナソニックロゴ 温水洗浄便座TOP ビューティ・トワレ >" [ref=f330e1234] [cursor=pointer]:
+            - /url: /washlet/panasonic/
+            - img "パナソニックロゴ" [ref=f330e1235]
+            - generic [ref=f330e1236]: 温水洗浄便座TOP
+            - generic [ref=f330e1237]: ビューティ・トワレ >
+        - listitem [ref=f330e1238]:
+          - link "96シリーズ" [ref=f330e1239] [cursor=pointer]:
+            - /url: /washlet/panasonic/toware/
+        - listitem [ref=f330e1240]:
+          - link "96シリーズと 組み合わせられるトイレ" [ref=f330e1241] [cursor=pointer]:
+            - /url: /washlet/panasonic/toware/match/
+            - text: 96シリーズと組み合わせられるトイレ
+        - listitem [ref=f330e1242]:
+          - link "MTシリーズ" [ref=f330e1243] [cursor=pointer]:
+            - /url: /washlet/panasonic/toware_02/
+        - listitem [ref=f330e1244]:
+          - link "MSシリーズ" [ref=f330e1245] [cursor=pointer]:
+            - /url: /washlet/panasonic/toware_01/
+        - listitem [ref=f330e1246]:
+          - link "AWMシリーズ (泡コートトワレ)" [ref=f330e1247] [cursor=pointer]:
+            - /url: /washlet/panasonic/awa_toware/
+            - text: AWMシリーズ(泡コートトワレ)
+      - list [ref=f330e1248]:
+        - generic [ref=f330e1249]: 取付・交換工事について
+        - listitem [ref=f330e1251]:
+          - link "取付・交換工事費" [ref=f330e1252] [cursor=pointer]:
+            - /url: /washlet/const/
+        - listitem [ref=f330e1253]:
+          - link "工事対応エリア" [ref=f330e1254] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f330e1255]:
+          - link "無料10年保証" [ref=f330e1256] [cursor=pointer]:
+            - /url: /guar/
+      - list [ref=f330e1257]:
+        - generic [ref=f330e1258]: お客様の声・施工事例
+        - listitem [ref=f330e1260]:
+          - link "お客様の声" [ref=f330e1261] [cursor=pointer]:
+            - /url: /voice/?s=%E3%82%A6%E3%82%A9%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%88&x=0&y=0
+        - listitem [ref=f330e1262]:
+          - link "施工事例" [ref=f330e1263] [cursor=pointer]:
+            - /url: /washlet/blog/
+        - listitem [ref=f330e1264]:
+          - link "スタッフブログ" [ref=f330e1265] [cursor=pointer]:
+            - /url: /staff/?s=washlet
+        - listitem [ref=f330e1266]:
+          - link "商品レビュー" [ref=f330e1267] [cursor=pointer]:
+            - /url: /review/?category=washlet
+      - list [ref=f330e1268]:
+        - generic [ref=f330e1269]: 関連情報
+        - listitem [ref=f330e1271]:
+          - link "ウォシュレット取付・DIY" [ref=f330e1272] [cursor=pointer]:
+            - /url: /washlet/diy/
+        - listitem [ref=f330e1273]:
+          - link "トイレをまるごと交換" [ref=f330e1274] [cursor=pointer]:
+            - /url: /wc/how/whole/
+      - list [ref=f330e1275]:
+        - generic [ref=f330e1276]: 関連商品
+        - listitem [ref=f330e1278]:
+          - link "トイレ交換・リフォーム" [ref=f330e1279] [cursor=pointer]:
+            - /url: /wc/
+        - listitem [ref=f330e1280]:
+          - link "紙巻器・タオル掛け" [ref=f330e1281] [cursor=pointer]:
+            - /url: /wc/acce/
+        - listitem [ref=f330e1282]:
+          - link "トイレ用擬音装置" [ref=f330e1283] [cursor=pointer]:
+            - /url: /wc/sound/
+  - generic [ref=f330e1285]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f330e1287] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f330e1288]
+      - generic [ref=f330e1289]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f330e1291] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f330e1292]
+      - generic [ref=f330e1293]: 天井エアコン
+    - link "トイレ トイレ" [ref=f330e1295] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f330e1296]
+      - generic [ref=f330e1297]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f330e1299] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f330e1300]
+      - generic [ref=f330e1301]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f330e1303] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f330e1304]
+      - generic [ref=f330e1305]: 給湯器
+    - link "エコキュート エコキュート" [ref=f330e1307] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f330e1308]
+      - generic [ref=f330e1309]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f330e1311] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f330e1312]
+      - generic [ref=f330e1313]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f330e1315] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f330e1316]
+      - generic [ref=f330e1317]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f330e1319] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f330e1320]
+      - generic [ref=f330e1321]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f330e1323] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f330e1324]
+      - generic [ref=f330e1325]: レンジフード
+    - link "蛇口 蛇口" [ref=f330e1327] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f330e1328]
+      - generic [ref=f330e1329]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f330e1331] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f330e1332]
+      - generic [ref=f330e1333]: 浴室乾燥機
+    - generic [ref=f330e1334]: その他>>
+  - navigation [ref=f330e1336]:
+    - generic [ref=f330e1337]:
+      - generic [ref=f330e1338]:
+        - generic [ref=f330e1339]: 温水洗浄便座
+        - generic [ref=f330e1346]: 総合メニュー
+      - generic [ref=f330e1353]:
+        - link "人気ランキング" [ref=f330e1354] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f330e1356] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f330e1358] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f330e1360] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f330e1362] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f330e1364] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f330e1366]:
+    - generic [ref=f330e1367]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f330e1370]
+    - generic [ref=f330e1371]:
+      - generic [ref=f330e1372]:
+        - term [ref=f330e1373]:
+          - img "サービス案内" [ref=f330e1374]
+          - text: サービス案内
+        - definition [ref=f330e1375]:
+          - list [ref=f330e1376]:
+            - listitem [ref=f330e1377]:
+              - link "ご利用の流れ" [ref=f330e1378] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f330e1379]:
+              - link "無料10年保証" [ref=f330e1380] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f330e1381]:
+              - link "工事対応エリア" [ref=f330e1382] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f330e1383]:
+              - link "工事価格表" [ref=f330e1384] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f330e1385]:
+              - link "おまとめ工事割引" [ref=f330e1386] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f330e1387]:
+              - link "お支払い方法" [ref=f330e1388] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f330e1389]:
+              - link "よくあるご質問" [ref=f330e1390] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f330e1391]:
+              - link "営業日カレンダー" [ref=f330e1392] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f330e1393]:
+        - term [ref=f330e1394]:
+          - img "情報コンテンツ" [ref=f330e1395]
+          - text: 情報コンテンツ
+        - definition [ref=f330e1396]:
+          - list [ref=f330e1397]:
+            - listitem [ref=f330e1398]:
+              - link "最新情報・お知らせ" [ref=f330e1399] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f330e1400]:
+              - link "売れ筋・人気ランキング" [ref=f330e1401] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f330e1402]:
+              - link "お客様の声" [ref=f330e1403] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f330e1404]:
+              - link "施工事例" [ref=f330e1405] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f330e1406]:
+              - link "商品レビュー" [ref=f330e1407] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f330e1408]:
+              - link "かんたん検索一覧" [ref=f330e1409] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f330e1410]:
+              - link "閲覧した商品の履歴" [ref=f330e1411] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f330e1412]:
+              - link "動画コンテンツ" [ref=f330e1413] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f330e1414]:
+        - term [ref=f330e1415]:
+          - img "企業情報" [ref=f330e1416]
+          - text: 企業情報
+        - definition [ref=f330e1417]:
+          - listitem [ref=f330e1418]:
+            - link "会社概要" [ref=f330e1419] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f330e1420]:
+            - link "選ばれる理由" [ref=f330e1421] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f330e1422]:
+            - link "ショールーム（東京・大阪）" [ref=f330e1423] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f330e1424]:
+            - link "スタッフ紹介" [ref=f330e1425] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f330e1426]:
+            - link "スタッフブログ" [ref=f330e1427] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f330e1428]:
+            - link "リフォームからチェンジへ" [ref=f330e1429] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f330e1430]:
+            - link "活動レポート" [ref=f330e1431] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f330e1432]:
+          - link [ref=f330e1434] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f330e1438] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f330e1442] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f330e1446] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f330e1450] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f330e1454] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f330e1457]:
+        - link [ref=f330e1458] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f330e1462]: お問い合わせ一覧
+        - link [ref=f330e1463] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f330e1467]: マイページ・会員登録
+        - link [ref=f330e1468] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f330e1469]
+        - paragraph [ref=f330e1470]: 個人情報保護の認証取得
+    - generic [ref=f330e1471]:
+      - paragraph [ref=f330e1472]: 企業サイト
+      - generic [ref=f330e1473]:
+        - list [ref=f330e1474]:
+          - listitem [ref=f330e1475]:
+            - link "コーポレートサイト" [ref=f330e1476] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f330e1477]
+          - listitem [ref=f330e1478]:
+            - link "投資家向けサイト" [ref=f330e1479] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f330e1480]
+          - listitem [ref=f330e1481]:
+            - link "採用情報サイト" [ref=f330e1482] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f330e1483]
+          - listitem [ref=f330e1484]:
+            - link "交換技能アカデミー" [ref=f330e1485] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f330e1486]
+        - list [ref=f330e1487]:
+          - listitem [ref=f330e1488]:
+            - link [ref=f330e1489] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f330e1490]:
+                - paragraph [ref=f330e1491]: 東証グロースに上場しています
+                - paragraph [ref=f330e1492]: 証券コード 7695
+              - figure [ref=f330e1493]:
+                - img "東証(JPX)ロゴ" [ref=f330e1494]
+    - generic [ref=f330e1495]:
+      - list [ref=f330e1496]:
+        - listitem [ref=f330e1497]:
+          - link "個人情報の取扱い" [ref=f330e1498] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f330e1499]:
+          - link "特定商取引法に基づく表記" [ref=f330e1500] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f330e1501]:
+          - link "サイト利用規約" [ref=f330e1502] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f330e1503]:
+          - link "コンテンツ著作権" [ref=f330e1504] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f330e1505]:
+          - link "施工スタッフ募集" [ref=f330e1506] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f330e1507]
+      - list [ref=f330e1508]:
+        - listitem [ref=f330e1509]: © Koukandekirukun, Inc. 2001-2026

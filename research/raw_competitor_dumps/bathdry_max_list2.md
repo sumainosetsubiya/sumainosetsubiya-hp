@@ -1,0 +1,990 @@
+- generic [active] [ref=f340e1]:
+  - link [ref=f340e931] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f340e2]:
+    - heading "マックス(MAX) 浴室乾燥機の交換が最大66%OFF｜費用・特徴" [level=1] [ref=f340e5]
+    - generic [ref=f340e8]:
+      - generic [ref=f340e9]:
+        - link [ref=f340e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f340e12]
+        - link [ref=f340e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f340e14]
+        - link [ref=f340e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f340e16]
+      - generic [ref=f340e17]:
+        - generic "検索" [ref=f340e21]:
+          - combobox [ref=f340e22]:
+            - generic [ref=f340e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f340e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f340e26] [cursor=pointer]:
+            - generic [ref=f340e28]: 検索
+        - generic [ref=f340e29]:
+          - link [ref=f340e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f340e32]
+            - paragraph [ref=f340e33]: 閲覧履歴
+          - link [ref=f340e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f340e36]
+            - paragraph [ref=f340e37]: ログイン
+        - link [ref=f340e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f340e40]
+          - paragraph [ref=f340e41]: お問合せ
+        - generic [ref=f340e42]:
+          - link [ref=f340e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f340e45]
+            - paragraph [ref=f340e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f340e47]:
+    - main [ref=f340e48]:
+      - list [ref=f340e50]:
+        - listitem [ref=f340e51]:
+          - link "交換できるくん home" [ref=f340e52] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f340e53]:
+          - link "浴室乾燥機" [ref=f340e54] [cursor=pointer]:
+            - /url: /bath-dry/
+          - text: ">"
+        - listitem [ref=f340e55]:
+          - link "浴室乾燥機の選び方" [ref=f340e56] [cursor=pointer]:
+            - /url: /bath-dry/choice/
+          - text: ">"
+        - listitem [ref=f340e57]:
+          - link "メーカーから選ぶ" [ref=f340e58] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+          - text: ">"
+        - listitem [ref=f340e59]:
+          - link "マックス 浴室乾燥機" [ref=f340e60] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+      - list [ref=f340e62]:
+        - listitem [ref=f340e63]:
+          - img "旗" [ref=f340e64]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f340e65] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f340e66]:
+          - img "旗" [ref=f340e67]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f340e68] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f340e69]:
+        - img "マックス｜浴室乾燥機" [ref=f340e70]
+        - strong [ref=f340e71]: ＼最大66%OFFの特価／
+      - generic [ref=f340e72]:
+        - text: 高性能ながらお求めやすい価格が特徴のマックス。空気清浄機などでもお馴染みの、シャープのプラズマクラスターを搭載した機種も人気です。
+        - generic [ref=f340e73]: ※プラズマクラスターロゴおよび、プラズマクラスター、Plasmaclusterはシャープ株式会社の登録商標です
+      - link "現在お使いの機器の後継機種を検索できます。 浴室乾燥機 後継機種検索はこちら > 浴室乾燥機後継機種検索はこちら" [ref=f340e75] [cursor=pointer]:
+        - /url: /bath-dry/successor/
+        - generic [ref=f340e76]:
+          - paragraph [ref=f340e77]: 現在お使いの機器の後継機種を検索できます。
+          - generic [ref=f340e78]:
+            - generic [ref=f340e79]:
+              - text: 浴室乾燥機
+              - generic [ref=f340e80]: 後継機種検索はこちら >
+            - img "浴室乾燥機後継機種検索はこちら" [ref=f340e82]
+      - heading "マックス 浴室乾燥機(100Vタイプ) 商品一覧" [level=2] [ref=f340e83]
+      - link "換気室数について詳しくはこちら >" [ref=f340e84] [cursor=pointer]:
+        - /url: /bath-dry/choice/#to_basisForChoosing_numberOfRoomsToVentilate
+      - generic [ref=f340e85]:
+        - list [ref=f340e86]:
+          - listitem [ref=f340e87]:
+            - generic [ref=f340e88]: 1室換気
+          - listitem [ref=f340e89]:
+            - link "2室換気" [ref=f340e90] [cursor=pointer]:
+              - /url: "#2roomven"
+          - listitem [ref=f340e91]:
+            - link "3室換気" [ref=f340e92] [cursor=pointer]:
+              - /url: "#3roomven"
+        - generic [ref=f340e93]:
+          - generic [ref=f340e94]:
+            - generic [ref=f340e95]: ドライファン BS-161H-2
+            - generic [ref=f340e96]:
+              - img "ドライファン BS-161H-2" [ref=f340e99]
+              - generic [ref=f340e100]:
+                - list [ref=f340e101]:
+                  - listitem [ref=f340e102]: リモコン付属
+                  - listitem [ref=f340e103]: 100V
+                  - listitem [ref=f340e104]: 運転5モード
+                - generic [ref=f340e105]: メーカー希望小売価格 オープン価格
+                - generic [ref=f340e106]:
+                  - generic [ref=f340e107]: 商品特価 53,900円(税込)
+                  - generic [ref=f340e108]: 商品＋工事費込み 85,800円(税込)
+              - generic [ref=f340e109]:
+                - link "商品詳細 >" [ref=f340e110] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-161H-2/
+                - link "取付工事お見積 >" [ref=f340e111] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=67437&item_id=58275,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e112]:
+            - generic [ref=f340e113]: ドライファン BS-161H-CX-2
+            - generic [ref=f340e114]:
+              - img "ドライファン BS-161H-CX-2" [ref=f340e117]
+              - generic [ref=f340e118]:
+                - list [ref=f340e119]:
+                  - listitem [ref=f340e120]: リモコン付属
+                  - listitem [ref=f340e121]: 100V
+                  - listitem [ref=f340e122]: 運転6モード
+                  - listitem [ref=f340e123]: プラズマクラスター25000
+                - generic [ref=f340e124]: メーカー希望小売価格 オープン価格
+                - generic [ref=f340e125]:
+                  - generic [ref=f340e126]: 商品特価 58,300円(税込)
+                  - generic [ref=f340e127]: 商品＋工事費込み 90,200円(税込)
+              - generic [ref=f340e128]:
+                - link "商品詳細 >" [ref=f340e129] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-161H-CX-2/
+                - link "取付工事お見積 >" [ref=f340e130] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=67436&item_id=58274,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e131]: ※200Vタイプをご希望の場合は、お見積り依頼フォーム「その他 ご質問など」へその旨をご記載ください
+          - link "1室換気タイプ 浴室乾燥機の商品一覧(他メーカー含む)はこちら >" [ref=f340e132] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/#to_1ventilation_list
+      - generic [ref=f340e133]:
+        - list [ref=f340e134]:
+          - listitem [ref=f340e135]:
+            - link "1室換気" [ref=f340e136] [cursor=pointer]:
+              - /url: "#1roomven"
+          - listitem [ref=f340e137]:
+            - generic [ref=f340e138]: 2室換気
+          - listitem [ref=f340e139]:
+            - link "3室換気" [ref=f340e140] [cursor=pointer]:
+              - /url: "#3roomven"
+        - generic [ref=f340e141]:
+          - generic [ref=f340e142]:
+            - generic [ref=f340e143]: ドライファン BS-132HA-1
+            - generic [ref=f340e144]:
+              - img "ドライファン BS-132HA-1" [ref=f340e147]
+              - generic [ref=f340e148]:
+                - list [ref=f340e149]:
+                  - listitem [ref=f340e150]: リモコン付属
+                  - listitem [ref=f340e151]: 100V
+                  - listitem [ref=f340e152]: 運転5モード
+                - generic [ref=f340e153]: メーカー希望小売価格 145,200円(税込)
+                - generic [ref=f340e154]:
+                  - generic [ref=f340e155]: 商品特価 64%OFF 52,272円(税込)
+                  - generic [ref=f340e156]: 交換基本工事費込価格 84,172円(税込)
+              - generic [ref=f340e157]:
+                - link "商品詳細 >" [ref=f340e158] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-132HA-1/
+                - link "取付工事お見積 >" [ref=f340e159] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=70303&item_id=60205,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e160]:
+            - generic [ref=f340e161]: ドライファン BS-132EHA-1
+            - generic [ref=f340e162]:
+              - img "ドライファン BS-132EHA-1" [ref=f340e165]
+              - generic [ref=f340e166]:
+                - list [ref=f340e167]:
+                  - listitem [ref=f340e168]: リモコン付属
+                  - listitem [ref=f340e169]: 100V
+                  - listitem [ref=f340e170]: 運転5モード
+                - generic [ref=f340e171]: メーカー希望小売価格 151,800円(税込)
+                - generic [ref=f340e172]:
+                  - generic [ref=f340e173]: 商品特価 64%OFF 54,648円(税込)
+                  - generic [ref=f340e174]: 交換基本工事費込価格 86,548円(税込)
+              - generic [ref=f340e175]:
+                - link "商品詳細 >" [ref=f340e176] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-132EHA-1/
+                - link "取付工事お見積 >" [ref=f340e177] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=70301&item_id=60203,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e178]:
+            - generic [ref=f340e179]: ドライファン BS-132HM-2
+            - generic [ref=f340e180]:
+              - img "ドライファン BS-132HM-2" [ref=f340e183]
+              - generic [ref=f340e184]:
+                - list [ref=f340e185]:
+                  - listitem [ref=f340e186]: リモコン付属
+                  - listitem [ref=f340e187]: 100V
+                  - listitem [ref=f340e188]: 運転5モード
+                - generic [ref=f340e189]: メーカー希望小売価格 170,500円(税込)
+                - generic [ref=f340e190]:
+                  - generic [ref=f340e191]: 商品特価 64%OFF 61,380円(税込)
+                  - generic [ref=f340e192]: 交換基本工事費込価格 93,280円(税込)
+              - generic [ref=f340e193]:
+                - link "商品詳細 >" [ref=f340e194] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-132HM-2/
+                - link "取付工事お見積 >" [ref=f340e195] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=85629&item_id=70239,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e196]:
+            - generic [ref=f340e197]: ドライファン BS-132HM-CX-2
+            - generic [ref=f340e198]:
+              - img "ドライファン BS-132HM-CX-2" [ref=f340e201]
+              - generic [ref=f340e202]:
+                - list [ref=f340e203]:
+                  - listitem [ref=f340e204]: リモコン付属
+                  - listitem [ref=f340e205]: 100V
+                  - listitem [ref=f340e206]: 運転5モード
+                  - listitem [ref=f340e207]: プラズマクラスター7000
+                - generic [ref=f340e208]: メーカー希望小売価格 192,500円(税込)
+                - generic [ref=f340e209]:
+                  - generic [ref=f340e210]: 商品特価 66%OFF 65,450円(税込)
+                  - generic [ref=f340e211]: 交換基本工事費込価格 97,350円(税込)
+              - generic [ref=f340e212]:
+                - link "商品詳細 >" [ref=f340e213] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-132HM-CX-2/
+                - link "取付工事お見積 >" [ref=f340e214] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=85630&item_id=70240,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - link "2室換気タイプ 浴室乾燥機の商品一覧(他メーカー含む)はこちら >" [ref=f340e216] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/#to_2ventilation_list
+      - generic [ref=f340e217]:
+        - list [ref=f340e218]:
+          - listitem [ref=f340e219]:
+            - link "1室換気" [ref=f340e220] [cursor=pointer]:
+              - /url: "#1roomven"
+          - listitem [ref=f340e221]:
+            - link "2室換気" [ref=f340e222] [cursor=pointer]:
+              - /url: "#2roomven"
+          - listitem [ref=f340e223]:
+            - generic [ref=f340e224]: 3室換気
+        - generic [ref=f340e225]:
+          - generic [ref=f340e226]:
+            - generic [ref=f340e227]: ドライファン BS-133HA-1
+            - generic [ref=f340e228]:
+              - img "ドライファン BS-133HA-1" [ref=f340e231]
+              - generic [ref=f340e232]:
+                - list [ref=f340e233]:
+                  - listitem [ref=f340e234]: リモコン付属
+                  - listitem [ref=f340e235]: 100V
+                  - listitem [ref=f340e236]: 運転5モード
+                - generic [ref=f340e237]: メーカー希望小売価格 145,200円(税込)
+                - generic [ref=f340e238]:
+                  - generic [ref=f340e239]: 商品特価 64%OFF 52,272円(税込)
+                  - generic [ref=f340e240]: 交換基本工事費込価格 84,172円(税込)
+              - generic [ref=f340e241]:
+                - link "商品詳細 >" [ref=f340e242] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-133HA-1/
+                - link "取付工事お見積 >" [ref=f340e243] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=70304&item_id=60206,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e244]:
+            - generic [ref=f340e245]: ドライファン BS-133EHA-1
+            - generic [ref=f340e246]:
+              - img "ドライファン BS-133EHA-1" [ref=f340e249]
+              - generic [ref=f340e250]:
+                - list [ref=f340e251]:
+                  - listitem [ref=f340e252]: リモコン付属
+                  - listitem [ref=f340e253]: 100V
+                  - listitem [ref=f340e254]: 運転5モード
+                - generic [ref=f340e255]: メーカー希望小売価格 151,800円(税込)
+                - generic [ref=f340e256]:
+                  - generic [ref=f340e257]: 商品特価 64%OFF 54,648円(税込)
+                  - generic [ref=f340e258]: 交換基本工事費込価格 86,548円(税込)
+              - generic [ref=f340e259]:
+                - link "商品詳細 >" [ref=f340e260] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-133EHA-1/
+                - link "取付工事お見積 >" [ref=f340e261] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=70302&item_id=60204,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e262]:
+            - generic [ref=f340e263]: ドライファン BS-133HM-2
+            - generic [ref=f340e264]:
+              - img "ドライファン BS-133HM-2" [ref=f340e267]
+              - generic [ref=f340e268]:
+                - list [ref=f340e269]:
+                  - listitem [ref=f340e270]: リモコン付属
+                  - listitem [ref=f340e271]: 100V
+                  - listitem [ref=f340e272]: 運転5モード
+                - generic [ref=f340e273]: メーカー希望小売価格 170,500円(税込)
+                - generic [ref=f340e274]:
+                  - generic [ref=f340e275]: 商品特価 66%OFF 57,970円(税込)
+                  - generic [ref=f340e276]: 交換基本工事費込価格 89,870円(税込)
+              - generic [ref=f340e277]:
+                - link "商品詳細 >" [ref=f340e278] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-133HM-2/
+                - link "取付工事お見積 >" [ref=f340e279] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=85631&item_id=70241,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - generic [ref=f340e280]:
+            - generic [ref=f340e281]: ドライファン BS-133HM-CX-2
+            - generic [ref=f340e282]:
+              - img "ドライファン BS-133HM-CX-2" [ref=f340e285]
+              - generic [ref=f340e286]:
+                - list [ref=f340e287]:
+                  - listitem [ref=f340e288]: リモコン付属
+                  - listitem [ref=f340e289]: 100V
+                  - listitem [ref=f340e290]: 運転5モード
+                  - listitem [ref=f340e291]: プラズマクラスター7000
+                - generic [ref=f340e292]: メーカー希望小売価格 192,500円(税込)
+                - generic [ref=f340e293]:
+                  - generic [ref=f340e294]: 商品特価 64%OFF 69,300円(税込)
+                  - generic [ref=f340e295]: 交換基本工事費込価格 101,200円(税込)
+              - generic [ref=f340e296]:
+                - link "商品詳細 >" [ref=f340e297] [cursor=pointer]:
+                  - /url: /bath-dry/choice/brand/max/BS-133HM-CX-2/
+                - link "取付工事お見積 >" [ref=f340e298] [cursor=pointer]:
+                  - /url: /system/estimateForm/form/bathdry_change?id=85632&item_id=70242,53584&item_title=商品,まるごとサービスパック&exception=&variation=&option=
+          - link "3室換気タイプ 浴室乾燥機の商品一覧(他メーカー含む)はこちら >" [ref=f340e300] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/#to_3ventilation_list
+      - heading "マックス 浴室乾燥機の特長" [level=2] [ref=f340e301]
+      - generic [ref=f340e302]:
+        - heading "サイドブロー機能と3つの乾燥モード！" [level=3] [ref=f340e303]
+        - generic [ref=f340e304]:
+          - generic [ref=f340e305]:
+            - figure [ref=f340e306]:
+              - heading "衣類乾燥 [強][弱][かぜ]" [level=4] [ref=f340e307]
+              - img "衣類乾燥 乾燥 風" [ref=f340e308]
+            - paragraph [ref=f340e310]: フロントブローとサイドブローの２種類の気流によって、洗濯物を早く乾燥させます。乾燥するときは3モードから選べます。[強]モードでは「温風」と「サイドブロー」を循環させて衣類を乾燥、乾燥[かぜ]モードでは、「送風」と「サイドブロー」を循環させて衣類を乾燥させ、仕上げの30分のみ温風が吹き出す省エネモードです。電気代を節約して乾かしたいときのモードです。また、乾燥[弱]モードでは、風量を抑えた「温風」とサイドブローを循環させて乾燥させるため、夜間など寝ている時間に静かに乾かしたい時に便利です。
+          - generic [ref=f340e312]:
+            - generic [ref=f340e313]: 対応機種
+            - paragraph [ref=f340e314]:
+              - link "BS-161H-2" [ref=f340e315] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-161H-2/
+              - text: 、
+              - link "BS-161H-CX-2" [ref=f340e316] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-161H-CX-2/
+              - text: 、
+              - link "BS-261H-2" [ref=f340e317] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-261H-2/
+              - text: 、
+              - link "BS-261H-CX-2" [ref=f340e318] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-261H-CX-2/
+      - heading "プラズマクラスター25000の採用で「除菌」「消臭」" [level=3] [ref=f340e319]
+      - generic [ref=f340e320]:
+        - paragraph [ref=f340e321]: 従来のプラズマクラスターの3倍以上のイオン濃度で、プラズマクラスター25000だから実現できる機能が満載です！
+        - heading "浴室ケア" [level=4] [ref=f340e322]
+        - heading "「ピンクぬめり」抑制効果" [level=5] [ref=f340e323]
+        - paragraph [ref=f340e324]: 乾燥運転終了後、および「換気クリーン」モード使用時に、60分の送風を行います。1日1回の送風で浴室のピンクぬめりを抑制し、お手入れの軽減が期待できます。
+        - img "浴室ケア ピンクぬめり」抑制効果" [ref=f340e326]
+        - heading "「浮遊カビ菌」除菌効果" [level=5] [ref=f340e327]
+        - paragraph [ref=f340e328]: 乾燥運転終了後、および「換気クリーン」モード使用時に、60分の送風を行い、頑固な黒カビを除菌します。
+        - img "「浮遊カビ菌」除菌効果" [ref=f340e330]
+        - heading "衣類ケア" [level=4] [ref=f340e331]
+        - heading "「静電気」除去効果" [level=5] [ref=f340e332]
+        - paragraph [ref=f340e333]: プラズマクラスターイオンにより、衣類の静電気を抑えます。
+        - heading "「花粉付着」抑制効果" [level=5] [ref=f340e334]
+        - paragraph [ref=f340e335]: 衣類にプラズマクラスターイオンを放出させることで、静電気を抑えて、花粉などの粒子を寄せ付けにくくします。
+        - img "「花粉付着」抑制効果" [ref=f340e337]
+        - heading "「付着タバコ臭」消臭効果" [level=5] [ref=f340e338]
+        - paragraph [ref=f340e339]: プラズマクラスターイオンにより、付着タバコ臭を気にならないレベルまで消臭します。
+        - generic [ref=f340e341]:
+          - generic [ref=f340e342]: 対応機種
+          - paragraph [ref=f340e343]:
+            - link "BS-161H-CX-2" [ref=f340e344] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-161H-CX-2/
+            - text: 、
+            - link "BS-261H-CX-2" [ref=f340e345] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-261H-CX-2/
+          - paragraph [ref=f340e346]:
+            - text: ※
+            - link "BS-132HM-CX-2" [ref=f340e347] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-132HM-CX-2/
+            - text: 、
+            - link "BS-133HM-CX-2" [ref=f340e348] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-133HM-CX-2/
+            - text: はプラズマクラスター7000が搭載しています。
+      - heading "浴室乾燥機 交換の流れ" [level=3] [ref=f340e349]
+      - generic [ref=f340e351]:
+        - generic [ref=f340e352]:
+          - heading "1 商品を選ぶ" [level=4] [ref=f340e353]:
+            - generic [ref=f340e354]: "1"
+            - text: 商品を選ぶ
+          - generic [ref=f340e355]:
+            - figure [ref=f340e356]:
+              - img "商品を選ぶ|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f340e357]
+            - paragraph [ref=f340e358]: 交換されたい浴室乾燥機をお選びください。当社にてお客様にあった商品をご案内することも可能です。
+        - generic [ref=f340e359]:
+          - heading "2 見積りをご依頼" [level=4] [ref=f340e360]:
+            - generic [ref=f340e361]: "2"
+            - text: 見積りをご依頼
+          - generic [ref=f340e362]:
+            - figure [ref=f340e363]:
+              - img "見積りをご依頼|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f340e364]
+            - paragraph [ref=f340e365]: 浴室乾燥機が決まったら見積りをご依頼ください。現行の画像をお送りいただければ、設置適合確認も当社で行います。
+        - generic [ref=f340e366]:
+          - heading "3 ご注文" [level=4] [ref=f340e367]:
+            - generic [ref=f340e368]: "3"
+            - text: ご注文
+          - generic [ref=f340e369]:
+            - figure [ref=f340e370]:
+              - img "ご注文|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f340e371]
+            - paragraph [ref=f340e372]: 見積りの内容にご納得いただいたらご注文手続きをお願いいたします。工事日程のご希望をお伺いします。
+        - generic [ref=f340e373]:
+          - heading "4 工事お伺い" [level=4] [ref=f340e374]:
+            - generic [ref=f340e375]: "4"
+            - text: 工事お伺い
+          - generic [ref=f340e376]:
+            - figure [ref=f340e377]:
+              - img "交換工事|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f340e378]
+            - paragraph [ref=f340e379]: 工事担当が商品を持って、お客様のご自宅へお伺いし、交換工事一式（本体及び電気配線接続、ダクト取り外し、通気口カバー交換等）を行います。
+      - link [ref=f340e381] [cursor=pointer]:
+        - /url: /system/estimateForm/form/bathdry_change/
+        - img "お手軽！早い！浴室乾燥機 無料見積りフォームはこちら" [ref=f340e382]
+      - heading "マックス 浴室乾燥機の商品レビュー" [level=2] [ref=f340e383]
+      - generic [ref=f340e386]:
+        - generic [ref=f340e387]:
+          - generic [ref=f340e391]:
+            - strong [ref=f340e393]: "4.6"
+            - generic [ref=f340e394]: 
+            - generic [ref=f340e395]: 
+            - generic [ref=f340e396]: 
+            - generic [ref=f340e397]: 
+            - generic [ref=f340e398]: 
+            - generic [ref=f340e399]: 1,150件
+          - generic [ref=f340e401]:
+            - generic [ref=f340e402]:
+              - generic [ref=f340e403] [cursor=pointer]: 日付順 ↓
+              - generic [ref=f340e404] [cursor=pointer]: 評価順
+              - generic [ref=f340e405] [cursor=pointer]: いいね数順
+            - generic [ref=f340e407]:
+              - generic [ref=f340e408]:
+                - combobox [ref=f340e409]:
+                  - option "星による評価" [selected]
+                  - option "★5(734件)"
+                  - option "★4(372件)"
+                  - option "★3(37件)"
+                  - option "★2(6件)"
+                  - option "★1(1件)"
+                - text: 
+              - generic [ref=f340e410]:
+                - combobox [ref=f340e411]:
+                  - option "写真" [selected]
+                  - option "写真有り"
+                - text: 
+              - generic [ref=f340e412]:
+                - combobox [ref=f340e413]:
+                  - option "販売状況"
+                  - option "販売中の商品" [selected]
+                  - option "生産終了品"
+                - text: 
+        - generic [ref=f340e415]:
+          - generic [ref=f340e416]:
+            - generic [ref=f340e417]:
+              - generic [ref=f340e418]:
+                - generic [ref=f340e419]:
+                  - generic [ref=f340e420]: 
+                  - generic [ref=f340e421]: 
+                  - generic [ref=f340e422]: 
+                  - generic [ref=f340e423]: 
+                  - generic [ref=f340e424]: 
+                - generic [ref=f340e425]: mm様
+              - generic [ref=f340e426]: 2026-07-22
+            - generic [ref=f340e428]:
+              - generic [ref=f340e429]: タイトルなし
+              - paragraph [ref=f340e430]: 1週間てまだよくわからないけど、プラズマクラスターがあるのはいい
+              - generic [ref=f340e431]:
+                - text: 商品：
+                - link "マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』[100V・1室換気][開口寸法:410×285mm][DCモーター][プラズマクラスター搭載][リモコン付属]" [ref=f340e432] [cursor=pointer]:
+                  - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-161H-CX-2/
+            - button " 役に立った 0" [ref=f340e436] [cursor=pointer]:
+              - generic [ref=f340e437]: 
+              - generic [ref=f340e438]: 役に立った
+              - generic [ref=f340e439]: "0"
+          - generic [ref=f340e440]:
+            - generic [ref=f340e441]:
+              - generic [ref=f340e442]:
+                - generic [ref=f340e443]:
+                  - generic [ref=f340e444]: 
+                  - generic [ref=f340e445]: 
+                  - generic [ref=f340e446]: 
+                  - generic [ref=f340e447]: 
+                  - generic [ref=f340e448]: 
+                - generic [ref=f340e449]: YU様
+              - generic [ref=f340e450]: 2026-07-22
+            - generic [ref=f340e452]:
+              - generic [ref=f340e453]: 良かった！
+              - paragraph [ref=f340e454]: しばらく、異音がなっていたので換気も使えてなかったので、本当に助かりました。 ２４時間換気対応で、良かったです。 結構勢いもある。
+              - generic [ref=f340e456]:
+                - text: 商品：
+                - link "マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』[100V・3室換気][開口寸法:410×285mm][DCモーター][リモコン付属]" [ref=f340e457] [cursor=pointer]:
+                  - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-133HM-2/
+            - button " 役に立った 0" [ref=f340e461] [cursor=pointer]:
+              - generic [ref=f340e462]: 
+              - generic [ref=f340e463]: 役に立った
+              - generic [ref=f340e464]: "0"
+          - generic [ref=f340e465]:
+            - generic [ref=f340e466]:
+              - generic [ref=f340e467]:
+                - generic [ref=f340e468]:
+                  - generic [ref=f340e469]: 
+                  - generic [ref=f340e470]: 
+                  - generic [ref=f340e471]: 
+                  - generic [ref=f340e472]: 
+                  - generic [ref=f340e473]: 
+                - generic [ref=f340e474]: やまたか様
+              - generic [ref=f340e475]: 2026-07-22
+            - generic [ref=f340e477]:
+              - generic [ref=f340e478]: よい商品でした
+              - paragraph [ref=f340e479]: TOTO製から買い替えました。まだそれほど使用してないので少し使用した感じでは問題ないです。DCタイプで値段も安めだったのでこの製品にしました。以前は時間表示のディスプレイがありましたがそれは今回なく、ランプでタイマー時間を確認しながらボタンのみで設定しますが特に使いづらくはないです。
+              - generic [ref=f340e480]:
+                - text: 商品：
+                - link "マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』[100V・1室換気][開口寸法:410×285mm][DCモーター][リモコン付属]" [ref=f340e481] [cursor=pointer]:
+                  - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-161H-2/
+            - button " 役に立った 1" [ref=f340e485] [cursor=pointer]:
+              - generic [ref=f340e486]: 
+              - generic [ref=f340e487]: 役に立った
+              - generic [ref=f340e488]: "1"
+          - generic [ref=f340e489]:
+            - generic [ref=f340e490]:
+              - generic [ref=f340e491]:
+                - generic [ref=f340e492]:
+                  - generic [ref=f340e493]: 
+                  - generic [ref=f340e494]: 
+                  - generic [ref=f340e495]: 
+                  - generic [ref=f340e496]: 
+                  - generic [ref=f340e497]: 
+                - generic [ref=f340e498]: 購入ユーザー様
+              - generic [ref=f340e499]: 2026-07-21
+            - generic [ref=f340e501]:
+              - generic [ref=f340e502]: タイトルなし
+              - paragraph [ref=f340e503]: 同じメーカーの後継機種を選びました。20年近く使用しても故障はなく、ただ乾燥機能が弱くなったので思い切って交換。洗濯物がなかなか乾かないというストレスから解放されました。プラズマクラスター機能付きにしてみましたが、赤カビが発生し辛くなっていて以前より床がサラッとするような気がします。とても満足です。
+              - generic [ref=f340e504]:
+                - text: 商品：
+                - link "マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』[100V・1室換気][開口寸法:410×285mm][DCモーター][プラズマクラスター搭載][リモコン付属]" [ref=f340e505] [cursor=pointer]:
+                  - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-161H-CX-2/
+            - button " 役に立った 0" [ref=f340e509] [cursor=pointer]:
+              - generic [ref=f340e510]: 
+              - generic [ref=f340e511]: 役に立った
+              - generic [ref=f340e512]: "0"
+          - generic [ref=f340e513]:
+            - generic [ref=f340e514]:
+              - generic [ref=f340e515]:
+                - generic [ref=f340e516]:
+                  - generic [ref=f340e517]: 
+                  - generic [ref=f340e518]: 
+                  - generic [ref=f340e519]: 
+                  - generic [ref=f340e520]: 
+                  - generic [ref=f340e521]: 
+                - generic [ref=f340e522]: まゆゆ様
+              - generic [ref=f340e523]: 2026-07-18
+            - generic [ref=f340e525]:
+              - generic [ref=f340e526]: 部屋干しの生乾き臭が一切気にならなくなりました
+              - paragraph [ref=f340e527]: お風呂上がりに乾燥＋プラズマクラスターを運転させておくだけで、浴室のイヤな臭いが消え、ピンク汚れやカビの発生が目に見えて減りました。洗濯物を干したときの生乾きの臭いもしっかり抑えてくれます。 高性能なのに価格がリーズナブルでコスパが良い。
+              - generic [ref=f340e529]:
+                - text: 商品：
+                - link "マックス 天井埋込み型浴室換気暖房乾燥機『ドライファン』[100V・3室換気][開口寸法:410×285mm][DCモーター][プラズマクラスター搭載][リモコン付属]" [ref=f340e530] [cursor=pointer]:
+                  - /url: https://www.sunrefre.jp/bath-dry/choice/brand/max/BS-133HM-CX-2/
+            - button " 役に立った 0" [ref=f340e534] [cursor=pointer]:
+              - generic [ref=f340e535]: 
+              - generic [ref=f340e536]: 役に立った
+              - generic [ref=f340e537]: "0"
+          - generic [ref=f340e538]:
+            - link "" [ref=f340e540] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - generic:
+              - link "":
+                - /url: javascript:void(0)
+            - generic [ref=f340e541] [cursor=pointer]: "1"
+            - generic [ref=f340e542] [cursor=pointer]: "2"
+            - generic [ref=f340e543] [cursor=pointer]: "3"
+            - generic [ref=f340e544] [cursor=pointer]: "4"
+            - generic [ref=f340e545] [cursor=pointer]: "5"
+            - generic [ref=f340e546] [cursor=pointer]: "6"
+            - generic [ref=f340e547] [cursor=pointer]: "7"
+            - generic [ref=f340e548] [cursor=pointer]: "8"
+            - generic [ref=f340e549] [cursor=pointer]: "9"
+            - link "" [ref=f340e551] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - link "" [ref=f340e553] [cursor=pointer]:
+              - /url: javascript:void(0)
+      - generic [ref=f340e554]:
+        - heading "浴室乾燥機 人気ページ" [level=3] [ref=f340e555]
+        - generic [ref=f340e557]:
+          - link [ref=f340e558] [cursor=pointer]:
+            - /url: /bath-dry/
+            - img "浴室乾燥機 トップページ" [ref=f340e560]
+            - paragraph [ref=f340e561]: 浴室乾燥機 トップページ 浴室乾燥機の最新機種が驚きのネット特価でお安く交換できます。
+          - link [ref=f340e562] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - img "浴室乾燥機 種類から選ぶ" [ref=f340e564]
+            - paragraph [ref=f340e565]: 浴室乾燥機 種類から選ぶ 電気式？ガス式？ご自宅の環境に合った選び方をご紹介します。
+          - link [ref=f340e566] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+            - img "浴室乾燥機 人気ランキング" [ref=f340e568]
+            - paragraph [ref=f340e569]: 浴室乾燥機 人気ランキング 売れ筋おすすめ機種をランキング形式でご紹介します。
+          - link [ref=f340e570] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+            - img "浴室乾燥機 メーカー比較" [ref=f340e572]
+            - paragraph [ref=f340e573]: 浴室乾燥機 メーカー比較 メーカーごとの特徴や機能の違いなどを徹底解説します。
+          - link [ref=f340e574] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - img "浴室乾燥機 マックス" [ref=f340e576]
+            - paragraph [ref=f340e577]: 浴室乾燥機 マックス 電気式浴室暖房・換気・乾燥機ジャンルで当社、大人気メーカー！
+          - link [ref=f340e578] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+            - img "浴室乾燥機の工事エリア" [ref=f340e580]
+            - paragraph [ref=f340e581]: 7大都市圏対応 工事エリア 浴室乾燥機の交換工事対応エリアはこちらからご確認ください。
+    - generic [ref=f340e583]:
+      - link [ref=f340e585] [cursor=pointer]:
+        - /url: /bath-dry/ranking/
+        - img "浴室乾燥機人気・売れ筋ランキング" [ref=f340e586]
+      - list [ref=f340e587]:
+        - generic [ref=f340e588]: 浴室乾燥機
+        - listitem [ref=f340e590]:
+          - link "浴室乾燥機TOP" [ref=f340e591] [cursor=pointer]:
+            - /url: /bath-dry/
+        - listitem [ref=f340e592]:
+          - link "サイトマップ" [ref=f340e593] [cursor=pointer]:
+            - /url: /bath-dry/sitemap/
+      - list [ref=f340e594]:
+        - generic [ref=f340e595]: 浴室乾燥機の選び方
+        - listitem [ref=f340e597]:
+          - link "浴室乾燥機の選び方" [ref=f340e598] [cursor=pointer]:
+            - /url: /bath-dry/choice/
+      - list [ref=f340e599]:
+        - generic [ref=f340e600]: 浴室乾燥機を選ぶ
+        - listitem [ref=f340e602]:
+          - link "後継機種検索" [ref=f340e603] [cursor=pointer]:
+            - /url: /bath-dry/successor/
+        - listitem [ref=f340e604]:
+          - link "人気ランキングから選ぶ" [ref=f340e605] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+        - listitem [ref=f340e606]:
+          - link "設置タイプ・種類から 選ぶ" [ref=f340e607] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - text: 設置タイプ・種類から選ぶ
+        - listitem [ref=f340e608]:
+          - link "天井埋込み（電気）" [ref=f340e609] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/
+        - listitem [ref=f340e610]:
+          - link "天井埋込み（ガス）" [ref=f340e611] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/gas_dryer/
+        - listitem [ref=f340e612]:
+          - link "壁掛タイプ" [ref=f340e613] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/wall_hanging_type/
+        - listitem [ref=f340e614]:
+          - link "メーカー比較から選ぶ" [ref=f340e615] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+        - listitem [ref=f340e616]:
+          - generic [ref=f340e617]:
+            - img "マックスロゴ" [ref=f340e618]
+            - generic [ref=f340e619]: マックス >
+        - listitem [ref=f340e620]:
+          - link "マックス後継品番検索" [ref=f340e621] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/search_part_number/
+        - listitem [ref=f340e622]:
+          - link "パナソニックロゴ パナソニック >" [ref=f340e623] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/panasonic/
+            - img "パナソニックロゴ" [ref=f340e624]
+            - generic [ref=f340e625]: パナソニック >
+        - listitem [ref=f340e626]:
+          - link "三菱電機ロゴ 三菱電機 >" [ref=f340e627] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/mitsubishi/
+            - img "三菱電機ロゴ" [ref=f340e628]
+            - generic [ref=f340e629]: 三菱電機 >
+        - listitem [ref=f340e630]:
+          - link "高須産業ロゴ 高須産業 >" [ref=f340e631] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/takasu/
+            - img "高須産業ロゴ" [ref=f340e632]
+            - generic [ref=f340e633]: 高須産業 >
+        - listitem [ref=f340e634]:
+          - link "TOTOロゴ TOTO >" [ref=f340e635] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/toto/
+            - img "TOTOロゴ" [ref=f340e636]
+            - generic [ref=f340e637]: TOTO >
+        - listitem [ref=f340e638]:
+          - link "リンナイロゴ リンナイ >" [ref=f340e639] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/rinnai/
+            - img "リンナイロゴ" [ref=f340e640]
+            - generic [ref=f340e641]: リンナイ >
+        - listitem [ref=f340e642]:
+          - link "ノーリツロゴ ノーリツ >" [ref=f340e643] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/noritz/
+            - img "ノーリツロゴ" [ref=f340e644]
+            - generic [ref=f340e645]: ノーリツ >
+      - list [ref=f340e646]:
+        - generic [ref=f340e647]: 交換工事について
+        - listitem [ref=f340e649]:
+          - link "交換工事費" [ref=f340e650] [cursor=pointer]:
+            - /url: /bath-dry/guide/cost/
+        - listitem [ref=f340e651]:
+          - link "工事対応エリア" [ref=f340e652] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f340e653]:
+          - link "対応可能な工事事例" [ref=f340e654] [cursor=pointer]:
+            - /url: /bath-dry/guide/other/
+        - listitem [ref=f340e655]:
+          - link "無料10年保証" [ref=f340e656] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f340e657]:
+          - link "工事当日の流れ" [ref=f340e658] [cursor=pointer]:
+            - /url: /bath-dry/guide/exchange/
+      - list [ref=f340e659]:
+        - generic [ref=f340e660]: よくあるご質問
+        - listitem [ref=f340e662]:
+          - link "商品について" [ref=f340e663] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/
+        - listitem [ref=f340e664]:
+          - link "見積り・注文について" [ref=f340e665] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-esti.html
+        - listitem [ref=f340e666]:
+          - link "工事について" [ref=f340e667] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-construction.html
+      - list [ref=f340e668]:
+        - generic [ref=f340e669]: お客様の声・施工事例
+        - listitem [ref=f340e671]:
+          - link "お客様の声" [ref=f340e672] [cursor=pointer]:
+            - /url: /voice/?s=%E6%B5%B4%E5%AE%A4%E4%B9%BE%E7%87%A5%E6%A9%9F&x=0&y=0
+        - listitem [ref=f340e673]:
+          - link "施工事例" [ref=f340e674] [cursor=pointer]:
+            - /url: /bath-dry/blog/
+        - listitem [ref=f340e675]:
+          - link "スタッフブログ" [ref=f340e676] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/dry
+        - listitem [ref=f340e677]:
+          - link "商品レビュー" [ref=f340e678] [cursor=pointer]:
+            - /url: /review/?category=bath-dry
+      - list [ref=f340e679]:
+        - generic [ref=f340e680]: 浴室乾燥機をもっと知る
+        - listitem [ref=f340e682]:
+          - link "浴室乾燥機とは" [ref=f340e683] [cursor=pointer]:
+            - /url: /bath-dry/contents/about/
+        - listitem [ref=f340e684]:
+          - link "電気式とガス式の比較" [ref=f340e685] [cursor=pointer]:
+            - /url: /bath-dry/choice/comparison/
+        - listitem [ref=f340e686]:
+          - link "寿命・故障時の対応" [ref=f340e687] [cursor=pointer]:
+            - /url: /bath-dry/contents/life/
+        - listitem [ref=f340e688]:
+          - link "電気代節約のポイント" [ref=f340e689] [cursor=pointer]:
+            - /url: /bath-dry/contents/electricity_bill/
+        - listitem [ref=f340e690]:
+          - link "24時間換気システム" [ref=f340e691] [cursor=pointer]:
+            - /url: /bath-dry/contents/ventilation24/
+        - listitem [ref=f340e692]:
+          - link "浴室カビ対策" [ref=f340e693] [cursor=pointer]:
+            - /url: /bath-dry/contents/kabi/
+        - listitem [ref=f340e694]:
+          - link "お手入れ・掃除方法" [ref=f340e695] [cursor=pointer]:
+            - /url: /bath-dry/contents/care/
+        - listitem [ref=f340e696]:
+          - link "梅雨対策に衣類乾燥" [ref=f340e697] [cursor=pointer]:
+            - /url: /bath-dry/contents/rainy_season/
+        - listitem [ref=f340e698]:
+          - link "ヒートショック対策" [ref=f340e699] [cursor=pointer]:
+            - /url: /bath-dry/contents/heat_shock/
+      - list [ref=f340e700]:
+        - generic [ref=f340e701]: 浴室乾燥機関連商品
+        - listitem [ref=f340e703]:
+          - link "レンジフード" [ref=f340e704] [cursor=pointer]:
+            - /url: /kitchen/food/
+  - generic [ref=f340e706]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f340e708] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f340e709]
+      - generic [ref=f340e710]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f340e712] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f340e713]
+      - generic [ref=f340e714]: 天井エアコン
+    - link "トイレ トイレ" [ref=f340e716] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f340e717]
+      - generic [ref=f340e718]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f340e720] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f340e721]
+      - generic [ref=f340e722]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f340e724] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f340e725]
+      - generic [ref=f340e726]: 給湯器
+    - link "エコキュート エコキュート" [ref=f340e728] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f340e729]
+      - generic [ref=f340e730]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f340e732] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f340e733]
+      - generic [ref=f340e734]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f340e736] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f340e737]
+      - generic [ref=f340e738]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f340e740] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f340e741]
+      - generic [ref=f340e742]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f340e744] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f340e745]
+      - generic [ref=f340e746]: レンジフード
+    - link "蛇口 蛇口" [ref=f340e748] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f340e749]
+      - generic [ref=f340e750]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f340e752] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f340e753]
+      - generic [ref=f340e754]: 浴室乾燥機
+    - generic [ref=f340e755]: その他>>
+  - navigation [ref=f340e757]:
+    - generic [ref=f340e758]:
+      - generic [ref=f340e759]:
+        - generic [ref=f340e760]: 浴室乾燥機
+        - generic [ref=f340e767]: 総合メニュー
+      - generic [ref=f340e774]:
+        - link "人気ランキング" [ref=f340e775] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f340e777] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f340e779] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f340e781] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f340e783] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f340e785] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f340e787]:
+    - generic [ref=f340e788]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f340e791]
+    - generic [ref=f340e792]:
+      - generic [ref=f340e793]:
+        - term [ref=f340e794]:
+          - img "サービス案内" [ref=f340e795]
+          - text: サービス案内
+        - definition [ref=f340e796]:
+          - list [ref=f340e797]:
+            - listitem [ref=f340e798]:
+              - link "ご利用の流れ" [ref=f340e799] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f340e800]:
+              - link "無料10年保証" [ref=f340e801] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f340e802]:
+              - link "工事対応エリア" [ref=f340e803] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f340e804]:
+              - link "工事価格表" [ref=f340e805] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f340e806]:
+              - link "おまとめ工事割引" [ref=f340e807] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f340e808]:
+              - link "お支払い方法" [ref=f340e809] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f340e810]:
+              - link "よくあるご質問" [ref=f340e811] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f340e812]:
+              - link "営業日カレンダー" [ref=f340e813] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f340e814]:
+        - term [ref=f340e815]:
+          - img "情報コンテンツ" [ref=f340e816]
+          - text: 情報コンテンツ
+        - definition [ref=f340e817]:
+          - list [ref=f340e818]:
+            - listitem [ref=f340e819]:
+              - link "最新情報・お知らせ" [ref=f340e820] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f340e821]:
+              - link "売れ筋・人気ランキング" [ref=f340e822] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f340e823]:
+              - link "お客様の声" [ref=f340e824] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f340e825]:
+              - link "施工事例" [ref=f340e826] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f340e827]:
+              - link "商品レビュー" [ref=f340e828] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f340e829]:
+              - link "かんたん検索一覧" [ref=f340e830] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f340e831]:
+              - link "閲覧した商品の履歴" [ref=f340e832] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f340e833]:
+              - link "動画コンテンツ" [ref=f340e834] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f340e835]:
+        - term [ref=f340e836]:
+          - img "企業情報" [ref=f340e837]
+          - text: 企業情報
+        - definition [ref=f340e838]:
+          - listitem [ref=f340e839]:
+            - link "会社概要" [ref=f340e840] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f340e841]:
+            - link "選ばれる理由" [ref=f340e842] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f340e843]:
+            - link "ショールーム（東京・大阪）" [ref=f340e844] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f340e845]:
+            - link "スタッフ紹介" [ref=f340e846] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f340e847]:
+            - link "スタッフブログ" [ref=f340e848] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f340e849]:
+            - link "リフォームからチェンジへ" [ref=f340e850] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f340e851]:
+            - link "活動レポート" [ref=f340e852] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f340e853]:
+          - link [ref=f340e855] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f340e859] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f340e863] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f340e867] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f340e871] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f340e875] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f340e878]:
+        - link [ref=f340e879] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f340e883]: お問い合わせ一覧
+        - link [ref=f340e884] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f340e888]: マイページ・会員登録
+        - link [ref=f340e889] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f340e890]
+        - paragraph [ref=f340e891]: 個人情報保護の認証取得
+    - generic [ref=f340e892]:
+      - paragraph [ref=f340e893]: 企業サイト
+      - generic [ref=f340e894]:
+        - list [ref=f340e895]:
+          - listitem [ref=f340e896]:
+            - link "コーポレートサイト" [ref=f340e897] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f340e898]
+          - listitem [ref=f340e899]:
+            - link "投資家向けサイト" [ref=f340e900] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f340e901]
+          - listitem [ref=f340e902]:
+            - link "採用情報サイト" [ref=f340e903] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f340e904]
+          - listitem [ref=f340e905]:
+            - link "交換技能アカデミー" [ref=f340e906] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f340e907]
+        - list [ref=f340e908]:
+          - listitem [ref=f340e909]:
+            - link [ref=f340e910] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f340e911]:
+                - paragraph [ref=f340e912]: 東証グロースに上場しています
+                - paragraph [ref=f340e913]: 証券コード 7695
+              - figure [ref=f340e914]:
+                - img "東証(JPX)ロゴ" [ref=f340e915]
+    - generic [ref=f340e916]:
+      - list [ref=f340e917]:
+        - listitem [ref=f340e918]:
+          - link "個人情報の取扱い" [ref=f340e919] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f340e920]:
+          - link "特定商取引法に基づく表記" [ref=f340e921] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f340e922]:
+          - link "サイト利用規約" [ref=f340e923] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f340e924]:
+          - link "コンテンツ著作権" [ref=f340e925] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f340e926]:
+          - link "施工スタッフ募集" [ref=f340e927] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f340e928]
+      - list [ref=f340e929]:
+        - listitem [ref=f340e930]: © Koukandekirukun, Inc. 2001-2026

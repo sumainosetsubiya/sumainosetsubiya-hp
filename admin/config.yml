@@ -1,0 +1,81 @@
+# ============================================================
+# Decap CMS 設定ファイル（住まいの設備屋さん HP・施工実績管理）
+# ============================================================
+# ビルドツール（webpack/Next.js等）を使わない素のHTMLサイトのため、
+# admin/index.html でCDN経由のdecap-cms本体を読み込み、この
+# config.yml だけでコレクション定義を完結させています。
+
+backend:
+  name: github
+  # ▼▼▼ 実際のGitHubリポジトリ作成後に、ここを書き換える ▼▼▼
+  # "GitHubユーザー名/リポジトリ名" の形式（例: "yamada-taro/sumainosetsubiya-hp"）
+  repo: "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"
+  branch: main
+  # ▼▼▼ cloudflare-worker-oauth/ でデプロイしたWorkerの公開URLに書き換える ▼▼▼
+  # 例: "https://decap-cms-oauth-proxy.your-subdomain.workers.dev"
+  # これを設定しないと、Decap CMSはデフォルトのNetlify製OAuthサービスに
+  # アクセスしようとしてログインできません（MIGRATION_GUIDE.md 手順7・8参照）。
+  base_url: "https://YOUR-WORKER-SUBDOMAIN.workers.dev"
+  auth_endpoint: auth
+
+# サイト公開後のURL（独自ドメイン設定後に書き換える。MIGRATION_GUIDE.md 手順9参照）
+site_url: "https://sumainosetsubiya.com"
+display_url: "https://sumainosetsubiya.com"
+
+# 画像をアップロードした際の保存先フォルダ（リポジトリ内のパス）と
+# HTML側からアクセスする際の公開パス
+media_folder: "images/works/uploads"
+public_folder: "/images/works/uploads"
+
+collections:
+  - name: "works"
+    label: "施工実績"
+    description: "works.html に表示される施工実績カードの内容を編集します。"
+    # content/works.json という単一ファイルを編集対象にする File collection。
+    # ファイル内の "works" 配列を list ウィジェットで複数エントリ編集する構成。
+    files:
+      - name: "works"
+        label: "施工実績一覧"
+        file: "content/works.json"
+        fields:
+          - label: "施工実績"
+            name: "works"
+            widget: "list"
+            label_singular: "施工実績"
+            summary: "{{fields.category}}（{{fields.area}}）"
+            fields:
+              - label: "施工日"
+                name: "date"
+                widget: "datetime"
+                format: "YYYY-MM-DD"
+                date_format: "YYYY-MM-DD"
+                time_format: false
+                required: false
+                hint: "施工事例を随時更新予定などで日付が未定の場合は空欄のままでも構いません"
+              - label: "施工エリア"
+                name: "area"
+                widget: "string"
+                hint: "例: 埼玉県川口市"
+              - label: "カテゴリ"
+                name: "category"
+                widget: "string"
+                hint: "例: ビルトイン食洗機交換"
+              - label: "取付商品"
+                name: "product"
+                widget: "string"
+                hint: "例: Panasonic NP-45MS9S"
+              - label: "作業時間"
+                name: "duration"
+                widget: "string"
+                hint: "「約」は付けずに入力してください（例: 1.5時間）"
+              - label: "施工前の写真"
+                name: "before_image"
+                widget: "image"
+              - label: "施工後の写真"
+                name: "after_image"
+                widget: "image"
+              - label: "一言コメント"
+                name: "note"
+                widget: "text"
+                required: false
+                hint: "任意項目です。空欄でも構いません"

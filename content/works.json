@@ -1,0 +1,104 @@
+{
+  "works": [
+    {
+      "date": "2024-05-11",
+      "area": "埼玉県川口市",
+      "category": "ビルトイン食洗機交換",
+      "product": "Panasonic NP-45MS9S",
+      "duration": "1.5時間",
+      "before_image": "images/works/uploads/01_dishwasher_kawaguchi_before.jpg",
+      "after_image": "images/works/uploads/01_dishwasher_kawaguchi_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-05-05",
+      "area": "埼玉県川口市",
+      "category": "浴室水栓交換",
+      "product": "TOTO TBV03448J",
+      "duration": "1時間",
+      "before_image": "images/works/uploads/02_faucet_bath_kawaguchi_before.jpg",
+      "after_image": "images/works/uploads/02_faucet_bath_kawaguchi_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-28",
+      "area": "東京都北区",
+      "category": "トイレ交換",
+      "product": "TOTO CS400B+SH400BA+TCF4714",
+      "duration": "2時間",
+      "before_image": "images/works/uploads/03_toilet_kita_before.jpg",
+      "after_image": "images/works/uploads/03_toilet_kita_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-28",
+      "area": "埼玉県さいたま市南区",
+      "category": "蛇口交換",
+      "product": "LIXIL SF-WM420SYX",
+      "duration": "1時間",
+      "before_image": "images/works/uploads/04_faucet_kitchen_saitama_before.jpg",
+      "after_image": "images/works/uploads/04_faucet_kitchen_saitama_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-19",
+      "area": "東京都練馬区",
+      "category": "ビルトインコンロ交換",
+      "product": "リンナイ PD-N36",
+      "duration": "1時間",
+      "before_image": "images/works/uploads/05_cooktop_nerima_before.jpg",
+      "after_image": "images/works/uploads/05_cooktop_nerima_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-06",
+      "area": "埼玉県さいたま市浦和区",
+      "category": "レンジフード交換",
+      "product": "Panasonic FY-7HZC5-S",
+      "duration": "2.5時間",
+      "before_image": "images/works/uploads/06_rangehood_urawa_before.jpg",
+      "after_image": "images/works/uploads/06_rangehood_urawa_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-09",
+      "area": "東京都足立区",
+      "category": "温水洗浄便座交換",
+      "product": "東芝 SCS-T161",
+      "duration": "1時間",
+      "before_image": "images/works/uploads/07_washlet_adachi_before.jpg",
+      "after_image": "images/works/uploads/07_washlet_adachi_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-07",
+      "area": "埼玉県越谷市",
+      "category": "トイレ交換",
+      "product": "LIXIL BC-B30S+DT-383",
+      "duration": "1.5時間",
+      "before_image": "images/works/uploads/08_toilet_koshigaya_before.jpg",
+      "after_image": "images/works/uploads/08_toilet_koshigaya_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "2024-03-24",
+      "area": "埼玉県北本市",
+      "category": "ビルトイン食洗機交換",
+      "product": "Panasonic NP-45MS9S",
+      "duration": "1時間",
+      "before_image": "images/works/uploads/09_dishwasher_kitamoto_before.jpg",
+      "after_image": "images/works/uploads/09_dishwasher_kitamoto_after.jpg",
+      "note": ""
+    },
+    {
+      "date": "",
+      "area": "東京都練馬区",
+      "category": "浴室乾燥機交換",
+      "product": "三菱電機 ロスナイ V-141BZ5+P-141SW5",
+      "duration": "2時間",
+      "before_image": "images/works/uploads/_placeholder.svg",
+      "after_image": "images/works/uploads/_placeholder.svg",
+      "note": "施工事例を随時更新予定"
+    }
+  ]
+}

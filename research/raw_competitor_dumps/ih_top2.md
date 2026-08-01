@@ -1,0 +1,1866 @@
+- generic [active] [ref=f270e1]:
+  - link [ref=f270e2] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f270e4]:
+    - heading "IHクッキングヒーター交換が最大76％OFF｜工事費込み特価" [level=1] [ref=f270e7]
+    - generic [ref=f270e10]:
+      - generic [ref=f270e11]:
+        - link [ref=f270e13] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f270e14]
+        - link [ref=f270e15] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f270e16]
+        - link [ref=f270e17] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f270e18]
+      - generic [ref=f270e19]:
+        - generic "検索" [ref=f270e23]:
+          - combobox [ref=f270e24]:
+            - generic [ref=f270e25]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f270e26]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f270e28] [cursor=pointer]:
+            - generic [ref=f270e30]: 検索
+        - generic [ref=f270e31]:
+          - link [ref=f270e32] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f270e34]
+            - paragraph [ref=f270e35]: 閲覧履歴
+          - link [ref=f270e36] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f270e38]
+            - paragraph [ref=f270e39]: ログイン
+        - link [ref=f270e40] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f270e42]
+          - paragraph [ref=f270e43]: お問合せ
+        - generic [ref=f270e44]:
+          - link [ref=f270e45] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f270e47]
+            - paragraph [ref=f270e48]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f270e51]:
+    - list [ref=f270e52]:
+      - group "1 / 3" [ref=f270e53]:
+        - img "人気機種第1位" [ref=f270e55]
+        - link "パナソニック(Panasonic) 10年保証 パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 特価 Nシリーズ KZ-N1H6AK 商品+交換工事+10年保証 83,270円(税込)" [ref=f270e56] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-N1H6AK/
+          - heading [level=3] [ref=f270e57]:
+            - img "パナソニック(Panasonic)" [ref=f270e60]
+            - img "10年保証" [ref=f270e62]
+          - generic [ref=f270e63]:
+            - generic [ref=f270e64]:
+              - img "パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e66]
+              - generic [ref=f270e67]: 特価
+            - generic [ref=f270e69]: Nシリーズ
+            - generic [ref=f270e70]: KZ-N1H6AK
+            - generic [ref=f270e72]:
+              - generic [ref=f270e73]: 商品+交換工事+10年保証
+              - generic [ref=f270e74]: 83,270円(税込)
+      - group "2 / 3" [ref=f270e75]:
+        - link "三菱電機 10年保証 三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 76% OFF G321Mシリーズ CS-G321MS 商品+交換工事+10年保証 99,308円(税込)" [ref=f270e76] [cursor=pointer]:
+          - /url: /ih/mitsubishi/CS-G321MS/
+          - heading [level=3] [ref=f270e77]:
+            - img "三菱電機" [ref=f270e80]
+            - img "10年保証" [ref=f270e82]
+          - generic [ref=f270e83]:
+            - generic [ref=f270e84]:
+              - img "三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e86]
+              - generic [ref=f270e87]:
+                - text: 本体
+                - generic [ref=f270e88]: 76%
+                - text: "OFF"
+            - generic [ref=f270e89]: G321Mシリーズ
+            - generic [ref=f270e90]: CS-G321MS
+            - generic [ref=f270e92]:
+              - generic [ref=f270e93]: 商品+交換工事+10年保証
+              - generic [ref=f270e94]: 99,308円(税込)
+      - group "3 / 3" [ref=f270e95]:
+        - link "パナソニック(Panasonic) 10年保証 パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 58% OFF Aシリーズ KZ-A1M6S 商品+交換工事+10年保証 235,730円(税込)" [ref=f270e96] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-A1M6K_KZ-A1M6S/
+          - heading [level=3] [ref=f270e97]:
+            - img "パナソニック(Panasonic)" [ref=f270e100]
+            - img "10年保証" [ref=f270e102]
+          - generic [ref=f270e103]:
+            - generic [ref=f270e104]:
+              - img "パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e106]
+              - generic [ref=f270e107]:
+                - text: 本体
+                - generic [ref=f270e108]: 58%
+                - text: "OFF"
+            - generic [ref=f270e109]: Aシリーズ
+            - generic [ref=f270e110]: KZ-A1M6S
+            - generic [ref=f270e112]:
+              - generic [ref=f270e113]: 商品+交換工事+10年保証
+              - generic [ref=f270e114]: 235,730円(税込)
+      - group "1 / 3" [ref=f270e115]:
+        - img "人気機種第1位" [ref=f270e117]
+        - link "パナソニック(Panasonic) 10年保証 パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 特価 Nシリーズ KZ-N1H6AK 商品+交換工事+10年保証 83,270円(税込)" [ref=f270e118] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-N1H6AK/
+          - heading [level=3] [ref=f270e119]:
+            - img "パナソニック(Panasonic)" [ref=f270e122]
+            - img "10年保証" [ref=f270e124]
+          - generic [ref=f270e125]:
+            - generic [ref=f270e126]:
+              - img "パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e128]
+              - generic [ref=f270e129]: 特価
+            - generic [ref=f270e131]: Nシリーズ
+            - generic [ref=f270e132]: KZ-N1H6AK
+            - generic [ref=f270e134]:
+              - generic [ref=f270e135]: 商品+交換工事+10年保証
+              - generic [ref=f270e136]: 83,270円(税込)
+      - group "2 / 3" [ref=f270e137]:
+        - link "三菱電機 10年保証 三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 76% OFF G321Mシリーズ CS-G321MS 商品+交換工事+10年保証 99,308円(税込)" [ref=f270e138] [cursor=pointer]:
+          - /url: /ih/mitsubishi/CS-G321MS/
+          - heading [level=3] [ref=f270e139]:
+            - img "三菱電機" [ref=f270e142]
+            - img "10年保証" [ref=f270e144]
+          - generic [ref=f270e145]:
+            - generic [ref=f270e146]:
+              - img "三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e148]
+              - generic [ref=f270e149]:
+                - text: 本体
+                - generic [ref=f270e150]: 76%
+                - text: "OFF"
+            - generic [ref=f270e151]: G321Mシリーズ
+            - generic [ref=f270e152]: CS-G321MS
+            - generic [ref=f270e154]:
+              - generic [ref=f270e155]: 商品+交換工事+10年保証
+              - generic [ref=f270e156]: 99,308円(税込)
+      - group "3 / 3" [ref=f270e157]:
+        - link "パナソニック(Panasonic) 10年保証 パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 58% OFF Aシリーズ KZ-A1M6S 商品+交換工事+10年保証 235,730円(税込)" [ref=f270e158] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-A1M6K_KZ-A1M6S/
+          - heading [level=3] [ref=f270e159]:
+            - img "パナソニック(Panasonic)" [ref=f270e162]
+            - img "10年保証" [ref=f270e164]
+          - generic [ref=f270e165]:
+            - generic [ref=f270e166]:
+              - img "パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e168]
+              - generic [ref=f270e169]:
+                - text: 本体
+                - generic [ref=f270e170]: 58%
+                - text: "OFF"
+            - generic [ref=f270e171]: Aシリーズ
+            - generic [ref=f270e172]: KZ-A1M6S
+            - generic [ref=f270e174]:
+              - generic [ref=f270e175]: 商品+交換工事+10年保証
+              - generic [ref=f270e176]: 235,730円(税込)
+      - group "1 / 3" [ref=f270e177]:
+        - img "人気機種第1位" [ref=f270e179]
+        - link "パナソニック(Panasonic) 10年保証 パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 特価 Nシリーズ KZ-N1H6AK 商品+交換工事+10年保証 83,270円(税込)" [ref=f270e180] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-N1H6AK/
+          - heading [level=3] [ref=f270e181]:
+            - img "パナソニック(Panasonic)" [ref=f270e184]
+            - img "10年保証" [ref=f270e186]
+          - generic [ref=f270e187]:
+            - generic [ref=f270e188]:
+              - img "パナソニックNシリーズ(KZ-N1H6AK)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e190]
+              - generic [ref=f270e191]: 特価
+            - generic [ref=f270e193]: Nシリーズ
+            - generic [ref=f270e194]: KZ-N1H6AK
+            - generic [ref=f270e196]:
+              - generic [ref=f270e197]: 商品+交換工事+10年保証
+              - generic [ref=f270e198]: 83,270円(税込)
+      - group "2 / 3" [ref=f270e199]:
+        - link "三菱電機 10年保証 三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 76% OFF G321Mシリーズ CS-G321MS 商品+交換工事+10年保証 99,308円(税込)" [ref=f270e200] [cursor=pointer]:
+          - /url: /ih/mitsubishi/CS-G321MS/
+          - heading [level=3] [ref=f270e201]:
+            - img "三菱電機" [ref=f270e204]
+            - img "10年保証" [ref=f270e206]
+          - generic [ref=f270e207]:
+            - generic [ref=f270e208]:
+              - img "三菱電機IHクッキングヒーターG321Mシリーズが工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e210]
+              - generic [ref=f270e211]:
+                - text: 本体
+                - generic [ref=f270e212]: 76%
+                - text: "OFF"
+            - generic [ref=f270e213]: G321Mシリーズ
+            - generic [ref=f270e214]: CS-G321MS
+            - generic [ref=f270e216]:
+              - generic [ref=f270e217]: 商品+交換工事+10年保証
+              - generic [ref=f270e218]: 99,308円(税込)
+      - group "3 / 3" [ref=f270e219]:
+        - link "パナソニック(Panasonic) 10年保証 パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え 本体 58% OFF Aシリーズ KZ-A1M6S 商品+交換工事+10年保証 235,730円(税込)" [ref=f270e220] [cursor=pointer]:
+          - /url: /ih/panasonic/KZ-A1M6K_KZ-A1M6S/
+          - heading [level=3] [ref=f270e221]:
+            - img "パナソニック(Panasonic)" [ref=f270e224]
+            - img "10年保証" [ref=f270e226]
+          - generic [ref=f270e227]:
+            - generic [ref=f270e228]:
+              - img "パナソニックAシリーズ(KZ-A1M6S)が工事費用込み価格で安い｜IHクッキングヒーターの交換・取替え" [ref=f270e230]
+              - generic [ref=f270e231]:
+                - text: 本体
+                - generic [ref=f270e232]: 58%
+                - text: "OFF"
+            - generic [ref=f270e233]: Aシリーズ
+            - generic [ref=f270e234]: KZ-A1M6S
+            - generic [ref=f270e236]:
+              - generic [ref=f270e237]: 商品+交換工事+10年保証
+              - generic [ref=f270e238]: 235,730円(税込)
+    - button "Previous slide" [ref=f270e239] [cursor=pointer]
+    - button "Next slide" [ref=f270e240] [cursor=pointer]
+  - generic [ref=f270e241]:
+    - link [ref=f270e242] [cursor=pointer]:
+      - /url: "#to_ih_choice"
+      - figure [ref=f270e243]:
+        - img "IHを選ぶ" [ref=f270e244]
+      - paragraph [ref=f270e246]: IHを選ぶ
+    - link [ref=f270e247] [cursor=pointer]:
+      - /url: "#to_ih_ranking"
+      - figure [ref=f270e248]:
+        - paragraph [ref=f270e249]: 2026年6月
+        - img "人気ランキング" [ref=f270e250]
+      - paragraph [ref=f270e252]:
+        - img "人気ランキング" [ref=f270e253]
+        - text: 人気ランキング
+    - link "メーカー・機能別 で選ぶ" [ref=f270e254] [cursor=pointer]:
+      - /url: "#to_ih_makerFunctionChoice"
+      - figure [ref=f270e255]:
+        - figure [ref=f270e256]:
+          - img "メーカー・機能別で選ぶ" [ref=f270e257]
+      - paragraph [ref=f270e259]:
+        - text: メーカー・機能別
+        - generic [ref=f270e260]: で選ぶ
+    - link "お客様の 声・施工事例" [ref=f270e261] [cursor=pointer]:
+      - /url: "#to_ih_voice"
+      - figure [ref=f270e262]:
+        - paragraph [ref=f270e263]: 7月24日 更新
+        - img "お客様の声・施工事例" [ref=f270e264]
+      - paragraph [ref=f270e266]:
+        - text: お客様の
+        - generic [ref=f270e267]: 声・施工事例
+    - link [ref=f270e268] [cursor=pointer]:
+      - /url: "#to_ih_const"
+      - figure [ref=f270e269]:
+        - img "交換工事費" [ref=f270e270]
+      - paragraph [ref=f270e272]: 交換工事費
+  - generic [ref=f270e273]:
+    - main [ref=f270e274]:
+      - text: ">"
+      - list [ref=f270e276]:
+        - listitem [ref=f270e277]:
+          - img "旗" [ref=f270e278]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f270e279] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f270e280]:
+          - img "旗" [ref=f270e281]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f270e282] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - heading "IHクッキングヒーターを選ぶ" [level=2] [ref=f270e283]
+      - generic [ref=f270e284]:
+        - paragraph [ref=f270e285]: 気になるメーカーや機能を絞り込んで、お好みのIHヒーターを検索いただけます！プレートの口数、火力、天板幅、グリルの機能など豊富な項目メニューからご自宅に合った商品がかんたんに見つかります。
+        - figure [ref=f270e286]:
+          - link [ref=f270e287] [cursor=pointer]:
+            - /url: /ih/search/
+            - img "絞り込み検索バナー" [ref=f270e288]
+      - heading "こだわり条件で選ぶ" [level=3] [ref=f270e289]
+      - list [ref=f270e290]:
+        - listitem [ref=f270e291]:
+          - link "IHヒーターの選び方｜IHクッキングヒーター交換・取替え IHヒーターの選び方" [ref=f270e292] [cursor=pointer]:
+            - /url: /ih/choice/
+            - img "IHヒーターの選び方｜IHクッキングヒーター交換・取替え" [ref=f270e293]
+            - generic [ref=f270e294]: IHヒーターの選び方
+        - listitem [ref=f270e295]:
+          - link "おすすめ人気ランキングで選ぶ｜IHクッキングヒーター交換・取替え 人気ランキングで選ぶ" [ref=f270e296] [cursor=pointer]:
+            - /url: /ih/ranking.html
+            - img "おすすめ人気ランキングで選ぶ｜IHクッキングヒーター交換・取替え" [ref=f270e297]
+            - generic [ref=f270e298]: 人気ランキングで選ぶ
+        - listitem [ref=f270e299]:
+          - link "機能を比較して選ぶ(シリーズ別機能表)｜IHクッキングヒーター交換・取替え 機能を比較して選ぶ" [ref=f270e300] [cursor=pointer]:
+            - /url: /ih/function/
+            - img "機能を比較して選ぶ(シリーズ別機能表)｜IHクッキングヒーター交換・取替え" [ref=f270e301]
+            - generic [ref=f270e302]: 機能を比較して選ぶ
+        - listitem [ref=f270e303]:
+          - link "口コミ・商品レビューで選ぶ｜IHクッキングヒーター交換・取替え 口コミ・レビューで選ぶ" [ref=f270e304] [cursor=pointer]:
+            - /url: /review/?category=ih
+            - img "口コミ・商品レビューで選ぶ｜IHクッキングヒーター交換・取替え" [ref=f270e305]
+            - generic [ref=f270e306]: 口コミ・レビューで選ぶ
+      - heading "2026年6月度 ビルトインIHヒーター 人気売れ筋ランキング！" [level=3] [ref=f270e307]: 2026年6月度ビルトインIHヒーター 人気売れ筋ランキング！
+      - generic [ref=f270e309]:
+        - list [ref=f270e310]:
+          - listitem [ref=f270e311]:
+            - generic [ref=f270e312]:
+              - img "IHクッキングヒーター売れ筋ランキング No.1" [ref=f270e314]
+              - generic [ref=f270e315]:
+                - img "パナソニック" [ref=f270e316]
+                - generic [ref=f270e317]: ベーシックグレード
+              - paragraph [ref=f270e319]: KZ-N1H6AK
+            - generic [ref=f270e320]:
+              - generic [ref=f270e321]:
+                - link [ref=f270e323] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-N1H6AK/
+                  - img "ラジエントヒーター搭載のシンプルで使いやすいお手頃モデル パナソニック Nシリーズ KZ-N1H6AK" [ref=f270e324]
+                - generic [ref=f270e325]: 前2口がIHヒーター(鉄・ステンレス対応)、後ろ1口がラジエントヒーターのお手頃モデルです。シンプルな使いやすさも魅力！
+              - generic:
+                - generic [ref=f270e326]: 交換できるくん価格
+                - text:     
+              - generic [ref=f270e327]:
+                - paragraph [ref=f270e328]: 平均レビュー 4.6
+                - generic [ref=f270e331] [cursor=pointer]:
+                  - generic [ref=f270e332]: 
+                  - generic [ref=f270e333]: 
+                  - generic [ref=f270e334]: 
+                  - generic [ref=f270e335]: 
+                  - generic [ref=f270e336]: 
+                  - generic [ref=f270e337]: 38件
+              - generic [ref=f270e338]:
+                - generic [ref=f270e339]: 工事費用込み価格 83,270円(税込)
+                - link "商品詳細 はこちら" [ref=f270e341] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-N1H6AK/
+                  - text: 商品詳細はこちら
+          - listitem [ref=f270e342]:
+            - generic [ref=f270e343]:
+              - img "IHクッキングヒーター売れ筋ランキング No.2" [ref=f270e345]
+              - generic [ref=f270e346]:
+                - img "パナソニック" [ref=f270e347]
+                - generic [ref=f270e348]: ベーシックグレード
+              - paragraph [ref=f270e350]: KZ-J1H6AST
+            - generic [ref=f270e351]:
+              - generic [ref=f270e352]:
+                - link [ref=f270e354] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-J1H6AST/
+                  - img "ベーシックグレードで光るリング付きはコレ！ パナソニック Jシリーズ KZ-J1H6AST" [ref=f270e355]
+                - generic [ref=f270e356]: パナソニックJシリーズはベーシックグレードで人気の「光るリング」を搭載！グリルはグリル皿仕様でお手入れも簡単！
+              - generic:
+                - generic [ref=f270e357]: 交換できるくん価格
+                - text:     
+              - generic [ref=f270e358]:
+                - paragraph [ref=f270e359]: 平均レビュー 4.6
+                - generic [ref=f270e362] [cursor=pointer]:
+                  - generic [ref=f270e363]: 
+                  - generic [ref=f270e364]: 
+                  - generic [ref=f270e365]: 
+                  - generic [ref=f270e366]: 
+                  - generic [ref=f270e367]: 
+                  - generic [ref=f270e368]: 25件
+            - generic [ref=f270e369]:
+              - generic [ref=f270e370]: 工事費用込み価格 99,550円(税込)
+              - link "商品詳細 はこちら" [ref=f270e372] [cursor=pointer]:
+                - /url: /ih/panasonic/KZ-J1H6AST/
+                - text: 商品詳細はこちら
+        - list [ref=f270e373]:
+          - listitem [ref=f270e374]:
+            - generic [ref=f270e375]:
+              - img "IHクッキングヒーター売れ筋ランキング No.3" [ref=f270e377]
+              - generic [ref=f270e378]:
+                - img "パナソニック" [ref=f270e379]
+                - generic [ref=f270e380]: ベーシックグレード
+              - paragraph [ref=f270e382]: KZ-J1H6AK
+            - generic [ref=f270e383]:
+              - generic [ref=f270e384]:
+                - link [ref=f270e386] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-J1H6AK/
+                  - img "2口IH＋ラジエントヒーター搭載のブラックモデル！ パナソニック Jシリーズ KZ-J1H6AK" [ref=f270e387]
+                - generic [ref=f270e388]: 光るリング搭載のJシリーズ！2位の前面パネル・天板がブラックのモデルです。
+              - generic:
+                - generic [ref=f270e389]: 交換できるくん価格
+                - text:     
+              - generic [ref=f270e390]:
+                - paragraph [ref=f270e391]: 平均レビュー 4.6
+                - generic [ref=f270e394] [cursor=pointer]:
+                  - generic [ref=f270e395]: 
+                  - generic [ref=f270e396]: 
+                  - generic [ref=f270e397]: 
+                  - generic [ref=f270e398]: 
+                  - generic [ref=f270e399]: 
+                  - generic [ref=f270e400]: 26件
+            - generic [ref=f270e401]:
+              - generic [ref=f270e402]: 工事費用込み価格(税込) 90,750円
+              - link "商品詳細 はこちら" [ref=f270e404] [cursor=pointer]:
+                - /url: /ih/panasonic/KZ-J1H6AK/
+                - text: 商品詳細はこちら
+          - listitem [ref=f270e405]:
+            - generic [ref=f270e406]:
+              - img "IHクッキングヒーター売れ筋ランキング No.4" [ref=f270e408]
+              - generic [ref=f270e409]:
+                - img "パナソニック" [ref=f270e410]
+                - generic [ref=f270e411]: ハイグレード
+              - paragraph [ref=f270e413]: KZ-A1T6S
+            - generic [ref=f270e414]:
+              - generic [ref=f270e415]:
+                - link [ref=f270e417] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-A1T6K_KZ-A1T6S/
+                  - img "パナソニックのハイグレード、Aシリーズの3口IHがランクイン！ パナソニック Aシリーズ Tタイプ KZ-A1T6S" [ref=f270e418]
+                - generic [ref=f270e419]: パナソニックAシリーズの中で1番ベーシックな3口IHです。グリル機能も充実！
+              - generic:
+                - generic [ref=f270e420]: 本体58%OFF
+                - text:     
+              - generic [ref=f270e421]:
+                - paragraph [ref=f270e422]: 平均レビュー 4.5
+                - generic [ref=f270e425] [cursor=pointer]:
+                  - generic [ref=f270e426]: 
+                  - generic [ref=f270e427]: 
+                  - generic [ref=f270e428]: 
+                  - generic [ref=f270e429]: 
+                  - generic [ref=f270e430]: 
+                  - generic [ref=f270e431]: 50件
+            - generic [ref=f270e432]:
+              - generic [ref=f270e433]: 工事費用込み価格(税込) 212,630円
+              - link "商品詳細 はこちら" [ref=f270e435] [cursor=pointer]:
+                - /url: /ih/panasonic/KZ-A1T6K_KZ-A1T6S/
+                - text: 商品詳細はこちら
+          - listitem [ref=f270e436]:
+            - generic [ref=f270e437]:
+              - img "IHクッキングヒーター売れ筋ランキング No.5" [ref=f270e439]
+              - generic [ref=f270e440]:
+                - img "パナソニック" [ref=f270e441]
+                - generic [ref=f270e442]: ハイグレード
+              - paragraph [ref=f270e444]: KZ-A1M6S
+            - generic [ref=f270e445]:
+              - generic [ref=f270e446]:
+                - link [ref=f270e448] [cursor=pointer]:
+                  - /url: /ih/panasonic/KZ-A1M6K_KZ-A1M6S/
+                  - img "向かって右側がオールメタル対応のMタイプ！ パナソニック Aシリーズ Mタイプ KZ-A1M6S" [ref=f270e449]
+                - generic [ref=f270e450]: パナソニックAシリーズの中で3口IHシングルオールメタル対応のモデルです。
+              - generic:
+                - generic [ref=f270e451]: 本体58%OFF
+                - text:     
+              - generic [ref=f270e452]:
+                - paragraph [ref=f270e453]: 平均レビュー 4.6
+                - generic [ref=f270e456] [cursor=pointer]:
+                  - generic [ref=f270e457]: 
+                  - generic [ref=f270e458]: 
+                  - generic [ref=f270e459]: 
+                  - generic [ref=f270e460]: 
+                  - generic [ref=f270e461]: 
+                  - generic [ref=f270e462]: 11件
+            - generic [ref=f270e463]:
+              - generic [ref=f270e464]: 工事費用込み価格(税込) 235,730円
+              - link "商品詳細 はこちら" [ref=f270e466] [cursor=pointer]:
+                - /url: /ih/panasonic/KZ-A1M6K_KZ-A1M6S/
+                - text: 商品詳細はこちら
+      - link [ref=f270e469] [cursor=pointer]:
+        - /url: /ih/ranking.html
+        - img "IHクッキングヒーター｜最新の人気・売れ筋ランキング" [ref=f270e470]
+      - heading "ビルトインIHメーカーとシリーズ一覧" [level=2] [ref=f270e471]
+      - list [ref=f270e472]:
+        - listitem [ref=f270e473]:
+          - generic [ref=f270e474]:
+            - link "panasonic TOPページ" [ref=f270e475] [cursor=pointer]:
+              - /url: /ih/panasonic/
+              - img "panasonic" [ref=f270e476]
+              - generic [ref=f270e477]: TOPページ
+            - img "パナソニック(Panasonic) IHクッキングヒーター｜特長と交換費用" [ref=f270e478]
+          - generic [ref=f270e479]:
+            - generic [ref=f270e480]: 代表的な機能
+            - generic [ref=f270e481]: ※機種により異なる
+          - generic [ref=f270e482]:
+            - generic [ref=f270e483]:
+              - img "天板機能" [ref=f270e485]
+              - generic [ref=f270e486]:
+                - generic [ref=f270e487]: 天板機能
+                - generic [ref=f270e488]: 光火力センサー、光るリング
+            - generic [ref=f270e489]:
+              - img "グリル機能" [ref=f270e491]
+              - generic [ref=f270e492]:
+                - generic [ref=f270e493]: グリル機能
+                - generic [ref=f270e494]: ラクッキングリル
+            - generic [ref=f270e495]:
+              - img "清掃性" [ref=f270e497]
+              - generic [ref=f270e498]:
+                - generic [ref=f270e499]: 快適・清掃性
+                - generic [ref=f270e500]: フルフラット庫内、エコナビ
+          - generic [ref=f270e501]: 工事費込み 83,270円(税込)～
+          - link "詳しくはこちら >" [ref=f270e502] [cursor=pointer]:
+            - /url: /ih/panasonic/
+        - listitem [ref=f270e503]:
+          - generic [ref=f270e504]:
+            - link "mitsubishi TOPページ" [ref=f270e505] [cursor=pointer]:
+              - /url: /ih/mitsubishi/
+              - img "mitsubishi" [ref=f270e506]
+              - generic [ref=f270e507]: TOPページ
+            - img "三菱(MITSUBISHI) IHクッキングヒーター｜特長と交換費用" [ref=f270e508]
+          - generic [ref=f270e509]:
+            - generic [ref=f270e510]: 代表的な機能
+            - generic [ref=f270e511]: ※機種により異なる
+          - generic [ref=f270e512]:
+            - generic [ref=f270e513]:
+              - img "天板機能" [ref=f270e515]
+              - generic [ref=f270e516]:
+                - generic [ref=f270e517]: 天板機能
+                - generic [ref=f270e518]: かきまぜ加熱、端まで加熱
+            - generic [ref=f270e519]:
+              - img "グリル機能" [ref=f270e521]
+              - generic [ref=f270e522]:
+                - generic [ref=f270e523]: グリル機能
+                - generic [ref=f270e524]: おいしクリーングリル
+            - generic [ref=f270e525]:
+              - img "清掃性" [ref=f270e527]
+              - generic [ref=f270e528]:
+                - generic [ref=f270e529]: 快適・清掃性
+                - generic [ref=f270e530]: フラット庫内、マットガラス
+          - generic [ref=f270e531]: 工事費込み 99,308円(税込)～
+          - link "詳しくはこちら >" [ref=f270e532] [cursor=pointer]:
+            - /url: /ih/mitsubishi/
+        - listitem [ref=f270e533]:
+          - generic [ref=f270e534]:
+            - link "hitachi TOPページ" [ref=f270e535] [cursor=pointer]:
+              - /url: /ih/hitachi/
+              - img "hitachi" [ref=f270e536]
+              - generic [ref=f270e537]: TOPページ
+            - img "日立(HITACHI) IHクッキングヒーター｜特長と交換費用" [ref=f270e538]
+          - generic [ref=f270e539]:
+            - generic [ref=f270e540]: 代表的な機能
+            - generic [ref=f270e541]: ※機種により異なる
+          - generic [ref=f270e542]:
+            - generic [ref=f270e543]:
+              - img "天板機能" [ref=f270e545]
+              - generic [ref=f270e546]:
+                - generic [ref=f270e547]: 天板機能
+                - generic [ref=f270e548]: 3.2kW高火力、グリルカメラ
+            - generic [ref=f270e549]:
+              - img "グリル機能" [ref=f270e551]
+              - generic [ref=f270e552]:
+                - generic [ref=f270e553]: グリル機能
+                - generic [ref=f270e554]: ラク旨グリル、旨美焼き
+            - generic [ref=f270e555]:
+              - img "清掃性" [ref=f270e557]
+              - generic [ref=f270e558]:
+                - generic [ref=f270e559]: 快適・清掃性
+                - generic [ref=f270e560]: 火加減マイスター
+          - generic [ref=f270e561]: 工事費込み 126,775円(税込)～
+          - link "詳しくはこちら >" [ref=f270e562] [cursor=pointer]:
+            - /url: /ih/hitachi/
+      - heading "メーカー別 お取り扱いシリーズ" [level=3] [ref=f270e563]
+      - generic [ref=f270e564]:
+        - list [ref=f270e565]:
+          - listitem [ref=f270e566]:
+            - generic [ref=f270e567] [cursor=pointer]:
+              - generic [ref=f270e568]: パナソニックIHの シリーズ一覧
+              - img "panasonic" [ref=f270e570]
+            - list:
+              - listitem [ref=f270e571]:
+                - link "ハイグレード パナソニック「Sシリーズ」｜ハイグレードIHシリーズ一覧 panasonic Sシリーズ 平均レビュー 4.6      工事費込み 314,380円(税込)～" [ref=f270e572] [cursor=pointer]:
+                  - /url: /ih/panasonic/s-series.html
+                  - generic [ref=f270e573]: ハイグレード
+                  - img "パナソニック「Sシリーズ」｜ハイグレードIHシリーズ一覧" [ref=f270e576]
+                  - img "panasonic" [ref=f270e578]
+                  - generic [ref=f270e579]: Sシリーズ
+                  - generic [ref=f270e580]:
+                    - paragraph [ref=f270e581]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e582]: "4.6"
+                    - generic [ref=f270e585]:
+                      - generic [ref=f270e586]: 
+                      - generic [ref=f270e587]: 
+                      - generic [ref=f270e588]: 
+                      - generic [ref=f270e589]: 
+                      - generic [ref=f270e590]: 
+                  - generic [ref=f270e591]: 工事費込み 314,380円(税込)～
+              - listitem [ref=f270e592]:
+                - link "ハイグレード パナソニック「Aシリーズ」｜ハイグレードIHシリーズ一覧 panasonic Aシリーズ 平均レビュー 4.6      工事費込み 263,450円(税込)～" [ref=f270e593] [cursor=pointer]:
+                  - /url: /ih/panasonic/a-series.html
+                  - generic [ref=f270e594]: ハイグレード
+                  - img "パナソニック「Aシリーズ」｜ハイグレードIHシリーズ一覧" [ref=f270e597]
+                  - img "panasonic" [ref=f270e599]
+                  - generic [ref=f270e600]: Aシリーズ
+                  - generic [ref=f270e601]:
+                    - paragraph [ref=f270e602]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e603]: "4.6"
+                    - generic [ref=f270e606]:
+                      - generic [ref=f270e607]: 
+                      - generic [ref=f270e608]: 
+                      - generic [ref=f270e609]: 
+                      - generic [ref=f270e610]: 
+                      - generic [ref=f270e611]: 
+                  - generic [ref=f270e612]: 工事費込み 263,450円(税込)～
+              - listitem [ref=f270e613]:
+                - link "ミドルグレード パナソニック「B/C/Wシリーズ」｜ミドルグレードIHシリーズ一覧 panasonic B/C/Wシリーズ 平均レビュー 4.5      工事費込み 162,470円(税込)～" [ref=f270e614] [cursor=pointer]:
+                  - /url: /ih/panasonic/list-middle.html
+                  - generic [ref=f270e615]: ミドルグレード
+                  - img "パナソニック「B/C/Wシリーズ」｜ミドルグレードIHシリーズ一覧" [ref=f270e618]
+                  - img "panasonic" [ref=f270e620]
+                  - generic [ref=f270e621]: B/C/Wシリーズ
+                  - generic [ref=f270e622]:
+                    - paragraph [ref=f270e623]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e624]: "4.5"
+                    - generic [ref=f270e627]:
+                      - generic [ref=f270e628]: 
+                      - generic [ref=f270e629]: 
+                      - generic [ref=f270e630]: 
+                      - generic [ref=f270e631]: 
+                      - generic [ref=f270e632]: 
+                  - generic [ref=f270e633]: 工事費込み 162,470円(税込)～
+              - listitem [ref=f270e634]:
+                - link "ベーシックグレード パナソニック「F/J/Nシリーズ」｜ベーシックグレードIHシリーズ一覧 panasonic F/J/Nシリーズ 平均レビュー 4.5      工事費込み 83,270円(税込)～" [ref=f270e635] [cursor=pointer]:
+                  - /url: /ih/panasonic/list-basic.html
+                  - generic [ref=f270e636]: ベーシックグレード
+                  - img "パナソニック「F/J/Nシリーズ」｜ベーシックグレードIHシリーズ一覧" [ref=f270e639]
+                  - img "panasonic" [ref=f270e641]
+                  - generic [ref=f270e642]: F/J/Nシリーズ
+                  - generic [ref=f270e643]:
+                    - paragraph [ref=f270e644]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e645]: "4.5"
+                    - generic [ref=f270e648]:
+                      - generic [ref=f270e649]: 
+                      - generic [ref=f270e650]: 
+                      - generic [ref=f270e651]: 
+                      - generic [ref=f270e652]: 
+                      - generic [ref=f270e653]: 
+                  - generic [ref=f270e654]: 工事費込み 83,270円(税込)～
+              - listitem [ref=f270e655]:
+                - link "2口 パナソニック「A/Fシリーズ」｜2口IHシリーズ一覧 panasonic A/Fシリーズ 平均レビュー 4.6      工事費込み 119,900円(税込)～" [ref=f270e656] [cursor=pointer]:
+                  - /url: /ih/panasonic/list-2ih.html
+                  - generic [ref=f270e657]: 2口
+                  - img "パナソニック「A/Fシリーズ」｜2口IHシリーズ一覧" [ref=f270e660]
+                  - img "panasonic" [ref=f270e662]
+                  - generic [ref=f270e663]: A/Fシリーズ
+                  - generic [ref=f270e664]:
+                    - paragraph [ref=f270e665]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e666]: "4.6"
+                    - generic [ref=f270e669]:
+                      - generic [ref=f270e670]: 
+                      - generic [ref=f270e671]: 
+                      - generic [ref=f270e672]: 
+                      - generic [ref=f270e673]: 
+                      - generic [ref=f270e674]: 
+                  - generic [ref=f270e675]: 工事費込み 119,900円(税込)～
+              - listitem [ref=f270e676]:
+                - link "シリーズ特集 パナソニック「Aシリーズ特集」｜Aシリーズ特集ページ panasonic グリルが凄いAシリーズ 徹底解剖!" [ref=f270e677] [cursor=pointer]:
+                  - /url: /ih/panasonic/feature-a_series.html
+                  - generic [ref=f270e678]: シリーズ特集
+                  - img "パナソニック「Aシリーズ特集」｜Aシリーズ特集ページ" [ref=f270e681]
+                  - img "panasonic" [ref=f270e683]
+                  - generic [ref=f270e684]:
+                    - text: グリルが凄いAシリーズ
+                    - generic [ref=f270e685]: 徹底解剖!
+        - list [ref=f270e686]:
+          - listitem [ref=f270e687]:
+            - generic [ref=f270e688] [cursor=pointer]:
+              - generic [ref=f270e689]: 三菱IHの シリーズ一覧
+              - img "mitsubishi" [ref=f270e691]
+            - list:
+              - listitem [ref=f270e692]:
+                - link "ハイグレード 三菱電機「CS-A20/CS-A10」｜ハイグレードIHシリーズ一覧 mitsubishi CS-A20/CS-A10 平均レビュー 4.6      工事費込み 238,700円(税込)～" [ref=f270e693] [cursor=pointer]:
+                  - /url: /ih/mitsubishi/list-high.html
+                  - generic [ref=f270e694]: ハイグレード
+                  - img "三菱電機「CS-A20/CS-A10」｜ハイグレードIHシリーズ一覧" [ref=f270e697]
+                  - img "mitsubishi" [ref=f270e699]
+                  - generic [ref=f270e700]: CS-A20/CS-A10
+                  - generic [ref=f270e701]:
+                    - paragraph [ref=f270e702]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e703]: "4.6"
+                    - generic [ref=f270e706]:
+                      - generic [ref=f270e707]: 
+                      - generic [ref=f270e708]: 
+                      - generic [ref=f270e709]: 
+                      - generic [ref=f270e710]: 
+                      - generic [ref=f270e711]: 
+                  - generic [ref=f270e712]: 工事費込み 238,700円(税込)～
+              - listitem [ref=f270e713]:
+                - link "ミドルグレード 三菱電機「CS-A8」｜ミドルグレードIHシリーズ一覧 mitsubishi CS-A8 平均レビュー 4.7      工事費込み 199,100円(税込)～" [ref=f270e714] [cursor=pointer]:
+                  - /url: /ih/mitsubishi/list-middle.html
+                  - generic [ref=f270e715]: ミドルグレード
+                  - img "三菱電機「CS-A8」｜ミドルグレードIHシリーズ一覧" [ref=f270e718]
+                  - img "mitsubishi" [ref=f270e720]
+                  - generic [ref=f270e721]: CS-A8
+                  - generic [ref=f270e722]:
+                    - paragraph [ref=f270e723]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e724]: "4.7"
+                    - generic [ref=f270e727]:
+                      - generic [ref=f270e728]: 
+                      - generic [ref=f270e729]: 
+                      - generic [ref=f270e730]: 
+                      - generic [ref=f270e731]: 
+                      - generic [ref=f270e732]: 
+                  - generic [ref=f270e733]: 工事費込み 199,100円(税込)～
+              - listitem [ref=f270e734]:
+                - link "ベーシックグレード 三菱電機「G321M/G318Mシリーズ」｜ベーシックグレードIHシリーズ一覧 mitsubishi G321M/G318M 平均レビュー 4.4      工事費込み 99,308円(税込)～" [ref=f270e735] [cursor=pointer]:
+                  - /url: /ih/mitsubishi/list-basic.html
+                  - generic [ref=f270e736]: ベーシックグレード
+                  - img "三菱電機「G321M/G318Mシリーズ」｜ベーシックグレードIHシリーズ一覧" [ref=f270e739]
+                  - img "mitsubishi" [ref=f270e741]
+                  - generic [ref=f270e742]: G321M/G318M
+                  - generic [ref=f270e743]:
+                    - paragraph [ref=f270e744]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e745]: "4.4"
+                    - generic [ref=f270e748]:
+                      - generic [ref=f270e749]: 
+                      - generic [ref=f270e750]: 
+                      - generic [ref=f270e751]: 
+                      - generic [ref=f270e752]: 
+                      - generic [ref=f270e753]: 
+                  - generic [ref=f270e754]: 工事費込み 99,308円(税込)～
+              - listitem [ref=f270e755]:
+                - link "2口 三菱電機「らく楽IH」｜2口IHシリーズ一覧 mitsubishi らく楽IH 平均レビュー 4.7      工事費込み 156,024円(税込)～" [ref=f270e756] [cursor=pointer]:
+                  - /url: /ih/mitsubishi/list-2ih.html
+                  - generic [ref=f270e757]: 2口
+                  - img "三菱電機「らく楽IH」｜2口IHシリーズ一覧" [ref=f270e760]
+                  - img "mitsubishi" [ref=f270e762]
+                  - generic [ref=f270e763]: らく楽IH
+                  - generic [ref=f270e764]:
+                    - paragraph [ref=f270e765]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e766]: "4.7"
+                    - generic [ref=f270e769]:
+                      - generic [ref=f270e770]: 
+                      - generic [ref=f270e771]: 
+                      - generic [ref=f270e772]: 
+                      - generic [ref=f270e773]: 
+                      - generic [ref=f270e774]: 
+                  - generic [ref=f270e775]: 工事費込み 156,024円(税込)～
+        - list [ref=f270e776]:
+          - listitem [ref=f270e777]:
+            - generic [ref=f270e778] [cursor=pointer]:
+              - generic [ref=f270e779]: 日立IHの シリーズ一覧
+              - img "hitachi" [ref=f270e781]
+            - list:
+              - listitem [ref=f270e782]:
+                - link "ハイグレード 日立「N2500T/N1000Tシリーズ」｜ハイグレードIHシリーズ一覧 hitachi N2500T/N1500T 平均レビュー 4.6      工事費込み 278,960円(税込)～" [ref=f270e783] [cursor=pointer]:
+                  - /url: /ih/hitachi/list-high.html
+                  - generic [ref=f270e784]: ハイグレード
+                  - img "日立「N2500T/N1000Tシリーズ」｜ハイグレードIHシリーズ一覧" [ref=f270e787]
+                  - img "hitachi" [ref=f270e789]
+                  - generic [ref=f270e790]: N2500T/N1500T
+                  - generic [ref=f270e791]:
+                    - paragraph [ref=f270e792]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e793]: "4.6"
+                    - generic [ref=f270e796]:
+                      - generic [ref=f270e797]: 
+                      - generic [ref=f270e798]: 
+                      - generic [ref=f270e799]: 
+                      - generic [ref=f270e800]: 
+                      - generic [ref=f270e801]: 
+                  - generic [ref=f270e802]: 工事費込み 278,960円(税込)～
+              - listitem [ref=f270e803]:
+                - link "ミドルグレード 日立「N100T/N8ATシリーズ」｜ミドルグレードIHシリーズ一覧 hitachi N100T/N8AT 平均レビュー 4.5      工事費込み 147,950円(税込)～" [ref=f270e804] [cursor=pointer]:
+                  - /url: /ih/hitachi/list-middle.html
+                  - generic [ref=f270e805]: ミドルグレード
+                  - img "日立「N100T/N8ATシリーズ」｜ミドルグレードIHシリーズ一覧" [ref=f270e808]
+                  - img "hitachi" [ref=f270e810]
+                  - generic [ref=f270e811]: N100T/N8AT
+                  - generic [ref=f270e812]:
+                    - paragraph [ref=f270e813]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e814]: "4.5"
+                    - generic [ref=f270e817]:
+                      - generic [ref=f270e818]: 
+                      - generic [ref=f270e819]: 
+                      - generic [ref=f270e820]: 
+                      - generic [ref=f270e821]: 
+                      - generic [ref=f270e822]: 
+                  - generic [ref=f270e823]: 工事費込み 147,950円(税込)～
+              - listitem [ref=f270e824]:
+                - link "ベーシックグレード 日立「M7STF/N6Tシリーズ」｜ベーシックグレードIHシリーズ一覧 hitachi M7STF/N6T 平均レビュー 4.5      工事費込み 126,775円(税込)～" [ref=f270e825] [cursor=pointer]:
+                  - /url: /ih/hitachi/list-basic.html
+                  - generic [ref=f270e826]: ベーシックグレード
+                  - img "日立「M7STF/N6Tシリーズ」｜ベーシックグレードIHシリーズ一覧" [ref=f270e829]
+                  - img "hitachi" [ref=f270e831]
+                  - generic [ref=f270e832]: M7STF/N6T
+                  - generic [ref=f270e833]:
+                    - paragraph [ref=f270e834]:
+                      - text: 平均レビュー
+                      - generic [ref=f270e835]: "4.5"
+                    - generic [ref=f270e838]:
+                      - generic [ref=f270e839]: 
+                      - generic [ref=f270e840]: 
+                      - generic [ref=f270e841]: 
+                      - generic [ref=f270e842]: 
+                      - generic [ref=f270e843]: 
+                  - generic [ref=f270e844]: 工事費込み 126,775円(税込)～
+      - heading "IHヒーターを機能別に探す" [level=3] [ref=f270e845]
+      - generic [ref=f270e846]:
+        - generic [ref=f270e847]:
+          - generic [ref=f270e848]: 工事費込み10万円以下
+          - generic [ref=f270e849]:
+            - figure [ref=f270e850]:
+              - img "工事費込み10万円以下｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e851]
+            - generic [ref=f270e852]:
+              - paragraph [ref=f270e853]: 基本工事費込み10万円以下で取り付けできるお手頃な機種！
+              - link "該当品はこちら >" [ref=f270e854] [cursor=pointer]:
+                - /url: /ih/search/?price_to=100000
+        - generic [ref=f270e855]:
+          - generic [ref=f270e856]: 高火力3.2kWモデル
+          - generic [ref=f270e857]:
+            - figure [ref=f270e858]:
+              - img "高火力3.2kWモデル｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e859]
+            - generic [ref=f270e860]:
+              - paragraph [ref=f270e861]: 従来の3.0kWよりも更に高火力(最大火力3.2kW)のモデル
+              - link "該当品はこちら >" [ref=f270e862] [cursor=pointer]:
+                - /url: /ih/search/?basic_heater_function=高火力3.2kW
+        - generic [ref=f270e863]:
+          - generic [ref=f270e864]: オールメタル対応
+          - generic [ref=f270e865]:
+            - figure [ref=f270e866]:
+              - img "オールメタル対応｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e867]
+            - generic [ref=f270e868]:
+              - paragraph [ref=f270e869]: アルミや銅鍋など金属鍋の使用が可能なヒーター搭載機種
+              - link "該当品はこちら >" [ref=f270e870] [cursor=pointer]:
+                - /url: /ih/search/?basic_heater_function=シングルオールメタル_ダブルオールメタル
+        - generic [ref=f270e871]:
+          - generic [ref=f270e872]: ラジエントヒーター対応
+          - generic [ref=f270e873]:
+            - figure [ref=f270e874]:
+              - img "ラジエントヒーター対応｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e875]
+            - generic [ref=f270e876]:
+              - paragraph [ref=f270e877]: 中央後部にあるヒーター自体が発熱するため土鍋などが使える機種
+              - link "該当品はこちら >" [ref=f270e878] [cursor=pointer]:
+                - /url: /ih/search/?basic_heater_function=ラジエントヒーター
+        - generic [ref=f270e879]:
+          - generic [ref=f270e880]: レンジフード連動可
+          - generic [ref=f270e881]:
+            - figure [ref=f270e882]:
+              - img "レンジフード連動可｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e883]
+            - generic [ref=f270e884]:
+              - paragraph [ref=f270e885]: IHヒーターに連動してレンジフードが自動でオンオフ※
+              - link "該当品はこちら >" [ref=f270e886] [cursor=pointer]:
+                - /url: /ih/search/?other_function=レンジフード連動
+        - generic [ref=f270e887]:
+          - generic [ref=f270e888]: グリル庫内が高い
+          - generic [ref=f270e889]:
+            - figure [ref=f270e890]:
+              - img "グリル庫内高さ85mm以上｜ビルトインIHヒーターを価格や機能で選ぶ" [ref=f270e891]
+            - generic [ref=f270e892]:
+              - paragraph [ref=f270e893]: 大きな食材も調理が可能な庫内高さ85mm以上の機種
+              - link "該当品はこちら >" [ref=f270e894] [cursor=pointer]:
+                - /url: /ih/search/?grill_valid_height_range=85-100mm
+      - generic [ref=f270e895]: ※ビルトインIH側とレンジフード側のどちらも連動対応の機種を設置する必要があります。
+      - link "その他の条件から該当品を探す >" [ref=f270e897] [cursor=pointer]:
+        - /url: /ih/search/
+      - generic [ref=f270e898]:
+        - heading "価格別 機能一覧" [level=3] [ref=f270e900]
+        - list [ref=f270e901]:
+          - listitem [ref=f270e902]:
+            - generic [ref=f270e904] [cursor=pointer]:
+              - generic [ref=f270e905]: ハイグレード
+              - generic [ref=f270e906]: 商品価格
+              - generic [ref=f270e907]: 18～29万円台
+            - text: ● ● ● ● ● ● ● ●
+          - listitem [ref=f270e908]:
+            - generic [ref=f270e910] [cursor=pointer]:
+              - generic [ref=f270e911]: ミドルグレード
+              - generic [ref=f270e912]: 商品価格
+              - generic [ref=f270e913]: 12～16万円台
+            - text: ● ● ● ● ● ● ●
+          - listitem [ref=f270e914]:
+            - generic [ref=f270e916] [cursor=pointer]:
+              - generic [ref=f270e917]: ベーシック
+              - generic [ref=f270e918]: 商品価格
+              - generic [ref=f270e919]: 5～10万円台
+            - text: ● ● ● ● ● ● ● ● ●
+          - listitem [ref=f270e920]:
+            - generic [ref=f270e921] [cursor=pointer]: 2口IH
+            - text: ● ● ●
+      - link "IHクッキングヒーターの機能一覧表はこちら >" [ref=f270e923] [cursor=pointer]:
+        - /url: /ih/function/
+      - heading "情報満載！IHヒーター交換おすすめ動画" [level=2] [ref=f270e924]
+      - generic [ref=f270e925]:
+        - list [ref=f270e926]:
+          - group "5 / 6" [ref=f270e927]:
+            - heading "IHヒーターの掃除＆お手入れ方法をご紹介" [level=3] [ref=f270e928]
+            - generic [ref=f270e929]:
+              - link [ref=f270e931] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=Cf6DT3vqa8A
+                - img "IHヒーターの掃除＆お手入れ方法をご紹介｜IHヒーター交換のおすすめ動画" [ref=f270e933]
+              - generic [ref=f270e934]: 天板とグリル庫内の掃除方法を丁寧に解説します。
+          - group "6 / 6" [ref=f270e935]:
+            - heading "IHヒーターの焦げつきはこう落とす" [level=3] [ref=f270e936]
+            - generic [ref=f270e937]:
+              - link [ref=f270e939] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=FRPwgW0-fnE
+                - img "IHヒーターの焦げつきはこう落とす｜IHヒーター交換のおすすめ動画" [ref=f270e941]
+              - generic [ref=f270e942]: IHヒーターの天板にこびりついた焦げつきを落としてみました！
+          - group "1 / 6" [ref=f270e943]:
+            - heading "このIHはグリルが凄い！モモ肉の野菜グリル" [level=3] [ref=f270e944]
+            - generic [ref=f270e945]:
+              - link [ref=f270e947] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=gZa2a03YEs0
+                - img "このIHはグリルが凄い！モモ肉の野菜グリル｜IHヒーター交換のおすすめ動画" [ref=f270e949]
+              - generic [ref=f270e950]: 料理レシピ付き！グリルが進化したAシリーズを実際に使ってみました。
+          - group "2 / 6" [ref=f270e951]:
+            - heading "Aシリーズをおすすめする6つの理由" [level=3] [ref=f270e952]
+            - generic [ref=f270e953]:
+              - link [ref=f270e955] [cursor=pointer]:
+                - /url: https://youtu.be/AEmaZLdzETs
+                - img "Aシリーズをおすすめする6つの理由｜IHヒーター交換のおすすめ動画" [ref=f270e957]
+              - generic [ref=f270e958]: 当社で人気のパナソニック「Aシリーズ」を徹底的に深堀りしました！
+          - group "3 / 6" [ref=f270e959]:
+            - heading "ガスコンロからIHに交換したお客様へインタビュー" [level=3] [ref=f270e960]
+            - generic [ref=f270e961]:
+              - link [ref=f270e963] [cursor=pointer]:
+                - /url: https://youtu.be/U4Gvuco3fn4
+                - img "ガスコンロからIHに交換したお客様へインタビュー｜IHヒーター交換のおすすめ動画" [ref=f270e965]
+              - generic [ref=f270e966]: ガスコンロからIHに買い替えた理由や感想をお客様へインタビュー！
+          - group "4 / 6" [ref=f270e967]:
+            - heading "元シェフがIHで作る絶品ローストビーフ丼" [level=3] [ref=f270e968]
+            - generic [ref=f270e969]:
+              - link [ref=f270e971] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=sgQQokvOVts
+                - img "元シェフがIHで作る絶品ローストビーフ丼｜IHヒーター交換のおすすめ動画" [ref=f270e973]
+              - generic [ref=f270e974]: ラクッキングリルを使って絶品ローストビーフを作ってみました
+          - group "5 / 6" [ref=f270e975]:
+            - heading "IHヒーターの掃除＆お手入れ方法をご紹介" [level=3] [ref=f270e976]
+            - generic [ref=f270e977]:
+              - link [ref=f270e979] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=Cf6DT3vqa8A
+                - img "IHヒーターの掃除＆お手入れ方法をご紹介｜IHヒーター交換のおすすめ動画" [ref=f270e981]
+              - generic [ref=f270e982]: 天板とグリル庫内の掃除方法を丁寧に解説します。
+          - group "6 / 6" [ref=f270e983]:
+            - heading "IHヒーターの焦げつきはこう落とす" [level=3] [ref=f270e984]
+            - generic [ref=f270e985]:
+              - link [ref=f270e987] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=FRPwgW0-fnE
+                - img "IHヒーターの焦げつきはこう落とす｜IHヒーター交換のおすすめ動画" [ref=f270e989]
+              - generic [ref=f270e990]: IHヒーターの天板にこびりついた焦げつきを落としてみました！
+          - group "1 / 6" [ref=f270e991]:
+            - heading "このIHはグリルが凄い！モモ肉の野菜グリル" [level=3] [ref=f270e992]
+            - generic [ref=f270e993]:
+              - link [ref=f270e995] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=gZa2a03YEs0
+                - img "このIHはグリルが凄い！モモ肉の野菜グリル｜IHヒーター交換のおすすめ動画" [ref=f270e997]
+              - generic [ref=f270e998]: 料理レシピ付き！グリルが進化したAシリーズを実際に使ってみました。
+          - group "2 / 6" [ref=f270e999]:
+            - heading "Aシリーズをおすすめする6つの理由" [level=3] [ref=f270e1000]
+            - generic [ref=f270e1001]:
+              - link [ref=f270e1003] [cursor=pointer]:
+                - /url: https://youtu.be/AEmaZLdzETs
+                - img "Aシリーズをおすすめする6つの理由｜IHヒーター交換のおすすめ動画" [ref=f270e1005]
+              - generic [ref=f270e1006]: 当社で人気のパナソニック「Aシリーズ」を徹底的に深堀りしました！
+        - button "Previous slide" [ref=f270e1007] [cursor=pointer]
+        - button "Next slide" [ref=f270e1008] [cursor=pointer]
+      - heading "7月24日更新 お客様の声・施工事例" [level=2] [ref=f270e1009]:
+        - generic [ref=f270e1010]: 7月24日更新
+        - paragraph [ref=f270e1011]: お客様の声・施工事例
+      - heading "IHクッキングヒーターを交換した お客様の声" [level=3] [ref=f270e1012]
+      - generic [ref=f270e1014]:
+        - link "2026/7/24 NEW 千葉県浦安市のお客様 「以前に利用して良かったので、再度依頼しました。パナソニックから同じメーカーへ交換したので、基本の使い方もわかりやすく、悩…" [ref=f270e1015] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98512
+          - generic [ref=f270e1016]:
+            - generic [ref=f270e1017]: 2026/7/24
+            - generic [ref=f270e1018]: NEW
+          - figure "千葉県浦安市のお客様" [ref=f270e1019]:
+            - img "2026/7/24 千葉県浦安市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1022]: 「以前に利用して良かったので、再度依頼しました。パナソニックから同じメーカーへ交換したので、基本の使い方もわかりやすく、悩…
+        - link "2026/7/13 愛知県田原市のお客様 「電子レンジの表示が壊れたので、メーカーに修理に来てもらったら、この部品は期限が過ぎていて、修理が不可能ですと言われたため…" [ref=f270e1023] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98687
+          - generic [ref=f270e1024]: 2026/7/13
+          - figure "愛知県田原市のお客様" [ref=f270e1026]:
+            - img "2026/7/13 愛知県田原市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1029]: 「電子レンジの表示が壊れたので、メーカーに修理に来てもらったら、この部品は期限が過ぎていて、修理が不可能ですと言われたため…
+        - link "2026/7/13 奈良県橿原市のお客様 「ガスコンロからIHに変更で、配線が上手く出来るか心配していましたが、担当の方2人がテキパキとこなして頂き配線できました。おわ…" [ref=f270e1030] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98340
+          - generic [ref=f270e1031]: 2026/7/13
+          - figure "奈良県橿原市のお客様" [ref=f270e1033]:
+            - img "2026/7/13 奈良県橿原市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1036]: 「ガスコンロからIHに変更で、配線が上手く出来るか心配していましたが、担当の方2人がテキパキとこなして頂き配線できました。おわ…
+        - link "2026/6/24 東京都東村山市のお客様 「手早く交換していただき、完了までの早さに驚きました。機器の説明をもう少し詳しくお話しいただけたらなお良かったですが、価格…" [ref=f270e1037] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98034
+          - generic [ref=f270e1038]: 2026/6/24
+          - figure "東京都東村山市のお客様" [ref=f270e1040]:
+            - img "2026/6/24 東京都東村山市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1043]: 「手早く交換していただき、完了までの早さに驚きました。機器の説明をもう少し詳しくお話しいただけたらなお良かったですが、価格…
+        - link "2026/6/10 広島県広島市のお客様 「今回クッキングヒーターとレンジフードを交換していただきました。クッキングヒーターの火力がかなり弱くなり、魚を焼くグリルも…" [ref=f270e1044] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98167
+          - generic [ref=f270e1045]: 2026/6/10
+          - figure "広島県広島市のお客様" [ref=f270e1047]:
+            - img "2026/6/10 広島県広島市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1050]: 「今回クッキングヒーターとレンジフードを交換していただきました。クッキングヒーターの火力がかなり弱くなり、魚を焼くグリルも…
+        - link "2026/6/1 静岡県浜松市のお客様 「使用年数からかファンの音が大きくなったため交換を検討した。交換できるくんはインターネットで知り、量販店よりも安く10年保証…" [ref=f270e1051] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98070
+          - generic [ref=f270e1052]: 2026/6/1
+          - figure "静岡県浜松市のお客様" [ref=f270e1054]:
+            - img "2026/6/1 静岡県浜松市のお客様｜IHクッキングヒーター交換の施工事例"
+          - paragraph [ref=f270e1057]: 「使用年数からかファンの音が大きくなったため交換を検討した。交換できるくんはインターネットで知り、量販店よりも安く10年保証…
+      - link "お客様の声をもっと見る" [ref=f270e1059] [cursor=pointer]:
+        - /url: /voice/index.php/archives/tag/ih
+      - heading "IHクッキングヒーターの施工事例" [level=3] [ref=f270e1060]
+      - generic [ref=f270e1062]:
+        - link "2026/07/24 NEW 岡山県倉敷市のお客様 パナソニック IHクッキングヒーター 『NE-DB1000』 時計アイコン 約3時間" [ref=f270e1063] [cursor=pointer]:
+          - /url: /ih/blog/ih_oven/133373/
+          - generic [ref=f270e1064]:
+            - generic [ref=f270e1065]: 2026/07/24
+            - generic [ref=f270e1066]: NEW
+          - figure "岡山県倉敷市のお客様" [ref=f270e1067]:
+            - img "2026/07/24 岡山県倉敷市のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1069]:
+            - paragraph [ref=f270e1070]: パナソニック IHクッキングヒーター 『NE-DB1000』
+            - generic [ref=f270e1071]:
+              - img "時計アイコン" [ref=f270e1072]
+              - generic [ref=f270e1073]: 約3時間
+        - link "2026/07/24 NEW 埼玉県越谷市のお客様 パナソニック IHクッキングヒーター 『NE-DB1000』 時計アイコン 約3時間" [ref=f270e1074] [cursor=pointer]:
+          - /url: /ih/blog/ih_oven/133369/
+          - generic [ref=f270e1075]:
+            - generic [ref=f270e1076]: 2026/07/24
+            - generic [ref=f270e1077]: NEW
+          - figure "埼玉県越谷市のお客様" [ref=f270e1078]:
+            - img "2026/07/24 埼玉県越谷市のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1080]:
+            - paragraph [ref=f270e1081]: パナソニック IHクッキングヒーター 『NE-DB1000』
+            - generic [ref=f270e1082]:
+              - img "時計アイコン" [ref=f270e1083]
+              - generic [ref=f270e1084]: 約3時間
+        - link "2026/07/24 NEW 東京都板橋区のお客様 パナソニック IHクッキングヒーター 『KZ-B1T7S』 時計アイコン 約1時間" [ref=f270e1085] [cursor=pointer]:
+          - /url: /ih/blog/panasonic/133377/
+          - generic [ref=f270e1086]:
+            - generic [ref=f270e1087]: 2026/07/24
+            - generic [ref=f270e1088]: NEW
+          - figure "東京都板橋区のお客様" [ref=f270e1089]:
+            - img "2026/07/24 東京都板橋区のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1091]:
+            - paragraph [ref=f270e1092]: パナソニック IHクッキングヒーター 『KZ-B1T7S』
+            - generic [ref=f270e1093]:
+              - img "時計アイコン" [ref=f270e1094]
+              - generic [ref=f270e1095]: 約1時間
+        - link "2026/07/24 NEW 神奈川県川崎市幸区のお客様 日立 IHクッキングヒーター 『HT-N60ST(S)』 時計アイコン 約1時間" [ref=f270e1096] [cursor=pointer]:
+          - /url: /ih/blog/hitachi/133381/
+          - generic [ref=f270e1097]:
+            - generic [ref=f270e1098]: 2026/07/24
+            - generic [ref=f270e1099]: NEW
+          - figure "神奈川県川崎市幸区のお客様" [ref=f270e1100]:
+            - img "2026/07/24 神奈川県川崎市幸区のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1102]:
+            - paragraph [ref=f270e1103]: 日立 IHクッキングヒーター 『HT-N60ST(S)』
+            - generic [ref=f270e1104]:
+              - img "時計アイコン" [ref=f270e1105]
+              - generic [ref=f270e1106]: 約1時間
+        - link "2026/07/15 大阪府大阪市鶴見区のお客様 日立 IHクッキングヒーター 『HT-N8ASTF(S)』 時計アイコン 約5時間" [ref=f270e1107] [cursor=pointer]:
+          - /url: /ih/blog/hitachi/133148/
+          - generic [ref=f270e1108]: 2026/07/15
+          - figure "大阪府大阪市鶴見区のお客様" [ref=f270e1110]:
+            - img "2026/07/15 大阪府大阪市鶴見区のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1112]:
+            - paragraph [ref=f270e1113]: 日立 IHクッキングヒーター 『HT-N8ASTF(S)』
+            - generic [ref=f270e1114]:
+              - img "時計アイコン" [ref=f270e1115]
+              - generic [ref=f270e1116]: 約5時間
+        - link "2026/07/15 神奈川県横浜市港南区のお客様 日立 IHクッキングヒーター 『HT-N8AKTF(K)』 時計アイコン 約1時間" [ref=f270e1117] [cursor=pointer]:
+          - /url: /ih/blog/hitachi/133144/
+          - generic [ref=f270e1118]: 2026/07/15
+          - figure "神奈川県横浜市港南区のお客様" [ref=f270e1120]:
+            - img "2026/07/15 神奈川県横浜市港南区のお客様｜IHクッキングヒーター交換の施工事例"
+          - generic [ref=f270e1122]:
+            - paragraph [ref=f270e1123]: 日立 IHクッキングヒーター 『HT-N8AKTF(K)』
+            - generic [ref=f270e1124]:
+              - img "時計アイコン" [ref=f270e1125]
+              - generic [ref=f270e1126]: 約1時間
+      - link "施工事例をもっと見る" [ref=f270e1128] [cursor=pointer]:
+        - /url: /ih/blog/
+      - heading "ビルトインIHのお役立ちノウハウ" [level=2] [ref=f270e1129]
+      - generic [ref=f270e1131]:
+        - link "IHコンロとガスコンロの違い IHコンロとガスコンロの違い ご自宅の設備やお料理スタイルに左右されるIH調理器とガスの違いとは？" [ref=f270e1133] [cursor=pointer]:
+          - /url: /ih/contents/gas_ih.html
+          - img "IHコンロとガスコンロの違い" [ref=f270e1135]
+          - generic [ref=f270e1136]:
+            - generic [ref=f270e1137]: IHコンロとガスコンロの違い
+            - text: ご自宅の設備やお料理スタイルに左右されるIH調理器とガスの違いとは？
+        - link "ラジエントヒーターとは｜金属鍋や超耐熱ガラス鍋を扱えるIH ラジエントヒーターとは？ 金属鍋や超耐熱ガラス鍋を扱えるラジエントヒーターをご紹介！" [ref=f270e1139] [cursor=pointer]:
+          - /url: /ih/contents/what_is_radiant.html
+          - img "ラジエントヒーターとは｜金属鍋や超耐熱ガラス鍋を扱えるIH" [ref=f270e1141]
+          - generic [ref=f270e1142]:
+            - generic [ref=f270e1143]: ラジエントヒーターとは？
+            - text: 金属鍋や超耐熱ガラス鍋を扱えるラジエントヒーターをご紹介！
+        - link "オールメタルとは｜アルミ鍋や銅鍋を扱えるIH オールメタルとは？ アルミ鍋や銅鍋を扱える便利なオールメタルをご紹介！" [ref=f270e1145] [cursor=pointer]:
+          - /url: /ih/contents/what_is_allmetal.html
+          - img "オールメタルとは｜アルミ鍋や銅鍋を扱えるIH" [ref=f270e1147]
+          - generic [ref=f270e1148]:
+            - generic [ref=f270e1149]: オールメタルとは？
+            - text: アルミ鍋や銅鍋を扱える便利なオールメタルをご紹介！
+        - link "鍋底に磁石がつくもの、鍋底に磁石がつかないものなどIHで使える鍋と使えない鍋をご紹介｜IHクッキングヒーター IHヒーターで使える鍋 材質や形状によりIHで使える鍋・使えない鍋があります。" [ref=f270e1151] [cursor=pointer]:
+          - /url: /ih/contents/nabe.html
+          - img "鍋底に磁石がつくもの、鍋底に磁石がつかないものなどIHで使える鍋と使えない鍋をご紹介｜IHクッキングヒーター" [ref=f270e1153]
+          - generic [ref=f270e1154]:
+            - generic [ref=f270e1155]: IHヒーターで使える鍋
+            - text: 材質や形状によりIHで使える鍋・使えない鍋があります。
+        - link "IHクッキングヒーターの寿命・故障について IHヒーターの寿命・故障 IH調理器の寿命や耐用年数について解説いたします。" [ref=f270e1157] [cursor=pointer]:
+          - /url: /ih/contents/breakdown/
+          - img "IHクッキングヒーターの寿命・故障について" [ref=f270e1159]
+          - generic [ref=f270e1160]:
+            - generic [ref=f270e1161]: IHヒーターの寿命・故障
+            - text: IH調理器の寿命や耐用年数について解説いたします。
+        - link "IHクッキングヒーターの電気代と節電について IHの電気代と節電豆知識 IHとガスコンロの光熱費の比較や節電方法についてご紹介します。" [ref=f270e1163] [cursor=pointer]:
+          - /url: /ih/contents/electricity_bill.html
+          - img "IHクッキングヒーターの電気代と節電について" [ref=f270e1165]
+          - generic [ref=f270e1166]:
+            - generic [ref=f270e1167]: IHの電気代と節電豆知識
+            - text: IHとガスコンロの光熱費の比較や節電方法についてご紹介します。
+        - link "卓上IHとビルトインを比較 卓上IHとビルトインを比較 卓上IHの特徴やメリット・デメリットをまとめました。" [ref=f270e1169] [cursor=pointer]:
+          - /url: /ih/contents/builtin_stationary.html
+          - img "卓上IHとビルトインを比較" [ref=f270e1171]
+          - generic [ref=f270e1172]:
+            - generic [ref=f270e1173]: 卓上IHとビルトインを比較
+            - text: 卓上IHの特徴やメリット・デメリットをまとめました。
+        - link "ひとり暮らしやシニアにおすすめIH ひとり暮らしやシニアにおすすめ ひとり暮らしやシニアにおすすめのIHをご紹介。" [ref=f270e1175] [cursor=pointer]:
+          - /url: /ih/contents/senior.html
+          - img "ひとり暮らしやシニアにおすすめIH" [ref=f270e1177]
+          - generic [ref=f270e1178]:
+            - generic [ref=f270e1179]: ひとり暮らしやシニアにおすすめ
+            - text: ひとり暮らしやシニアにおすすめのIHをご紹介。
+        - link "IHヒーターのお手入れ・掃除方法 IHヒーターのお手入れ・掃除 汚れごとの効果的なお手入れ方法から注意点まで詳しくご紹介。" [ref=f270e1181] [cursor=pointer]:
+          - /url: /ih/contents/cleaning.html
+          - img "IHヒーターのお手入れ・掃除方法" [ref=f270e1183]
+          - generic [ref=f270e1184]:
+            - generic [ref=f270e1185]: IHヒーターのお手入れ・掃除
+            - text: 汚れごとの効果的なお手入れ方法から注意点まで詳しくご紹介。
+      - heading "IHクッキングヒーターの基本交換工事費用 （まるごとサービスパック）" [level=2] [ref=f270e1186]
+      - paragraph [ref=f270e1188]: お見積りは商品代金と基本工事費、その他項目をすべて含めた総額でご提示いたします。 設置状況等により部材やオプション工事が別途必要な場合についても、事前にお知らせいたします。
+      - generic [ref=f270e1189]:
+        - generic [ref=f270e1190] [cursor=pointer]: IHからIHへ交換
+        - generic [ref=f270e1191]:
+          - generic [ref=f270e1193]:
+            - table [ref=f270e1194]:
+              - rowgroup [ref=f270e1195]:
+                - row [ref=f270e1196]:
+                  - rowheader [ref=f270e1197]:
+                    - paragraph [ref=f270e1199]: 基本工事費(まるごとサービスパック)
+                  - cell [ref=f270e1200]:
+                    - paragraph [ref=f270e1201]: 20,900円(税込)
+            - generic [ref=f270e1202]:
+              - generic [ref=f270e1203]: 「まるごとサービスパック」は 下記すべて含めたコミコミ価格!
+              - generic [ref=f270e1206]:
+                - generic [ref=f270e1207]:
+                  - img "基本工事費・撤去費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1209]
+                  - paragraph [ref=f270e1212]: 基本工事費撤去費
+                - generic [ref=f270e1213]:
+                  - img "出張費・運搬費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1215]
+                  - paragraph [ref=f270e1218]: 出張費運搬費
+                - generic [ref=f270e1219]:
+                  - img "部材費・養生費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1221]
+                  - paragraph [ref=f270e1224]: 部材費養生費
+                - generic [ref=f270e1225]:
+                  - img "廃棄処分費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1227]
+                  - paragraph [ref=f270e1230]: 廃材運搬処分
+                - generic [ref=f270e1231]:
+                  - img "設置前清掃｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1233]
+                  - paragraph [ref=f270e1236]: 設置前清掃
+                - generic [ref=f270e1237]:
+                  - img "機器操作説明｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1239]
+                  - paragraph [ref=f270e1242]: 操作説明
+                - generic [ref=f270e1243]:
+                  - img "諸経費・事務経費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1245]
+                  - paragraph [ref=f270e1248]: 諸経費事務経費
+              - generic [ref=f270e1249]:
+                - paragraph [ref=f270e1250]: 標準的な基本工事費やオプションが必要な追加工事費の詳細はこちらをご確認ください。
+                - paragraph [ref=f270e1251]:
+                  - link "IHヒーターの基本工事費について >" [ref=f270e1252] [cursor=pointer]:
+                    - /url: /ih/guide/cost/
+          - generic [ref=f270e1253]: ※200Vエアコン配線は、IHヒーター用としてはご使用できません。 ※戸建てでキッチンと分電盤の設置階が異なる場合は、工事を承っておりません。 ※その他現場状況により、上記以外の工事費用を見積りに含めてご案内することもございます。
+          - generic [ref=f270e1255]:
+            - heading "交換できるくんは、 全品無料 10年 保証付き。" [level=2] [ref=f270e1256]:
+              - text: 交換できるくんは、
+              - generic [ref=f270e1257]:
+                - text: 全品無料
+                - generic [ref=f270e1258]: 10年
+                - text: 保証付き。
+            - generic [ref=f270e1260]:
+              - paragraph [ref=f270e1261]: 交換できるくんなら商品代＋基本工事費(まるごとサービスパック)＋無料10年保証が1セット！「見積り金額＝お支払い総額」なので事前のお知らせなく、見積り金額確定後に追加請求することはいたしません。
+              - generic [ref=f270e1262]: ※無料10年保証は2022年10月1日以降のお見積り依頼から対象となります。
+            - generic [ref=f270e1263]:
+              - generic [ref=f270e1264]:
+                - generic [ref=f270e1265]:
+                  - figure [ref=f270e1266]:
+                    - img "IHヒーターの商品代金" [ref=f270e1267]
+                  - paragraph [ref=f270e1268]: 商品代金
+                - generic [ref=f270e1269]: 59,400円(税込)～
+              - figure [ref=f270e1270]:
+                - img "＋アイコン" [ref=f270e1271]
+              - generic [ref=f270e1272]:
+                - generic [ref=f270e1273]:
+                  - figure [ref=f270e1274]:
+                    - img "まるごとサービスパック(基本工事費含む)" [ref=f270e1275]
+                  - paragraph [ref=f270e1276]: まるごとサービスパック
+                - generic [ref=f270e1277]: 20,900円(税込)
+              - figure [ref=f270e1278]:
+                - img "＋アイコン" [ref=f270e1279]
+              - generic [ref=f270e1280]:
+                - generic [ref=f270e1281]:
+                  - figure [ref=f270e1282]:
+                    - img "全品無料10年保証" [ref=f270e1283]
+                  - paragraph [ref=f270e1284]:
+                    - text: 商品･工事
+                    - superscript [ref=f270e1285]: ※
+                    - text: 全品10年保証
+                - generic [ref=f270e1286]: 無料
+            - link "無料10年保証について >" [ref=f270e1287] [cursor=pointer]:
+              - /url: /guar/
+        - generic [ref=f270e1288] [cursor=pointer]: ガスコンロからIHへ交換
+        - generic:
+          - generic [ref=f270e1289]:
+            - table [ref=f270e1291]:
+              - rowgroup [ref=f270e1292]:
+                - row [ref=f270e1293]:
+                  - columnheader [ref=f270e1294]
+                  - columnheader [ref=f270e1295]:
+                    - paragraph [ref=f270e1296]: 新築(築浅)マンション※1
+                  - columnheader [ref=f270e1297]:
+                    - paragraph [ref=f270e1298]: マンション・戸建て※2
+                    - paragraph [ref=f270e1299]: (分電盤がキッチンにある)
+                  - columnheader [ref=f270e1300]:
+                    - paragraph [ref=f270e1301]: マンション・戸建て※2
+                    - paragraph [ref=f270e1302]: (分電盤がキッチン以外にある)
+                - row [ref=f270e1303]:
+                  - rowheader [ref=f270e1304]:
+                    - paragraph [ref=f270e1306]: 工事費計
+                  - cell [ref=f270e1307]:
+                    - paragraph [ref=f270e1308]: 23,100円(税込)
+                  - cell [ref=f270e1309]:
+                    - paragraph [ref=f270e1310]: 60,900円(税込)
+                  - cell [ref=f270e1311]:
+                    - paragraph [ref=f270e1312]: 78,500円(税込)
+                - row [ref=f270e1313]:
+                  - rowheader [ref=f270e1314]:
+                    - generic [ref=f270e1315]:
+                      - text: 基本工事費
+                      - paragraph [ref=f270e1316]: 20,900円
+                  - cell "〇" [ref=f270e1317]
+                  - cell "〇" [ref=f270e1318]
+                  - cell "〇" [ref=f270e1319]
+                - row [ref=f270e1320]:
+                  - columnheader "オプション" [ref=f270e1321]
+                  - rowheader [ref=f270e1323]:
+                    - generic [ref=f270e1324]:
+                      - text: ガス閉栓
+                      - paragraph [ref=f270e1325]: +2,200円
+                  - cell "〇" [ref=f270e1326]
+                  - cell "〇" [ref=f270e1327]
+                  - cell "〇" [ref=f270e1328]
+                - row [ref=f270e1329]:
+                  - rowheader [ref=f270e1330]:
+                    - generic [ref=f270e1331]:
+                      - text: 専用回路配線
+                      - paragraph [ref=f270e1332]: +37,800円
+                  - cell "ー" [ref=f270e1333]
+                  - cell "〇" [ref=f270e1334]
+                  - cell "〇" [ref=f270e1335]
+                - row [ref=f270e1336]:
+                  - rowheader [ref=f270e1337]:
+                    - generic [ref=f270e1338]:
+                      - text: 配線延長対応
+                      - paragraph [ref=f270e1339]: +17,600円
+                  - cell "ー" [ref=f270e1340]
+                  - cell "ー" [ref=f270e1341]
+                  - cell "〇" [ref=f270e1342]
+            - generic [ref=f270e1344]:
+              - generic [ref=f270e1345]: 「まるごとサービスパック」は 下記すべて含めたコミコミ価格!
+              - generic [ref=f270e1348]:
+                - generic [ref=f270e1349]:
+                  - img "基本工事費・撤去費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1351]
+                  - paragraph [ref=f270e1354]: 基本工事費撤去費
+                - generic [ref=f270e1355]:
+                  - img "出張費・運搬費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1357]
+                  - paragraph [ref=f270e1360]: 出張費運搬費
+                - generic [ref=f270e1361]:
+                  - img "部材費・養生費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1363]
+                  - paragraph [ref=f270e1366]: 部材費養生費
+                - generic [ref=f270e1367]:
+                  - img "廃棄処分費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1369]
+                  - paragraph [ref=f270e1372]: 廃材運搬処分
+                - generic [ref=f270e1373]:
+                  - img "設置前清掃｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1375]
+                  - paragraph [ref=f270e1378]: 設置前清掃
+                - generic [ref=f270e1379]:
+                  - img "機器操作説明｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目（国内メーカー）" [ref=f270e1381]
+                  - paragraph [ref=f270e1384]: 操作説明
+                - generic [ref=f270e1385]:
+                  - img "諸経費・事務経費｜IHヒーター交換や後付けの基本工事費・工賃に含まれる項目" [ref=f270e1387]
+                  - paragraph [ref=f270e1390]: 諸経費事務経費
+              - generic [ref=f270e1391]:
+                - paragraph [ref=f270e1392]: 標準的な基本工事費やオプションが必要な追加工事費の詳細はこちらをご確認ください。
+                - paragraph [ref=f270e1393]:
+                  - link "IHヒーターの基本工事費について >" [ref=f270e1394] [cursor=pointer]:
+                    - /url: /ih/guide/cost/
+          - generic [ref=f270e1395]: ※1 敷設済み配線が200V・30A配線であることが前提です。 ※2 分電盤に空きがない場合、別途フリーボックス設置費(5,500円)が必要です。 ※200Vエアコン配線は、IHヒーター用としてはご使用できません。 ※戸建てでキッチンと分電盤の設置階が異なる場合は、工事を承っておりません。 ※その他現場状況により、上記以外の工事費用を見積りに含めてご案内することもございます。
+          - link "ガスコンロからIHクッキングヒーターへの交換についてQ＆Aはこちら >" [ref=f270e1398] [cursor=pointer]:
+            - /url: /staff/index.php/archives/67794
+          - generic [ref=f270e1399]:
+            - heading "交換できるくんは、 全品無料 10年 保証付き。" [level=2] [ref=f270e1400]:
+              - text: 交換できるくんは、
+              - generic [ref=f270e1401]:
+                - text: 全品無料
+                - generic [ref=f270e1402]: 10年
+                - text: 保証付き。
+            - generic [ref=f270e1404]:
+              - paragraph [ref=f270e1405]: 交換できるくんなら商品代＋基本工事費(まるごとサービスパック)＋無料10年保証が1セット！「見積り金額＝お支払い総額」なので事前のお知らせなく、見積り金額確定後に追加請求することはいたしません。
+              - generic [ref=f270e1406]: ※無料10年保証は2022年10月1日以降のお見積り依頼から対象となります。
+            - generic [ref=f270e1407]:
+              - generic [ref=f270e1408]:
+                - generic [ref=f270e1409]:
+                  - figure [ref=f270e1410]:
+                    - img "IHヒーターの商品代金" [ref=f270e1411]
+                  - paragraph [ref=f270e1412]: 商品代金
+                - generic [ref=f270e1413]: 59,400円(税込)～
+              - figure [ref=f270e1414]:
+                - img "＋アイコン" [ref=f270e1415]
+              - generic [ref=f270e1416]:
+                - generic [ref=f270e1417]:
+                  - figure [ref=f270e1418]:
+                    - img "まるごとサービスパック(基本工事費含む)" [ref=f270e1419]
+                  - paragraph [ref=f270e1420]: まるごとサービスパック
+                - generic [ref=f270e1421]: 21,000円(税込)～
+              - figure [ref=f270e1422]:
+                - img "＋アイコン" [ref=f270e1423]
+              - generic [ref=f270e1424]:
+                - generic [ref=f270e1425]:
+                  - figure [ref=f270e1426]:
+                    - img "全品無料10年保証" [ref=f270e1427]
+                  - paragraph [ref=f270e1428]:
+                    - text: 商品･工事
+                    - superscript [ref=f270e1429]: ※
+                    - text: 全品10年保証
+                - generic [ref=f270e1430]: 無料
+            - link "無料10年保証について >" [ref=f270e1431] [cursor=pointer]:
+              - /url: /guar/
+      - heading "据え置きや卓上IHのお取り扱いはありません" [level=3] [ref=f270e1432]
+      - generic [ref=f270e1433]:
+        - generic [ref=f270e1434]:
+          - generic [ref=f270e1435]: ビルトインタイプ
+          - generic [ref=f270e1436]:
+            - generic [ref=f270e1437]:
+              - img "ビルトインIHヒーター｜IHクッキングヒーターの種類" [ref=f270e1438]
+              - paragraph [ref=f270e1443]: 対応可
+            - paragraph [ref=f270e1445]: システムキッチンに組み込まれたビルトインIHの交換工事に対応。ガスコンロからIHへの取り替えも可。
+        - generic [ref=f270e1446]:
+          - generic [ref=f270e1447]: 据え置きタイプ
+          - generic [ref=f270e1448]:
+            - generic [ref=f270e1449]:
+              - img "据え置きIHヒーター｜IHクッキングヒーターの種類" [ref=f270e1450]
+              - paragraph [ref=f270e1455]: 取扱なし
+            - paragraph [ref=f270e1457]: 据置タイプの取り扱いはありませんが、オプションで専用枠を設置すればビルトインIHへ変更できます。
+        - generic [ref=f270e1458]:
+          - generic [ref=f270e1459]: 卓上タイプ
+          - generic [ref=f270e1460]:
+            - generic [ref=f270e1461]:
+              - img "卓上IHヒーター｜IHクッキングヒーターの種類" [ref=f270e1462]
+              - paragraph [ref=f270e1467]: 取扱なし
+            - paragraph [ref=f270e1469]: 場所を選ばず食卓でも使えるホットプレートIH。工事不要で、当社ではお取り扱いしていません。
+      - heading "IHクッキングヒーター交換の流れ" [level=3] [ref=f270e1470]
+      - generic [ref=f270e1472]:
+        - generic [ref=f270e1473]:
+          - heading "1 商品を選ぶ" [level=4] [ref=f270e1474]:
+            - generic [ref=f270e1475]: "1"
+            - text: 商品を選ぶ
+          - generic [ref=f270e1476]:
+            - figure [ref=f270e1477]:
+              - img "商品を選ぶ|IH 交換・リフォームの流れ【交換できるくん】" [ref=f270e1478]
+            - paragraph [ref=f270e1479]: 交換されたいIHヒーターをお選びください。当社にてお客様にあった商品をご案内することも可能です。
+        - generic [ref=f270e1480]:
+          - heading "2 見積りをご依頼" [level=4] [ref=f270e1481]:
+            - generic [ref=f270e1482]: "2"
+            - text: 見積りをご依頼
+          - generic [ref=f270e1483]:
+            - figure [ref=f270e1484]:
+              - img "見積りをご依頼|IH 交換・リフォームの流れ【交換できるくん】" [ref=f270e1485]
+            - paragraph [ref=f270e1486]: IHヒーターが決まったら見積りをご依頼ください。現行の画像をお送りいただければ、設置適合確認も当社で行います。
+        - generic [ref=f270e1487]:
+          - heading "3 ご注文" [level=4] [ref=f270e1488]:
+            - generic [ref=f270e1489]: "3"
+            - text: ご注文
+          - generic [ref=f270e1490]:
+            - figure [ref=f270e1491]:
+              - img "ご注文|IH 交換・リフォームの流れ【交換できるくん】" [ref=f270e1492]
+            - paragraph [ref=f270e1493]: 見積りの内容にご納得いただいたらご注文手続きをお願いいたします。工事日程のご希望をお伺いします。
+        - generic [ref=f270e1494]:
+          - heading "4 工事お伺い" [level=4] [ref=f270e1495]:
+            - generic [ref=f270e1496]: "4"
+            - text: 工事お伺い
+          - generic [ref=f270e1497]:
+            - figure [ref=f270e1498]:
+              - img "交換工事|IH 交換・リフォームの流れ【交換できるくん】" [ref=f270e1499]
+            - paragraph [ref=f270e1500]: 工事担当が商品を持って、お客様のご自宅へお伺いし、交換工事一式（本体取り替え及び電気配線接続や試運転等）を行います。
+      - generic [ref=f270e1502]:
+        - link [ref=f270e1503] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+          - generic [ref=f270e1504]:
+            - paragraph [ref=f270e1505]: 工事対応エリアを確認 ▲
+            - paragraph [ref=f270e1506]: 札幌・仙台・関東・東海・関西中国・福岡の7都市圏に対応！
+        - generic [ref=f270e1507]:
+          - link [ref=f270e1508] [cursor=pointer]:
+            - /url: /guar/
+            - img "工事保証について" [ref=f270e1509]
+          - link [ref=f270e1510] [cursor=pointer]:
+            - /url: /site_guide/use/pay.html
+            - img "お支払いについて" [ref=f270e1511]
+      - generic [ref=f270e1512]:
+        - link [ref=f270e1513] [cursor=pointer]:
+          - /url: /kitchen/food/case.html
+          - img "IHヒーター・レンジフードおまとめ工事割引" [ref=f270e1514]
+        - link [ref=f270e1515] [cursor=pointer]:
+          - /url: /system/estimateForm/form/ih_change/
+          - img "ビルトインガスコンロ見積りフォーム" [ref=f270e1516]
+      - heading "IHクッキングヒーター・IHコンロ 人気ページ" [level=3] [ref=f270e1517]
+      - generic [ref=f270e1519]:
+        - link [ref=f270e1520] [cursor=pointer]:
+          - /url: /ih/
+          - img "IHクッキングヒーター・IHコンロ トップページ" [ref=f270e1522]
+          - paragraph [ref=f270e1523]: IHヒーター トップページ IHヒーターが驚きのネット特価でお安く交換できます。
+        - link [ref=f270e1524] [cursor=pointer]:
+          - /url: /ih/choice/
+          - img "IHクッキングヒーター・IHコンロ 選び方" [ref=f270e1526]
+          - paragraph [ref=f270e1527]: IHヒーター 選び方 IHヒーターの選び方を徹底解説！天板幅は？口数は？
+        - link [ref=f270e1528] [cursor=pointer]:
+          - /url: /ih/function/
+          - img "IHクッキングヒーター・IHコンロ 機能価格表" [ref=f270e1530]
+          - paragraph [ref=f270e1531]: IHヒーター 機能価格表 パナソニック、三菱、日立全機種のシリーズ別機能・仕様一覧です。
+        - generic [ref=f270e1532]:
+          - link [ref=f270e1533] [cursor=pointer]:
+            - /url: /ih/panasonic/
+            - img "IHクッキングヒーター・IHコンロ パナソニック" [ref=f270e1534]
+          - paragraph [ref=f270e1535]:
+            - text: IHヒーター パナソニック
+            - generic [ref=f270e1536]: お手軽なグリル料理と簡単なお手入れが人気、パナソニックのIHです。
+          - generic [ref=f270e1537]:
+            - link [ref=f270e1538] [cursor=pointer]:
+              - /url: /ih/panasonic/a-series.html
+              - img "パナソニックIH ハイグレード、Aシリーズ" [ref=f270e1539]
+            - link [ref=f270e1540] [cursor=pointer]:
+              - /url: /ih/panasonic/list-middle.html
+              - img "パナソニックIH ミドルグレード、Bシリーズ・Cシリーズ・Wシリーズ" [ref=f270e1541]
+            - link [ref=f270e1542] [cursor=pointer]:
+              - /url: /ih/panasonic/list-basic.html
+              - img "パナソニックIH ミドルグレード、Lシリーズ・Kシリーズ" [ref=f270e1543]
+        - generic [ref=f270e1544]:
+          - link [ref=f270e1545] [cursor=pointer]:
+            - /url: /ih/mitsubishi/
+            - img "IHクッキングヒーター・IHコンロ 三菱" [ref=f270e1546]
+          - paragraph [ref=f270e1547]: IHヒーター 三菱 独自コイル技術でムラなくおいしく、省エネで調理できる三菱のIHです。
+          - generic [ref=f270e1548]:
+            - link [ref=f270e1549] [cursor=pointer]:
+              - /url: /ih/mitsubishi/list-high.html
+              - img "三菱IH ハイグレード、PT321H、T321Hシリーズ、REシリーズ" [ref=f270e1550]
+            - link [ref=f270e1551] [cursor=pointer]:
+              - /url: /ih/mitsubishi/list-middle.html
+              - img "三菱IH ミドルグレード、T321V、G321Vシリーズ" [ref=f270e1552]
+            - link [ref=f270e1553] [cursor=pointer]:
+              - /url: /ih/mitsubishi/list-basic.html
+              - img "三菱IH ベーシックグレード、G321Mシリーズ" [ref=f270e1554]
+        - generic [ref=f270e1555]:
+          - link [ref=f270e1556] [cursor=pointer]:
+            - /url: /ih/hitachi/
+            - img "IHクッキングヒーター・IHコンロ 日立" [ref=f270e1557]
+          - paragraph [ref=f270e1558]:
+            - text: IHヒーター 日立
+            - generic [ref=f270e1559]: 左右IH3.2kWの大火力！火加減マイスター、ラク旨グリル搭載。
+          - generic [ref=f270e1560]:
+            - link [ref=f270e1561] [cursor=pointer]:
+              - /url: /ih/hitachi/list-high.html
+              - img "日立IH ハイグレード N2500T・N1500T、N2000T・N1000Tシリーズ" [ref=f270e1562]
+            - link [ref=f270e1563] [cursor=pointer]:
+              - /url: /ih/hitachi/list-middle.html
+              - img "日立IH ミドルグレード N100T・N9T・N8Tシリーズ" [ref=f270e1564]
+            - link [ref=f270e1565] [cursor=pointer]:
+              - /url: /ih/hitachi/list-basic.html
+              - img "日立IH ベーシックグレード M7STFシリーズ" [ref=f270e1566]
+    - generic [ref=f270e1568]:
+      - link [ref=f270e1570] [cursor=pointer]:
+        - /url: /ih/ranking.html
+        - img "IHクッキングヒーター人気・売れ筋ランキング" [ref=f270e1571]
+      - list [ref=f270e1572]:
+        - generic [ref=f270e1573]: IHクッキングヒーター
+        - listitem [ref=f270e1575]:
+          - generic [ref=f270e1576]: IHクッキングヒーターTOP
+        - listitem [ref=f270e1577]:
+          - link "サイトマップ" [ref=f270e1578] [cursor=pointer]:
+            - /url: /ih/sitemap/
+      - list [ref=f270e1579]:
+        - generic [ref=f270e1580]: IHの選び方
+        - listitem [ref=f270e1582]:
+          - link "IHヒーターの選び方TOP" [ref=f270e1583] [cursor=pointer]:
+            - /url: /ih/choice/
+        - listitem [ref=f270e1584]:
+          - link "IHヒーター機能一覧表" [ref=f270e1585] [cursor=pointer]:
+            - /url: /ih/function/
+      - list [ref=f270e1586]:
+        - generic [ref=f270e1587]: IHを選ぶ
+        - listitem [ref=f270e1589]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f270e1590] [cursor=pointer]:
+            - /url: /ih/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f270e1591]:
+          - link "人気ランキングから選ぶ" [ref=f270e1592] [cursor=pointer]:
+            - /url: /ih/ranking.html
+        - listitem [ref=f270e1593]:
+          - link "パナソニックロゴ パナソニックTOP >" [ref=f270e1594] [cursor=pointer]:
+            - /url: /ih/panasonic/
+            - img "パナソニックロゴ" [ref=f270e1595]
+            - generic [ref=f270e1596]: パナソニックTOP >
+        - listitem [ref=f270e1597]:
+          - link "ハイグレード(Sシリーズ)" [ref=f270e1598] [cursor=pointer]:
+            - /url: /ih/panasonic/s-series.html
+        - listitem [ref=f270e1599]:
+          - link "ハイグレード(Aシリーズ)" [ref=f270e1600] [cursor=pointer]:
+            - /url: /ih/panasonic/a-series.html
+        - listitem [ref=f270e1601]:
+          - link "Aシリーズ特集" [ref=f270e1602] [cursor=pointer]:
+            - /url: /ih/panasonic/feature-a_series.html
+        - listitem [ref=f270e1603]:
+          - link "ミドルグレード" [ref=f270e1604] [cursor=pointer]:
+            - /url: /ih/panasonic/list-middle.html
+        - listitem [ref=f270e1605]:
+          - link "ベーシックグレード" [ref=f270e1606] [cursor=pointer]:
+            - /url: /ih/panasonic/list-basic.html
+        - listitem [ref=f270e1607]:
+          - link "2口IH" [ref=f270e1608] [cursor=pointer]:
+            - /url: /ih/panasonic/list-2ih.html
+        - listitem [ref=f270e1609]:
+          - link "三菱電機ロゴ 三菱電機TOP >" [ref=f270e1610] [cursor=pointer]:
+            - /url: /ih/mitsubishi/
+            - img "三菱電機ロゴ" [ref=f270e1611]
+            - generic [ref=f270e1612]: 三菱電機TOP >
+        - listitem [ref=f270e1613]:
+          - link "ハイグレード" [ref=f270e1614] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-high.html
+        - listitem [ref=f270e1615]:
+          - link "ミドルグレード" [ref=f270e1616] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-middle.html
+        - listitem [ref=f270e1617]:
+          - link "ベーシックグレード" [ref=f270e1618] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-basic.html
+        - listitem [ref=f270e1619]:
+          - link "2口IH" [ref=f270e1620] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-2ih.html
+        - listitem [ref=f270e1621]:
+          - link "日立ロゴ 日立TOP >" [ref=f270e1622] [cursor=pointer]:
+            - /url: /ih/hitachi/
+            - img "日立ロゴ" [ref=f270e1623]
+            - generic [ref=f270e1624]: 日立TOP >
+        - listitem [ref=f270e1625]:
+          - link "ハイグレード" [ref=f270e1626] [cursor=pointer]:
+            - /url: /ih/hitachi/list-high.html
+        - listitem [ref=f270e1627]:
+          - link "ミドルグレード" [ref=f270e1628] [cursor=pointer]:
+            - /url: /ih/hitachi/list-middle.html
+        - listitem [ref=f270e1629]:
+          - link "ベーシックグレード" [ref=f270e1630] [cursor=pointer]:
+            - /url: /ih/hitachi/list-basic.html
+      - list [ref=f270e1631]:
+        - generic [ref=f270e1632]: IH関連商品
+        - listitem [ref=f270e1634]:
+          - link "電気オーブンTOP" [ref=f270e1635] [cursor=pointer]:
+            - /url: /ih/oven/
+        - listitem [ref=f270e1636]:
+          - link "パナソニック" [ref=f270e1637] [cursor=pointer]:
+            - /url: /ih/oven/panasonic/
+      - list [ref=f270e1638]:
+        - generic [ref=f270e1639]: 交換工事について
+        - listitem [ref=f270e1641]:
+          - link "交換工事費" [ref=f270e1642] [cursor=pointer]:
+            - /url: /ih/guide/cost/
+        - listitem [ref=f270e1643]:
+          - link "工事対応エリア" [ref=f270e1644] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f270e1645]:
+          - link "無料10年保証" [ref=f270e1646] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f270e1647]:
+          - link "工事当日の流れ" [ref=f270e1648] [cursor=pointer]:
+            - /url: /ih/construction.html
+      - list [ref=f270e1649]:
+        - generic [ref=f270e1650]: よくあるご質問
+        - listitem [ref=f270e1652]:
+          - link "商品について" [ref=f270e1653] [cursor=pointer]:
+            - /url: /ih/faq-item.html
+        - listitem [ref=f270e1654]:
+          - link "見積り・注文について" [ref=f270e1655] [cursor=pointer]:
+            - /url: /ih/faq-esti.html
+        - listitem [ref=f270e1656]:
+          - link "工事について" [ref=f270e1657] [cursor=pointer]:
+            - /url: /ih/faq-construction.html
+      - list [ref=f270e1658]:
+        - generic [ref=f270e1659]: 動画コンテンツお客様の声・施工事例
+        - listitem [ref=f270e1661]:
+          - link "動画コンテンツ" [ref=f270e1662] [cursor=pointer]:
+            - /url: /ih/movie/
+        - listitem [ref=f270e1663]:
+          - link "お客様の声" [ref=f270e1664] [cursor=pointer]:
+            - /url: /voice/?s=IH&x=0&y=0
+        - listitem [ref=f270e1665]:
+          - link "施工事例" [ref=f270e1666] [cursor=pointer]:
+            - /url: /ih/blog/
+        - listitem [ref=f270e1667]:
+          - link "スタッフブログ" [ref=f270e1668] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/ih
+        - listitem [ref=f270e1669]:
+          - link "商品レビュー" [ref=f270e1670] [cursor=pointer]:
+            - /url: /review/?category=ih
+      - list [ref=f270e1671]:
+        - generic [ref=f270e1672]: IHをもっと知る
+        - listitem [ref=f270e1674]:
+          - link "家電量販店製品について" [ref=f270e1675] [cursor=pointer]:
+            - /url: /ih/search_part_number.html
+        - listitem [ref=f270e1676]:
+          - link "オールメタルとは？" [ref=f270e1677] [cursor=pointer]:
+            - /url: /ih/contents/what_is_allmetal.html
+        - listitem [ref=f270e1678]:
+          - link "ラジエントヒーター" [ref=f270e1679] [cursor=pointer]:
+            - /url: /ih/contents/what_is_radiant.html
+        - listitem [ref=f270e1680]:
+          - link "IHの特徴とメリット" [ref=f270e1681] [cursor=pointer]:
+            - /url: /ih/contents/merit.html
+        - listitem [ref=f270e1682]:
+          - link "IHで使える鍋・使えない鍋" [ref=f270e1683] [cursor=pointer]:
+            - /url: /ih/contents/nabe.html
+        - listitem [ref=f270e1684]:
+          - link "IHの掃除・お手入れ方法" [ref=f270e1685] [cursor=pointer]:
+            - /url: /ih/contents/cleaning.html
+        - listitem [ref=f270e1686]:
+          - link "IHの電気代と節電豆知識" [ref=f270e1687] [cursor=pointer]:
+            - /url: /ih/contents/electricity_bill.html
+        - listitem [ref=f270e1688]:
+          - link "ガスとIHの違い" [ref=f270e1689] [cursor=pointer]:
+            - /url: /ih/contents/gas_ih.html
+        - listitem [ref=f270e1690]:
+          - link "卓上IHとビルトイン比較" [ref=f270e1691] [cursor=pointer]:
+            - /url: /ih/contents/builtin_stationary.html
+        - listitem [ref=f270e1692]:
+          - link "ひとり暮らしやシニア向けにおすすめのIH" [ref=f270e1693] [cursor=pointer]:
+            - /url: /ih/contents/senior.html
+        - listitem [ref=f270e1694]:
+          - link "調理レポート さんま塩焼" [ref=f270e1695] [cursor=pointer]:
+            - /url: /ih/cook/grill_sanma_shioyaki.html
+      - list [ref=f270e1696]:
+        - generic [ref=f270e1697]: IHトラブル・故障
+        - listitem [ref=f270e1699]:
+          - link "IHヒーターの故障・寿命" [ref=f270e1700] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/
+        - listitem [ref=f270e1701]: エラーコード一覧
+        - listitem [ref=f270e1702]:
+          - link "パナソニック" [ref=f270e1703] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/panasonic/
+        - listitem [ref=f270e1704]:
+          - link "三菱電機" [ref=f270e1705] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/mitsubishi/
+        - listitem [ref=f270e1706]:
+          - link "日立" [ref=f270e1707] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/hitachi/
+  - generic [ref=f270e1709]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f270e1711] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f270e1712]
+      - generic [ref=f270e1713]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f270e1715] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f270e1716]
+      - generic [ref=f270e1717]: 天井エアコン
+    - link "トイレ トイレ" [ref=f270e1719] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f270e1720]
+      - generic [ref=f270e1721]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f270e1723] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f270e1724]
+      - generic [ref=f270e1725]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f270e1727] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f270e1728]
+      - generic [ref=f270e1729]: 給湯器
+    - link "エコキュート エコキュート" [ref=f270e1731] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f270e1732]
+      - generic [ref=f270e1733]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f270e1735] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f270e1736]
+      - generic [ref=f270e1737]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f270e1739] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f270e1740]
+      - generic [ref=f270e1741]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f270e1743] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f270e1744]
+      - generic [ref=f270e1745]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f270e1747] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f270e1748]
+      - generic [ref=f270e1749]: レンジフード
+    - link "蛇口 蛇口" [ref=f270e1751] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f270e1752]
+      - generic [ref=f270e1753]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f270e1755] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f270e1756]
+      - generic [ref=f270e1757]: 浴室乾燥機
+    - generic [ref=f270e1758]: その他>>
+  - navigation [ref=f270e1760]:
+    - generic [ref=f270e1761]:
+      - generic [ref=f270e1762]:
+        - generic [ref=f270e1763]: IHヒーター
+        - generic [ref=f270e1770]: 総合メニュー
+      - generic [ref=f270e1777]:
+        - link "人気ランキング" [ref=f270e1778] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f270e1780] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f270e1782] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f270e1784] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f270e1786] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f270e1788] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f270e1790]:
+    - generic [ref=f270e1791]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f270e1794]
+    - generic [ref=f270e1795]:
+      - generic [ref=f270e1796]:
+        - term [ref=f270e1797]:
+          - img "サービス案内" [ref=f270e1798]
+          - text: サービス案内
+        - definition [ref=f270e1799]:
+          - list [ref=f270e1800]:
+            - listitem [ref=f270e1801]:
+              - link "ご利用の流れ" [ref=f270e1802] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f270e1803]:
+              - link "無料10年保証" [ref=f270e1804] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f270e1805]:
+              - link "工事対応エリア" [ref=f270e1806] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f270e1807]:
+              - link "工事価格表" [ref=f270e1808] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f270e1809]:
+              - link "おまとめ工事割引" [ref=f270e1810] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f270e1811]:
+              - link "お支払い方法" [ref=f270e1812] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f270e1813]:
+              - link "よくあるご質問" [ref=f270e1814] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f270e1815]:
+              - link "営業日カレンダー" [ref=f270e1816] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f270e1817]:
+        - term [ref=f270e1818]:
+          - img "情報コンテンツ" [ref=f270e1819]
+          - text: 情報コンテンツ
+        - definition [ref=f270e1820]:
+          - list [ref=f270e1821]:
+            - listitem [ref=f270e1822]:
+              - link "最新情報・お知らせ" [ref=f270e1823] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f270e1824]:
+              - link "売れ筋・人気ランキング" [ref=f270e1825] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f270e1826]:
+              - link "お客様の声" [ref=f270e1827] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f270e1828]:
+              - link "施工事例" [ref=f270e1829] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f270e1830]:
+              - link "商品レビュー" [ref=f270e1831] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f270e1832]:
+              - link "かんたん検索一覧" [ref=f270e1833] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f270e1834]:
+              - link "閲覧した商品の履歴" [ref=f270e1835] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f270e1836]:
+              - link "動画コンテンツ" [ref=f270e1837] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f270e1838]:
+        - term [ref=f270e1839]:
+          - img "企業情報" [ref=f270e1840]
+          - text: 企業情報
+        - definition [ref=f270e1841]:
+          - listitem [ref=f270e1842]:
+            - link "会社概要" [ref=f270e1843] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f270e1844]:
+            - link "選ばれる理由" [ref=f270e1845] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f270e1846]:
+            - link "ショールーム（東京・大阪）" [ref=f270e1847] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f270e1848]:
+            - link "スタッフ紹介" [ref=f270e1849] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f270e1850]:
+            - link "スタッフブログ" [ref=f270e1851] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f270e1852]:
+            - link "リフォームからチェンジへ" [ref=f270e1853] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f270e1854]:
+            - link "活動レポート" [ref=f270e1855] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f270e1856]:
+          - link [ref=f270e1858] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f270e1862] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f270e1866] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f270e1870] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f270e1874] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f270e1878] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f270e1881]:
+        - link [ref=f270e1882] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f270e1886]: お問い合わせ一覧
+        - link [ref=f270e1887] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f270e1891]: マイページ・会員登録
+        - link [ref=f270e1892] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f270e1893]
+        - paragraph [ref=f270e1894]: 個人情報保護の認証取得
+    - generic [ref=f270e1895]:
+      - paragraph [ref=f270e1896]: 企業サイト
+      - generic [ref=f270e1897]:
+        - list [ref=f270e1898]:
+          - listitem [ref=f270e1899]:
+            - link "コーポレートサイト" [ref=f270e1900] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f270e1901]
+          - listitem [ref=f270e1902]:
+            - link "投資家向けサイト" [ref=f270e1903] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f270e1904]
+          - listitem [ref=f270e1905]:
+            - link "採用情報サイト" [ref=f270e1906] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f270e1907]
+          - listitem [ref=f270e1908]:
+            - link "交換技能アカデミー" [ref=f270e1909] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f270e1910]
+        - list [ref=f270e1911]:
+          - listitem [ref=f270e1912]:
+            - link [ref=f270e1913] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f270e1914]:
+                - paragraph [ref=f270e1915]: 東証グロースに上場しています
+                - paragraph [ref=f270e1916]: 証券コード 7695
+              - figure [ref=f270e1917]:
+                - img "東証(JPX)ロゴ" [ref=f270e1918]
+    - generic [ref=f270e1919]:
+      - list [ref=f270e1920]:
+        - listitem [ref=f270e1921]:
+          - link "個人情報の取扱い" [ref=f270e1922] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f270e1923]:
+          - link "特定商取引法に基づく表記" [ref=f270e1924] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f270e1925]:
+          - link "サイト利用規約" [ref=f270e1926] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f270e1927]:
+          - link "コンテンツ著作権" [ref=f270e1928] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f270e1929]:
+          - link "施工スタッフ募集" [ref=f270e1930] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f270e1931]
+      - list [ref=f270e1932]:
+        - listitem [ref=f270e1933]: © Koukandekirukun, Inc. 2001-2026

@@ -1,0 +1,2655 @@
+- generic [active] [ref=f260e1]:
+  - banner [ref=f260e2]:
+    - heading "蛇口・水栓の交換が最大60％OFF｜工事費込み特価" [level=1] [ref=f260e5]
+    - generic [ref=f260e8]:
+      - generic [ref=f260e9]:
+        - link [ref=f260e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f260e12]
+        - link [ref=f260e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f260e14]
+        - link [ref=f260e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f260e16]
+      - generic [ref=f260e17]:
+        - generic "検索" [ref=f260e21]:
+          - combobox [ref=f260e22]:
+            - generic [ref=f260e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f260e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f260e26] [cursor=pointer]:
+            - generic [ref=f260e28]: 検索
+        - generic [ref=f260e29]:
+          - link [ref=f260e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f260e32]
+            - paragraph [ref=f260e33]: 閲覧履歴
+          - link [ref=f260e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f260e36]
+            - paragraph [ref=f260e37]: ログイン
+        - link [ref=f260e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f260e40]
+          - paragraph [ref=f260e41]: お問合せ
+        - generic [ref=f260e42]:
+          - link [ref=f260e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f260e45]
+            - paragraph [ref=f260e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f260e49]:
+    - list [ref=f260e50]:
+      - group "1 / 3" [ref=f260e51]:
+        - link "TOTO 10年保証 TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い 本体 57% OFF 洗濯機水栓 TW11R 商品+交換工事+10年保証 19,813円(税込)" [ref=f260e52] [cursor=pointer]:
+          - /url: /faucet/washing_machine/TW11R/
+          - heading [level=3] [ref=f260e53]:
+            - img "TOTO" [ref=f260e56]
+            - img "10年保証" [ref=f260e59]
+          - generic [ref=f260e60]:
+            - generic [ref=f260e61]:
+              - img "TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い" [ref=f260e63]
+              - generic [ref=f260e64]:
+                - text: 本体
+                - generic [ref=f260e65]: 57%
+                - text: "OFF"
+            - generic [ref=f260e66]: 洗濯機水栓
+            - generic [ref=f260e67]: TW11R
+            - generic [ref=f260e69]:
+              - generic [ref=f260e70]: 商品+交換工事+10年保証
+              - generic [ref=f260e71]: 19,813円(税込)
+      - group "2 / 3" [ref=f260e72]:
+        - link "TOTO 10年保証 TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い 本体 57% OFF キッチン水栓 GGシリーズ TKS05301J 商品+交換工事+10年保証 33,578円(税込)" [ref=f260e73] [cursor=pointer]:
+          - /url: /faucet/kitchen/TKS05301J/
+          - heading [level=3] [ref=f260e74]:
+            - img "TOTO" [ref=f260e77]
+            - img "10年保証" [ref=f260e80]
+          - generic [ref=f260e81]:
+            - generic [ref=f260e82]:
+              - img "TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い" [ref=f260e84]
+              - generic [ref=f260e85]:
+                - text: 本体
+                - generic [ref=f260e86]: 57%
+                - text: "OFF"
+            - generic [ref=f260e87]: キッチン水栓 GGシリーズ
+            - generic [ref=f260e88]: TKS05301J
+            - generic [ref=f260e90]:
+              - generic [ref=f260e91]: 商品+交換工事+10年保証
+              - generic [ref=f260e92]: 33,578円(税込)
+      - group "3 / 3" [ref=f260e93]:
+        - img "人気機種第1位" [ref=f260e95]
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い 本体 60% OFF キッチン浄水栓 APタイプ JF-AP461SYX(JW) 商品+交換工事+10年保証 42,740円(税込)" [ref=f260e96] [cursor=pointer]:
+          - /url: /faucet/kitchen/JF-AP461SYX(JW)/
+          - heading [level=3] [ref=f260e97]:
+            - img "LIXIL(INAX)" [ref=f260e100]
+            - img "10年保証" [ref=f260e103]
+          - generic [ref=f260e104]:
+            - generic [ref=f260e105]:
+              - img "LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い" [ref=f260e107]
+              - generic [ref=f260e108]:
+                - text: 本体
+                - generic [ref=f260e109]: 60%
+                - text: "OFF"
+            - generic [ref=f260e110]: キッチン浄水栓 APタイプ
+            - generic [ref=f260e111]: JF-AP461SYX(JW)
+            - generic [ref=f260e113]:
+              - generic [ref=f260e114]: 商品+交換工事+10年保証
+              - generic [ref=f260e115]: 42,740円(税込)
+      - group "1 / 3" [ref=f260e116]:
+        - link "TOTO 10年保証 TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い 本体 57% OFF 洗濯機水栓 TW11R 商品+交換工事+10年保証 19,813円(税込)" [ref=f260e117] [cursor=pointer]:
+          - /url: /faucet/washing_machine/TW11R/
+          - heading [level=3] [ref=f260e118]:
+            - img "TOTO" [ref=f260e121]
+            - img "10年保証" [ref=f260e124]
+          - generic [ref=f260e125]:
+            - generic [ref=f260e126]:
+              - img "TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い" [ref=f260e128]
+              - generic [ref=f260e129]:
+                - text: 本体
+                - generic [ref=f260e130]: 57%
+                - text: "OFF"
+            - generic [ref=f260e131]: 洗濯機水栓
+            - generic [ref=f260e132]: TW11R
+            - generic [ref=f260e134]:
+              - generic [ref=f260e135]: 商品+交換工事+10年保証
+              - generic [ref=f260e136]: 19,813円(税込)
+      - group "2 / 3" [ref=f260e137]:
+        - link "TOTO 10年保証 TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い 本体 57% OFF キッチン水栓 GGシリーズ TKS05301J 商品+交換工事+10年保証 33,578円(税込)" [ref=f260e138] [cursor=pointer]:
+          - /url: /faucet/kitchen/TKS05301J/
+          - heading [level=3] [ref=f260e139]:
+            - img "TOTO" [ref=f260e142]
+            - img "10年保証" [ref=f260e145]
+          - generic [ref=f260e146]:
+            - generic [ref=f260e147]:
+              - img "TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い" [ref=f260e149]
+              - generic [ref=f260e150]:
+                - text: 本体
+                - generic [ref=f260e151]: 57%
+                - text: "OFF"
+            - generic [ref=f260e152]: キッチン水栓 GGシリーズ
+            - generic [ref=f260e153]: TKS05301J
+            - generic [ref=f260e155]:
+              - generic [ref=f260e156]: 商品+交換工事+10年保証
+              - generic [ref=f260e157]: 33,578円(税込)
+      - group "3 / 3" [ref=f260e158]:
+        - img "人気機種第1位" [ref=f260e160]
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い 本体 60% OFF キッチン浄水栓 APタイプ JF-AP461SYX(JW) 商品+交換工事+10年保証 42,740円(税込)" [ref=f260e161] [cursor=pointer]:
+          - /url: /faucet/kitchen/JF-AP461SYX(JW)/
+          - heading [level=3] [ref=f260e162]:
+            - img "LIXIL(INAX)" [ref=f260e165]
+            - img "10年保証" [ref=f260e168]
+          - generic [ref=f260e169]:
+            - generic [ref=f260e170]:
+              - img "LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い" [ref=f260e172]
+              - generic [ref=f260e173]:
+                - text: 本体
+                - generic [ref=f260e174]: 60%
+                - text: "OFF"
+            - generic [ref=f260e175]: キッチン浄水栓 APタイプ
+            - generic [ref=f260e176]: JF-AP461SYX(JW)
+            - generic [ref=f260e178]:
+              - generic [ref=f260e179]: 商品+交換工事+10年保証
+              - generic [ref=f260e180]: 42,740円(税込)
+      - group "1 / 3" [ref=f260e181]:
+        - link "TOTO 10年保証 TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い 本体 57% OFF 洗濯機水栓 TW11R 商品+交換工事+10年保証 19,813円(税込)" [ref=f260e182] [cursor=pointer]:
+          - /url: /faucet/washing_machine/TW11R/
+          - heading [level=3] [ref=f260e183]:
+            - img "TOTO" [ref=f260e186]
+            - img "10年保証" [ref=f260e189]
+          - generic [ref=f260e190]:
+            - generic [ref=f260e191]:
+              - img "TOTOの洗濯機水栓、TW11Rが交換工事費用込み価格で安い" [ref=f260e193]
+              - generic [ref=f260e194]:
+                - text: 本体
+                - generic [ref=f260e195]: 57%
+                - text: "OFF"
+            - generic [ref=f260e196]: 洗濯機水栓
+            - generic [ref=f260e197]: TW11R
+            - generic [ref=f260e199]:
+              - generic [ref=f260e200]: 商品+交換工事+10年保証
+              - generic [ref=f260e201]: 19,813円(税込)
+      - group "2 / 3" [ref=f260e202]:
+        - link "TOTO 10年保証 TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い 本体 57% OFF キッチン水栓 GGシリーズ TKS05301J 商品+交換工事+10年保証 33,578円(税込)" [ref=f260e203] [cursor=pointer]:
+          - /url: /faucet/kitchen/TKS05301J/
+          - heading [level=3] [ref=f260e204]:
+            - img "TOTO" [ref=f260e207]
+            - img "10年保証" [ref=f260e210]
+          - generic [ref=f260e211]:
+            - generic [ref=f260e212]:
+              - img "TOTOの台所蛇口、TKS05301Jが交換工事費用込み価格で安い" [ref=f260e214]
+              - generic [ref=f260e215]:
+                - text: 本体
+                - generic [ref=f260e216]: 57%
+                - text: "OFF"
+            - generic [ref=f260e217]: キッチン水栓 GGシリーズ
+            - generic [ref=f260e218]: TKS05301J
+            - generic [ref=f260e220]:
+              - generic [ref=f260e221]: 商品+交換工事+10年保証
+              - generic [ref=f260e222]: 33,578円(税込)
+      - group "3 / 3" [ref=f260e223]:
+        - img "人気機種第1位" [ref=f260e225]
+        - link "LIXIL(INAX) 10年保証 LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い 本体 60% OFF キッチン浄水栓 APタイプ JF-AP461SYX(JW) 商品+交換工事+10年保証 42,740円(税込)" [ref=f260e226] [cursor=pointer]:
+          - /url: /faucet/kitchen/JF-AP461SYX(JW)/
+          - heading [level=3] [ref=f260e227]:
+            - img "LIXIL(INAX)" [ref=f260e230]
+            - img "10年保証" [ref=f260e233]
+          - generic [ref=f260e234]:
+            - generic [ref=f260e235]:
+              - img "LIXIL(INAX) の台所蛇口、JF-AP461SYX(JW)が交換工事費用込み価格で安い" [ref=f260e237]
+              - generic [ref=f260e238]:
+                - text: 本体
+                - generic [ref=f260e239]: 60%
+                - text: "OFF"
+            - generic [ref=f260e240]: キッチン浄水栓 APタイプ
+            - generic [ref=f260e241]: JF-AP461SYX(JW)
+            - generic [ref=f260e243]:
+              - generic [ref=f260e244]: 商品+交換工事+10年保証
+              - generic [ref=f260e245]: 42,740円(税込)
+    - button "Previous slide" [ref=f260e246]
+    - button "Next slide" [ref=f260e247]
+  - generic [ref=f260e248]:
+    - link [ref=f260e249] [cursor=pointer]:
+      - /url: "#to_faucet_kitchen"
+      - figure [ref=f260e250]:
+        - img "キッチン蛇口の交換" [ref=f260e251]
+      - paragraph [ref=f260e253]: キッチン(台所)水栓
+    - link [ref=f260e254] [cursor=pointer]:
+      - /url: "#to_faucet_bath"
+      - figure [ref=f260e255]:
+        - figure [ref=f260e256]:
+          - img "お風呂蛇口の交換" [ref=f260e257]
+      - paragraph [ref=f260e259]: 浴室(お風呂)水栓
+    - link [ref=f260e260] [cursor=pointer]:
+      - /url: "#to_faucet_wash"
+      - figure [ref=f260e261]:
+        - img "洗面台蛇口の交換" [ref=f260e262]
+      - paragraph [ref=f260e264]: 洗面台水栓
+    - link [ref=f260e265] [cursor=pointer]:
+      - /url: "#to_faucet_diy"
+      - figure [ref=f260e266]:
+        - img "DIY・自分で蛇口交換" [ref=f260e267]
+      - paragraph [ref=f260e269]: 自分で交換できる?
+    - link "お客様の 声・施工事例" [ref=f260e270] [cursor=pointer]:
+      - /url: "#to_voice_case"
+      - figure [ref=f260e271]:
+        - paragraph [ref=f260e272]: 7月31日 更新
+        - img "お客様の声・施工事例" [ref=f260e273]
+      - paragraph [ref=f260e275]:
+        - text: お客様の
+        - generic [ref=f260e276]: 声・施工事例
+  - generic [ref=f260e277]:
+    - main [ref=f260e278]:
+      - text: ">"
+      - list [ref=f260e280]:
+        - listitem [ref=f260e281]:
+          - img "旗" [ref=f260e282]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f260e283] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f260e284]:
+          - img "旗" [ref=f260e285]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f260e286] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - heading "蛇口（水栓）の種類と選び方" [level=2] [ref=f260e287]
+      - generic [ref=f260e288]:
+        - paragraph [ref=f260e289]: 気になるメーカーや機能を絞り込んで、お好みの蛇口を検索いただけます！スパウト長さや節水機能など豊富な項目メニューからご自宅に合った蛇口がかんたんに見つかります。
+        - paragraph [ref=f260e290]:
+          - link [ref=f260e291] [cursor=pointer]:
+            - /url: /faucet/search/
+            - img "絞り込み検索バナー" [ref=f260e292]
+        - generic [ref=f260e293]:
+          - link "蛇口の種類を確認｜水道蛇口（キッチン台所蛇口・浴室蛇口・洗面台蛇口）の交換・取り替え 蛇口の種類を確認" [ref=f260e294] [cursor=pointer]:
+            - /url: /faucet/maching.html
+            - img "蛇口の種類を確認｜水道蛇口（キッチン台所蛇口・浴室蛇口・洗面台蛇口）の交換・取り替え" [ref=f260e296]
+            - generic [ref=f260e297]: 蛇口の種類を確認
+          - link "価格・費用相場で選ぶ｜水道蛇口（キッチン台所蛇口・浴室蛇口・洗面台蛇口）の交換・取り替え 価格・費用相場で選ぶ" [ref=f260e298] [cursor=pointer]:
+            - /url: /faucet/price/
+            - img "価格・費用相場で選ぶ｜水道蛇口（キッチン台所蛇口・浴室蛇口・洗面台蛇口）の交換・取り替え" [ref=f260e300]
+            - generic [ref=f260e301]: 価格・費用相場で選ぶ
+      - heading "キッチン水栓(台所蛇口)を交換" [level=2] [ref=f260e303]
+      - heading "2026年6月度 キッチン水栓人気売れ筋ランキング！" [level=3] [ref=f260e304]
+      - list [ref=f260e306]:
+        - listitem [ref=f260e307]:
+          - generic [ref=f260e308]:
+            - img "キッチン蛇口水栓売れ筋ランキング No.1" [ref=f260e310]
+            - generic [ref=f260e311]:
+              - img "LIXIL(INAX)ロゴ" [ref=f260e312]
+              - paragraph [ref=f260e313]: APタイプワンホール
+          - generic [ref=f260e315]:
+            - link [ref=f260e317] [cursor=pointer]:
+              - /url: /faucet/kitchen/JF-AP461SYX(JW)/
+              - img "LIXIL(INAX) APタイプ ワンホール" [ref=f260e318]
+            - generic [ref=f260e319]: ハンドシャワータイプのベーシックな浄水器内蔵水栓。節湯可能なエコハンドル搭載でかしこく省エネができます。
+          - generic [ref=f260e320]:
+            - generic [ref=f260e321]: 本体60%OFF
+            - text: JF-AP461SYX(JW)
+            - generic [ref=f260e322]:
+              - paragraph [ref=f260e323]: 平均レビュー 4.6
+              - generic [ref=f260e326] [cursor=pointer]:
+                - generic [ref=f260e327]: 
+                - generic [ref=f260e328]: 
+                - generic [ref=f260e329]: 
+                - generic [ref=f260e330]: 
+                - generic [ref=f260e331]: 
+                - generic [ref=f260e332]: 163件
+          - generic [ref=f260e333]:
+            - generic [ref=f260e334]: 工事費用込み価格(税込) 42,740円
+            - link "商品詳細 はこちら" [ref=f260e336] [cursor=pointer]:
+              - /url: /faucet/kitchen/JF-AP461SYX(JW)/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e337]:
+          - generic [ref=f260e338]:
+            - img "キッチン蛇口水栓売れ筋ランキング No.2" [ref=f260e340]
+            - generic [ref=f260e341]:
+              - img "TOTOロゴ" [ref=f260e342]
+              - paragraph [ref=f260e343]: GGシリーズワンホール
+          - generic [ref=f260e345]:
+            - link [ref=f260e347] [cursor=pointer]:
+              - /url: /faucet/kitchen/TKS05305JA/
+              - img "TOTO GGシリーズ ワンホール" [ref=f260e348]
+            - generic [ref=f260e349]: シャワーホースが伸びるので食器洗いやシンク洗いに便利。吐水は整流・ミクロソフト（泡沫吐水）の切り替えが可能。
+          - generic [ref=f260e350]:
+            - generic [ref=f260e351]: 本体57%OFF
+            - text: TKS05305JA
+            - generic [ref=f260e352]:
+              - paragraph [ref=f260e353]: 平均レビュー 4.5
+              - generic [ref=f260e356] [cursor=pointer]:
+                - generic [ref=f260e357]: 
+                - generic [ref=f260e358]: 
+                - generic [ref=f260e359]: 
+                - generic [ref=f260e360]: 
+                - generic [ref=f260e361]: 
+                - generic [ref=f260e362]: 242件
+          - generic [ref=f260e363]:
+            - generic [ref=f260e364]: 工事費用込み価格(税込) 48,477円
+            - link "商品詳細 はこちら" [ref=f260e366] [cursor=pointer]:
+              - /url: /faucet/kitchen/TKS05305JA/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e367]:
+          - generic [ref=f260e368]:
+            - img "キッチン蛇口水栓売れ筋ランキング No.3" [ref=f260e370]
+            - generic [ref=f260e371]:
+              - img "TOTOロゴ" [ref=f260e372]
+              - paragraph [ref=f260e373]: GGシリーズワンホール
+          - generic [ref=f260e375]:
+            - link [ref=f260e377] [cursor=pointer]:
+              - /url: /faucet/kitchen/TKS05301J/
+              - img "TOTO GGシリーズ ワンホール" [ref=f260e378]
+            - generic [ref=f260e379]: シンプル機能とお求めやすい価格が人気。エコシングル水栓なので、従来品と比べ水道代が節約できます。
+          - generic [ref=f260e380]:
+            - generic [ref=f260e381]: 本体57%OFF
+            - text: TKS05301J
+            - generic [ref=f260e382]:
+              - paragraph [ref=f260e383]: 平均レビュー 4.6
+              - generic [ref=f260e386] [cursor=pointer]:
+                - generic [ref=f260e387]: 
+                - generic [ref=f260e388]: 
+                - generic [ref=f260e389]: 
+                - generic [ref=f260e390]: 
+                - generic [ref=f260e391]: 
+                - generic [ref=f260e392]: 274件
+          - generic [ref=f260e393]:
+            - generic [ref=f260e394]: 工事費用込み価格(税込) 33,578円
+            - link "商品詳細 はこちら" [ref=f260e396] [cursor=pointer]:
+              - /url: /faucet/kitchen/TKS05301J/
+              - text: 商品詳細はこちら
+      - link "ランキングをもっとみる >" [ref=f260e398] [cursor=pointer]:
+        - /url: /faucet/ranking/#Kitchen-faucet
+      - heading "キッチン水栓(台所蛇口) タイプ別一覧" [level=3] [ref=f260e399]
+      - link "キッチン蛇口交換TOP｜台所蛇口・水栓 キッチン水栓TOP      2,409件" [ref=f260e400] [cursor=pointer]:
+        - /url: /faucet/kitchen/
+        - img "キッチン蛇口交換TOP｜台所蛇口・水栓" [ref=f260e401]
+        - generic [ref=f260e402]:
+          - paragraph [ref=f260e403]: キッチン水栓TOP
+          - generic [ref=f260e406]:
+            - generic [ref=f260e407]: 
+            - generic [ref=f260e408]: 
+            - generic [ref=f260e409]: 
+            - generic [ref=f260e410]: 
+            - generic [ref=f260e411]: 
+            - generic [ref=f260e412]: 2,409件
+      - generic [ref=f260e413]:
+        - link [ref=f260e414] [cursor=pointer]:
+          - /url: /faucet/kitchen/onehole/general/
+          - heading "ワンホールタイプ 一般水栓" [level=4] [ref=f260e415]:
+            - text: ワンホールタイプ
+            - generic [ref=f260e416]: 一般水栓
+          - generic [ref=f260e417]:
+            - img "ワンホールタイプ一般水栓｜キッチン・台所蛇口の交換" [ref=f260e419]
+            - generic [ref=f260e420]:
+              - paragraph [ref=f260e422]: ワンホール蛇口の主流なタイプ。機能性の高いシャワー水栓やシンプルなシャワーなしまで多数。
+              - generic [ref=f260e423]:
+                - paragraph [ref=f260e424]: 商品特価 17,690円(税込)～
+                - paragraph [ref=f260e425]: 工事費用込 32,490円(税込)～
+              - img "商品一覧" [ref=f260e427]
+        - link [ref=f260e428] [cursor=pointer]:
+          - /url: /faucet/lixil/navish/
+          - heading "ワンホールタイプ タッチレス水栓" [level=4] [ref=f260e429]:
+            - text: ワンホールタイプ
+            - generic [ref=f260e430]: タッチレス水栓
+          - generic [ref=f260e431]:
+            - img "ワンホールタイプタッチレス水栓｜キッチン・台所蛇口の交換" [ref=f260e433]
+            - generic [ref=f260e434]:
+              - paragraph [ref=f260e436]: センサーに手をかざすだけで吐水と止水ができる人気のタッチレス水栓。LIXILの「ナビッシュ」。
+              - generic [ref=f260e437]:
+                - paragraph [ref=f260e438]: 商品特価 64,119円(税込)～
+                - paragraph [ref=f260e439]: 工事費用込 78,919円(税込)～
+              - img "商品一覧" [ref=f260e441]
+        - link [ref=f260e442] [cursor=pointer]:
+          - /url: /faucet/kitchen/onehole/bunki/
+          - heading "ワンホールタイプ 分岐水栓対応" [level=4] [ref=f260e443]:
+            - text: ワンホールタイプ
+            - generic [ref=f260e444]: 分岐水栓対応
+          - generic [ref=f260e445]:
+            - img "ワンホールタイプ分岐水栓対応水栓｜キッチン・台所蛇口の交換" [ref=f260e447]
+            - generic [ref=f260e448]:
+              - paragraph [ref=f260e450]: 給水ホースで卓上食洗機と接続できる分岐口があるものや、分岐水栓が付属しているタイプがあります。
+              - generic [ref=f260e451]:
+                - paragraph [ref=f260e452]: 商品特価 19,393円(税込)～
+                - paragraph [ref=f260e453]: 工事費用込 34,193円(税込)～
+              - img "商品一覧" [ref=f260e455]
+        - link [ref=f260e456] [cursor=pointer]:
+          - /url: /faucet/kitchen/onehole/purifier/
+          - heading "ワンホールタイプ 浄水器付き" [level=4] [ref=f260e457]:
+            - text: ワンホールタイプ
+            - generic [ref=f260e458]: 浄水器付き
+          - generic [ref=f260e459]:
+            - img "ワンホールタイプ浄水器付き水栓｜キッチン・台所蛇口の交換" [ref=f260e461]
+            - generic [ref=f260e462]:
+              - paragraph [ref=f260e464]: 浄水カートリッジを本体にセットする内蔵型とシンク下に設置するビルトイン型があります。
+              - generic [ref=f260e465]:
+                - paragraph [ref=f260e466]: 商品特価 21,758円(税込)～
+                - paragraph [ref=f260e467]: 工事費用込 36,558円(税込)～
+              - img "商品一覧" [ref=f260e469]
+        - link [ref=f260e470] [cursor=pointer]:
+          - /url: /faucet/kitchen/twohole/general/
+          - heading "ツーホールタイプ 一般水栓" [level=4] [ref=f260e471]:
+            - text: ツーホールタイプ
+            - generic [ref=f260e472]: 一般水栓
+          - generic [ref=f260e473]:
+            - img "ツーホールタイプ一般水栓｜キッチン・台所蛇口の交換" [ref=f260e475]
+            - generic [ref=f260e476]:
+              - paragraph [ref=f260e478]: シングルレバーからツーハンドルまで幅広くお取り扱い。シャワーのありなしも選択いただけます。
+              - generic [ref=f260e479]:
+                - paragraph [ref=f260e480]: 商品特価 13,480円(税込)～
+                - paragraph [ref=f260e481]: 工事費用込 31,280円(税込)～
+              - img "商品一覧" [ref=f260e483]
+        - link [ref=f260e484] [cursor=pointer]:
+          - /url: /faucet/kitchen/twohole/purifier/
+          - heading "ツーホールタイプ 浄水器付き" [level=4] [ref=f260e485]:
+            - text: ツーホールタイプ
+            - generic [ref=f260e486]: 浄水器付き
+          - generic [ref=f260e487]:
+            - img "ツーホールタイプ浄水器付き水栓｜キッチン・台所蛇口の交換" [ref=f260e489]
+            - generic [ref=f260e490]:
+              - paragraph [ref=f260e492]: 浄水カートリッジを本体にセットする内蔵型とシンク下に設置するビルトイン型があります。
+              - generic [ref=f260e493]:
+                - paragraph [ref=f260e494]: 商品特価 23,650円(税込)～
+                - paragraph [ref=f260e495]: 工事費用込 41,450円(税込)～
+              - img "商品一覧" [ref=f260e497]
+        - link [ref=f260e498] [cursor=pointer]:
+          - /url: /faucet/kitchen/wall_mount/general/
+          - heading "壁付きタイプ 一般水栓" [level=4] [ref=f260e499]:
+            - text: 壁付きタイプ
+            - generic [ref=f260e500]: 一般水栓
+          - generic [ref=f260e501]:
+            - img "壁付きタイプ一般水栓｜キッチン・台所蛇口の交換" [ref=f260e503]
+            - generic [ref=f260e504]:
+              - paragraph [ref=f260e506]: レバータイプの混合栓に加え、シャワータイプやホース引出し式も取り揃えています。
+              - generic [ref=f260e507]:
+                - paragraph [ref=f260e508]: 商品特価 14,331円(税込)～
+                - paragraph [ref=f260e509]: 工事費用込 29,131円(税込)～
+              - img "商品一覧" [ref=f260e511]
+        - link [ref=f260e512] [cursor=pointer]:
+          - /url: /faucet/kitchen/wall_mount/purifier/
+          - heading "壁付きタイプ 浄水器付き" [level=4] [ref=f260e513]:
+            - text: 壁付きタイプ
+            - generic [ref=f260e514]: 浄水器付き
+          - generic [ref=f260e515]:
+            - img "壁付きタイプ浄水器付き水栓｜キッチン・台所蛇口の交換" [ref=f260e517]
+            - generic [ref=f260e518]:
+              - paragraph [ref=f260e520]: 一つの蛇口で「原水(水道水)」「シャワー」「浄水」を切り替えられる、浄水器を内蔵した混合栓です。
+              - generic [ref=f260e521]:
+                - paragraph [ref=f260e522]: 商品特価 24,596円(税込)～
+                - paragraph [ref=f260e523]: 工事費用込 39,396円(税込)～
+              - img "商品一覧" [ref=f260e525]
+      - heading "キッチン水栓を機能から選ぶ" [level=3] [ref=f260e526]
+      - paragraph [ref=f260e528]: 設置タイプが同じであれば機能のありなしはご自由にお選びいただけます。台所蛇口の交換で特に人気の機能は「シャワー付き」や「ホースが伸ばせる」タイプとなります。
+      - generic [ref=f260e529]:
+        - generic [ref=f260e530]:
+          - generic [ref=f260e531]: シャワー吐水
+          - figure [ref=f260e532]:
+            - img "シャワー吐水へ切り替え可｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e533]
+          - generic [ref=f260e534]:
+            - paragraph [ref=f260e536]: ストレートにそのまま水が出てくる整流とシャワー吐水を切り替えられます。食器洗いなどに重宝します。
+            - generic [ref=f260e537]:
+              - img "アイコン" [ref=f260e539]
+              - generic [ref=f260e540]: シャワー吐水あり
+            - list [ref=f260e541]:
+              - listitem [ref=f260e542]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e543] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&water_discharge_type=3#kitchen
+              - listitem [ref=f260e544]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e545] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=2&water_discharge_type=3#kitchen
+              - listitem [ref=f260e546]:
+                - link "壁付きタイプで探す ▲" [ref=f260e547] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=3&water_discharge_type=3#kitchen
+        - generic [ref=f260e548]:
+          - generic [ref=f260e549]: ホース引出し
+          - figure [ref=f260e550]:
+            - img "シャワーホースを伸ばして引き出せる｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e551]
+          - generic [ref=f260e552]:
+            - paragraph [ref=f260e554]: シャワーヘッドの手元からホースが引き出せるタイプの蛇口です。シンクの汚れを一気に掃除できます。
+            - generic [ref=f260e555]:
+              - img "アイコン" [ref=f260e557]
+              - generic [ref=f260e558]: ホース引出し可
+            - list [ref=f260e559]:
+              - listitem [ref=f260e560]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e561] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&hose_drawer=1#kitchen
+              - listitem [ref=f260e562]: ツーホールはお取り扱いなし
+              - listitem [ref=f260e563]:
+                - link "壁付きタイプで探す ▲" [ref=f260e564] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=3&hose_drawer=1#kitchen
+        - generic [ref=f260e565]:
+          - generic [ref=f260e566]: 浄水器付き
+          - figure [ref=f260e567]:
+            - img "浄水器機能が付いた水栓｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e568]
+          - generic [ref=f260e569]:
+            - paragraph [ref=f260e571]: 浄水カートリッジが内蔵されている「浄水器内蔵型」とシンク下に設置する「ビルトイン型」があります。
+            - generic [ref=f260e572]:
+              - img "アイコン" [ref=f260e574]
+              - generic [ref=f260e575]: 浄水機能付き
+            - list [ref=f260e576]:
+              - listitem [ref=f260e577]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e578] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&water_purification_function=2_3#kitchen
+              - listitem [ref=f260e579]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e580] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=2&water_purification_function=2_3#kitchen
+              - listitem [ref=f260e581]:
+                - link "壁付きタイプで探す ▲" [ref=f260e582] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=3&water_purification_function=2#kitchen
+        - generic [ref=f260e583]:
+          - generic [ref=f260e584]: タッチレス
+          - figure [ref=f260e585]:
+            - img "タッチレス機能が付いた水栓｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e586]
+          - generic [ref=f260e587]:
+            - paragraph [ref=f260e589]: 水栓に触れなくてもセンサーに手をかざすだけで吐水／止水ができる自動水栓です。
+            - generic [ref=f260e590]:
+              - img "アイコン" [ref=f260e592]
+              - generic [ref=f260e593]: タッチレス機能付き
+            - list [ref=f260e594]:
+              - listitem [ref=f260e595]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e596] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&touchless=1_2#kitchen
+              - listitem [ref=f260e597]: ツーホールはお取り扱いなし
+              - listitem [ref=f260e598]: 壁付きはお取り扱いなし
+        - generic [ref=f260e599]:
+          - generic [ref=f260e600]: 節水レバー
+          - figure [ref=f260e601]:
+            - img "節水レバー機能が付いた水栓｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e602]
+          - generic [ref=f260e603]:
+            - paragraph [ref=f260e605]: TOTOの「エコシングル」やLIXILの「エコハンドル」など節ガス、節水機能が搭載されたレバーです。
+            - generic [ref=f260e606]:
+              - img "アイコン" [ref=f260e608]
+              - generic [ref=f260e609]: 節水レバー機能付き
+            - list [ref=f260e610]:
+              - listitem [ref=f260e611]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e612] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&water_saving=1#kitchen
+              - listitem [ref=f260e613]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e614] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=2&water_saving=1#kitchen
+              - listitem [ref=f260e615]:
+                - link "壁付きタイプで探す ▲" [ref=f260e616] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=3&water_saving=1#kitchen
+        - generic [ref=f260e617]:
+          - generic [ref=f260e618]: 分岐水栓対応
+          - figure [ref=f260e619]:
+            - img "分岐水栓対応(卓上食洗機へ給水接続)できる水栓｜キッチン水栓(台所蛇口)の機能別タイプについて" [ref=f260e620]
+          - generic [ref=f260e621]:
+            - paragraph [ref=f260e623]: 卓上食洗機などに接続できる分岐水栓対応蛇口または分岐水栓が付属しているタイプです。
+            - generic [ref=f260e624]:
+              - img "アイコン" [ref=f260e626]
+              - generic [ref=f260e627]: 分岐水栓の接続に対応
+            - list [ref=f260e628]:
+              - listitem [ref=f260e629]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e630] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=1&branch_faucet_for_tabletop_dishwasher=2_3#kitchen
+              - listitem [ref=f260e631]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e632] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=2&branch_faucet_for_tabletop_dishwasher=2_3#kitchen
+              - listitem [ref=f260e633]:
+                - link "壁付きタイプで探す ▲" [ref=f260e634] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=3&branch_faucet_for_tabletop_dishwasher=2_3#kitchen
+      - heading "浴室水栓(お風呂蛇口)を交換" [level=2] [ref=f260e635]
+      - heading "2026年6月度 浴室水栓人気売れ筋ランキング！" [level=3] [ref=f260e636]
+      - list [ref=f260e638]:
+        - listitem [ref=f260e639]:
+          - generic [ref=f260e640]:
+            - img "浴室蛇口水栓売れ筋ランキング No.1" [ref=f260e642]
+            - generic [ref=f260e643]:
+              - img "TOTOロゴ" [ref=f260e644]
+              - paragraph [ref=f260e645]: GGシリーズ壁付タイプ
+          - generic [ref=f260e647]:
+            - link [ref=f260e649] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03445J1/
+              - img "TOTO GGシリーズ 壁付タイプ" [ref=f260e650]
+            - generic [ref=f260e651]: 美しいデザインが魅力な人気水栓、GGシリーズ。吐水口が短く洗い場の邪魔になりにくい70mmの短尺タイプのサーモスタット水栓。
+          - generic [ref=f260e652]:
+            - generic [ref=f260e653]: 本体57%OFF
+            - text: TBV03445J1
+            - generic [ref=f260e654]:
+              - paragraph [ref=f260e655]: 平均レビュー 4.5
+              - generic [ref=f260e658] [cursor=pointer]:
+                - generic [ref=f260e659]: 
+                - generic [ref=f260e660]: 
+                - generic [ref=f260e661]: 
+                - generic [ref=f260e662]: 
+                - generic [ref=f260e663]: 
+                - generic [ref=f260e664]: 178件
+          - generic [ref=f260e665]:
+            - generic [ref=f260e666]: 工事費用込み価格(税込) 39,396円
+            - link "商品詳細 はこちら" [ref=f260e668] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03445J1/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e669]:
+          - generic [ref=f260e670]:
+            - img "浴室蛇口水栓売れ筋ランキング No.2" [ref=f260e672]
+            - generic [ref=f260e673]:
+              - img "TOTOロゴ" [ref=f260e674]
+              - paragraph [ref=f260e675]: GGシリーズ壁付タイプ
+          - generic [ref=f260e677]:
+            - link [ref=f260e679] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03401J1/
+              - img "TOTO GGシリーズ 壁付タイプ" [ref=f260e680]
+            - generic [ref=f260e681]: TOTOの湯水の温度調整ができるサーモスタット付シャワー水栓が一番人気。シンプルなデザインで浴室の雰囲気を邪魔しません。
+          - generic [ref=f260e682]:
+            - generic [ref=f260e683]: 本体57%OFF
+            - text: TBV03401J1
+            - generic [ref=f260e684]:
+              - paragraph [ref=f260e685]: 平均レビュー 4.7
+              - generic [ref=f260e688] [cursor=pointer]:
+                - generic [ref=f260e689]: 
+                - generic [ref=f260e690]: 
+                - generic [ref=f260e691]: 
+                - generic [ref=f260e692]: 
+                - generic [ref=f260e693]: 
+                - generic [ref=f260e694]: 109件
+          - generic [ref=f260e695]:
+            - generic [ref=f260e696]: 工事費用込み価格(税込) 39,396円
+            - link "商品詳細 はこちら" [ref=f260e698] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03401J1/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e699]:
+          - generic [ref=f260e700]:
+            - img "浴室蛇口水栓売れ筋ランキング No.3" [ref=f260e702]
+            - generic [ref=f260e703]:
+              - img "TOTOロゴ" [ref=f260e704]
+              - paragraph [ref=f260e705]: GGシリーズ壁付タイプ
+          - generic [ref=f260e707]:
+            - link [ref=f260e709] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03409J1/
+              - img "TOTO GGシリーズ 壁付タイプ" [ref=f260e710]
+            - generic [ref=f260e711]: TOTOの壁付水栓、スパウト長さ0mmタイプです。スパウトが蛇口本体から飛び出さないので邪魔にならず、洗い場を広くお使いいただけます。
+          - generic [ref=f260e712]:
+            - generic [ref=f260e713]: 本体57%OFF
+            - text: TBV03409J1
+            - generic [ref=f260e714]:
+              - paragraph [ref=f260e715]: 平均レビュー 4.6
+              - generic [ref=f260e718] [cursor=pointer]:
+                - generic [ref=f260e719]: 
+                - generic [ref=f260e720]: 
+                - generic [ref=f260e721]: 
+                - generic [ref=f260e722]: 
+                - generic [ref=f260e723]: 
+                - generic [ref=f260e724]: 56件
+          - generic [ref=f260e725]:
+            - generic [ref=f260e726]: 工事費用込み価格(税込) 39,112円
+            - link "商品詳細 はこちら" [ref=f260e728] [cursor=pointer]:
+              - /url: /faucet/bathroom/TBV03409J1/
+              - text: 商品詳細はこちら
+      - link "ランキングをもっとみる >" [ref=f260e730] [cursor=pointer]:
+        - /url: /faucet/ranking/#Bathroom-faucet
+      - heading "浴室水栓(お風呂蛇口) タイプ別一覧" [level=3] [ref=f260e731]
+      - link "浴室蛇口交換TOP｜お風呂蛇口・水栓 浴室(お風呂)水栓TOP      817件" [ref=f260e732] [cursor=pointer]:
+        - /url: /faucet/bathroom/
+        - img "浴室蛇口交換TOP｜お風呂蛇口・水栓" [ref=f260e733]
+        - generic [ref=f260e734]:
+          - paragraph [ref=f260e735]: 浴室(お風呂)水栓TOP
+          - generic [ref=f260e738]:
+            - generic [ref=f260e739]: 
+            - generic [ref=f260e740]: 
+            - generic [ref=f260e741]: 
+            - generic [ref=f260e742]: 
+            - generic [ref=f260e743]: 
+            - generic [ref=f260e744]: 817件
+      - generic [ref=f260e745]:
+        - link [ref=f260e746] [cursor=pointer]:
+          - /url: /faucet/bathroom/wall_mount/
+          - heading "壁付きタイプ" [level=4] [ref=f260e747]
+          - generic [ref=f260e748]:
+            - img "壁付きタイプ浴室水栓｜浴室・お風呂蛇口の交換" [ref=f260e750]
+            - generic [ref=f260e751]:
+              - paragraph [ref=f260e753]: 浴室の壁に取り付けられている主流のタイプです。洗い場・浴槽兼用、洗い場専用、浴槽専用があります。
+              - generic [ref=f260e754]:
+                - paragraph [ref=f260e755]: 商品特価 24,601円(税込)～
+                - paragraph [ref=f260e756]: 工事費用込 39,401円(税込)～
+              - img "商品一覧" [ref=f260e758]
+        - link [ref=f260e759] [cursor=pointer]:
+          - /url: /faucet/bathroom/deck_mount/
+          - heading "台付きタイプ" [level=4] [ref=f260e760]
+          - generic [ref=f260e761]:
+            - img "台付きデッキタイプ浴室水栓｜浴室・お風呂蛇口の交換" [ref=f260e763]
+            - generic [ref=f260e764]:
+              - paragraph [ref=f260e766]: 浴槽のふちに台座ごと設置されておりデッキ型とも呼ばれるタイプです。サーモスタット水栓も選択可。
+              - generic [ref=f260e767]:
+                - paragraph [ref=f260e768]: 商品特価 24,596円(税込)～
+                - paragraph [ref=f260e769]: 工事費用込 42,396円(税込)～
+              - img "商品一覧" [ref=f260e771]
+        - link [ref=f260e772] [cursor=pointer]:
+          - /url: /faucet/bathroom/shower_head/
+          - heading "シャワーヘッド特集" [level=4] [ref=f260e773]
+          - generic [ref=f260e774]:
+            - img "シャワーヘッド特集｜浴室・お風呂蛇口の交換" [ref=f260e776]
+            - generic [ref=f260e777]:
+              - paragraph [ref=f260e779]: TOTO、LIXIL、KVK、サイエンス(ミラブル)のメーカーごとシャワーヘッドの種類や特長をご紹介。
+              - img "シャワーヘッドの種類はこちら" [ref=f260e781]
+      - heading "シャワーヘッドの機能から選ぶ" [level=3] [ref=f260e782]
+      - paragraph [ref=f260e784]: 浴室用のシャワー水栓にはお好きなシャワーヘッドを選べる機種があります。 シャワーヘッドはメーカーごとに様々な種類が用意されていますが、搭載したい機能や素材などによって費用が変わります。TOTO、LIXIL(INAX)、KVK共通の選ぶポイントを大きく３つに分けてご紹介いたします。
+      - generic [ref=f260e785]:
+        - table [ref=f260e786]:
+          - rowgroup [ref=f260e787]:
+            - row [ref=f260e788]:
+              - columnheader "吐水機能 1 モード切替シャワーか 標準シャワーか？" [ref=f260e789]:
+                - generic [ref=f260e790]: 吐水機能
+                - generic [ref=f260e791]:
+                  - img "1" [ref=f260e793]
+                  - generic [ref=f260e794]: モード切替シャワーか標準シャワーか？
+              - columnheader "便利機能 2 クリックシャワーは ありか無しか？" [ref=f260e795]:
+                - generic [ref=f260e796]: 便利機能
+                - generic [ref=f260e797]:
+                  - img "2" [ref=f260e799]
+                  - generic [ref=f260e800]: クリックシャワーはありか無しか？
+              - columnheader "見た目・デザイン 3 シャワーヘッド素材 何を選ぶか？" [ref=f260e801]:
+                - generic [ref=f260e802]: 見た目・デザイン
+                - generic [ref=f260e803]:
+                  - img "3" [ref=f260e805]
+                  - generic [ref=f260e806]: シャワーヘッド素材何を選ぶか？
+            - row [ref=f260e807]:
+              - cell "モード切替シャワーとは １つのシャワーで浴び心地の異なる複数の吐水タイプ切り替え機能が搭載｜モード切替シャワーとは １つのシャワーで浴び心地の異なる複数の吐水タイプを切り替えられます。多機能シャワーとして各メーカーで力を入れているハイモデルです。" [ref=f260e808]:
+                - generic [ref=f260e809]:
+                  - generic [ref=f260e810]: モード切替シャワーとは
+                  - img "１つのシャワーで浴び心地の異なる複数の吐水タイプ切り替え機能が搭載｜モード切替シャワーとは" [ref=f260e811]
+                  - generic [ref=f260e812]: １つのシャワーで浴び心地の異なる複数の吐水タイプを切り替えられます。多機能シャワーとして各メーカーで力を入れているハイモデルです。
+              - cell "クリックシャワーとは 手元のボタンを押すだけで簡単に吐水・止水ができる便利な機能｜クリックシャワーとは 手元のボタンを押すだけで簡単に吐水・止水ができる便利機能です。クリック機能のありなしを選択できます。" [ref=f260e813]:
+                - generic [ref=f260e814]:
+                  - generic [ref=f260e815]: クリックシャワーとは
+                  - img "手元のボタンを押すだけで簡単に吐水・止水ができる便利な機能｜クリックシャワーとは" [ref=f260e816]
+                  - generic [ref=f260e817]: 手元のボタンを押すだけで簡単に吐水・止水ができる便利機能です。クリック機能のありなしを選択できます。
+              - cell "シャワーヘッドの素材 メタル、メッキ、樹脂などがあり、見た目や高級感に違いがある｜シャワーヘッド素材の種類 見た目や高級感の違いがあります。また樹脂素材ではモード切替シャワーが選べないメーカーも多いためご注意ください。" [ref=f260e818]:
+                - generic [ref=f260e819]:
+                  - generic [ref=f260e820]: シャワーヘッドの素材
+                  - img "メタル、メッキ、樹脂などがあり、見た目や高級感に違いがある｜シャワーヘッド素材の種類" [ref=f260e821]
+                  - generic [ref=f260e822]: 見た目や高級感の違いがあります。また樹脂素材ではモード切替シャワーが選べないメーカーも多いためご注意ください。
+            - row [ref=f260e823]:
+              - cell "メーカー別の名称 TOTO コンフォートウエーブ3モード LIXIL SPA Uシャワー KVK 3WAYシャワーヘッド" [ref=f260e824]:
+                - generic [ref=f260e825]:
+                  - generic [ref=f260e826]: メーカー別の名称
+                  - table [ref=f260e828]:
+                    - rowgroup [ref=f260e829]:
+                      - row [ref=f260e830]:
+                        - cell "TOTO" [ref=f260e831]
+                        - cell "コンフォートウエーブ3モード" [ref=f260e832]
+                      - row [ref=f260e833]:
+                        - cell "LIXIL" [ref=f260e834]
+                        - cell "SPA Uシャワー" [ref=f260e835]
+                      - row [ref=f260e836]:
+                        - cell "KVK" [ref=f260e837]
+                        - cell "3WAYシャワーヘッド" [ref=f260e838]
+              - cell "メーカー別の名称 TOTO クリックシャワー LIXIL スイッチシャワー KVK ワンストップシャワー" [ref=f260e839]:
+                - generic [ref=f260e840]: メーカー別の名称
+                - table [ref=f260e842]:
+                  - rowgroup [ref=f260e843]:
+                    - row [ref=f260e844]:
+                      - cell "TOTO" [ref=f260e845]
+                      - cell "クリックシャワー" [ref=f260e846]
+                    - row [ref=f260e847]:
+                      - cell "LIXIL" [ref=f260e848]
+                      - cell "スイッチシャワー" [ref=f260e849]
+                    - row [ref=f260e850]:
+                      - cell "KVK" [ref=f260e851]
+                      - cell "ワンストップシャワー" [ref=f260e852]
+              - cell "代表的な素材 メタル メッキ 樹脂" [ref=f260e853]:
+                - generic [ref=f260e854]: 代表的な素材
+                - table [ref=f260e856]:
+                  - rowgroup [ref=f260e857]:
+                    - row [ref=f260e858]:
+                      - cell "メタル" [ref=f260e859]
+                    - row [ref=f260e860]:
+                      - cell "メッキ" [ref=f260e861]
+                    - row [ref=f260e862]:
+                      - cell "樹脂" [ref=f260e863]
+            - row [ref=f260e864]:
+              - cell [ref=f260e865]:
+                - generic [ref=f260e866]:
+                  - link "▲ 壁付きタイプから探す" [ref=f260e867] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom1&shower=3#bathroom
+                  - link "▲ 台付きタイプから探す" [ref=f260e868] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom2&shower=3#bathroom
+              - cell [ref=f260e869]:
+                - generic [ref=f260e870]:
+                  - link "▲ 壁付きタイプから探す" [ref=f260e871] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom1&click_shower=1#bathroom
+                  - link "▲ 台付きタイプから探す" [ref=f260e872] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom2&click_shower=1#bathroom
+              - cell [ref=f260e873]:
+                - generic [ref=f260e874]:
+                  - link "▲ 壁付きタイプ(樹脂)" [ref=f260e875] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom1&shower_head_material=1#bathroom
+                  - link "▲ 壁付きタイプ(めっき)" [ref=f260e876] [cursor=pointer]:
+                    - /url: /faucet/search/?mounting_type=bathroom1&shower_head_material=2#bathroom
+        - generic: スクロールできます
+      - heading "洗面水栓(洗面台蛇口)を交換" [level=2] [ref=f260e877]
+      - heading "2026年6月度 洗面水栓人気売れ筋ランキング！" [level=3] [ref=f260e878]
+      - list [ref=f260e880]:
+        - listitem [ref=f260e881]:
+          - generic [ref=f260e882]:
+            - img "浴室水栓水栓売れ筋ランキング No.1" [ref=f260e884]
+            - generic [ref=f260e885]:
+              - img "TOTOロゴ" [ref=f260e886]
+              - paragraph [ref=f260e887]: 洗面水栓ワンホール
+          - generic [ref=f260e889]:
+            - link [ref=f260e891] [cursor=pointer]:
+              - /url: /faucet/washstand/TLC32ER/
+              - img "TOTO 洗面水栓 ワンホール" [ref=f260e892]
+            - generic [ref=f260e893]: シンプルなデザインのTOTOワンホールタイプ。シャワー切替えはありませんが、ホース引き出しタイプなので洗面ボウルのお掃除にも便利です。
+          - generic [ref=f260e894]:
+            - generic [ref=f260e895]: 本体57%OFF
+            - text: TLC32ER
+            - generic [ref=f260e896]:
+              - paragraph [ref=f260e897]: 平均レビュー 4.5
+              - generic [ref=f260e900] [cursor=pointer]:
+                - generic [ref=f260e901]: 
+                - generic [ref=f260e902]: 
+                - generic [ref=f260e903]: 
+                - generic [ref=f260e904]: 
+                - generic [ref=f260e905]: 
+                - generic [ref=f260e906]: 42件
+          - generic [ref=f260e907]:
+            - generic [ref=f260e908]: 工事費用込み価格(税込) 55,194円
+            - link "商品詳細 はこちら" [ref=f260e910] [cursor=pointer]:
+              - /url: /faucet/washstand/TLC32ER/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e911]:
+          - generic [ref=f260e912]:
+            - img "浴室水栓水栓売れ筋ランキング No.2" [ref=f260e914]
+            - generic [ref=f260e915]:
+              - img "TOTOロゴ" [ref=f260e916]
+              - paragraph [ref=f260e917]: 洗面水栓コンビネーション
+          - generic [ref=f260e919]:
+            - link [ref=f260e921] [cursor=pointer]:
+              - /url: /faucet/washstand/TLG05301J/
+              - img "TOTO 洗面水栓 コンビネーション" [ref=f260e922]
+            - generic [ref=f260e923]: TOTOのシャワーホース引き出しタイプの洗面台用水栓。傷に強いめっきのハンドルとスパウトで、吐水部はソフトとシャワー切替ができます。
+          - generic [ref=f260e924]:
+            - generic [ref=f260e925]: 本体57%OFF
+            - text: TLG05301J
+            - generic [ref=f260e926]:
+              - paragraph [ref=f260e927]: 平均レビュー 4.5
+              - generic [ref=f260e930] [cursor=pointer]:
+                - generic [ref=f260e931]: 
+                - generic [ref=f260e932]: 
+                - generic [ref=f260e933]: 
+                - generic [ref=f260e934]: 
+                - generic [ref=f260e935]: 
+                - generic [ref=f260e936]: 99件
+          - generic [ref=f260e937]:
+            - generic [ref=f260e938]: 工事費用込み価格(税込) 58,930円
+            - link "商品詳細 はこちら" [ref=f260e940] [cursor=pointer]:
+              - /url: /faucet/washstand/TLG05301J/
+              - text: 商品詳細はこちら
+        - listitem [ref=f260e941]:
+          - generic [ref=f260e942]:
+            - img "浴室水栓水栓売れ筋ランキング No.3" [ref=f260e944]
+            - generic [ref=f260e945]:
+              - img "TOTOロゴ" [ref=f260e946]
+              - paragraph [ref=f260e947]: 洗面水栓コンビネーション
+          - generic [ref=f260e949]:
+            - link [ref=f260e951] [cursor=pointer]:
+              - /url: /faucet/washstand/TLS05301J/
+              - img "TOTO 洗面水栓 コンビネーション" [ref=f260e952]
+            - generic [ref=f260e953]: 樹脂仕様のコンビネーション洗面水栓。伝い水が軽減され、清掃性が向上。エコシングル水栓なので水とお湯をしっかり使い分けられます。
+          - generic [ref=f260e954]:
+            - generic [ref=f260e955]: 本体57%OFF
+            - text: TLS05301J
+            - generic [ref=f260e956]:
+              - paragraph [ref=f260e957]: 平均レビュー 4.6
+              - generic [ref=f260e960] [cursor=pointer]:
+                - generic [ref=f260e961]: 
+                - generic [ref=f260e962]: 
+                - generic [ref=f260e963]: 
+                - generic [ref=f260e964]: 
+                - generic [ref=f260e965]: 
+                - generic [ref=f260e966]: 72件
+          - generic [ref=f260e967]:
+            - generic [ref=f260e968]: 工事費用込み価格(税込) 48,856円
+            - link "商品詳細 はこちら" [ref=f260e970] [cursor=pointer]:
+              - /url: /faucet/washstand/TLS05301J/
+              - text: 商品詳細はこちら
+      - link "ランキングをもっとみる >" [ref=f260e972] [cursor=pointer]:
+        - /url: /faucet/ranking/#Washstand-faucet
+      - heading "洗面水栓(洗面台蛇口) タイプ別商品一覧" [level=3] [ref=f260e973]
+      - link "洗面台蛇口交換TOP｜洗面所蛇口・水栓 洗面台水栓TOP      712件" [ref=f260e974] [cursor=pointer]:
+        - /url: /faucet/washstand/
+        - img "洗面台蛇口交換TOP｜洗面所蛇口・水栓" [ref=f260e975]
+        - generic [ref=f260e976]:
+          - paragraph [ref=f260e977]: 洗面台水栓TOP
+          - generic [ref=f260e980]:
+            - generic [ref=f260e981]: 
+            - generic [ref=f260e982]: 
+            - generic [ref=f260e983]: 
+            - generic [ref=f260e984]: 
+            - generic [ref=f260e985]: 
+            - generic [ref=f260e986]: 712件
+      - generic [ref=f260e987]:
+        - link [ref=f260e988] [cursor=pointer]:
+          - /url: /faucet/washstand/onehole/
+          - heading "ワンホールタイプ" [level=4] [ref=f260e989]
+          - generic [ref=f260e990]:
+            - img "ワンホールタイプ洗面水栓｜洗面台蛇口の交換" [ref=f260e992]
+            - generic [ref=f260e993]:
+              - paragraph [ref=f260e995]: シンプルなレバー式水栓やホース(ノズル)が伸びるタイプの蛇口などお好みに合わせて。
+              - generic [ref=f260e996]:
+                - paragraph [ref=f260e997]: 商品特価 9,601円(税込)～
+                - paragraph [ref=f260e998]: 工事費用込 24,401円(税込)～
+              - img "商品一覧" [ref=f260e1000]
+        - link [ref=f260e1001] [cursor=pointer]:
+          - /url: /faucet/washstand/twohole/
+          - heading "ツーホールタイプ" [level=4] [ref=f260e1002]
+          - generic [ref=f260e1003]:
+            - img "ツーホールタイプ洗面水栓｜洗面台蛇口の交換" [ref=f260e1005]
+            - generic [ref=f260e1006]:
+              - paragraph [ref=f260e1008]: 2バルブ混合栓やシングルレバータイプの蛇口など様々な水栓を取り揃えております。
+              - generic [ref=f260e1009]:
+                - paragraph [ref=f260e1010]: 商品特価 16,088円(税込)～
+                - paragraph [ref=f260e1011]: 工事費用込 30,888円(税込)～
+              - img "商品一覧" [ref=f260e1013]
+        - link [ref=f260e1014] [cursor=pointer]:
+          - /url: /faucet/washstand/combination/
+          - heading "コンビネーションタイプ" [level=4] [ref=f260e1015]
+          - generic [ref=f260e1016]:
+            - img "コンビネーション(セパレート)タイプ洗面水栓｜洗面台蛇口の交換" [ref=f260e1018]
+            - generic [ref=f260e1019]:
+              - paragraph [ref=f260e1021]: 吐水口とハンドル部分が別々のコンビネーション水栓も全機種お取り扱い。
+              - generic [ref=f260e1022]:
+                - paragraph [ref=f260e1023]: 商品特価 29,799円(税込)～
+                - paragraph [ref=f260e1024]: 工事費用込 44,599円(税込)～
+              - img "商品一覧" [ref=f260e1026]
+      - heading "洗面台蛇口を機能から選ぶ" [level=3] [ref=f260e1027]
+      - paragraph [ref=f260e1029]: 設置タイプと排水タイプが使用中の洗面水栓と同じであれば、機能や吐水口(スパウト)の長さなどはお好きなものと交換することが可能です。洗面台蛇口の交換で特に人気の機能は「シャワー付き」や「ホースが伸ばせる」タイプです。
+      - generic [ref=f260e1030]:
+        - generic [ref=f260e1031]:
+          - generic [ref=f260e1032]: ホース引き出し
+          - figure [ref=f260e1033]:
+            - img "ホース引き出し機能｜洗面水栓(洗面台蛇口)を機能から選ぶ" [ref=f260e1034]
+          - generic [ref=f260e1035]:
+            - paragraph [ref=f260e1037]: ホースが伸ばせるので洗面ボウルやシンク全体をくまなく掃除できる人気の機能です。
+            - generic [ref=f260e1038]:
+              - img "アイコン" [ref=f260e1040]
+              - generic [ref=f260e1041]: ホース引き出しあり
+            - list [ref=f260e1042]:
+              - listitem [ref=f260e1043]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e1044] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom1&wash_mixing_single_tap=1&water_discharge_type=washroom3#washroom
+              - listitem [ref=f260e1045]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e1046] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom2&water_discharge_type=washroom3_washroom5#washroom
+              - listitem [ref=f260e1047]:
+                - link "コンビネーションで探す ▲" [ref=f260e1048] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom3&water_discharge_type=washroom3#washroom
+        - generic [ref=f260e1049]:
+          - generic [ref=f260e1050]: シャワー吐水
+          - figure [ref=f260e1051]:
+            - img "シャワー吐水切り替え機能｜洗面水栓(洗面台蛇口)を機能から選ぶ" [ref=f260e1052]
+          - generic [ref=f260e1053]:
+            - paragraph [ref=f260e1055]: 洗面所で手軽に洗髪できるシャワー機能付きで、こちらのタイプはほとんどの機種でホースも引き出せます。
+            - generic [ref=f260e1056]:
+              - img "アイコン" [ref=f260e1058]
+              - generic [ref=f260e1059]: シャワー吐水あり
+            - list [ref=f260e1060]:
+              - listitem [ref=f260e1061]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e1062] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom1&wash_mixing_single_tap=1&shower_spout_switching=1#washroom
+              - listitem [ref=f260e1063]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e1064] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom2&shower_spout_switching=1#washroom
+              - listitem [ref=f260e1065]:
+                - link "コンビネーションで探す ▲" [ref=f260e1066] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom3&shower_spout_switching=1#washroom
+        - generic [ref=f260e1067]:
+          - generic [ref=f260e1068]: 吐水口回転
+          - figure [ref=f260e1069]:
+            - img "吐水口回転機能｜洗面水栓(洗面台蛇口)を機能から選ぶ" [ref=f260e1070]
+          - generic [ref=f260e1071]:
+            - paragraph [ref=f260e1073]: 吐水口が上下に回転するので洗顔やうがいなどに便利な機能です。
+            - generic [ref=f260e1074]:
+              - img "アイコン" [ref=f260e1076]
+              - generic [ref=f260e1077]: 吐水口回転機能あり
+            - list [ref=f260e1078]:
+              - listitem [ref=f260e1079]:
+                - link "ワンホールタイプで探す ▲" [ref=f260e1080] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom1&wash_mixing_single_tap=1&water_discharge_type=washroom2#washroom
+              - listitem [ref=f260e1081]:
+                - link "ツーホールタイプで探す ▲" [ref=f260e1082] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom2&water_discharge_type=washroom2#washroom
+              - listitem [ref=f260e1083]:
+                - link "コンビネーションで探す ▲" [ref=f260e1084] [cursor=pointer]:
+                  - /url: /faucet/search/?mounting_type=washroom3&water_discharge_type=washroom2#washroom
+        - text: ▲ ▲ ▲
+      - heading "その他水栓(洗濯機水栓ほか)を交換" [level=2] [ref=f260e1085]
+      - heading "その他蛇口 タイプ別商品一覧" [level=3] [ref=f260e1086]
+      - generic [ref=f260e1087]:
+        - link [ref=f260e1088] [cursor=pointer]:
+          - /url: /faucet/washing_machine/
+          - heading "洗濯機水栓" [level=4] [ref=f260e1089]
+          - generic [ref=f260e1090]:
+            - img "洗濯機水栓｜洗濯機蛇口の交換" [ref=f260e1092]
+            - generic [ref=f260e1093]:
+              - paragraph [ref=f260e1095]: 万が一ホースが外れても安心の緊急止水機能が付いた洗濯機水栓です。
+              - generic [ref=f260e1096]:
+                - paragraph [ref=f260e1097]: 商品特価 5,013円(税込)～
+                - paragraph [ref=f260e1098]: 工事費用込 19,813円(税込)～
+              - img "商品一覧" [ref=f260e1100]
+        - link [ref=f260e1101] [cursor=pointer]:
+          - /url: /faucet/single/
+          - heading "単水栓" [level=4] [ref=f260e1102]
+          - generic [ref=f260e1103]:
+            - img "単水栓｜洗面所・トイレ単水栓、横水栓" [ref=f260e1105]
+            - generic [ref=f260e1106]:
+              - paragraph [ref=f260e1108]: キッチン、洗面所(トイレ)の単水栓や汎用的に設置できる横水栓はこちら。
+              - generic [ref=f260e1109]:
+                - paragraph [ref=f260e1110]: 商品特価 5,280円(税込)～
+                - paragraph [ref=f260e1111]: 工事費用込 20,080円(税込)～
+              - img "商品一覧" [ref=f260e1113]
+        - link [ref=f260e1114] [cursor=pointer]:
+          - /url: /faucet/kitchen/bunki/
+          - heading "分岐水栓" [level=4] [ref=f260e1115]
+          - generic [ref=f260e1116]:
+            - img "分岐水栓｜卓上食洗機接続用の蛇口" [ref=f260e1118]
+            - generic [ref=f260e1119]:
+              - paragraph [ref=f260e1121]: 給水ホースで卓上食洗機や浄水器と接続するための分岐水栓です。
+              - img "分岐水栓の一覧はこちら" [ref=f260e1123]
+      - generic [ref=f260e1124]:
+        - figure [ref=f260e1125]:
+          - img "注意" [ref=f260e1126]
+        - paragraph [ref=f260e1128]: 分岐水栓は当社で蛇口交換をご注文いただいたお客様のみご購入いただけます。 蛇口本体の交換とセットで分岐水栓の取付けも承ります。
+      - heading "7月31日更新 お客様の声と施工事例" [level=2] [ref=f260e1129]:
+        - generic [ref=f260e1130]: 7月31日更新
+        - paragraph [ref=f260e1131]: お客様の声と施工事例
+      - heading "蛇口・水栓を交換したお客様の声" [level=3] [ref=f260e1132]
+      - generic [ref=f260e1134]:
+        - link "2026/7/24 NEW 東京都目黒区のお客様 「見積りもスケジュール調整も迅速な対応で、かつ当方の希望を叶えていただき助かりました。社内の連携も素晴らしいです。工事担当…" [ref=f260e1135] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98476
+          - generic [ref=f260e1136]:
+            - generic [ref=f260e1137]: 2026/7/24
+            - generic [ref=f260e1138]: NEW
+          - figure "東京都目黒区のお客様" [ref=f260e1139]:
+            - img "2026/7/24 東京都目黒区のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1142]: 「見積りもスケジュール調整も迅速な対応で、かつ当方の希望を叶えていただき助かりました。社内の連携も素晴らしいです。工事担当…
+        - link "2026/7/22 愛知県田原市のお客様 「現在使用している水栓が古くなったのと、浄水機能のよいものに交換したかったため交換を検討しました。先ずは交換したい水栓を見…" [ref=f260e1143] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98709
+          - generic [ref=f260e1144]: 2026/7/22
+          - figure "愛知県田原市のお客様" [ref=f260e1146]:
+            - img "2026/7/22 愛知県田原市のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1149]: 「現在使用している水栓が古くなったのと、浄水機能のよいものに交換したかったため交換を検討しました。先ずは交換したい水栓を見…
+        - link "2026/7/22 千葉県船橋市のお客様 「見積り内容がわかりやすく、こちらの状況も踏まえて丁寧に案内していただけたので安心できました。不明点にもきちんと対応してい…" [ref=f260e1150] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98484
+          - generic [ref=f260e1151]: 2026/7/22
+          - figure "千葉県船橋市のお客様" [ref=f260e1153]:
+            - img "2026/7/22 千葉県船橋市のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1156]: 「見積り内容がわかりやすく、こちらの状況も踏まえて丁寧に案内していただけたので安心できました。不明点にもきちんと対応してい…
+        - link "2026/7/8 東京都府中市のお客様 「機種を指定して見積りを依頼したが、対応がはやい。また類似品との機能の違いなども的確に回答していただいた。当日の工事の方も…" [ref=f260e1157] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98235
+          - generic [ref=f260e1158]: 2026/7/8
+          - figure "東京都府中市のお客様" [ref=f260e1160]:
+            - img "2026/7/8 東京都府中市のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1163]: 「機種を指定して見積りを依頼したが、対応がはやい。また類似品との機能の違いなども的確に回答していただいた。当日の工事の方も…
+        - link "2026/7/6 東京都江戸川区のお客様 「見積りは写真を送ってからの返信が非常に早く、的確な案内でした。追加費用の心配がない明朗会計で、安心してお任せできました。…" [ref=f260e1164] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98177
+          - generic [ref=f260e1165]: 2026/7/6
+          - figure "東京都江戸川区のお客様" [ref=f260e1167]:
+            - img "2026/7/6 東京都江戸川区のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1170]: 「見積りは写真を送ってからの返信が非常に早く、的確な案内でした。追加費用の心配がない明朗会計で、安心してお任せできました。…
+        - link "2026/7/3 埼玉県越谷市のお客様 「ホームページで製品の型番で検索して商品ページに直接アクセスすると別の製品へのリンクがなく、製品の比較ページへ行くのが分か…" [ref=f260e1171] [cursor=pointer]:
+          - /url: /voice/index.php/archives/98110
+          - generic [ref=f260e1172]: 2026/7/3
+          - figure "埼玉県越谷市のお客様" [ref=f260e1174]:
+            - img "2026/7/3 埼玉県越谷市のお客様｜蛇口・水栓交換の施工事例"
+          - paragraph [ref=f260e1177]: 「ホームページで製品の型番で検索して商品ページに直接アクセスすると別の製品へのリンクがなく、製品の比較ページへ行くのが分か…
+      - link "お客様の声をもっと見る" [ref=f260e1179] [cursor=pointer]:
+        - /url: /voice/index.php/archives/tag/faucet
+      - heading "蛇口・水栓の施工事例" [level=3] [ref=f260e1180]
+      - generic [ref=f260e1182]:
+        - link "2026/07/31 NEW 東京都杉並区のお客様 LIXIL 蛇口・水栓 『BF-A147TSR』 時計アイコン 約1時間" [ref=f260e1183] [cursor=pointer]:
+          - /url: /faucet/blog/bathroom/133524/
+          - generic [ref=f260e1184]:
+            - generic [ref=f260e1185]: 2026/07/31
+            - generic [ref=f260e1186]: NEW
+          - figure "東京都杉並区のお客様" [ref=f260e1187]:
+            - img "2026/07/31 東京都杉並区のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1189]:
+            - paragraph [ref=f260e1190]: LIXIL 蛇口・水栓 『BF-A147TSR』
+            - generic [ref=f260e1191]:
+              - img "時計アイコン" [ref=f260e1192]
+              - generic [ref=f260e1193]: 約1時間
+        - link "2026/07/31 NEW 東京都葛飾区のお客様 LIXIL 蛇口・水栓 『BF-HW156TSRM』 時計アイコン 約1時間" [ref=f260e1194] [cursor=pointer]:
+          - /url: /faucet/blog/bathroom/133520/
+          - generic [ref=f260e1195]:
+            - generic [ref=f260e1196]: 2026/07/31
+            - generic [ref=f260e1197]: NEW
+          - figure "東京都葛飾区のお客様" [ref=f260e1198]:
+            - img "2026/07/31 東京都葛飾区のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1200]:
+            - paragraph [ref=f260e1201]: LIXIL 蛇口・水栓 『BF-HW156TSRM』
+            - generic [ref=f260e1202]:
+              - img "時計アイコン" [ref=f260e1203]
+              - generic [ref=f260e1204]: 約1時間
+        - link "2026/07/31 NEW 神奈川県鎌倉市のお客様 TOTO 蛇口・水栓 『TBV03458J』 時計アイコン 約1時間" [ref=f260e1205] [cursor=pointer]:
+          - /url: /faucet/blog/bathroom/133528/
+          - generic [ref=f260e1206]:
+            - generic [ref=f260e1207]: 2026/07/31
+            - generic [ref=f260e1208]: NEW
+          - figure "神奈川県鎌倉市のお客様" [ref=f260e1209]:
+            - img "2026/07/31 神奈川県鎌倉市のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1211]:
+            - paragraph [ref=f260e1212]: TOTO 蛇口・水栓 『TBV03458J』
+            - generic [ref=f260e1213]:
+              - img "時計アイコン" [ref=f260e1214]
+              - generic [ref=f260e1215]: 約1時間
+        - link "2026/07/31 NEW 東京都町田市のお客様 TOTO 蛇口・水栓 『TBV03450J』 時計アイコン 約1時間" [ref=f260e1216] [cursor=pointer]:
+          - /url: /faucet/blog/bathroom/133503/
+          - generic [ref=f260e1217]:
+            - generic [ref=f260e1218]: 2026/07/31
+            - generic [ref=f260e1219]: NEW
+          - figure "東京都町田市のお客様" [ref=f260e1220]:
+            - img "2026/07/31 東京都町田市のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1222]:
+            - paragraph [ref=f260e1223]: TOTO 蛇口・水栓 『TBV03450J』
+            - generic [ref=f260e1224]:
+              - img "時計アイコン" [ref=f260e1225]
+              - generic [ref=f260e1226]: 約1時間
+        - link "2026/07/29 神奈川県鎌倉市のお客様 クリンスイ 蛇口・水栓 『F915HU』 時計アイコン 約1時間" [ref=f260e1227] [cursor=pointer]:
+          - /url: /faucet/blog/kitchen/133516/
+          - generic [ref=f260e1228]: 2026/07/29
+          - figure "神奈川県鎌倉市のお客様" [ref=f260e1230]:
+            - img "2026/07/29 神奈川県鎌倉市のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1232]:
+            - paragraph [ref=f260e1233]: クリンスイ 蛇口・水栓 『F915HU』
+            - generic [ref=f260e1234]:
+              - img "時計アイコン" [ref=f260e1235]
+              - generic [ref=f260e1236]: 約1時間
+        - link "2026/07/29 東京都町田市のお客様 LIXIL 蛇口・水栓 『JF-NAA466SY(JW)』 時計アイコン 約1時間" [ref=f260e1237] [cursor=pointer]:
+          - /url: /faucet/blog/kitchen/touchless/133507/
+          - generic [ref=f260e1238]: 2026/07/29
+          - figure "東京都町田市のお客様" [ref=f260e1240]:
+            - img "2026/07/29 東京都町田市のお客様｜蛇口・水栓交換の施工事例"
+          - generic [ref=f260e1242]:
+            - paragraph [ref=f260e1243]: LIXIL 蛇口・水栓 『JF-NAA466SY(JW)』
+            - generic [ref=f260e1244]:
+              - img "時計アイコン" [ref=f260e1245]
+              - generic [ref=f260e1246]: 約1時間
+      - link "施工事例をもっと見る" [ref=f260e1248] [cursor=pointer]:
+        - /url: /faucet/blog/
+      - heading "メーカーから蛇口を選ぶ" [level=2] [ref=f260e1249]
+      - generic [ref=f260e1251]:
+        - link "TOTO TOTO蛇口・水栓金具｜メーカーから蛇口を選ぶ 長い歴史と高い技術力を誇る水回り専門メーカー 平均レビュー 4.5      2,183件" [ref=f260e1252] [cursor=pointer]:
+          - /url: /faucet/toto/
+          - img "TOTO" [ref=f260e1254]
+          - img "TOTO蛇口・水栓金具｜メーカーから蛇口を選ぶ" [ref=f260e1256]
+          - generic [ref=f260e1257]:
+            - paragraph [ref=f260e1258]: 長い歴史と高い技術力を誇る水回り専門メーカー
+            - generic [ref=f260e1259]:
+              - paragraph [ref=f260e1260]: 平均レビュー 4.5
+              - generic [ref=f260e1263]:
+                - generic [ref=f260e1264]: 
+                - generic [ref=f260e1265]: 
+                - generic [ref=f260e1266]: 
+                - generic [ref=f260e1267]: 
+                - generic [ref=f260e1268]: 
+                - generic [ref=f260e1269]: 2,183件
+        - link "LIXIL LIXIL（リクシル）蛇口・水栓金具｜メーカーから蛇口を選ぶ 浄水器や自動水栓など高機能な水栓金具が人気 平均レビュー 4.6      1,425件" [ref=f260e1270] [cursor=pointer]:
+          - /url: /faucet/lixil/
+          - img "LIXIL" [ref=f260e1272]
+          - img "LIXIL（リクシル）蛇口・水栓金具｜メーカーから蛇口を選ぶ" [ref=f260e1274]
+          - generic [ref=f260e1275]:
+            - paragraph [ref=f260e1276]: 浄水器や自動水栓など高機能な水栓金具が人気
+            - generic [ref=f260e1277]:
+              - paragraph [ref=f260e1278]: 平均レビュー 4.6
+              - generic [ref=f260e1281]:
+                - generic [ref=f260e1282]: 
+                - generic [ref=f260e1283]: 
+                - generic [ref=f260e1284]: 
+                - generic [ref=f260e1285]: 
+                - generic [ref=f260e1286]: 
+                - generic [ref=f260e1287]: 1,425件
+        - link "KVK KVK蛇口・水栓金具｜メーカーから蛇口を選ぶ 豊富なバリエーションが揃う蛇口一筋の専業メーカー 平均レビュー 4.6      302件" [ref=f260e1288] [cursor=pointer]:
+          - /url: /faucet/kvk/
+          - img "KVK" [ref=f260e1290]
+          - img "KVK蛇口・水栓金具｜メーカーから蛇口を選ぶ" [ref=f260e1292]
+          - generic [ref=f260e1293]:
+            - paragraph [ref=f260e1294]: 豊富なバリエーションが揃う蛇口一筋の専業メーカー
+            - generic [ref=f260e1295]:
+              - paragraph [ref=f260e1296]: 平均レビュー 4.6
+              - generic [ref=f260e1299]:
+                - generic [ref=f260e1300]: 
+                - generic [ref=f260e1301]: 
+                - generic [ref=f260e1302]: 
+                - generic [ref=f260e1303]: 
+                - generic [ref=f260e1304]: 
+                - generic [ref=f260e1305]: 302件
+        - link "SANEI sanei（サンエイ）蛇口・水栓金具｜メーカーから蛇口を選ぶ 目をひくデザインで水回りがおしゃれな空間に 平均レビュー 4.7      45件" [ref=f260e1306] [cursor=pointer]:
+          - /url: /faucet/sanei/
+          - img "SANEI" [ref=f260e1308]
+          - img "sanei（サンエイ）蛇口・水栓金具｜メーカーから蛇口を選ぶ" [ref=f260e1310]
+          - generic [ref=f260e1311]:
+            - paragraph [ref=f260e1312]: 目をひくデザインで水回りがおしゃれな空間に
+            - generic [ref=f260e1313]:
+              - paragraph [ref=f260e1314]: 平均レビュー 4.7
+              - generic [ref=f260e1317]:
+                - generic [ref=f260e1318]: 
+                - generic [ref=f260e1319]: 
+                - generic [ref=f260e1320]: 
+                - generic [ref=f260e1321]: 
+                - generic [ref=f260e1322]: 
+                - generic [ref=f260e1323]: 45件
+      - heading "浄水器機能付きのメーカー別蛇口一覧" [level=3] [ref=f260e1324]
+      - generic [ref=f260e1325]:
+        - link [ref=f260e1326] [cursor=pointer]:
+          - /url: /water_filter/toto_index.html
+          - figure [ref=f260e1327]:
+            - img "TOTO" [ref=f260e1328]
+          - figure [ref=f260e1329]:
+            - img "TOTO浄水器｜浄水器機能付き蛇口も特価販売中" [ref=f260e1330]
+        - link [ref=f260e1331] [cursor=pointer]:
+          - /url: /water_filter/lixil_index.html
+          - figure [ref=f260e1332]:
+            - img "LIXIL" [ref=f260e1333]
+          - figure [ref=f260e1334]:
+            - img "LIXIL（リクシル）浄水器｜浄水器機能付き蛇口も特価販売中" [ref=f260e1335]
+        - link [ref=f260e1336] [cursor=pointer]:
+          - /url: /water_filter/cleansui_index.html
+          - figure [ref=f260e1337]:
+            - img "クリンスイ（cleansui）" [ref=f260e1338]
+          - figure [ref=f260e1339]:
+            - img "クリンスイ（cleansui）浄水器｜浄水器機能付き蛇口も特価販売中" [ref=f260e1340]
+        - link [ref=f260e1341] [cursor=pointer]:
+          - /url: /water_filter/kitz_microfilter_index.html
+          - figure [ref=f260e1342]:
+            - img "キッツマイクロフィルター（KITZ）" [ref=f260e1343]
+          - figure [ref=f260e1344]:
+            - img "キッツマイクロフィルター（KITZ）浄水器｜浄水器機能付き蛇口も特価販売中" [ref=f260e1345]
+      - link "浄水器一体型蛇口はこちらから >" [ref=f260e1347] [cursor=pointer]:
+        - /url: /water_filter/
+      - heading "【DIY】蛇口は自分で交換できる？" [level=2] [ref=f260e1348]
+      - paragraph [ref=f260e1350]: 水道蛇口の交換には給排水接続の基本的な理解が必要です。 建物や配管の状況によって、私どもプロでも苦戦するようなケースが多々あります。特に古い配管からの取り外しや、既設の蛇口が正しい施工をされずに取り付けされていたような場合には細心の注意が必要となります。 少しでも作業に不安がある方は多数の工事実績を持つ交換できるくんにお任せください。
+      - heading "キッチン蛇口をプロ(業者)が交換する手順" [level=3] [ref=f260e1351]
+      - paragraph [ref=f260e1353]: キッチン水栓(台所蛇口)の「ワンホールタイプ」をプロが交換する手順を簡単にご紹介します。 約10年〜15年程度でパッキンやシール材の経年劣化による水漏れ、異音、部品が壊れるケースが目立ちます。
+      - generic [ref=f260e1354]:
+        - generic [ref=f260e1355]:
+          - figure [ref=f260e1356]:
+            - generic [ref=f260e1357]: "1"
+            - img "交換に必要な工具や部材を用意する｜キッチン蛇口を自分で交換するDIY手順" [ref=f260e1358]
+          - generic [ref=f260e1359]:
+            - heading "交換に必要な工具や部材を用意する" [level=5] [ref=f260e1360]
+            - paragraph [ref=f260e1361]: 新しい蛇口本体のほかに、工具・部材を用意します。 代表的な工具にはモンキーレンチ、ドライバー、立水栓取付レンチ 、ウォーターポンププライヤー、パッキン(フレキホース接続用)などがあります。
+            - paragraph [ref=f260e1362]: 現場状況によっては追加で工具が必要になります。また一部のホームセンターなどでレンタルできる場合もあります。
+        - generic [ref=f260e1363]:
+          - figure [ref=f260e1364]:
+            - generic [ref=f260e1365]: "2"
+            - img "止水して残り水を出す｜キッチン蛇口を自分で交換するDIY手順" [ref=f260e1366]
+          - generic [ref=f260e1367]:
+            - heading "止水して残り水を出す" [level=5] [ref=f260e1368]
+            - paragraph [ref=f260e1369]: シンク下の給水・給湯配管に設置されている止水栓を時計回りにひねって止水します。止水栓が無い場合は、屋外にある水道メーターのバルブ(元栓)を閉めることで給水が止まります。
+            - paragraph [ref=f260e1370]: 止水後にキッチン水栓から吐水して溜まっている水を出し、配管を外した際に噴き出す水を少なくしておきます。
+        - generic [ref=f260e1371]:
+          - figure [ref=f260e1372]:
+            - generic [ref=f260e1373]: "3"
+            - img "古い蛇口を取り外す｜キッチン蛇口を自分で交換するDIY手順" [ref=f260e1374]
+          - generic [ref=f260e1375]:
+            - heading "古い蛇口を取り外す" [level=5] [ref=f260e1376]
+            - paragraph [ref=f260e1377]: 止水栓二次側(蛇口側)のナットを緩めてホースを取り外します。 この際、止水栓側が一緒に回らないようにモンキーレンチで固定しながら、ナット側だけを回します。
+            - paragraph [ref=f260e1378]: 次に立水栓取付レンチを利用して、蛇口の下から根本にある固定金具を緩めていきます。ある程度緩んだら手で回して取り外します。固定金具が外れたら蛇口本体はカウンターの天板上から引き抜けるようになります。
+        - generic [ref=f260e1379]:
+          - figure [ref=f260e1380]:
+            - generic [ref=f260e1381]: "4"
+            - img "新しいキッチン蛇口を取り付ける｜キッチン蛇口を自分で交換するDIY手順" [ref=f260e1382]
+          - generic [ref=f260e1383]:
+            - heading "新しいキッチン蛇口を取り付ける" [level=5] [ref=f260e1384]
+            - paragraph [ref=f260e1385]: 台座を取り付けた穴に新しい蛇口本体を差し込みます。 止水栓に逆止弁付きソケットを設置して、ホースを接続します。
+            - paragraph [ref=f260e1386]: 止水栓を再び開けて通水した後に、水圧をかけて水漏れがないかチェックします。 問題ない場合は、シンクを元の状態に戻して交換完了となります
+      - paragraph [ref=f260e1388]: こちらでは標準的なキッチン蛇口交換の流れを紹介しました。より詳しい交換手順の解説や他の設置タイプについては下記のページをご参考ください。
+      - generic [ref=f260e1389]:
+        - link [ref=f260e1390] [cursor=pointer]:
+          - /url: /faucet/kitchen/diy/
+          - img "キッチン蛇口を自分で交換・DIY｜蛇口交換やり方" [ref=f260e1392]
+          - generic [ref=f260e1393]:
+            - generic [ref=f260e1394]:
+              - paragraph [ref=f260e1395]: キッチン蛇口
+              - paragraph [ref=f260e1396]: プロが交換する手順
+            - text: ▲
+        - link [ref=f260e1397] [cursor=pointer]:
+          - /url: /faucet/bathroom/diy/
+          - img "浴室、お風呂蛇口を自分で交換・DIY｜蛇口交換やり方" [ref=f260e1399]
+          - generic [ref=f260e1400]:
+            - generic [ref=f260e1401]:
+              - paragraph [ref=f260e1402]: お風呂蛇口
+              - paragraph [ref=f260e1403]: プロが交換する手順
+            - text: ▲
+        - link [ref=f260e1404] [cursor=pointer]:
+          - /url: /faucet/washstand/diy/
+          - img "洗面台蛇口を自分で交換・DIY｜蛇口交換やり方" [ref=f260e1406]
+          - generic [ref=f260e1407]:
+            - generic [ref=f260e1408]:
+              - paragraph [ref=f260e1409]: 洗面台蛇口
+              - paragraph [ref=f260e1410]: プロが交換する手順
+            - text: ▲
+        - link [ref=f260e1411] [cursor=pointer]:
+          - /url: /faucet/washing_machine/diy/
+          - img "洗濯機蛇口(単水栓)を自分で交換・DIY｜蛇口交換やり方" [ref=f260e1413]
+          - generic [ref=f260e1414]:
+            - generic [ref=f260e1415]:
+              - paragraph [ref=f260e1416]: 洗濯機蛇口
+              - paragraph [ref=f260e1417]: プロが交換する手順
+            - text: ▲
+      - heading "蛇口交換お役立ちノウハウ" [level=2] [ref=f260e1418]
+      - generic [ref=f260e1420]:
+        - link "修理と交換どちらがお得？ 新品の蛇口交換と部品修理はどちらがお得か比較。" [ref=f260e1422] [cursor=pointer]:
+          - /url: /faucet/contents/
+          - figure [ref=f260e1423]:
+            - img "蛇口の修理と交換を比較｜蛇口交換お役立ちノウハウ" [ref=f260e1424]
+          - generic [ref=f260e1425]:
+            - generic [ref=f260e1426]: 修理と交換どちらがお得？
+            - text: 新品の蛇口交換と部品修理はどちらがお得か比較。
+        - link "賃貸住宅の蛇口交換 入居者とオーナーの視点で賃貸の蛇口交換を解説。" [ref=f260e1428] [cursor=pointer]:
+          - /url: /faucet/contents/rental/
+          - figure [ref=f260e1429]:
+            - img "賃貸住宅の蛇口交換｜蛇口交換お役立ちノウハウ" [ref=f260e1430]
+          - generic [ref=f260e1431]:
+            - generic [ref=f260e1432]: 賃貸住宅の蛇口交換
+            - text: 入居者とオーナーの視点で賃貸の蛇口交換を解説。
+        - link "蛇口交換業者の選び方 蛇口はどこで買い替える？業者を選ぶポイントをお伝えします。" [ref=f260e1434] [cursor=pointer]:
+          - /url: /faucet/place/
+          - figure [ref=f260e1435]:
+            - img "蛇口交換業者の選び方｜蛇口交換お役立ちノウハウ" [ref=f260e1436]
+          - generic [ref=f260e1437]:
+            - generic [ref=f260e1438]: 蛇口交換業者の選び方
+            - text: 蛇口はどこで買い替える？業者を選ぶポイントをお伝えします。
+        - link "おすすめ節水蛇口・節水方法 効果の高い節水蛇口や水道代の節約などをご紹介します。" [ref=f260e1440] [cursor=pointer]:
+          - /url: /faucet/water_saving/
+          - figure [ref=f260e1441]:
+            - img "おすすめ節水蛇口と節水方法｜蛇口交換お役立ちノウハウ" [ref=f260e1442]
+          - generic [ref=f260e1443]:
+            - generic [ref=f260e1444]: おすすめ節水蛇口・節水方法
+            - text: 効果の高い節水蛇口や水道代の節約などをご紹介します。
+        - link "蛇口の仕組みや構造を解説 スパウト、パッキン、スピンドル等パーツ名称と構造を解説。" [ref=f260e1446] [cursor=pointer]:
+          - /url: /faucet/structure/
+          - figure [ref=f260e1447]:
+            - img "蛇口の仕組みや構造を解説｜蛇口交換お役立ちノウハウ" [ref=f260e1448]
+          - generic [ref=f260e1449]:
+            - generic [ref=f260e1450]: 蛇口の仕組みや構造を解説
+            - text: スパウト、パッキン、スピンドル等パーツ名称と構造を解説。
+        - link "蛇口の水漏れ対処法 水漏れのトラブル箇所と原因を特定して修理する方法をご紹介。" [ref=f260e1452] [cursor=pointer]:
+          - /url: /faucet/contents/water_leak/
+          - figure [ref=f260e1453]:
+            - img "蛇口の水漏れ対処法｜蛇口交換お役立ちノウハウ" [ref=f260e1454]
+          - generic [ref=f260e1455]:
+            - generic [ref=f260e1456]: 蛇口の水漏れ対処法
+            - text: 水漏れのトラブル箇所と原因を特定して修理する方法をご紹介。
+      - heading "蛇口・浄水器の交換工事費用 （まるごとサービスパック）" [level=2] [ref=f260e1457]
+      - generic [ref=f260e1458]:
+        - table [ref=f260e1459]:
+          - rowgroup [ref=f260e1460]:
+            - row [ref=f260e1461]:
+              - columnheader "工事タイプと蛇口種類" [ref=f260e1462]
+              - columnheader "まるごとサービス パック費用 (基本工事費含む)" [ref=f260e1463]: まるごとサービスパック費用(基本工事費含む)
+              - columnheader "確認事項" [ref=f260e1464]
+            - row [ref=f260e1465]:
+              - cell "交換工事 ※1 【キッチン】 ワンホール、壁付き 【 浴室 】 壁付き 【 洗面 】 ワンホール、ツーホール、 コンビネーション 【 その他 】 洗濯機水栓、単水栓" [ref=f260e1466]:
+                - paragraph [ref=f260e1467]: 交換工事 ※1
+                - paragraph [ref=f260e1468]:
+                  - generic [ref=f260e1469]: 【キッチン】
+                  - generic [ref=f260e1470]: ワンホール、壁付き
+                - paragraph [ref=f260e1471]:
+                  - generic [ref=f260e1472]: 【 浴室 】
+                  - generic [ref=f260e1473]: 壁付き
+                - paragraph [ref=f260e1474]:
+                  - generic [ref=f260e1475]: 【 洗面 】
+                  - generic [ref=f260e1476]: ワンホール、ツーホール、コンビネーション
+                - paragraph [ref=f260e1477]:
+                  - generic [ref=f260e1478]: 【 その他 】
+                  - generic [ref=f260e1479]: 洗濯機水栓、単水栓
+              - cell [ref=f260e1480]:
+                - paragraph [ref=f260e1481]: 14,800円(税込)
+              - cell [ref=f260e1482]:
+                - paragraph [ref=f260e1483]:
+                  - text: LIXILタッチレス水栓ナビッシュなどの100V電源タイプは、シンク下にAC100Vの電源工事が必要です。
+                  - link "詳細はこちらをご確認ください >" [ref=f260e1484] [cursor=pointer]:
+                    - /url: /faucet/construction/#denki
+            - row [ref=f260e1485]:
+              - cell "交換工事 ※2 【キッチン】 ツーホール 【 浴室 】 台付き" [ref=f260e1486]:
+                - paragraph [ref=f260e1487]: 交換工事 ※2
+                - paragraph [ref=f260e1488]:
+                  - generic [ref=f260e1489]: 【キッチン】
+                  - generic [ref=f260e1490]: ツーホール
+                - paragraph [ref=f260e1491]:
+                  - generic [ref=f260e1492]: 【 浴室 】
+                  - generic [ref=f260e1493]: 台付き
+              - cell [ref=f260e1494]:
+                - paragraph [ref=f260e1495]: 17,800円(税込)
+              - cell [ref=f260e1496]:
+                - paragraph [ref=f260e1497]:
+                  - text: ツーホールタイプはシンク下に配管作業口(点検口)があるかご確認ください。配管作業口(点検口)がない場合、造作工事(オプション工事)が必要です。
+                  - link "詳細はこちらをご確認ください >" [ref=f260e1498] [cursor=pointer]:
+                    - /url: /faucet/construction/#haikan
+            - row [ref=f260e1499]:
+              - cell [ref=f260e1500]:
+                - paragraph [ref=f260e1501]: 新規設置(後付け)工事
+                - paragraph [ref=f260e1502]: 全タイプ
+              - cell [ref=f260e1503]:
+                - paragraph [ref=f260e1504]: 18,300円(税込)
+              - cell [ref=f260e1505]:
+                - paragraph [ref=f260e1506]: 蛇口･浄水器の取り付け環境によっては、有償オプションの電気工事や造作工事が必要となる場合があります。
+        - paragraph [ref=f260e1507]:
+          - text: ※1 キッチンや洗面などに設置されている根元が円柱一つ穴のワンホールタイプの蛇口またはキッチンや浴室用の壁付きタイプを交換する場合に該当します。 ※2 キッチンに設置されている根元が横長の台になっている（円柱ではない）ツーホールタイプの蛇口または浴室用の台付きタイプを交換する場合に該当します。
+          - link "蛇口のタイプ確認表はこちら >" [ref=f260e1508] [cursor=pointer]:
+            - /url: /faucet/maching.html
+      - generic [ref=f260e1510]:
+        - generic [ref=f260e1512]:
+          - paragraph [ref=f260e1514]: 交換できるくんの蛇口・浄水器交換 内訳
+          - generic [ref=f260e1515]:
+            - generic [ref=f260e1516]:
+              - generic [ref=f260e1517]:
+                - figure [ref=f260e1518]:
+                  - img "蛇口の商品代金" [ref=f260e1519]
+                - paragraph [ref=f260e1520]: 商品代金
+              - generic [ref=f260e1521]: 5,280円(税込)～
+            - figure [ref=f260e1522]:
+              - img "＋アイコン" [ref=f260e1523]
+            - generic [ref=f260e1524]:
+              - generic [ref=f260e1525]:
+                - figure [ref=f260e1526]:
+                  - img "まるごとサービスパック(基本工事費含む)" [ref=f260e1527]
+                - paragraph [ref=f260e1528]: まるごとサービスパック
+              - generic [ref=f260e1529]: 14,800円(税込)～
+            - figure [ref=f260e1530]:
+              - img "＋アイコン" [ref=f260e1531]
+            - generic [ref=f260e1532]:
+              - generic [ref=f260e1533]:
+                - figure [ref=f260e1534]:
+                  - img "全品無料10年保証" [ref=f260e1535]
+                - paragraph [ref=f260e1536]:
+                  - text: 商品･工事
+                  - superscript [ref=f260e1537]: ※
+                  - text: 全品10年保証
+              - generic [ref=f260e1538]: 無料
+        - generic [ref=f260e1540]:
+          - generic [ref=f260e1541]: 「まるごとサービスパック」は 下記すべて含めたコミコミ価格!
+          - generic [ref=f260e1544]:
+            - generic [ref=f260e1545]:
+              - img "基本工事費・撤去費｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1547]
+              - paragraph [ref=f260e1550]: 基本工事費撤去費
+            - generic [ref=f260e1551]:
+              - img "出張費・運搬費｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1553]
+              - paragraph [ref=f260e1556]: 出張費運搬費
+            - generic [ref=f260e1557]:
+              - img "部材費・室内養生費｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1559]
+              - paragraph [ref=f260e1562]: 部材費室内養生費
+            - generic [ref=f260e1563]:
+              - img "設置前清掃｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1565]
+              - paragraph [ref=f260e1568]: 設置前清掃使用説明
+            - generic [ref=f260e1569]:
+              - img "廃棄処分費｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1571]
+              - paragraph [ref=f260e1574]: 廃材運搬処分
+            - generic [ref=f260e1575]:
+              - img "諸経費・事務経費｜蛇口交換の基本工事費・工賃に含まれる項目" [ref=f260e1577]
+              - paragraph [ref=f260e1580]: 諸経費事務経費
+        - paragraph [ref=f260e1581]: ※無料10年保証は2022年10月1日以降のお見積り依頼から対象となります。
+        - paragraph [ref=f260e1582]: ※養生範囲は「室内で交換作業をするスペース」になります。それ以外（マンションのエントランス、エレベーターなど）をご希望の場合はご相談ください（別費用となります）。
+      - generic [ref=f260e1586]:
+        - link "蛇口の交換工事費｜廃棄処分や出張費を含めたコミコミ価格 撤去や廃棄処分含めた安心のコミコミ価格です！" [ref=f260e1588] [cursor=pointer]:
+          - /url: /faucet/construction/
+          - img "蛇口の交換工事費｜廃棄処分や出張費を含めたコミコミ価格" [ref=f260e1590]
+          - generic [ref=f260e1591]: 撤去や廃棄処分含めた安心のコミコミ価格です！
+        - link "蛇口交換の費用相場｜工事費を含めた総額はいくら？ 工事費を含めた蛇口交換費用を徹底解説！" [ref=f260e1594] [cursor=pointer]:
+          - /url: /faucet/price/
+          - img "蛇口交換の費用相場｜工事費を含めた総額はいくら？" [ref=f260e1596]
+          - generic [ref=f260e1597]: 工事費を含めた蛇口交換費用を徹底解説！
+      - heading "蛇口の交換工事エリアは７大都市圏に対応！" [level=2] [ref=f260e1599]
+      - generic [ref=f260e1600]:
+        - generic [ref=f260e1601]:
+          - generic [ref=f260e1602]:
+            - heading "札幌エリア" [level=3] [ref=f260e1603]
+            - link "札幌エリア詳細 >" [ref=f260e1604] [cursor=pointer]:
+              - /url: /faucet/area/#to_sapporo
+          - table [ref=f260e1606]:
+            - rowgroup [ref=f260e1607]:
+              - row [ref=f260e1608]:
+                - rowheader [ref=f260e1609]:
+                  - link "北海道" [ref=f260e1610] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/
+                - cell [ref=f260e1611]:
+                  - link "札幌市" [ref=f260e1612] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/sapporo/
+                  - text: 、
+                  - link "小樽市" [ref=f260e1613] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/otaru/
+                  - text: 、
+                  - link "苫小牧市" [ref=f260e1614] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/tomakomai/
+                  - text: 、
+                  - link "千歳市" [ref=f260e1615] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/chitose/
+                  - text: 、
+                  - link "恵庭市" [ref=f260e1616] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/eniwa/
+                  - text: 、
+                  - link "石狩市" [ref=f260e1617] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/ishikari/
+                  - text: 、
+                  - link "江別市" [ref=f260e1618] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/ebetsu/
+                  - text: 、
+                  - link "北広島市" [ref=f260e1619] [cursor=pointer]:
+                    - /url: /faucet/area/hokkaido/kitahiroshima/
+                  - text: ほか
+        - generic [ref=f260e1620]:
+          - generic [ref=f260e1621]:
+            - heading "仙台エリア" [level=3] [ref=f260e1622]
+            - link "仙台エリア詳細 >" [ref=f260e1623] [cursor=pointer]:
+              - /url: /faucet/area/#to_tohoku
+          - table [ref=f260e1625]:
+            - rowgroup [ref=f260e1626]:
+              - row [ref=f260e1627]:
+                - rowheader [ref=f260e1628]:
+                  - link "宮城県" [ref=f260e1629] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/
+                - cell [ref=f260e1630]:
+                  - link "仙台市" [ref=f260e1631] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/sendai/
+                  - text: 、
+                  - link "石巻市" [ref=f260e1632] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/ishinomaki/
+                  - text: 、
+                  - link "塩竈市" [ref=f260e1633] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/shiogama/
+                  - text: 、
+                  - link "多賀城市" [ref=f260e1634] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/tagajo/
+                  - text: 、
+                  - link "名取市" [ref=f260e1635] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/natori/
+                  - text: 、
+                  - link "東松島市" [ref=f260e1636] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/higashimatsushima/
+                  - text: 、
+                  - link "岩沼市" [ref=f260e1637] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/iwanuma/
+                  - text: 、
+                  - link "富谷市" [ref=f260e1638] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/tomiya/
+                  - text: 、
+                  - link "大崎市" [ref=f260e1639] [cursor=pointer]:
+                    - /url: /faucet/area/miyagi/osaki/
+                  - text: ほか
+        - generic [ref=f260e1640]:
+          - generic [ref=f260e1641]:
+            - heading "関東エリア" [level=3] [ref=f260e1642]
+            - link "関東エリア詳細 >" [ref=f260e1643] [cursor=pointer]:
+              - /url: /faucet/area/#to_kanto
+          - table [ref=f260e1645]:
+            - rowgroup [ref=f260e1646]:
+              - row [ref=f260e1647]:
+                - rowheader [ref=f260e1648]:
+                  - link "東京都" [ref=f260e1649] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/
+                - cell "23区全域" [ref=f260e1650]
+              - row [ref=f260e1651]:
+                - cell [ref=f260e1652]:
+                  - link "世田谷区" [ref=f260e1653] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/setagaya/
+                  - text: 、
+                  - link "港区" [ref=f260e1654] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/minato/
+                  - text: 、
+                  - link "品川区" [ref=f260e1655] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/shinagawa/
+                  - text: 、
+                  - link "荒川区" [ref=f260e1656] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/arakawa/
+                  - text: 、
+                  - link "板橋区" [ref=f260e1657] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/itabashi/
+                  - text: 、
+                  - link "江戸川区" [ref=f260e1658] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/edogawa/
+                  - text: 、
+                  - link "大田区" [ref=f260e1659] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/ota/
+                  - text: 、
+                  - link "葛飾区" [ref=f260e1660] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/katsushika/
+                  - text: 、
+                  - link "江東区" [ref=f260e1661] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/koto/
+                  - text: 、
+                  - link "足立区" [ref=f260e1662] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/adachi/
+                  - text: 、
+                  - link "渋谷区" [ref=f260e1663] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/shibuya/
+                  - text: 、
+                  - link "新宿区" [ref=f260e1664] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/shinjuku/
+                  - text: 、
+                  - link "中野区" [ref=f260e1665] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/nakano/
+                  - text: 、
+                  - link "杉並区" [ref=f260e1666] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/suginami/
+                  - text: 、
+                  - link "中央区" [ref=f260e1667] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/chuo/
+                  - text: 、
+                  - link "千代田区" [ref=f260e1668] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/chiyoda/
+                  - text: 、
+                  - link "豊島区" [ref=f260e1669] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/toshima/
+                  - text: 、
+                  - link "練馬区" [ref=f260e1670] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/nerima/
+                  - text: 、
+                  - link "台東区" [ref=f260e1671] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/taito/
+                  - text: 、
+                  - link "北区" [ref=f260e1672] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/kita/
+                  - text: 、
+                  - link "墨田区" [ref=f260e1673] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/sumida/
+                  - text: 、
+                  - link "文京区" [ref=f260e1674] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/bunkyo/
+                  - text: 、
+                  - link "目黒区" [ref=f260e1675] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/meguro/
+              - row [ref=f260e1676]:
+                - cell "市部" [ref=f260e1677]
+              - row [ref=f260e1678]:
+                - cell [ref=f260e1679]:
+                  - link "町田市" [ref=f260e1680] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/machida/
+                  - text: 、
+                  - link "八王子市" [ref=f260e1681] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/hachioji/
+                  - text: 、
+                  - link "府中市" [ref=f260e1682] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/fuchu/
+                  - text: 、
+                  - link "西東京市" [ref=f260e1683] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/nishitokyo/
+                  - text: 、
+                  - link "調布市" [ref=f260e1684] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/chofu/
+                  - text: 、
+                  - link "立川市" [ref=f260e1685] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/tachikawa/
+                  - text: 、
+                  - link "武蔵野市" [ref=f260e1686] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/musashino/
+                  - text: 、
+                  - link "三鷹市" [ref=f260e1687] [cursor=pointer]:
+                    - /url: /faucet/area/tokyo/mitaka/
+                  - text: ほか
+              - row [ref=f260e1688]:
+                - rowheader [ref=f260e1689]:
+                  - link "神奈川県" [ref=f260e1690] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/
+                - cell [ref=f260e1691]:
+                  - link "横浜市" [ref=f260e1692] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/yokohama/
+                  - text: 、
+                  - link "川崎市" [ref=f260e1693] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/kawasaki/
+                  - text: 、
+                  - link "藤沢市" [ref=f260e1694] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/fujisawa/
+                  - text: 、
+                  - link "横須賀市" [ref=f260e1695] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/yokosuka/
+                  - text: 、
+                  - link "茅ヶ崎市" [ref=f260e1696] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/chigasaki/
+                  - text: 、
+                  - link "相模原市" [ref=f260e1697] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/sagamihara/
+                  - text: 、
+                  - link "厚木市" [ref=f260e1698] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/atsugi/
+                  - text: 、
+                  - link "海老名市" [ref=f260e1699] [cursor=pointer]:
+                    - /url: /faucet/area/kanagawa/ebina/
+                  - text: ほか
+              - row [ref=f260e1700]:
+                - rowheader [ref=f260e1701]:
+                  - link "埼玉県" [ref=f260e1702] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/
+                - cell [ref=f260e1703]:
+                  - link "さいたま市" [ref=f260e1704] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/saitama/
+                  - text: 、
+                  - link "川口市" [ref=f260e1705] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/kawaguchi/
+                  - text: 、
+                  - link "川越市" [ref=f260e1706] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/kawagoe/
+                  - text: 、
+                  - link "和光市" [ref=f260e1707] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/wako/
+                  - text: 、
+                  - link "新座市" [ref=f260e1708] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/niiza/
+                  - text: 、
+                  - link "蕨市" [ref=f260e1709] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/warabi/
+                  - text: 、
+                  - link "春日部市" [ref=f260e1710] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/kasukabe/
+                  - text: 、
+                  - link "所沢市" [ref=f260e1711] [cursor=pointer]:
+                    - /url: /faucet/area/saitama/tokorozawa/
+                  - text: ほか
+              - row [ref=f260e1712]:
+                - rowheader [ref=f260e1713]:
+                  - link "千葉県" [ref=f260e1714] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/
+                - cell [ref=f260e1715]:
+                  - link "千葉市" [ref=f260e1716] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/chiba/
+                  - text: 、
+                  - link "船橋市" [ref=f260e1717] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/funabashi/
+                  - text: 、
+                  - link "松戸市" [ref=f260e1718] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/matsudo/
+                  - text: 、
+                  - link "市川市" [ref=f260e1719] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/ichikawa/
+                  - text: 、
+                  - link "流山市" [ref=f260e1720] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/nagareyama/
+                  - text: 、
+                  - link "習志野市" [ref=f260e1721] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/narashino/
+                  - text: 、
+                  - link "柏市" [ref=f260e1722] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/kashiwa/
+                  - text: 、
+                  - link "市原市" [ref=f260e1723] [cursor=pointer]:
+                    - /url: /faucet/area/chiba/ichihara/
+                  - text: ほか
+              - row [ref=f260e1724]:
+                - rowheader [ref=f260e1725]:
+                  - link "茨城県" [ref=f260e1726] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/
+                - cell [ref=f260e1727]:
+                  - text: 水戸市、
+                  - link "つくば市" [ref=f260e1728] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/tsukuba/
+                  - text: 、
+                  - link "土浦市" [ref=f260e1729] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/tsuchiura/
+                  - text: 、
+                  - link "古河市" [ref=f260e1730] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/koga/
+                  - text: 、
+                  - link "取手市" [ref=f260e1731] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/toride/
+                  - text: 、 筑西市、
+                  - link "牛久市" [ref=f260e1732] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/ushiku/
+                  - text: 、
+                  - link "龍ケ崎市" [ref=f260e1733] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/ryugasaki/
+                  - text: 、
+                  - link "守谷市" [ref=f260e1734] [cursor=pointer]:
+                    - /url: /faucet/area/ibaraki/moriya/
+                  - text: ほか
+              - row [ref=f260e1735]:
+                - rowheader [ref=f260e1736]:
+                  - link "栃木県" [ref=f260e1737] [cursor=pointer]:
+                    - /url: /faucet/area/tochigi/
+                - cell [ref=f260e1738]:
+                  - text: 宇都宮市(国道293号以南)、
+                  - link "栃木市" [ref=f260e1739] [cursor=pointer]:
+                    - /url: /faucet/area/tochigi/tochigi/
+                  - text: 、
+                  - link "佐野市" [ref=f260e1740] [cursor=pointer]:
+                    - /url: /faucet/area/tochigi/sano/
+                  - text: 、 下野市、
+                  - link "足利市" [ref=f260e1741] [cursor=pointer]:
+                    - /url: /faucet/area/tochigi/ashikaga/
+                  - text: 、
+                  - link "小山市" [ref=f260e1742] [cursor=pointer]:
+                    - /url: /faucet/area/tochigi/oyama/
+                  - text: ほか
+              - row [ref=f260e1743]:
+                - rowheader "群馬県" [ref=f260e1744]
+                - cell "館林市、太田市 ほか" [ref=f260e1745]
+              - row [ref=f260e1746]:
+                - rowheader "長野県" [ref=f260e1747]
+                - cell "北佐久郡軽井沢町" [ref=f260e1748]
+        - generic [ref=f260e1749]:
+          - generic [ref=f260e1750]:
+            - heading "東海エリア" [level=3] [ref=f260e1751]
+            - link "東海エリア詳細 >" [ref=f260e1752] [cursor=pointer]:
+              - /url: /faucet/area/#to_tokai
+          - table [ref=f260e1754]:
+            - rowgroup [ref=f260e1755]:
+              - row [ref=f260e1756]:
+                - rowheader "静岡県" [ref=f260e1757]
+                - cell "浜松市(新東名高速以南)、 湖西市" [ref=f260e1758]
+              - row [ref=f260e1759]:
+                - rowheader [ref=f260e1760]:
+                  - link "愛知県" [ref=f260e1761] [cursor=pointer]:
+                    - /url: /faucet/area/aichi/
+                - cell [ref=f260e1762]:
+                  - link "名古屋市" [ref=f260e1763] [cursor=pointer]:
+                    - /url: /faucet/area/aichi/nagoya/
+                  - text: 、
+                  - link "一宮市" [ref=f260e1764] [cursor=pointer]:
+                    - /url: /faucet/area/aichi/ichinomiya/
+                  - text: 、 豊田市(西部)、 岡崎市(新東名高速以西)、 豊橋市、
+                  - link "春日井市" [ref=f260e1765] [cursor=pointer]:
+                    - /url: /faucet/area/aichi/kasugai/
+                  - text: ほか
+              - row [ref=f260e1766]:
+                - rowheader [ref=f260e1767]:
+                  - link "岐阜県" [ref=f260e1768] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/
+                - cell [ref=f260e1769]:
+                  - link "岐阜市" [ref=f260e1770] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/gifu/
+                  - text: 、
+                  - link "各務原市" [ref=f260e1771] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/kakamigahara/
+                  - text: 、
+                  - link "羽島市" [ref=f260e1772] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/hashima/
+                  - text: 、
+                  - link "多治見市" [ref=f260e1773] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/tajimi/
+                  - text: 、
+                  - link "瑞穂市" [ref=f260e1774] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/mizuho/
+                  - text: 、
+                  - link "可児市" [ref=f260e1775] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/kani/
+                  - text: 、
+                  - link "美濃加茂市" [ref=f260e1776] [cursor=pointer]:
+                    - /url: /faucet/area/gifu/minokamo/
+                  - text: ほか
+              - row [ref=f260e1777]:
+                - rowheader [ref=f260e1778]:
+                  - link "三重県" [ref=f260e1779] [cursor=pointer]:
+                    - /url: /faucet/area/mie/
+                - cell [ref=f260e1780]:
+                  - link "四日市市" [ref=f260e1781] [cursor=pointer]:
+                    - /url: /faucet/area/mie/yokkaichi/
+                  - text: 、
+                  - link "桑名市" [ref=f260e1782] [cursor=pointer]:
+                    - /url: /faucet/area/mie/kuwana/
+                  - text: ほか
+        - generic [ref=f260e1783]:
+          - generic [ref=f260e1784]:
+            - heading "関西エリア" [level=3] [ref=f260e1785]
+            - link "関西エリア詳細 >" [ref=f260e1786] [cursor=pointer]:
+              - /url: /faucet/area/#to_kansai
+          - table [ref=f260e1788]:
+            - rowgroup [ref=f260e1789]:
+              - row [ref=f260e1790]:
+                - rowheader [ref=f260e1791]:
+                  - link "大阪府" [ref=f260e1792] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/
+                - cell [ref=f260e1793]:
+                  - link "大阪市" [ref=f260e1794] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/osaka/
+                  - text: 、
+                  - link "堺市" [ref=f260e1795] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/sakai/
+                  - text: 、
+                  - link "東大阪市" [ref=f260e1796] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/higashiosaka/
+                  - text: 、
+                  - link "枚方市" [ref=f260e1797] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/hirakata/
+                  - text: 、
+                  - link "豊中市" [ref=f260e1798] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/toyonaka/
+                  - text: 、
+                  - link "高槻市" [ref=f260e1799] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/takatsuki/
+                  - text: 、
+                  - link "吹田市" [ref=f260e1800] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/suita/
+                  - text: 、
+                  - link "茨木市" [ref=f260e1801] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/ibaraki/
+                  - text: 、
+                  - link "八尾市" [ref=f260e1802] [cursor=pointer]:
+                    - /url: /faucet/area/osaka/yao/
+                  - text: ほか
+              - row [ref=f260e1803]:
+                - rowheader [ref=f260e1804]:
+                  - link "兵庫県" [ref=f260e1805] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/
+                - cell [ref=f260e1806]:
+                  - link "神戸市" [ref=f260e1807] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/kobe/
+                  - text: 、
+                  - link "西宮市" [ref=f260e1808] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/nishinomiya/
+                  - text: 、
+                  - link "尼崎市" [ref=f260e1809] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/amagasaki/
+                  - text: 、
+                  - link "明石市" [ref=f260e1810] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/akashi/
+                  - text: 、
+                  - link "宝塚市" [ref=f260e1811] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/takarazuka/
+                  - text: 、
+                  - link "伊丹市" [ref=f260e1812] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/itami/
+                  - text: 、
+                  - link "川西市" [ref=f260e1813] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/kawanishi/
+                  - text: 、
+                  - link "三田市" [ref=f260e1814] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/sanda/
+                  - text: 、
+                  - link "芦屋市" [ref=f260e1815] [cursor=pointer]:
+                    - /url: /faucet/area/hyogo/ashiya/
+                  - text: ほか
+              - row [ref=f260e1816]:
+                - rowheader [ref=f260e1817]:
+                  - link "京都府" [ref=f260e1818] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/
+                - cell [ref=f260e1819]:
+                  - link "京都市" [ref=f260e1820] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/kyoto/
+                  - text: 、
+                  - link "宇治市" [ref=f260e1821] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/uji/
+                  - text: 、
+                  - link "亀岡市" [ref=f260e1822] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/kameoka/
+                  - text: 、
+                  - link "城陽市" [ref=f260e1823] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/joyo/
+                  - text: 、
+                  - link "長岡京市" [ref=f260e1824] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/nagaokakyo/
+                  - text: 、
+                  - link "八幡市" [ref=f260e1825] [cursor=pointer]:
+                    - /url: /faucet/area/kyoto/yawata/
+                  - text: ほか
+              - row [ref=f260e1826]:
+                - rowheader [ref=f260e1827]:
+                  - link "奈良県" [ref=f260e1828] [cursor=pointer]:
+                    - /url: /faucet/area/nara/
+                - cell [ref=f260e1829]:
+                  - link "奈良市" [ref=f260e1830] [cursor=pointer]:
+                    - /url: /faucet/area/nara/nara/
+                  - text: 、
+                  - link "生駒市" [ref=f260e1831] [cursor=pointer]:
+                    - /url: /faucet/area/nara/ikoma/
+                  - text: 、
+                  - link "大和郡山市" [ref=f260e1832] [cursor=pointer]:
+                    - /url: /faucet/area/nara/yamatokoriyama/
+                  - text: 、
+                  - link "大和高田市" [ref=f260e1833] [cursor=pointer]:
+                    - /url: /faucet/area/nara/yamatotakada/
+                  - text: 、
+                  - link "香芝市" [ref=f260e1834] [cursor=pointer]:
+                    - /url: /faucet/area/nara/kashiba/
+                  - text: 、
+                  - link "橿原市" [ref=f260e1835] [cursor=pointer]:
+                    - /url: /faucet/area/nara/kashihara/
+                  - text: ほか
+              - row [ref=f260e1836]:
+                - rowheader [ref=f260e1837]:
+                  - link "滋賀県" [ref=f260e1838] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/
+                - cell [ref=f260e1839]:
+                  - link "大津市" [ref=f260e1840] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/otsu/
+                  - text: 、
+                  - link "草津市" [ref=f260e1841] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/kusatsu/
+                  - text: 、
+                  - link "守山市" [ref=f260e1842] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/moriyama/
+                  - text: 、
+                  - link "湖南市" [ref=f260e1843] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/konan/
+                  - text: 、
+                  - link "野洲市" [ref=f260e1844] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/yasu/
+                  - text: 、
+                  - link "栗東市" [ref=f260e1845] [cursor=pointer]:
+                    - /url: /faucet/area/shiga/ritto/
+                  - text: ほか
+              - row [ref=f260e1846]:
+                - rowheader "和歌山県" [ref=f260e1847]
+                - cell "和歌山市、 岩出市、 紀の川市" [ref=f260e1848]
+        - generic [ref=f260e1849]:
+          - generic [ref=f260e1850]:
+            - heading "中国エリア" [level=3] [ref=f260e1851]
+            - link "中国エリア詳細 >" [ref=f260e1852] [cursor=pointer]:
+              - /url: /faucet/area/#to_tyugoku
+          - table [ref=f260e1854]:
+            - rowgroup [ref=f260e1855]:
+              - row [ref=f260e1856]:
+                - rowheader [ref=f260e1857]:
+                  - link "広島県" [ref=f260e1858] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/
+                - cell [ref=f260e1859]:
+                  - link "広島市" [ref=f260e1860] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/hiroshima/
+                  - text: 、
+                  - link "呉市" [ref=f260e1861] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/kure/
+                  - text: 、
+                  - link "東広島市" [ref=f260e1862] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/higashihiroshima/
+                  - text: 、 安芸郡、
+                  - link "大竹市" [ref=f260e1863] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/otake/
+                  - text: 、 竹原市、
+                  - link "廿日市市" [ref=f260e1864] [cursor=pointer]:
+                    - /url: /faucet/area/hiroshima/hatsukaichi/
+                  - text: 、 福山市(一部地域) ほか
+              - row [ref=f260e1865]:
+                - rowheader "岡山県" [ref=f260e1866]
+                - cell "浅口市、 岡山市、 笠岡市、 倉敷市、 瀬戸内市、 備前市 ほか" [ref=f260e1867]
+              - row [ref=f260e1868]:
+                - rowheader [ref=f260e1869]:
+                  - link "山口県" [ref=f260e1870] [cursor=pointer]:
+                    - /url: /faucet/area/yamaguchi/
+                - cell [ref=f260e1871]:
+                  - link "宇部市" [ref=f260e1872] [cursor=pointer]:
+                    - /url: /faucet/area/yamaguchi/ube/
+                  - text: 、
+                  - link "下松市" [ref=f260e1873] [cursor=pointer]:
+                    - /url: /faucet/area/yamaguchi/kudamatsu/
+                  - text: 、 山陽小野田市、
+                  - link "下関市" [ref=f260e1874] [cursor=pointer]:
+                    - /url: /faucet/area/yamaguchi/shimonoseki/
+                  - text: (一部地域)、
+                  - link "山口市" [ref=f260e1875] [cursor=pointer]:
+                    - /url: /faucet/area/yamaguchi/yamaguchi/
+                  - text: ほか
+        - generic [ref=f260e1876]:
+          - generic [ref=f260e1877]:
+            - heading "福岡エリア" [level=3] [ref=f260e1878]
+            - link "福岡エリア詳細 >" [ref=f260e1879] [cursor=pointer]:
+              - /url: /faucet/area/#to_fukuoka
+          - table [ref=f260e1881]:
+            - rowgroup [ref=f260e1882]:
+              - row [ref=f260e1883]:
+                - rowheader [ref=f260e1884]:
+                  - link "福岡県" [ref=f260e1885] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/
+                - cell [ref=f260e1886]:
+                  - link "福岡市" [ref=f260e1887] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/fukuoka/
+                  - text: 、
+                  - link "朝倉市" [ref=f260e1888] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/asakura/
+                  - text: 、
+                  - link "飯塚市" [ref=f260e1889] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/iizuka/
+                  - text: 、
+                  - link "糸島市" [ref=f260e1890] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/itoshima/
+                  - text: 、
+                  - link "久留米市" [ref=f260e1891] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/kurume/
+                  - text: 、
+                  - link "太宰府市" [ref=f260e1892] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/dazaifu/
+                  - text: 、
+                  - link "筑紫野市" [ref=f260e1893] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/chikushino/
+                  - text: 、
+                  - link "宗像市" [ref=f260e1894] [cursor=pointer]:
+                    - /url: /faucet/area/fukuoka/munakata/
+                  - text: ほか
+              - row [ref=f260e1895]:
+                - rowheader "佐賀県" [ref=f260e1896]
+                - cell "鳥栖市、 三養基郡(基山町)" [ref=f260e1897]
+      - link [ref=f260e1900] [cursor=pointer]:
+        - /url: /faucet/area/
+        - img "蛇口の交換は全国7大都市圏でスピード対応！" [ref=f260e1901]
+        - paragraph [ref=f260e1903]: 蛇口交換工事エリアについて 詳しくはこちら >
+      - heading "蛇口交換の流れ" [level=3] [ref=f260e1904]
+      - generic [ref=f260e1907]:
+        - generic [ref=f260e1908]:
+          - heading "1 商品を選ぶ" [level=4] [ref=f260e1909]:
+            - generic [ref=f260e1910]: "1"
+            - text: 商品を選ぶ
+          - generic [ref=f260e1911]:
+            - figure [ref=f260e1912]:
+              - img "商品を選ぶ|蛇口、水栓 交換・リフォームの流れ【交換できるくん】" [ref=f260e1913]
+            - paragraph [ref=f260e1914]: 交換されたい蛇口をお選びください。当社にてお客様にあった商品をご案内することも可能です。
+        - generic [ref=f260e1915]:
+          - heading "2 見積りをご依頼" [level=4] [ref=f260e1916]:
+            - generic [ref=f260e1917]: "2"
+            - text: 見積りをご依頼
+          - generic [ref=f260e1918]:
+            - figure [ref=f260e1919]:
+              - img "見積りをご依頼|蛇口、水栓 交換・リフォームの流れ【交換できるくん】" [ref=f260e1920]
+            - paragraph [ref=f260e1921]: 蛇口が決まったら見積りをご依頼ください。現行の画像をお送りいただければ、設置適合確認も当社で行います。
+        - generic [ref=f260e1922]:
+          - heading "3 ご注文" [level=4] [ref=f260e1923]:
+            - generic [ref=f260e1924]: "3"
+            - text: ご注文
+          - generic [ref=f260e1925]:
+            - figure [ref=f260e1926]:
+              - img "ご注文|蛇口、水栓 交換・リフォームの流れ【交換できるくん】" [ref=f260e1927]
+            - paragraph [ref=f260e1928]: 見積りの内容にご納得いただいたらご注文手続きをお願いいたします。工事日程のご希望をお伺いします。
+        - generic [ref=f260e1929]:
+          - heading "4 工事お伺い" [level=4] [ref=f260e1930]:
+            - generic [ref=f260e1931]: "4"
+            - text: 工事お伺い
+          - generic [ref=f260e1932]:
+            - figure [ref=f260e1933]:
+              - img "交換工事|蛇口、水栓 交換・リフォームの流れ【交換できるくん】" [ref=f260e1934]
+            - paragraph [ref=f260e1935]: 工事担当が商品を持って、お客様のご自宅へお伺いし、交換工事一式（水道蛇口本体の取り付け及び、給水・排水管接続、止水栓・元栓の開閉作業等）を行います。
+      - generic [ref=f260e1936]:
+        - heading "「早くて」「高品質」「安心」な工事をご提供しております。" [level=4] [ref=f260e1937]
+        - paragraph [ref=f260e1938]: 水まわりの工事を請け負う工事会社は、同条例により各地域の水道局から「指定」を受けた者が施行することが水道法により定められており、当社では工事サービス地域である全国200以上の市町村にて水道局認可を取得しています。 ※指定給水装置工事事業者（東京都、大阪市、八王子市、札幌市、福岡市 他、全国200以上の都市で取得済み）
+      - generic [ref=f260e1939]:
+        - figure "東京都 第9275号" [ref=f260e1940]:
+          - img "東京都 第9275号｜水回りに関する水道局発行の許認可「指定給水装置工事事業者」の取得例" [ref=f260e1941]
+        - figure "横浜市 第1862号" [ref=f260e1943]:
+          - img "横浜市 第1862号｜水回りに関する水道局発行の許認可「指定給水装置工事事業者」の取得例" [ref=f260e1944]
+        - figure "名古屋市 第1356号" [ref=f260e1946]:
+          - img "名古屋市 第1356号｜水回りに関する水道局発行の許認可「指定給水装置工事事業者」の取得例" [ref=f260e1947]
+        - figure "大阪市 第7524号" [ref=f260e1949]:
+          - img "大阪市 第7524号｜水回りに関する水道局発行の許認可「指定給水装置工事事業者」の取得例" [ref=f260e1950]
+        - figure "札幌市 第3-822号" [ref=f260e1952]:
+          - img "札幌市 第3-822号｜水回りに関する水道局発行の許認可「指定給水装置工事事業者」の取得例" [ref=f260e1953]
+      - generic [ref=f260e1956]:
+        - link [ref=f260e1957] [cursor=pointer]:
+          - /url: /faucet/area/
+          - generic [ref=f260e1958]:
+            - paragraph [ref=f260e1959]: 工事対応エリアを確認 ▲
+            - paragraph [ref=f260e1960]: 札幌・仙台・関東・東海・関西中国・福岡の7都市圏に対応！
+        - generic [ref=f260e1961]:
+          - link [ref=f260e1962] [cursor=pointer]:
+            - /url: /guar/
+            - img "工事保証について" [ref=f260e1963]
+          - link [ref=f260e1964] [cursor=pointer]:
+            - /url: /site_guide/use/pay.html
+            - img "お支払いについて" [ref=f260e1965]
+      - link [ref=f260e1967] [cursor=pointer]:
+        - /url: /construction/campaign/omatome.html
+        - img "蛇口交換工事の費用が安くなります｜おまとめ工事割引のご案内" [ref=f260e1968]
+      - link [ref=f260e1970] [cursor=pointer]:
+        - /url: /information/release20241129.html
+        - img "交換できるくんがTBS系・がっちりマンデー！！で紹介されました" [ref=f260e1971]
+      - link [ref=f260e1973] [cursor=pointer]:
+        - /url: /system/estimateForm/form/faucet_others/
+        - img "お手軽！早い！蛇口・水栓専用 無料見積りフォームはこちら" [ref=f260e1974]
+      - heading "蛇口・水栓 人気ページ" [level=3] [ref=f260e1975]
+      - generic [ref=f260e1977]:
+        - link [ref=f260e1978] [cursor=pointer]:
+          - /url: /faucet/
+          - img "蛇口・水栓 トップページ｜交換できるくん" [ref=f260e1980]
+          - paragraph [ref=f260e1981]: 蛇口・水栓 トップページ TOTOやリクシルの水道蛇口・水栓が交換できるくん価格でお安く交換できます。
+        - link [ref=f260e1982] [cursor=pointer]:
+          - /url: /faucet/maching.html
+          - img "トイレまるごと交換のススメ｜交換できるくん" [ref=f260e1984]
+          - paragraph [ref=f260e1985]: 選び方・適合タイプ確認 交換できる水道蛇口のタイプを詳しく解説いたします。
+        - link [ref=f260e1986] [cursor=pointer]:
+          - /url: /faucet/ranking/
+          - img "売れ筋・人気ランキング｜交換できるくん" [ref=f260e1988]
+          - paragraph [ref=f260e1989]: 売れ筋・人気ランキング 売れている人気の機種は？キッチンや浴室など場所ごとにご紹介します。
+        - link [ref=f260e1990] [cursor=pointer]:
+          - /url: /faucet/search/
+          - img "ご希望の条件から選ぶ｜交換できるくん" [ref=f260e1993]
+          - paragraph [ref=f260e1994]: ご希望の条件から選ぶ メーカー、種類、機能、価格などからぴったりの蛇口をお探しいただけます！
+        - link [ref=f260e1995] [cursor=pointer]:
+          - /url: /faucet/price/
+          - img "蛇口交換の費用相場｜交換できるくん" [ref=f260e1997]
+          - paragraph [ref=f260e1998]: 蛇口交換の費用相場 蛇口の交換は工事費込み総額でいくらかかる？費用相場をご紹介。
+        - link [ref=f260e1999] [cursor=pointer]:
+          - /url: /faucet/toto/
+          - img "TOTO 蛇口・水栓｜交換できるくん" [ref=f260e2001]
+          - paragraph [ref=f260e2002]: TOTO 蛇口・水栓 TOTOのキッチン蛇口、浴室蛇口、洗面蛇口をご紹介する商品一覧ページです。
+    - generic [ref=f260e2004]:
+      - link [ref=f260e2006] [cursor=pointer]:
+        - /url: /faucet/ranking/
+        - img "蛇口・水栓人気・売れ筋ランキング" [ref=f260e2007]
+      - list [ref=f260e2008]:
+        - generic [ref=f260e2009]: 蛇口・水栓
+        - listitem [ref=f260e2011]:
+          - generic [ref=f260e2012]: 蛇口・水栓TOP
+        - listitem [ref=f260e2013]:
+          - link "サイトマップ" [ref=f260e2014] [cursor=pointer]:
+            - /url: /faucet/sitemap/
+      - list [ref=f260e2015]:
+        - generic [ref=f260e2016]: 蛇口・水栓の選び方
+        - listitem [ref=f260e2017]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f260e2018] [cursor=pointer]:
+            - /url: /faucet/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f260e2019]:
+          - link "人気ランキングから選ぶ" [ref=f260e2020] [cursor=pointer]:
+            - /url: /faucet/ranking/
+        - listitem [ref=f260e2021]:
+          - link "価格・費用相場から選ぶ" [ref=f260e2022] [cursor=pointer]:
+            - /url: /faucet/price/
+        - listitem [ref=f260e2023]:
+          - link "蛇口の種類を調べる" [ref=f260e2024] [cursor=pointer]:
+            - /url: /faucet/maching.html
+      - list [ref=f260e2025]:
+        - generic [ref=f260e2026]: 交換工事について
+        - listitem [ref=f260e2028]:
+          - link "蛇口の交換工事費用" [ref=f260e2029] [cursor=pointer]:
+            - /url: /faucet/construction/
+        - listitem [ref=f260e2030]:
+          - link "工事対応エリア" [ref=f260e2031] [cursor=pointer]:
+            - /url: /faucet/area/
+        - listitem [ref=f260e2032]:
+          - link "無料10年保証" [ref=f260e2033] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f260e2034]:
+          - link "よくあるご質問" [ref=f260e2035] [cursor=pointer]:
+            - /url: /faucet/qa/
+        - listitem [ref=f260e2036]:
+          - link "管理会社様向けサービス" [ref=f260e2037] [cursor=pointer]:
+            - /url: /site_guide/manage/
+      - list [ref=f260e2038]:
+        - generic [ref=f260e2039]: 蛇口メーカーから探す
+        - listitem [ref=f260e2041]:
+          - link "TOTOロゴ TOTO" [ref=f260e2042] [cursor=pointer]:
+            - /url: /faucet/toto/
+            - img "TOTOロゴ" [ref=f260e2043]
+            - generic [ref=f260e2044]: TOTO
+        - listitem [ref=f260e2045]:
+          - link "LIXILロゴ リクシル" [ref=f260e2046] [cursor=pointer]:
+            - /url: /faucet/lixil/
+            - img "LIXILロゴ" [ref=f260e2047]
+            - generic [ref=f260e2048]: リクシル
+        - listitem [ref=f260e2049]:
+          - link "KVKロゴ KVK" [ref=f260e2050] [cursor=pointer]:
+            - /url: /faucet/kvk/
+            - img "KVKロゴ" [ref=f260e2051]
+            - generic [ref=f260e2052]: KVK
+        - listitem [ref=f260e2053]:
+          - link "三栄ロゴ サンエイ" [ref=f260e2054] [cursor=pointer]:
+            - /url: /faucet/sanei/
+            - img "三栄ロゴ" [ref=f260e2055]
+            - generic [ref=f260e2056]: サンエイ
+        - listitem [ref=f260e2057]:
+          - link "三菱ケミカルクリンスイ 三菱ケミカルクリンスイ" [ref=f260e2058] [cursor=pointer]:
+            - /url: /water_filter/cleansui_index.html
+            - img "三菱ケミカルクリンスイ" [ref=f260e2059]
+            - generic [ref=f260e2060]: 三菱ケミカルクリンスイ
+        - listitem [ref=f260e2061]:
+          - link "キッツマイクロフィルター キッツマイクロフィルター" [ref=f260e2062] [cursor=pointer]:
+            - /url: /water_filter/kitz_microfilter_index.html
+            - img "キッツマイクロフィルター" [ref=f260e2063]
+            - generic [ref=f260e2064]: キッツマイクロフィルター
+      - list [ref=f260e2065]:
+        - generic [ref=f260e2066]: キッチン水栓
+        - listitem [ref=f260e2068]:
+          - link "キッチン水栓TOP" [ref=f260e2069] [cursor=pointer]:
+            - /url: /faucet/kitchen/
+        - listitem [ref=f260e2070]:
+          - link "浄水器TOP" [ref=f260e2071] [cursor=pointer]:
+            - /url: /water_filter/
+        - listitem [ref=f260e2072]: ワンホールタイプ
+        - listitem [ref=f260e2073]:
+          - link "一般水栓" [ref=f260e2074] [cursor=pointer]:
+            - /url: /faucet/kitchen/onehole/general/
+        - listitem [ref=f260e2075]:
+          - link "タッチレス水栓" [ref=f260e2076] [cursor=pointer]:
+            - /url: /faucet/kitchen/touchless/
+        - listitem [ref=f260e2077]:
+          - link "食洗機用分岐水栓付き" [ref=f260e2078] [cursor=pointer]:
+            - /url: /faucet/kitchen/onehole/bunki/
+        - listitem [ref=f260e2079]:
+          - link "浄水器付き水栓" [ref=f260e2080] [cursor=pointer]:
+            - /url: /faucet/kitchen/onehole/purifier/
+        - listitem [ref=f260e2081]: ツーホールタイプ
+        - listitem [ref=f260e2082]:
+          - link "一般水栓" [ref=f260e2083] [cursor=pointer]:
+            - /url: /faucet/kitchen/twohole/general/
+        - listitem [ref=f260e2084]:
+          - link "浄水器付き水栓" [ref=f260e2085] [cursor=pointer]:
+            - /url: /faucet/kitchen/twohole/purifier/
+        - listitem [ref=f260e2086]: 壁付きタイプ
+        - listitem [ref=f260e2087]:
+          - link "一般水栓" [ref=f260e2088] [cursor=pointer]:
+            - /url: /faucet/kitchen/wall_mount/general/
+        - listitem [ref=f260e2089]:
+          - link "浄水器付き水栓" [ref=f260e2090] [cursor=pointer]:
+            - /url: /faucet/kitchen/wall_mount/purifier/
+      - list [ref=f260e2091]:
+        - generic [ref=f260e2092]: 浴室水栓
+        - listitem [ref=f260e2094]:
+          - link "浴室水栓TOP" [ref=f260e2095] [cursor=pointer]:
+            - /url: /faucet/bathroom/
+        - listitem [ref=f260e2096]:
+          - link "壁付き水栓" [ref=f260e2097] [cursor=pointer]:
+            - /url: /faucet/bathroom/wall_mount/
+        - listitem [ref=f260e2098]:
+          - link "台付き水栓" [ref=f260e2099] [cursor=pointer]:
+            - /url: /faucet/bathroom/deck_mount/
+        - listitem [ref=f260e2100]:
+          - link "シャワーヘッド特集" [ref=f260e2101] [cursor=pointer]:
+            - /url: /faucet/bathroom/shower_head/
+        - listitem [ref=f260e2102]:
+          - link "シャワーヘッド ミラブルzero・ミラブルplus" [ref=f260e2103] [cursor=pointer]:
+            - /url: /faucet/science/mirableplus/
+            - text: シャワーヘッドミラブルzero・ミラブルplus
+      - list [ref=f260e2104]:
+        - generic [ref=f260e2105]: 洗面水栓
+        - listitem [ref=f260e2107]:
+          - link "洗面水栓TOP" [ref=f260e2108] [cursor=pointer]:
+            - /url: /faucet/washstand/
+        - listitem [ref=f260e2109]:
+          - link "ワンホール水栓" [ref=f260e2110] [cursor=pointer]:
+            - /url: /faucet/washstand/onehole/
+        - listitem [ref=f260e2111]:
+          - link "ツーホール水栓" [ref=f260e2112] [cursor=pointer]:
+            - /url: /faucet/washstand/twohole/
+        - listitem [ref=f260e2113]:
+          - link "コンビネーション水栓" [ref=f260e2114] [cursor=pointer]:
+            - /url: /faucet/washstand/combination/
+      - list [ref=f260e2115]:
+        - generic [ref=f260e2116]: その他水栓・関連品
+        - listitem [ref=f260e2118]:
+          - link "洗濯機用水栓" [ref=f260e2119] [cursor=pointer]:
+            - /url: /faucet/washing_machine/
+        - listitem [ref=f260e2120]:
+          - link "単水栓" [ref=f260e2121] [cursor=pointer]:
+            - /url: /faucet/single/
+        - listitem [ref=f260e2122]:
+          - link "分岐水栓" [ref=f260e2123] [cursor=pointer]:
+            - /url: /faucet/kitchen/bunki/
+        - listitem [ref=f260e2124]:
+          - link "ディスポーザー" [ref=f260e2125] [cursor=pointer]:
+            - /url: /disposer/
+      - list [ref=f260e2126]:
+        - generic [ref=f260e2127]: お客様の声・施工事例
+        - listitem [ref=f260e2128]:
+          - link "お客様の声" [ref=f260e2129] [cursor=pointer]:
+            - /url: /voice/?s=%E8%9B%87%E5%8F%A3&x=0&y=0
+        - listitem [ref=f260e2130]:
+          - link "施工事例" [ref=f260e2131] [cursor=pointer]:
+            - /url: /faucet/blog/
+        - listitem [ref=f260e2132]:
+          - link "スタッフブログ" [ref=f260e2133] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/faucet
+        - listitem [ref=f260e2134]:
+          - link "商品レビュー" [ref=f260e2135] [cursor=pointer]:
+            - /url: /review/?category=faucet
+      - list [ref=f260e2136]:
+        - generic [ref=f260e2137]: DIY・自分で交換
+        - listitem [ref=f260e2138]:
+          - link "キッチン蛇口を自分で交換" [ref=f260e2139] [cursor=pointer]:
+            - /url: /faucet/kitchen/diy/
+        - listitem [ref=f260e2140]:
+          - link "キッチン蛇口交換工具" [ref=f260e2141] [cursor=pointer]:
+            - /url: /faucet/kitchen/diy/tool/
+        - listitem [ref=f260e2142]:
+          - link "お風呂の蛇口を自分で交換" [ref=f260e2143] [cursor=pointer]:
+            - /url: /faucet/bathroom/diy/
+        - listitem [ref=f260e2144]:
+          - link "お風呂蛇口交換工具" [ref=f260e2145] [cursor=pointer]:
+            - /url: /faucet/bathroom/diy/tool/
+        - listitem [ref=f260e2146]:
+          - link "洗面台蛇口を自分で交換" [ref=f260e2147] [cursor=pointer]:
+            - /url: /faucet/washstand/diy/
+        - listitem [ref=f260e2148]:
+          - link "洗面台蛇口交換工具" [ref=f260e2149] [cursor=pointer]:
+            - /url: /faucet/washstand/diy/tool/
+        - listitem [ref=f260e2150]:
+          - link "洗濯機蛇口を自分で交換" [ref=f260e2151] [cursor=pointer]:
+            - /url: /faucet/washing_machine/diy/
+        - listitem [ref=f260e2152]:
+          - link "分岐水栓を自分で交換" [ref=f260e2153] [cursor=pointer]:
+            - /url: /branch/diy/index2.html
+      - list [ref=f260e2154]:
+        - generic [ref=f260e2155]: 蛇口をもっと知る
+        - listitem [ref=f260e2156]:
+          - link "修理と交換どちらがお得？" [ref=f260e2157] [cursor=pointer]:
+            - /url: /faucet/contents/
+        - listitem [ref=f260e2158]:
+          - link "蛇口交換業者の選び方" [ref=f260e2159] [cursor=pointer]:
+            - /url: /faucet/place/
+        - listitem [ref=f260e2160]:
+          - link "交換できない水栓とは？" [ref=f260e2161] [cursor=pointer]:
+            - /url: /faucet/contents/exclusive/
+        - listitem [ref=f260e2162]:
+          - link "賃貸住宅の蛇口交換" [ref=f260e2163] [cursor=pointer]:
+            - /url: /faucet/contents/rental/
+        - listitem [ref=f260e2164]:
+          - link "おすすめ節水蛇口と節約術" [ref=f260e2165] [cursor=pointer]:
+            - /url: /faucet/water_saving/
+        - listitem [ref=f260e2166]:
+          - link "蛇口の仕組み" [ref=f260e2167] [cursor=pointer]:
+            - /url: /faucet/structure/
+        - listitem [ref=f260e2168]:
+          - link "蛇口の水漏れ" [ref=f260e2169] [cursor=pointer]:
+            - /url: /faucet/contents/water_leak/
+  - generic [ref=f260e2171]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f260e2173] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f260e2174]
+      - generic [ref=f260e2175]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f260e2177] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f260e2178]
+      - generic [ref=f260e2179]: 天井エアコン
+    - link "トイレ トイレ" [ref=f260e2181] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f260e2182]
+      - generic [ref=f260e2183]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f260e2185] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f260e2186]
+      - generic [ref=f260e2187]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f260e2189] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f260e2190]
+      - generic [ref=f260e2191]: 給湯器
+    - link "エコキュート エコキュート" [ref=f260e2193] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f260e2194]
+      - generic [ref=f260e2195]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f260e2197] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f260e2198]
+      - generic [ref=f260e2199]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f260e2201] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f260e2202]
+      - generic [ref=f260e2203]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f260e2205] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f260e2206]
+      - generic [ref=f260e2207]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f260e2209] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f260e2210]
+      - generic [ref=f260e2211]: レンジフード
+    - link "蛇口 蛇口" [ref=f260e2213] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f260e2214]
+      - generic [ref=f260e2215]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f260e2217] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f260e2218]
+      - generic [ref=f260e2219]: 浴室乾燥機
+    - generic [ref=f260e2220]: その他>>
+  - navigation [ref=f260e2222]:
+    - generic [ref=f260e2223]:
+      - generic [ref=f260e2224]:
+        - generic [ref=f260e2225]: 蛇口
+        - generic [ref=f260e2232]: 総合メニュー
+      - generic [ref=f260e2239]:
+        - link "人気ランキング" [ref=f260e2240] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f260e2242] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f260e2244] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f260e2246] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f260e2248] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f260e2250] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f260e2252]:
+    - generic [ref=f260e2253]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f260e2256]
+    - generic [ref=f260e2257]:
+      - generic [ref=f260e2258]:
+        - term [ref=f260e2259]:
+          - img "サービス案内" [ref=f260e2260]
+          - text: サービス案内
+        - definition [ref=f260e2261]:
+          - list [ref=f260e2262]:
+            - listitem [ref=f260e2263]:
+              - link "ご利用の流れ" [ref=f260e2264] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f260e2265]:
+              - link "無料10年保証" [ref=f260e2266] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f260e2267]:
+              - link "工事対応エリア" [ref=f260e2268] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f260e2269]:
+              - link "工事価格表" [ref=f260e2270] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f260e2271]:
+              - link "おまとめ工事割引" [ref=f260e2272] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f260e2273]:
+              - link "お支払い方法" [ref=f260e2274] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f260e2275]:
+              - link "よくあるご質問" [ref=f260e2276] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f260e2277]:
+              - link "営業日カレンダー" [ref=f260e2278] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f260e2279]:
+        - term [ref=f260e2280]:
+          - img "情報コンテンツ" [ref=f260e2281]
+          - text: 情報コンテンツ
+        - definition [ref=f260e2282]:
+          - list [ref=f260e2283]:
+            - listitem [ref=f260e2284]:
+              - link "最新情報・お知らせ" [ref=f260e2285] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f260e2286]:
+              - link "売れ筋・人気ランキング" [ref=f260e2287] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f260e2288]:
+              - link "お客様の声" [ref=f260e2289] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f260e2290]:
+              - link "施工事例" [ref=f260e2291] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f260e2292]:
+              - link "商品レビュー" [ref=f260e2293] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f260e2294]:
+              - link "かんたん検索一覧" [ref=f260e2295] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f260e2296]:
+              - link "閲覧した商品の履歴" [ref=f260e2297] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f260e2298]:
+              - link "動画コンテンツ" [ref=f260e2299] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f260e2300]:
+        - term [ref=f260e2301]:
+          - img "企業情報" [ref=f260e2302]
+          - text: 企業情報
+        - definition [ref=f260e2303]:
+          - listitem [ref=f260e2304]:
+            - link "会社概要" [ref=f260e2305] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f260e2306]:
+            - link "選ばれる理由" [ref=f260e2307] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f260e2308]:
+            - link "ショールーム（東京・大阪）" [ref=f260e2309] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f260e2310]:
+            - link "スタッフ紹介" [ref=f260e2311] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f260e2312]:
+            - link "スタッフブログ" [ref=f260e2313] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f260e2314]:
+            - link "リフォームからチェンジへ" [ref=f260e2315] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f260e2316]:
+            - link "活動レポート" [ref=f260e2317] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f260e2318]:
+          - link [ref=f260e2320] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f260e2324] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f260e2328] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f260e2332] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f260e2336] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f260e2340] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f260e2343]:
+        - link [ref=f260e2344] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f260e2348]: お問い合わせ一覧
+        - link [ref=f260e2349] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f260e2353]: マイページ・会員登録
+        - link [ref=f260e2354] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f260e2355]
+        - paragraph [ref=f260e2356]: 個人情報保護の認証取得
+    - generic [ref=f260e2357]:
+      - paragraph [ref=f260e2358]: 企業サイト
+      - generic [ref=f260e2359]:
+        - list [ref=f260e2360]:
+          - listitem [ref=f260e2361]:
+            - link "コーポレートサイト" [ref=f260e2362] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f260e2363]
+          - listitem [ref=f260e2364]:
+            - link "投資家向けサイト" [ref=f260e2365] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f260e2366]
+          - listitem [ref=f260e2367]:
+            - link "採用情報サイト" [ref=f260e2368] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f260e2369]
+          - listitem [ref=f260e2370]:
+            - link "交換技能アカデミー" [ref=f260e2371] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f260e2372]
+        - list [ref=f260e2373]:
+          - listitem [ref=f260e2374]:
+            - link [ref=f260e2375] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f260e2376]:
+                - paragraph [ref=f260e2377]: 東証グロースに上場しています
+                - paragraph [ref=f260e2378]: 証券コード 7695
+              - figure [ref=f260e2379]:
+                - img "東証(JPX)ロゴ" [ref=f260e2380]
+    - generic [ref=f260e2381]:
+      - list [ref=f260e2382]:
+        - listitem [ref=f260e2383]:
+          - link "個人情報の取扱い" [ref=f260e2384] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f260e2385]:
+          - link "特定商取引法に基づく表記" [ref=f260e2386] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f260e2387]:
+          - link "サイト利用規約" [ref=f260e2388] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f260e2389]:
+          - link "コンテンツ著作権" [ref=f260e2390] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f260e2391]:
+          - link "施工スタッフ募集" [ref=f260e2392] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f260e2393]
+      - list [ref=f260e2394]:
+        - listitem [ref=f260e2395]: © Koukandekirukun, Inc. 2001-2026

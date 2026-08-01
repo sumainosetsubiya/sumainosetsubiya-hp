@@ -1,0 +1,1219 @@
+- generic [active] [ref=f315e1]:
+  - link [ref=f315e1250] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f315e2]:
+    - heading "浴室乾燥機の交換・後付けが最大67%OFF｜工事費込み特価" [level=1] [ref=f315e5]
+    - generic [ref=f315e8]:
+      - generic [ref=f315e9]:
+        - link [ref=f315e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f315e12]
+        - link [ref=f315e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f315e14]
+        - link [ref=f315e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f315e16]
+      - generic [ref=f315e17]:
+        - generic "検索" [ref=f315e21]:
+          - combobox [ref=f315e22]:
+            - generic [ref=f315e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f315e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f315e26] [cursor=pointer]:
+            - generic [ref=f315e28]: 検索
+        - generic [ref=f315e29]:
+          - link [ref=f315e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f315e32]
+            - paragraph [ref=f315e33]: 閲覧履歴
+          - link [ref=f315e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f315e36]
+            - paragraph [ref=f315e37]: ログイン
+        - link [ref=f315e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f315e40]
+          - paragraph [ref=f315e41]: お問合せ
+        - generic [ref=f315e42]:
+          - link [ref=f315e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f315e45]
+            - paragraph [ref=f315e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - list [ref=f315e51]:
+    - listitem [ref=f315e52]:
+      - link "高須産業 10年保証 BF-231SJA｜高須産業(TSK)天井埋込み型浴室換気暖房乾燥機 [1室換気・100V]が交換工事費用込み価格で安い 本体 57% OFF 浴室換気乾燥暖房機 BF-231SJA [1室換気・100V] 商品+交換工事+10年保証 78,344円(税込)" [ref=f315e53] [cursor=pointer]:
+        - /url: /bath-dry/choice/brand/takasu/BF-231SJA/
+        - heading [level=3] [ref=f315e54]:
+          - img "高須産業" [ref=f315e57]
+          - img "10年保証" [ref=f315e59]
+        - generic [ref=f315e60]:
+          - generic [ref=f315e61]:
+            - img "BF-231SJA｜高須産業(TSK)天井埋込み型浴室換気暖房乾燥機 [1室換気・100V]が交換工事費用込み価格で安い" [ref=f315e63]
+            - generic [ref=f315e64]:
+              - text: 本体
+              - generic [ref=f315e65]: 57%
+              - text: "OFF"
+          - generic [ref=f315e66]: 浴室換気乾燥暖房機
+          - generic [ref=f315e67]: BF-231SJA[1室換気・100V]
+          - generic [ref=f315e69]:
+            - generic [ref=f315e70]: 商品+交換工事+10年保証
+            - generic [ref=f315e71]: 78,344円(税込)
+    - listitem [ref=f315e72]:
+      - img "浴室換気第1位" [ref=f315e74]
+      - link "マックス 10年保証 BS-161H-2｜マックス(MAX) 天井埋込み型浴室換気暖房乾燥機 [1室換気・100V]が交換工事費用込み価格で安い 特価 ドライファン BS-161H-2 [1室換気・100V] 商品+交換工事+10年保証 85,800円(税込)" [ref=f315e75] [cursor=pointer]:
+        - /url: /bath-dry/choice/brand/max/BS-161H-2/
+        - heading [level=3] [ref=f315e76]:
+          - img "マックス" [ref=f315e79]
+          - img "10年保証" [ref=f315e81]
+        - generic [ref=f315e82]:
+          - generic [ref=f315e83]:
+            - img "BS-161H-2｜マックス(MAX) 天井埋込み型浴室換気暖房乾燥機 [1室換気・100V]が交換工事費用込み価格で安い" [ref=f315e85]
+            - generic [ref=f315e86]: 特価
+          - generic [ref=f315e88]: ドライファン
+          - generic [ref=f315e89]: BS-161H-2[1室換気・100V]
+          - generic [ref=f315e91]:
+            - generic [ref=f315e92]: 商品+交換工事+10年保証
+            - generic [ref=f315e93]: 85,800円(税込)
+    - listitem [ref=f315e94]:
+      - link "三菱電機 10年保証 V-143BZL5+P-143SW5｜三菱(MITSUBISHI)天井埋込み型浴室換気暖房乾燥機 [3室換気・100V]が交換工事費用込み価格で安い 本体 67% OFF バスカラット24 V-143BZL5+P-143SW5 [3室換気・100V] 商品+交換工事+10年保証 100,507円(税込)" [ref=f315e95] [cursor=pointer]:
+        - /url: /bath-dry/choice/brand/mitsubishi/V-143BZL5_P-143SW5/
+        - heading [level=3] [ref=f315e96]:
+          - img "三菱電機" [ref=f315e99]
+          - img "10年保証" [ref=f315e101]
+        - generic [ref=f315e102]:
+          - generic [ref=f315e103]:
+            - img "V-143BZL5+P-143SW5｜三菱(MITSUBISHI)天井埋込み型浴室換気暖房乾燥機 [3室換気・100V]が交換工事費用込み価格で安い" [ref=f315e105]
+            - generic [ref=f315e106]:
+              - text: 本体
+              - generic [ref=f315e107]: 67%
+              - text: "OFF"
+          - generic [ref=f315e108]: バスカラット24
+          - generic [ref=f315e109]: V-143BZL5+P-143SW5[3室換気・100V]
+          - generic [ref=f315e111]:
+            - generic [ref=f315e112]: 商品+交換工事+10年保証
+            - generic [ref=f315e113]: 100,507円(税込)
+  - generic [ref=f315e116]:
+    - main [ref=f315e117]:
+      - text: ">"
+      - list [ref=f315e119]:
+        - listitem [ref=f315e120]:
+          - img "旗" [ref=f315e121]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f315e122] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f315e123]:
+          - img "旗" [ref=f315e124]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f315e125] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f315e127]:
+        - generic [ref=f315e128]:
+          - paragraph [ref=f315e130]: 浴室乾燥機
+          - figure [ref=f315e131]:
+            - img "後継機種を検索" [ref=f315e132]
+        - paragraph [ref=f315e133]: 現在、ご使用中の型番をご入力ください。
+        - generic [ref=f315e134]: 型番の記載場所
+        - generic [ref=f315e137]:
+          - textbox "例）TYB3121GAR" [ref=f315e139]
+          - button "検索" [ref=f315e140] [cursor=pointer]
+        - figure [ref=f315e141]:
+          - img "浴室乾燥機（浴室暖房機）の型番が記載されてる場所" [ref=f315e142]
+      - heading "浴室乾燥機（浴室暖房機）を選ぶ" [level=2] [ref=f315e143]
+      - generic [ref=f315e144]:
+        - generic [ref=f315e145]:
+          - link "浴室乾燥機の選び方 浴室乾燥機の選び方" [ref=f315e146] [cursor=pointer]:
+            - /url: /bath-dry/choice/
+            - img "浴室乾燥機の選び方" [ref=f315e147]
+            - generic [ref=f315e148]: 浴室乾燥機の選び方
+          - link "人気ランキングで選ぶ 人気ランキングで選ぶ" [ref=f315e149] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+            - img "人気ランキングで選ぶ" [ref=f315e150]
+            - generic [ref=f315e151]: 人気ランキングで選ぶ
+        - generic [ref=f315e152]:
+          - link "メーカー比較で選ぶ｜マックス、パナソニック、三菱、TOTO、高須産業 メーカー比較で選ぶ" [ref=f315e153] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+            - img "メーカー比較で選ぶ｜マックス、パナソニック、三菱、TOTO、高須産業" [ref=f315e154]
+            - generic [ref=f315e155]: メーカー比較で選ぶ
+          - link [ref=f315e156] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - img "設置タイプで選ぶ" [ref=f315e157]
+            - generic [ref=f315e158]: 設置タイプで選ぶ(電気式・ガス式・壁掛)
+      - heading "2026年6月度 浴室乾燥機 人気売れ筋ランキング！" [level=3] [ref=f315e159]
+      - list [ref=f315e160]:
+        - listitem [ref=f315e161]:
+          - generic [ref=f315e162]:
+            - img "浴室乾燥機売れ筋ランキング 電気式1室1位" [ref=f315e164]
+            - generic [ref=f315e165]:
+              - img "マックスロゴ" [ref=f315e166]
+              - paragraph [ref=f315e167]: 天井埋込み型 浴室暖房乾燥機
+            - generic [ref=f315e168]: 電気式
+          - generic [ref=f315e170]:
+            - generic [ref=f315e171]:
+              - link [ref=f315e173] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-161H-2/
+                - img "マックスのプラズマクラスター搭載モデル！ マックス BS-161H-2" [ref=f315e174]
+              - generic [ref=f315e175]: 充実機能にお求めやすい価格でコスパ抜群！他商品に圧倒的な差をつけた売れ筋商品です。衣類乾燥はシーンにあわせて3モードから選べます！
+            - generic:
+              - generic [ref=f315e176]: 交換できるくん価格
+              - text:     
+            - generic [ref=f315e177]: BS-161H-2
+            - generic [ref=f315e178]:
+              - paragraph [ref=f315e179]: 平均レビュー 4.6
+              - generic [ref=f315e182] [cursor=pointer]:
+                - generic [ref=f315e183]: 
+                - generic [ref=f315e184]: 
+                - generic [ref=f315e185]: 
+                - generic [ref=f315e186]: 
+                - generic [ref=f315e187]: 
+                - generic [ref=f315e188]: 470件
+          - generic [ref=f315e189]:
+            - generic [ref=f315e191]:
+              - paragraph [ref=f315e192]: メーカー希望小売価格 オープン価格
+              - paragraph [ref=f315e193]: 商品特価 53,900円(税込)
+            - generic [ref=f315e194]: 工事費用込み価格(税込) 85,800円
+            - link "商品詳細 はこちら" [ref=f315e196] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-161H-2/
+              - text: 商品詳細はこちら
+        - listitem [ref=f315e197]:
+          - generic [ref=f315e198]:
+            - img "浴室乾燥機売れ筋ランキング 電気式2室1位" [ref=f315e200]
+            - generic [ref=f315e201]:
+              - img "マックスロゴ" [ref=f315e202]
+              - paragraph [ref=f315e203]: 天井埋込み型 浴室暖房乾燥機
+            - generic [ref=f315e204]: 電気式
+          - generic [ref=f315e206]:
+            - generic [ref=f315e207]:
+              - link [ref=f315e209] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-132HM-2/
+                - img "2室換気タイプもマックスが1位！商品選びに迷ったらコレ！ マックス BS-132HM-2" [ref=f315e210]
+              - generic [ref=f315e211]: 1室換気タイプ同様に人気No.1はマックス製品。シンプルで見やすく操作もしやすいリモコンは時刻表示もできて便利です。
+            - generic:
+              - generic [ref=f315e212]: 本体 64%OFF
+              - text:     
+            - generic [ref=f315e213]: BS-132HM-2
+            - generic [ref=f315e214]:
+              - paragraph [ref=f315e215]: 平均レビュー 4.6
+              - generic [ref=f315e218] [cursor=pointer]:
+                - generic [ref=f315e219]: 
+                - generic [ref=f315e220]: 
+                - generic [ref=f315e221]: 
+                - generic [ref=f315e222]: 
+                - generic [ref=f315e223]: 
+                - generic [ref=f315e224]: 22件
+          - generic [ref=f315e225]:
+            - generic [ref=f315e227]:
+              - paragraph [ref=f315e228]: メーカー希望小売価格 170,500円(税込)
+              - paragraph [ref=f315e229]: 商品特価 61,380円(税込)
+            - generic [ref=f315e230]: 工事費用込み価格(税込) 93,280円
+            - link "商品詳細 はこちら" [ref=f315e232] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-132HM-2/
+              - text: 商品詳細はこちら
+      - list [ref=f315e233]:
+        - listitem [ref=f315e234]:
+          - generic [ref=f315e235]:
+            - img "浴室乾燥機売れ筋ランキング 電気式3室1位" [ref=f315e237]
+            - generic [ref=f315e238]:
+              - img "マックスロゴ" [ref=f315e239]
+              - paragraph [ref=f315e240]: 天井埋込み型 浴室暖房乾燥機
+            - generic [ref=f315e241]: 電気式
+          - generic [ref=f315e243]:
+            - generic [ref=f315e244]:
+              - link [ref=f315e246] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/max/BS-133HM-2/
+                - img "マンションに多い3室換気タイプもマックスがNo.1！ マックス BS-133HM-2" [ref=f315e247]
+              - generic [ref=f315e248]: マンションに多い3室換気タイプも人気No.1はマックス。衣類乾燥は標準と風乾燥の2モード。リモコンは、タイマーと時刻表示も可能です。
+            - generic:
+              - generic [ref=f315e249]: 本体 66%OFF
+              - text:     
+            - generic [ref=f315e250]: BS-133HM-2
+            - generic [ref=f315e251]:
+              - paragraph [ref=f315e252]: 平均レビュー 4.7
+              - generic [ref=f315e255] [cursor=pointer]:
+                - generic [ref=f315e256]: 
+                - generic [ref=f315e257]: 
+                - generic [ref=f315e258]: 
+                - generic [ref=f315e259]: 
+                - generic [ref=f315e260]: 
+                - generic [ref=f315e261]: 84件
+          - generic [ref=f315e262]:
+            - generic [ref=f315e264]:
+              - paragraph [ref=f315e265]: メーカー希望小売価格 170,500円(税込)
+              - paragraph [ref=f315e266]: 商品特価 57,970円(税込)
+            - generic [ref=f315e267]: 工事費用込み価格(税込) 89,870円
+            - link "商品詳細 はこちら" [ref=f315e269] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-133HM-2/
+              - text: 商品詳細はこちら
+        - listitem [ref=f315e270]:
+          - generic [ref=f315e271]:
+            - img "浴室乾燥機売れ筋ランキング ガス温水式1位" [ref=f315e273]
+            - generic [ref=f315e274]:
+              - img "ノーリツロゴ" [ref=f315e275]
+              - paragraph [ref=f315e276]: 天井埋込み型 浴室暖房乾燥機
+            - generic [ref=f315e277]: ガス温水式
+          - generic [ref=f315e279]:
+            - generic [ref=f315e280]:
+              - link [ref=f315e282] [cursor=pointer]:
+                - /url: /bath-dry/choice/brand/noritz/BDV-4106AUKNC-J3-BL/
+                - img "エコ乾燥＆自動乾燥で衣類乾燥に大活躍！ ノーリツ BDV-4106AUKNC-J3-BL" [ref=f315e283]
+              - generic [ref=f315e284]: ガス温水式の衣類乾燥は、パワーが強く短時間で乾きます。時間があるときはエコ乾燥モードの省エネ運転もおすすめです。
+            - generic:
+              - generic [ref=f315e285]: 本体 44%OFF
+              - text:     
+            - generic [ref=f315e286]: BDV-4106AUKNC-J3-BL
+            - generic [ref=f315e287]:
+              - paragraph [ref=f315e288]: 平均レビュー 4.6
+              - generic [ref=f315e291] [cursor=pointer]:
+                - generic [ref=f315e292]: 
+                - generic [ref=f315e293]: 
+                - generic [ref=f315e294]: 
+                - generic [ref=f315e295]: 
+                - generic [ref=f315e296]: 
+                - generic [ref=f315e297]: 220件
+          - generic [ref=f315e298]:
+            - generic [ref=f315e300]:
+              - paragraph [ref=f315e301]: メーカー希望小売価格 221,760円(税込)
+              - paragraph [ref=f315e302]: 商品特価 124,185円(税込)
+            - generic [ref=f315e303]: 工事費用込み価格(税込) 161,985円
+            - link "商品詳細 はこちら" [ref=f315e305] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/noritz/BDV-4106AUKNC-J3-BL/
+              - text: 商品詳細はこちら
+      - heading "浴室乾燥機をもっと知る" [level=3] [ref=f315e306]
+      - generic [ref=f315e308]:
+        - link [ref=f315e309] [cursor=pointer]:
+          - /url: /bath-dry/contents/about/
+          - img "浴室乾燥機とは" [ref=f315e311]
+          - generic [ref=f315e312]:
+            - paragraph [ref=f315e313]: 浴室乾燥機とは
+            - paragraph [ref=f315e314]: どんな機能や特長があるのかを詳しくご紹介。
+        - link [ref=f315e315] [cursor=pointer]:
+          - /url: /bath-dry/choice/comparison/
+          - img "電気式とガス温水式の比較" [ref=f315e317]
+          - generic [ref=f315e318]:
+            - paragraph [ref=f315e319]: 電気式とガス温水式の比較
+            - paragraph [ref=f315e320]: 100Vと200Vの違いや電気とガスの暖房能力比較など徹底解説。
+        - link [ref=f315e321] [cursor=pointer]:
+          - /url: /bath-dry/contents/life/
+          - img "浴室乾燥機の寿命や故障時の対応" [ref=f315e323]
+          - generic [ref=f315e324]:
+            - paragraph [ref=f315e325]: 寿命や故障時の対応
+            - paragraph [ref=f315e326]: 浴室乾燥機の主な故障の症状や交換時期の目安などをご紹介。
+        - link [ref=f315e327] [cursor=pointer]:
+          - /url: /bath-dry/contents/electricity_bill/
+          - img "電気代節約のポイント" [ref=f315e329]
+          - generic [ref=f315e330]:
+            - paragraph [ref=f315e331]: 電気代節約のポイント
+            - paragraph [ref=f315e332]: 使用頻度が高いからこそ気になる電気代についてご紹介。
+        - link [ref=f315e333] [cursor=pointer]:
+          - /url: /bath-dry/contents/ventilation24/
+          - img "24時間換気システムとは？" [ref=f315e335]
+          - generic [ref=f315e336]:
+            - paragraph [ref=f315e337]: 24時間換気システムとは？
+            - paragraph [ref=f315e338]: 室内の空気の入れ替えを常時行う24時間換気システムを解説します。
+        - link [ref=f315e339] [cursor=pointer]:
+          - /url: /bath-dry/contents/kabi/
+          - img "お風呂・浴室のカビ対策に浴室乾燥機" [ref=f315e341]
+          - generic [ref=f315e342]:
+            - paragraph [ref=f315e343]: お風呂・浴室のカビ対策
+            - paragraph [ref=f315e344]: カビ発生のメカニズムや浴室乾燥を使ったお風呂場のカビ対策をご紹介。
+        - link [ref=f315e345] [cursor=pointer]:
+          - /url: /bath-dry/contents/care/
+          - img "浴室乾燥機のお掃除・お手入れ方法" [ref=f315e347]
+          - generic [ref=f315e348]:
+            - paragraph [ref=f315e349]: お掃除・お手入れ方法
+            - paragraph [ref=f315e350]: 掃除の頻度や使用できる洗剤の種類などをご紹介。
+        - link [ref=f315e351] [cursor=pointer]:
+          - /url: /bath-dry/contents/rainy_season/
+          - img "梅雨どきに洗濯物を乾かすなら浴室乾燥機" [ref=f315e353]
+          - generic [ref=f315e354]:
+            - paragraph [ref=f315e355]: 梅雨対策に浴室乾燥機
+            - paragraph [ref=f315e356]: 梅雨どきの浴室乾燥機のメリットや部屋干しの豆知識をご紹介。
+        - link [ref=f315e357] [cursor=pointer]:
+          - /url: /bath-dry/contents/heat_shock/
+          - img "ヒートショック対策に浴室乾燥機" [ref=f315e359]
+          - generic [ref=f315e360]:
+            - paragraph [ref=f315e361]: ヒートショック対策に浴室乾燥機
+            - paragraph [ref=f315e362]: ヒートショックの原因や浴室暖房でできる対策方法をご紹介。
+      - heading "浴室乾燥機でお取り扱い中の人気メーカー" [level=3] [ref=f315e363]
+      - paragraph [ref=f315e365]: マックス（MAX）、パナソニック、TOTO、リンナイ、ノーリツなど国内メーカーの浴室乾燥機・浴室暖房機をお安くご提供！
+      - generic [ref=f315e366]:
+        - generic [ref=f315e367] [cursor=pointer]:
+          - img "浴室乾燥機 電気式" [ref=f315e368]
+          - text: 電気式
+        - generic [ref=f315e370]:
+          - link "マックス 当社売れ筋！シェアも高くお求めやすい価格がおすすめ！ 工事費用込み価格 84,172円(税込)～" [ref=f315e371] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - generic [ref=f315e372]:
+              - figure [ref=f315e373]:
+                - img "マックス(MAX) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e374]
+              - paragraph [ref=f315e375]: マックス
+            - generic [ref=f315e376]:
+              - paragraph [ref=f315e378]: 当社売れ筋！シェアも高くお求めやすい価格がおすすめ！
+              - figure [ref=f315e379]:
+                - img "マックス（MAX）浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e380]
+              - generic [ref=f315e381]:
+                - paragraph [ref=f315e382]: 工事費用込み価格
+                - generic [ref=f315e383]: 84,172円(税込)～
+          - link "パナソニック 1室換気ならパナソニックを代表する機能エコナビ・ナノイー搭載。 工事費用込み価格 86,944円(税込)～" [ref=f315e384] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/panasonic/
+            - generic [ref=f315e385]:
+              - figure [ref=f315e386]:
+                - img "パナソニック(Panasonic) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e387]
+              - paragraph [ref=f315e388]: パナソニック
+            - generic [ref=f315e389]:
+              - paragraph [ref=f315e391]: 1室換気ならパナソニックを代表する機能エコナビ・ナノイー搭載。
+              - figure [ref=f315e392]:
+                - img "パナソニック（Panasonic）浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e393]
+              - generic [ref=f315e394]:
+                - paragraph [ref=f315e395]: 工事費用込み価格
+                - generic [ref=f315e396]: 86,944円(税込)～
+          - link "三菱電機 グッドデザイン受賞のシンプルデザイン。ロング気流で床面まで温かい。 工事費用込み価格 82,429円(税込)～" [ref=f315e397] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/mitsubishi/
+            - generic [ref=f315e398]:
+              - figure [ref=f315e399]:
+                - img "三菱(MITSUBISHI) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e400]
+              - paragraph [ref=f315e401]: 三菱電機
+            - generic [ref=f315e402]:
+              - paragraph [ref=f315e404]: グッドデザイン受賞のシンプルデザイン。ロング気流で床面まで温かい。
+              - figure [ref=f315e405]:
+                - img "三菱電機（Mitsubishi）浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e406]
+              - generic [ref=f315e407]:
+                - paragraph [ref=f315e408]: 工事費用込み価格
+                - generic [ref=f315e409]: 82,429円(税込)～
+          - link "TOTO TOTOの「三乾王」は省エネ重視の方へおすすめ。 工事費用込み価格 122,045円(税込)～" [ref=f315e410] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/toto/
+            - generic [ref=f315e411]:
+              - figure [ref=f315e412]:
+                - img "TOTO(三乾王) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e413]
+              - paragraph [ref=f315e414]: TOTO
+            - generic [ref=f315e415]:
+              - paragraph [ref=f315e417]: TOTOの「三乾王」は省エネ重視の方へおすすめ。
+              - figure [ref=f315e418]:
+                - img "TOTO浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e419]
+              - generic [ref=f315e420]:
+                - paragraph [ref=f315e421]: 工事費用込み価格
+                - generic [ref=f315e422]: 122,045円(税込)～
+          - link "高須産業 ヒートショック対策といえば高須のグラファイト。 工事費用込み価格 78,344円(税込)～" [ref=f315e423] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/takasu/
+            - generic [ref=f315e424]:
+              - figure [ref=f315e425]:
+                - img "高須産業(TSK) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e426]
+              - paragraph [ref=f315e427]: 高須産業
+            - generic [ref=f315e428]:
+              - paragraph [ref=f315e430]: ヒートショック対策といえば高須のグラファイト。
+              - figure [ref=f315e431]:
+                - img "高須産業（Takasu）浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e432]
+              - generic [ref=f315e433]:
+                - paragraph [ref=f315e434]: 工事費用込み価格
+                - generic [ref=f315e435]: 78,344円(税込)～
+        - generic [ref=f315e436] [cursor=pointer]:
+          - img "浴室乾燥機 ガス式" [ref=f315e437]
+          - text: ガス式
+        - generic [ref=f315e438]:
+          - link "リンナイ プラズマクラスター搭載の高機能モデル！ 工事費用込み価格 131,256円(税込)～" [ref=f315e439] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/rinnai/
+            - generic [ref=f315e440]:
+              - figure [ref=f315e441]:
+                - img "リンナイ(Rinnai) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e442]
+              - paragraph [ref=f315e443]: リンナイ
+            - generic [ref=f315e444]:
+              - paragraph [ref=f315e446]: プラズマクラスター搭載の高機能モデル！
+              - figure [ref=f315e447]:
+                - img "リンナイ浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e448]
+              - generic [ref=f315e449]:
+                - paragraph [ref=f315e450]: 工事費用込み価格
+                - generic [ref=f315e451]: 131,256円(税込)～
+          - link "ノーリツ 浴室乾燥機の基本的な機能は搭載しつつお求めやすさが人気のノーリツ。 工事費用込み価格 117,756円(税込)～" [ref=f315e452] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/noritz/
+            - generic [ref=f315e453]:
+              - figure [ref=f315e454]:
+                - img "ノーリツ(Noritz) 浴室乾燥機が交換工事費用込みで安い" [ref=f315e455]
+              - paragraph [ref=f315e456]: ノーリツ
+            - generic [ref=f315e457]:
+              - paragraph [ref=f315e459]: 浴室乾燥機の基本的な機能は搭載しつつお求めやすさが人気のノーリツ。
+              - figure [ref=f315e460]:
+                - img "ノーリツ浴室乾燥機の特徴・商品価格一覧ページへ" [ref=f315e461]
+              - generic [ref=f315e462]:
+                - paragraph [ref=f315e463]: 工事費用込み価格
+                - generic [ref=f315e464]: 117,756円(税込)～
+      - generic [ref=f315e465]:
+        - generic [ref=f315e467]:
+          - link [ref=f315e469] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/wall_hanging_type/
+            - img "電気式壁掛タイプ浴室乾燥機商品一覧｜パナソニック・三菱・TOTO" [ref=f315e471]
+            - generic [ref=f315e472]:
+              - paragraph [ref=f315e473]: 【壁掛タイプ】浴室乾燥機
+              - paragraph [ref=f315e474]: 壁掛けタイプの浴室乾燥機の交換も承っております！
+          - link [ref=f315e476] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/wall_hanging_heater/
+            - img "壁掛タイプ暖房機（洗面所・トイレ用）｜高須産業株式会社・TOTO" [ref=f315e478]
+            - generic [ref=f315e479]:
+              - paragraph [ref=f315e480]: 【壁掛タイプ】暖房機（洗面所・トイレ用）
+              - paragraph [ref=f315e481]: ヒートショック対策に！脱衣所を快適にあたためます。
+        - heading "当社、おすすめの浴室乾燥機" [level=3] [ref=f315e482]
+        - list [ref=f315e483]:
+          - listitem [ref=f315e484]:
+            - link "本体 67% OFF 三菱｜浴室乾燥機 V-141BZ5+P-141SW5｜三菱浴室乾燥機 V-141BZ5+P-141SW5 メーカー希望小売価格:153,120円(税込) 税込特価:50,529円 ＋基本工事費：31,900円(税込) 工事費込み 82,429 円(税込)" [ref=f315e485] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/mitsubishi/V-141BZ5_P-141SW5/
+              - generic [ref=f315e486]:
+                - generic [ref=f315e487]: 本体
+                - generic [ref=f315e489]:
+                  - generic [ref=f315e490]: "67"
+                  - text: "%"
+                  - paragraph [ref=f315e491]: "OFF"
+              - img "三菱｜浴室乾燥機" [ref=f315e493]
+              - img "V-141BZ5+P-141SW5｜三菱浴室乾燥機" [ref=f315e495]
+              - generic [ref=f315e496]: V-141BZ5+P-141SW5
+              - generic [ref=f315e497]: メーカー希望小売価格:153,120円(税込)
+              - generic [ref=f315e498]: 税込特価:50,529円＋基本工事費：31,900円(税込)
+              - generic [ref=f315e499]: 工事費込み 82,429 円(税込)
+            - link "商品詳細 >" [ref=f315e500] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/mitsubishi/V-141BZ5_P-141SW5/
+          - listitem [ref=f315e501]:
+            - link "本体 64% OFF パナソニック｜浴室乾燥機 FY-13UG6V｜パナソニック浴室乾燥機 FY-13UG6V メーカー希望小売価格:152,900円(税込) 税込特価:55,044円 ＋基本工事費：31,900円(税込) 工事費込み 86,944 円(税込)" [ref=f315e502] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/panasonic/FY-13UG6V/
+              - generic [ref=f315e503]:
+                - generic [ref=f315e504]: 本体
+                - generic [ref=f315e506]:
+                  - generic [ref=f315e507]: "64"
+                  - text: "%"
+                  - paragraph [ref=f315e508]: "OFF"
+              - img "パナソニック｜浴室乾燥機" [ref=f315e510]
+              - img "FY-13UG6V｜パナソニック浴室乾燥機" [ref=f315e512]
+              - generic [ref=f315e513]: FY-13UG6V
+              - generic [ref=f315e514]: メーカー希望小売価格:152,900円(税込)
+              - generic [ref=f315e515]: 税込特価:55,044円＋基本工事費：31,900円(税込)
+              - generic [ref=f315e516]: 工事費込み 86,944 円(税込)
+            - link "商品詳細 >" [ref=f315e517] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/panasonic/FY-13UG6V/
+          - listitem [ref=f315e518]:
+            - link "交換 できるくん 価格 マックス｜浴室乾燥機 BS-161H-2｜マックス浴室乾燥機 BS-161H-2 メーカー希望小売価格:オープン価格 税込特価:53,900円 ＋基本工事費：31,900円(税込) 工事費込み 85,800 円(税込)" [ref=f315e519] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-161H-2/
+              - generic [ref=f315e520]:
+                - generic [ref=f315e521]: 交換
+                - generic [ref=f315e522]: できるくん
+                - generic [ref=f315e523]: 価格
+              - img "マックス｜浴室乾燥機" [ref=f315e525]
+              - img "BS-161H-2｜マックス浴室乾燥機" [ref=f315e527]
+              - generic [ref=f315e528]: BS-161H-2
+              - generic [ref=f315e529]: メーカー希望小売価格:オープン価格
+              - generic [ref=f315e530]: 税込特価:53,900円＋基本工事費：31,900円(税込)
+              - generic [ref=f315e531]: 工事費込み 85,800 円(税込)
+            - link "商品詳細 >" [ref=f315e532] [cursor=pointer]:
+              - /url: /bath-dry/choice/brand/max/BS-161H-2/
+        - heading "浴室乾燥機・浴室暖房機の交換工事費用" [level=2] [ref=f315e533]
+        - paragraph [ref=f315e535]: 浴室乾燥機・浴室換気・浴室暖房機の取り替え、取り付け工事費用にいくらかかるのか？交換できるくんの設置工事はコミコミ安心価格です。浴室乾燥機の基本工事費は、電気式かガス温水式か、交換か後付け（新規設置）かで料金が異なります。
+        - generic [ref=f315e536]:
+          - img "スライドアイコン" [ref=f315e538]
+          - table [ref=f315e539]:
+            - rowgroup [ref=f315e540]:
+              - row [ref=f315e541]:
+                - columnheader [ref=f315e542]
+                - columnheader [ref=f315e543]:
+                  - generic [ref=f315e544]:
+                    - img "浴室乾燥機 天井埋込タイプ 電気式浴室乾燥機" [ref=f315e546]
+                    - generic [ref=f315e547]: 天井埋込タイプ電気式浴室乾燥機
+                - columnheader [ref=f315e548]:
+                  - generic [ref=f315e549]:
+                    - img "浴室乾燥機 天井埋込タイプ ガス温水式浴室乾燥機" [ref=f315e551]
+                    - generic [ref=f315e552]: 天井埋込タイプガス式浴室乾燥機
+              - row [ref=f315e553]:
+                - cell [ref=f315e554]:
+                  - img "浴室乾燥機 交換" [ref=f315e555]
+                  - paragraph [ref=f315e556]: 既存機器からの交換
+                - cell "交換基本工事費 31,900円(税込)" [ref=f315e557]:
+                  - text: 交換基本工事費
+                  - generic [ref=f315e558]: 31,900円(税込)
+                - cell "交換基本工事費 37,800円(税込)" [ref=f315e559]:
+                  - text: 交換基本工事費
+                  - generic [ref=f315e560]: 37,800円(税込)
+              - row [ref=f315e561]:
+                - cell [ref=f315e562]:
+                  - text: 既設浴室乾燥機の種類によっては別途オプション工事が必要です。
+                  - link "既存機器からの交換にかかわるオプション工事費について詳しくはこちら >" [ref=f315e563] [cursor=pointer]:
+                    - /url: /bath-dry/guide/cost/#option
+              - row [ref=f315e564]:
+                - cell [ref=f315e565]:
+                  - img "浴室乾燥機 新規設置" [ref=f315e566]
+                  - paragraph [ref=f315e567]: 換気扇から浴室乾燥機への取り替え後付け工事
+                - cell "取り付け基本工事費 31,900円(税込) + 浴室天井開口拡大費・電源新規配線費 30,000円(税込)～" [ref=f315e568]:
+                  - text: 取り付け基本工事費
+                  - generic [ref=f315e569]: 31,900円(税込)
+                  - text: + 浴室天井開口拡大費・電源新規配線費
+                  - generic [ref=f315e570]: 30,000円(税込)～
+                - cell "ガス式浴室乾燥機の 新規設置工事は承っておりません。" [ref=f315e571]: ガス式浴室乾燥機の新規設置工事は承っておりません。
+              - row [ref=f315e572]:
+                - cell [ref=f315e573]:
+                  - text: ご自宅の状況によってはオプション工事が必要です。
+                  - link "浴室乾燥機の後付け(新規)工事について詳しくはこちら >" [ref=f315e574] [cursor=pointer]:
+                    - /url: /bath-dry/guide/cost/#new
+          - generic [ref=f315e576]:
+            - generic [ref=f315e577]:
+              - generic [ref=f315e578]:
+                - generic [ref=f315e579]:
+                  - generic [ref=f315e580]: 商品代金
+                  - generic [ref=f315e581]:
+                    - img "商品代金" [ref=f315e583]
+                    - generic [ref=f315e585]:
+                      - generic [ref=f315e586]:
+                        - paragraph [ref=f315e587]: 商品代金
+                        - generic [ref=f315e588]: 驚きの低価格！
+                      - paragraph [ref=f315e591]: サイト掲載商品の販売価格
+                - figure [ref=f315e593]:
+                  - img "plus" [ref=f315e594]
+                - generic [ref=f315e595]:
+                  - generic [ref=f315e596]: まるごとサービスパック
+                  - generic [ref=f315e597]:
+                    - paragraph [ref=f315e603]: 基本工事費撤去費
+                    - paragraph [ref=f315e609]: 出張費運搬費
+                    - paragraph [ref=f315e615]: 部材費室内養生費
+                    - paragraph [ref=f315e621]: 設置前清掃使用説明
+                    - paragraph [ref=f315e627]: 廃材運搬処分
+                    - paragraph [ref=f315e633]: 諸経費事務経費
+                - figure [ref=f315e635]:
+                  - img "plus" [ref=f315e636]
+                - generic [ref=f315e637]:
+                  - generic [ref=f315e638]: 商品工事保証
+                  - link [ref=f315e639] [cursor=pointer]:
+                    - /url: /guar/
+                    - figure:
+                      - img "商品も工事も無料10年保証"
+                    - paragraph [ref=f315e641]: 商品・工事無料10年保証
+              - paragraph [ref=f315e643]: まるごとサービスパックは上記全てを含めたコミコミ価格！
+            - generic [ref=f315e644]: ※無料10年保証は2022年10月1日以降のお見積り依頼から対象となります。
+            - generic [ref=f315e645]: ※養生範囲は「室内で交換作業をするスペース」になります。それ以外（マンションのエントランス、エレベーターなど）をご希望の場合はご相談ください（別費用となります）。
+            - link "浴室乾燥機の交換工事費用について詳しくはこちら >" [ref=f315e647] [cursor=pointer]:
+              - /url: /bath-dry/guide/cost/
+        - heading "浴室乾燥機 交換の流れ" [level=3] [ref=f315e648]
+        - generic [ref=f315e650]:
+          - generic [ref=f315e651]:
+            - heading "1 商品を選ぶ" [level=4] [ref=f315e652]:
+              - generic [ref=f315e653]: "1"
+              - text: 商品を選ぶ
+            - generic [ref=f315e654]:
+              - figure [ref=f315e655]:
+                - img "商品を選ぶ|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f315e656]
+              - paragraph [ref=f315e657]: 交換されたい浴室乾燥機をお選びください。当社にてお客様にあった商品をご案内することも可能です。
+          - generic [ref=f315e658]:
+            - heading "2 見積りをご依頼" [level=4] [ref=f315e659]:
+              - generic [ref=f315e660]: "2"
+              - text: 見積りをご依頼
+            - generic [ref=f315e661]:
+              - figure [ref=f315e662]:
+                - img "見積りをご依頼|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f315e663]
+              - paragraph [ref=f315e664]: 浴室乾燥機が決まったら見積りをご依頼ください。現行の画像をお送りいただければ、設置適合確認も当社で行います。
+          - generic [ref=f315e665]:
+            - heading "3 ご注文" [level=4] [ref=f315e666]:
+              - generic [ref=f315e667]: "3"
+              - text: ご注文
+            - generic [ref=f315e668]:
+              - figure [ref=f315e669]:
+                - img "ご注文|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f315e670]
+              - paragraph [ref=f315e671]: 見積りの内容にご納得いただいたらご注文手続きをお願いいたします。工事日程のご希望をお伺いします。
+          - generic [ref=f315e672]:
+            - heading "4 工事お伺い" [level=4] [ref=f315e673]:
+              - generic [ref=f315e674]: "4"
+              - text: 工事お伺い
+            - generic [ref=f315e675]:
+              - figure [ref=f315e676]:
+                - img "交換工事|浴室乾燥機 交換・リフォームの流れ【交換できるくん】" [ref=f315e677]
+              - paragraph [ref=f315e678]: 工事担当が商品を持って、お客様のご自宅へお伺いし、交換工事一式（本体及び電気配線接続、ダクト取り外し、通気口カバー交換等）を行います。
+        - generic [ref=f315e680]:
+          - link [ref=f315e681] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+            - generic [ref=f315e682]:
+              - paragraph [ref=f315e683]: 工事対応エリアを確認 ▲
+              - paragraph [ref=f315e684]: 札幌・仙台・関東・東海・関西中国・福岡の7都市圏に対応！
+          - generic [ref=f315e685]:
+            - link [ref=f315e686] [cursor=pointer]:
+              - /url: /guar/
+              - img "工事保証について" [ref=f315e687]
+            - link [ref=f315e688] [cursor=pointer]:
+              - /url: /site_guide/use/pay.html
+              - img "お支払いについて" [ref=f315e689]
+        - link [ref=f315e691] [cursor=pointer]:
+          - /url: /construction/campaign/omatome.html
+          - img "おまとめ工事割引実施中" [ref=f315e692]
+        - link [ref=f315e694] [cursor=pointer]:
+          - /url: /information/release20241129.html
+          - img "交換できるくんがTBS系・がっちりマンデー！！で紹介されました" [ref=f315e695]
+        - heading "お客様の声と施工事例" [level=2] [ref=f315e696]
+        - heading "浴室乾燥機を交換したお客様の声" [level=3] [ref=f315e697]
+        - generic [ref=f315e699]:
+          - link "2026/7/29 NEW 神奈川県横浜市のお客様 「全体的にわかりやすさを追求したホームページで、複数メーカー商品への客観的評価が参考になった。商品の検討のしやすさ、注文の…" [ref=f315e700] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98760
+            - generic [ref=f315e701]:
+              - generic [ref=f315e702]: 2026/7/29
+              - generic [ref=f315e703]: NEW
+            - figure "神奈川県横浜市のお客様" [ref=f315e704]:
+              - img "2026/7/29 神奈川県横浜市のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e707]: 「全体的にわかりやすさを追求したホームページで、複数メーカー商品への客観的評価が参考になった。商品の検討のしやすさ、注文の…
+          - link "2026/7/27 埼玉県鴻巣市のお客様 「前回は給湯器交換を依頼して、2回目の利用です。その際、明朗にお見積りいただいた内容をとても手際よく丁寧に行っていただいたの…" [ref=f315e708] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98755
+            - generic [ref=f315e709]: 2026/7/27
+            - figure "埼玉県鴻巣市のお客様" [ref=f315e711]:
+              - img "2026/7/27 埼玉県鴻巣市のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e714]: 「前回は給湯器交換を依頼して、2回目の利用です。その際、明朗にお見積りいただいた内容をとても手際よく丁寧に行っていただいたの…
+          - link "2026/6/26 広島県安芸郡のお客様 「設置から年数が経ってるのと、乾燥能力が弱くなったので交換を考えました。交換できるくんは、SNSで知り、 価格が安かったため依…" [ref=f315e715] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98575
+            - generic [ref=f315e716]: 2026/6/26
+            - figure "広島県安芸郡のお客様" [ref=f315e718]:
+              - img "2026/6/26 広島県安芸郡のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e721]: 「設置から年数が経ってるのと、乾燥能力が弱くなったので交換を考えました。交換できるくんは、SNSで知り、 価格が安かったため依…
+          - link "2026/6/26 岡山県倉敷市のお客様 「いくつかの商品を見積りいただき、わかりやすくアドバイスしてくださいました。結果、いい商品だと思います。リモコンもわかりや…" [ref=f315e722] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98045
+            - generic [ref=f315e723]: 2026/6/26
+            - figure "岡山県倉敷市のお客様" [ref=f315e725]:
+              - img "2026/6/26 岡山県倉敷市のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e728]: 「いくつかの商品を見積りいただき、わかりやすくアドバイスしてくださいました。結果、いい商品だと思います。リモコンもわかりや…
+          - link "2026/6/22 埼玉県狭山市のお客様 「見積り依頼から返信が早く、工事日程も要望に沿っていた。当日の工事も手際よく交換してくれて、モーターの音が静かになりました…" [ref=f315e729] [cursor=pointer]:
+            - /url: /voice/index.php/archives/98011
+            - generic [ref=f315e730]: 2026/6/22
+            - figure "埼玉県狭山市のお客様" [ref=f315e732]:
+              - img "2026/6/22 埼玉県狭山市のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e735]: 「見積り依頼から返信が早く、工事日程も要望に沿っていた。当日の工事も手際よく交換してくれて、モーターの音が静かになりました…
+          - link "2026/6/19 愛知県名古屋市のお客様 「担当者の写真付きの見積り回答があり、ネットだけど直接やり取りしているような安心感がありました。長年使用していた浴室暖房か…" [ref=f315e736] [cursor=pointer]:
+            - /url: /voice/index.php/archives/97969
+            - generic [ref=f315e737]: 2026/6/19
+            - figure "愛知県名古屋市のお客様" [ref=f315e739]:
+              - img "2026/6/19 愛知県名古屋市のお客様｜浴室乾燥機交換の施工事例"
+            - paragraph [ref=f315e742]: 「担当者の写真付きの見積り回答があり、ネットだけど直接やり取りしているような安心感がありました。長年使用していた浴室暖房か…
+        - link "お客様の声をもっと見る" [ref=f315e744] [cursor=pointer]:
+          - /url: /voice/index.php/archives/tag/dry
+        - heading "浴室乾燥機の施工事例" [level=3] [ref=f315e745]
+        - generic [ref=f315e747]:
+          - link "2026/07/16 NEW 東京都板橋区のお客様 マックス 浴室乾燥機 『BS-132HM-CX-2』 時計アイコン 約2時間" [ref=f315e748] [cursor=pointer]:
+            - /url: /bath-dry/blog/133180/
+            - generic [ref=f315e749]:
+              - generic [ref=f315e750]: 2026/07/16
+              - generic [ref=f315e751]: NEW
+            - figure "東京都板橋区のお客様" [ref=f315e752]:
+              - img "2026/07/16 東京都板橋区のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e754]:
+              - paragraph [ref=f315e755]: マックス 浴室乾燥機 『BS-132HM-CX-2』
+              - generic [ref=f315e756]:
+                - img "時計アイコン" [ref=f315e757]
+                - generic [ref=f315e758]: 約2時間
+          - link "2026/07/16 NEW 東京都荒川区のお客様 マックス 浴室乾燥機 『BS-133HM-CX-2』 時計アイコン 約2時間" [ref=f315e759] [cursor=pointer]:
+            - /url: /bath-dry/blog/133176/
+            - generic [ref=f315e760]:
+              - generic [ref=f315e761]: 2026/07/16
+              - generic [ref=f315e762]: NEW
+            - figure "東京都荒川区のお客様" [ref=f315e763]:
+              - img "2026/07/16 東京都荒川区のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e765]:
+              - paragraph [ref=f315e766]: マックス 浴室乾燥機 『BS-133HM-CX-2』
+              - generic [ref=f315e767]:
+                - img "時計アイコン" [ref=f315e768]
+                - generic [ref=f315e769]: 約2時間
+          - link "2026/07/16 NEW 福岡県福岡市博多区のお客様 ノーリツ 浴室乾燥機 『BDV-4106AUKNC-J3-BL』 時計アイコン 約2時間" [ref=f315e770] [cursor=pointer]:
+            - /url: /bath-dry/blog/133187/
+            - generic [ref=f315e771]:
+              - generic [ref=f315e772]: 2026/07/16
+              - generic [ref=f315e773]: NEW
+            - figure "福岡県福岡市博多区のお客様" [ref=f315e774]:
+              - img "2026/07/16 福岡県福岡市博多区のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e776]:
+              - paragraph [ref=f315e777]: ノーリツ 浴室乾燥機 『BDV-4106AUKNC-J3-BL』
+              - generic [ref=f315e778]:
+                - img "時計アイコン" [ref=f315e779]
+                - generic [ref=f315e780]: 約2時間
+          - link "2026/07/16 NEW 東京都江東区のお客様 三菱電機 浴室乾燥機 『V-243BZL5+P-143SW5』 時計アイコン 約2時間" [ref=f315e781] [cursor=pointer]:
+            - /url: /bath-dry/blog/133172/
+            - generic [ref=f315e782]:
+              - generic [ref=f315e783]: 2026/07/16
+              - generic [ref=f315e784]: NEW
+            - figure "東京都江東区のお客様" [ref=f315e785]:
+              - img "2026/07/16 東京都江東区のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e787]:
+              - paragraph [ref=f315e788]: 三菱電機 浴室乾燥機 『V-243BZL5+P-143SW5』
+              - generic [ref=f315e789]:
+                - img "時計アイコン" [ref=f315e790]
+                - generic [ref=f315e791]: 約2時間
+          - link "2026/06/24 埼玉県深谷市のお客様 パナソニック 浴室乾燥機 『FY-13UG7E』 時計アイコン 約3時間" [ref=f315e792] [cursor=pointer]:
+            - /url: /bath-dry/blog/132689/
+            - generic [ref=f315e793]: 2026/06/24
+            - figure "埼玉県深谷市のお客様" [ref=f315e795]:
+              - img "2026/06/24 埼玉県深谷市のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e797]:
+              - paragraph [ref=f315e798]: パナソニック 浴室乾燥機 『FY-13UG7E』
+              - generic [ref=f315e799]:
+                - img "時計アイコン" [ref=f315e800]
+                - generic [ref=f315e801]: 約3時間
+          - link "2026/06/24 千葉県市川市のお客様 ノーリツ 浴室乾燥機 『BDV-4106AUKNC-J3-BL』 時計アイコン 約2時間" [ref=f315e802] [cursor=pointer]:
+            - /url: /bath-dry/blog/132697/
+            - generic [ref=f315e803]: 2026/06/24
+            - figure "千葉県市川市のお客様" [ref=f315e805]:
+              - img "2026/06/24 千葉県市川市のお客様｜浴室乾燥機交換の施工事例"
+            - generic [ref=f315e807]:
+              - paragraph [ref=f315e808]: ノーリツ 浴室乾燥機 『BDV-4106AUKNC-J3-BL』
+              - generic [ref=f315e809]:
+                - img "時計アイコン" [ref=f315e810]
+                - generic [ref=f315e811]: 約2時間
+        - link "施工事例をもっと見る" [ref=f315e813] [cursor=pointer]:
+          - /url: /bath-dry/blog/
+        - generic [ref=f315e814]:
+          - heading "浴室乾燥機交換のチェックポイント" [level=2] [ref=f315e815]
+          - paragraph [ref=f315e817]: 浴室乾燥機・浴室暖房機を取り替える場合や、浴室換気扇のみ設置されている住宅に浴室乾燥機・浴室暖房機を取り付けする際は、多くの浴室乾燥機の種類からお住まいに合う、対応機種を選ぶ必要があります。事前に確かめていただきたい、現在の換気状況や工事適応環境のチェックポイントをご紹介いたします。
+          - heading "浴室乾燥機・浴室暖房機の換気している部屋数を確認" [level=3] [ref=f315e818]
+          - generic [ref=f315e820]:
+            - generic [ref=f315e821]: お宅によっては、浴室の暖房乾燥機の換気機能をトイレや洗面所といった別の部屋で共用して、換気している場合があります。その場合は、交換用の機器も、複数の部屋の換気に対応しているものを選びます。
+            - generic [ref=f315e822]:
+              - generic [ref=f315e823]:
+                - img "1室換気タイプ" [ref=f315e824]
+                - paragraph [ref=f315e825]: お風呂だけ換気（暖房）しているのが1室換気タイプ。
+              - generic [ref=f315e826]:
+                - img "2室換気タイプ" [ref=f315e827]
+                - paragraph [ref=f315e828]: お風呂とトイレ、お風呂と洗面所など、2つのお部屋を換気（暖房）しているのが2室換気タイプ。
+              - generic [ref=f315e829]:
+                - img "3室換気タイプ" [ref=f315e830]
+                - paragraph [ref=f315e831]: お風呂とトイレと洗面所など、3つのお部屋を換気（暖房）しているのが3室換気タイプ。
+              - img "換気室画像" [ref=f315e833]
+            - generic [ref=f315e834]:
+              - generic [ref=f315e835]:
+                - img "チェックポイント！" [ref=f315e836]
+                - paragraph [ref=f315e837]: 1室換気タイプの場合、 換気口があるのは浴室だけです。
+              - generic [ref=f315e838]:
+                - img "チェックポイント！" [ref=f315e839]
+                - paragraph [ref=f315e840]: 換気口が、浴室以外の場所、例えばトイレや洗面所、脱衣所にあれば、 その換気口の口数と同じ換気タイプを選定することになります。 （※例外もありますので、詳細はお問合せください）
+          - heading "天井の開口サイズで取り付ける乾燥機器を確認" [level=3] [ref=f315e841]
+          - generic [ref=f315e842]:
+            - generic [ref=f315e843]:
+              - heading "天井の開口サイズとは" [level=4] [ref=f315e844]
+              - generic [ref=f315e845]:
+                - figure [ref=f315e846]:
+                  - img "浴室乾燥機の開口サイズ" [ref=f315e847]
+                - paragraph [ref=f315e849]: 浴室乾燥機は、浴室の天井に開口（穴）を開けて天井裏から機器をはめこんでいます。 交換する場合は、この開口部のサイズが交換する機器とあわなければ、開口を大きくしたり、狭めたりといった工事が必要になります。そして、開口のサイズの確認は、機器が設置されている状態だと浴室側から見ただけではわかりません。 また、統一規格ではないので、メーカーや品番でバラバラです。そのため、開口部のサイズの確認には、機器本体や、リモコンの品番から図面を確認して、サイズを確認しています。
+            - generic [ref=f315e850]:
+              - heading "既存機器と同じ開口サイズの機器への交換がおすすめ" [level=4] [ref=f315e851]
+              - paragraph [ref=f315e852]: 天井の開口部の調整には工事が必要です。浴室の現在の開口部を切断して大きくするか、化粧パネルをいれて狭くする作業が必要なので、工事費がかかり、工事時間も必要になってきます。 そのため、浴室の暖房乾燥機の交換には、基本的には天井の開口調整の必要ない、同じメーカーの後継機種を選ぶことをおすすめしております。
+            - generic [ref=f315e853]:
+              - heading "天井の開口サイズの確認方法" [level=4] [ref=f315e854]
+              - paragraph [ref=f315e855]: 既存の機器やリモコンのメーカーや品番、設置状況の写真をお送りいただければ、営業担当スタッフが開口部のサイズをお調べして、おすすめの機種をご案内します。
+          - heading "浴室換気扇から浴室乾燥機・浴室暖房機へ取り替える際の注意" [level=3] [ref=f315e856]
+          - generic [ref=f315e859]:
+            - generic [ref=f315e860]:
+              - img "分電盤" [ref=f315e861]
+              - generic [ref=f315e862]: 上の写真は分電盤に空きがある状態です。 ここから新しく電源をとって、新しい浴室乾燥機まで電線を引きます。
+            - generic [ref=f315e863]:
+              - generic [ref=f315e864]: 換気扇からの交換の場合は電源の確保が必要です
+              - generic [ref=f315e865]: 浴室乾燥機は電気で動作します。そのための電源は、コンセントを差せば動く冷蔵庫のような家電と違い、専用の電線を浴室の機器まで、建物の分電盤から引いてくる必要があります。そのため、分電盤から、電線を取りだすことができるか、浴室までその線を天井裏などからひっぱってくることができるかの確認が必要になります。
+              - img "分電盤" [ref=f315e867]
+              - generic [ref=f315e868]:
+                - generic [ref=f315e869]: 上の分電盤は、これ以上ブレーカースイッチを増設できません。
+                - generic [ref=f315e870]: ブレーカースイッチが分電盤増設できない場合は、子ブレーカーといって、分電盤から スイッチをひとつ分岐します。
+        - link [ref=f315e872] [cursor=pointer]:
+          - /url: /system/estimateForm/form/bathdry_change/
+          - img "使用中の品番と設置状況の写真をお送りいただければ、浴室乾燥機を選定いたします！" [ref=f315e873]
+        - heading "浴室乾燥機 人気ページ" [level=3] [ref=f315e874]
+        - generic [ref=f315e876]:
+          - link [ref=f315e877] [cursor=pointer]:
+            - /url: /bath-dry/
+            - img "浴室乾燥機 トップページ" [ref=f315e879]
+            - paragraph [ref=f315e880]: 浴室乾燥機 トップページ 浴室乾燥機の最新機種が驚きのネット特価でお安く交換できます。
+          - link [ref=f315e881] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - img "浴室乾燥機 種類から選ぶ" [ref=f315e883]
+            - paragraph [ref=f315e884]: 浴室乾燥機 種類から選ぶ 電気式？ガス式？ご自宅の環境に合った選び方をご紹介します。
+          - link [ref=f315e885] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+            - img "浴室乾燥機 人気ランキング" [ref=f315e887]
+            - paragraph [ref=f315e888]: 浴室乾燥機 人気ランキング 売れ筋おすすめ機種をランキング形式でご紹介します。
+          - link [ref=f315e889] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+            - img "浴室乾燥機 メーカー比較" [ref=f315e891]
+            - paragraph [ref=f315e892]: 浴室乾燥機 メーカー比較 メーカーごとの特徴や機能の違いなどを徹底解説します。
+          - link [ref=f315e893] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - img "浴室乾燥機 マックス" [ref=f315e895]
+            - paragraph [ref=f315e896]: 浴室乾燥機 マックス 電気式浴室暖房・換気・乾燥機ジャンルで当社、大人気メーカー！
+          - link [ref=f315e897] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+            - img "浴室乾燥機の工事エリア" [ref=f315e899]
+            - paragraph [ref=f315e900]: 7大都市圏対応 工事エリア 浴室乾燥機の交換工事対応エリアはこちらからご確認ください。
+    - generic [ref=f315e902]:
+      - link [ref=f315e904] [cursor=pointer]:
+        - /url: /bath-dry/ranking/
+        - img "浴室乾燥機人気・売れ筋ランキング" [ref=f315e905]
+      - list [ref=f315e906]:
+        - generic [ref=f315e907]: 浴室乾燥機
+        - listitem [ref=f315e909]:
+          - generic [ref=f315e910]: 浴室乾燥機TOP
+        - listitem [ref=f315e911]:
+          - link "サイトマップ" [ref=f315e912] [cursor=pointer]:
+            - /url: /bath-dry/sitemap/
+      - list [ref=f315e913]:
+        - generic [ref=f315e914]: 浴室乾燥機の選び方
+        - listitem [ref=f315e916]:
+          - link "浴室乾燥機の選び方" [ref=f315e917] [cursor=pointer]:
+            - /url: /bath-dry/choice/
+      - list [ref=f315e918]:
+        - generic [ref=f315e919]: 浴室乾燥機を選ぶ
+        - listitem [ref=f315e921]:
+          - link "後継機種検索" [ref=f315e922] [cursor=pointer]:
+            - /url: /bath-dry/successor/
+        - listitem [ref=f315e923]:
+          - link "人気ランキングから選ぶ" [ref=f315e924] [cursor=pointer]:
+            - /url: /bath-dry/ranking/
+        - listitem [ref=f315e925]:
+          - link "設置タイプ・種類から 選ぶ" [ref=f315e926] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/
+            - text: 設置タイプ・種類から選ぶ
+        - listitem [ref=f315e927]:
+          - link "天井埋込み（電気）" [ref=f315e928] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/list/
+        - listitem [ref=f315e929]:
+          - link "天井埋込み（ガス）" [ref=f315e930] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/gas_dryer/
+        - listitem [ref=f315e931]:
+          - link "壁掛タイプ" [ref=f315e932] [cursor=pointer]:
+            - /url: /bath-dry/choice/type/wall_hanging_type/
+        - listitem [ref=f315e933]:
+          - link "メーカー比較から選ぶ" [ref=f315e934] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/
+        - listitem [ref=f315e935]:
+          - link "マックスロゴ マックス >" [ref=f315e936] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/
+            - img "マックスロゴ" [ref=f315e937]
+            - generic [ref=f315e938]: マックス >
+        - listitem [ref=f315e939]:
+          - link "マックス後継品番検索" [ref=f315e940] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/max/search_part_number/
+        - listitem [ref=f315e941]:
+          - link "パナソニックロゴ パナソニック >" [ref=f315e942] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/panasonic/
+            - img "パナソニックロゴ" [ref=f315e943]
+            - generic [ref=f315e944]: パナソニック >
+        - listitem [ref=f315e945]:
+          - link "三菱電機ロゴ 三菱電機 >" [ref=f315e946] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/mitsubishi/
+            - img "三菱電機ロゴ" [ref=f315e947]
+            - generic [ref=f315e948]: 三菱電機 >
+        - listitem [ref=f315e949]:
+          - link "高須産業ロゴ 高須産業 >" [ref=f315e950] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/takasu/
+            - img "高須産業ロゴ" [ref=f315e951]
+            - generic [ref=f315e952]: 高須産業 >
+        - listitem [ref=f315e953]:
+          - link "TOTOロゴ TOTO >" [ref=f315e954] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/toto/
+            - img "TOTOロゴ" [ref=f315e955]
+            - generic [ref=f315e956]: TOTO >
+        - listitem [ref=f315e957]:
+          - link "リンナイロゴ リンナイ >" [ref=f315e958] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/rinnai/
+            - img "リンナイロゴ" [ref=f315e959]
+            - generic [ref=f315e960]: リンナイ >
+        - listitem [ref=f315e961]:
+          - link "ノーリツロゴ ノーリツ >" [ref=f315e962] [cursor=pointer]:
+            - /url: /bath-dry/choice/brand/noritz/
+            - img "ノーリツロゴ" [ref=f315e963]
+            - generic [ref=f315e964]: ノーリツ >
+      - list [ref=f315e965]:
+        - generic [ref=f315e966]: 交換工事について
+        - listitem [ref=f315e968]:
+          - link "交換工事費" [ref=f315e969] [cursor=pointer]:
+            - /url: /bath-dry/guide/cost/
+        - listitem [ref=f315e970]:
+          - link "工事対応エリア" [ref=f315e971] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f315e972]:
+          - link "対応可能な工事事例" [ref=f315e973] [cursor=pointer]:
+            - /url: /bath-dry/guide/other/
+        - listitem [ref=f315e974]:
+          - link "無料10年保証" [ref=f315e975] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f315e976]:
+          - link "工事当日の流れ" [ref=f315e977] [cursor=pointer]:
+            - /url: /bath-dry/guide/exchange/
+      - list [ref=f315e978]:
+        - generic [ref=f315e979]: よくあるご質問
+        - listitem [ref=f315e981]:
+          - link "商品について" [ref=f315e982] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/
+        - listitem [ref=f315e983]:
+          - link "見積り・注文について" [ref=f315e984] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-esti.html
+        - listitem [ref=f315e985]:
+          - link "工事について" [ref=f315e986] [cursor=pointer]:
+            - /url: /bath-dry/guide/faq/faq-construction.html
+      - list [ref=f315e987]:
+        - generic [ref=f315e988]: お客様の声・施工事例
+        - listitem [ref=f315e990]:
+          - link "お客様の声" [ref=f315e991] [cursor=pointer]:
+            - /url: /voice/?s=%E6%B5%B4%E5%AE%A4%E4%B9%BE%E7%87%A5%E6%A9%9F&x=0&y=0
+        - listitem [ref=f315e992]:
+          - link "施工事例" [ref=f315e993] [cursor=pointer]:
+            - /url: /bath-dry/blog/
+        - listitem [ref=f315e994]:
+          - link "スタッフブログ" [ref=f315e995] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/dry
+        - listitem [ref=f315e996]:
+          - link "商品レビュー" [ref=f315e997] [cursor=pointer]:
+            - /url: /review/?category=bath-dry
+      - list [ref=f315e998]:
+        - generic [ref=f315e999]: 浴室乾燥機をもっと知る
+        - listitem [ref=f315e1001]:
+          - link "浴室乾燥機とは" [ref=f315e1002] [cursor=pointer]:
+            - /url: /bath-dry/contents/about/
+        - listitem [ref=f315e1003]:
+          - link "電気式とガス式の比較" [ref=f315e1004] [cursor=pointer]:
+            - /url: /bath-dry/choice/comparison/
+        - listitem [ref=f315e1005]:
+          - link "寿命・故障時の対応" [ref=f315e1006] [cursor=pointer]:
+            - /url: /bath-dry/contents/life/
+        - listitem [ref=f315e1007]:
+          - link "電気代節約のポイント" [ref=f315e1008] [cursor=pointer]:
+            - /url: /bath-dry/contents/electricity_bill/
+        - listitem [ref=f315e1009]:
+          - link "24時間換気システム" [ref=f315e1010] [cursor=pointer]:
+            - /url: /bath-dry/contents/ventilation24/
+        - listitem [ref=f315e1011]:
+          - link "浴室カビ対策" [ref=f315e1012] [cursor=pointer]:
+            - /url: /bath-dry/contents/kabi/
+        - listitem [ref=f315e1013]:
+          - link "お手入れ・掃除方法" [ref=f315e1014] [cursor=pointer]:
+            - /url: /bath-dry/contents/care/
+        - listitem [ref=f315e1015]:
+          - link "梅雨対策に衣類乾燥" [ref=f315e1016] [cursor=pointer]:
+            - /url: /bath-dry/contents/rainy_season/
+        - listitem [ref=f315e1017]:
+          - link "ヒートショック対策" [ref=f315e1018] [cursor=pointer]:
+            - /url: /bath-dry/contents/heat_shock/
+      - list [ref=f315e1019]:
+        - generic [ref=f315e1020]: 浴室乾燥機関連商品
+        - listitem [ref=f315e1022]:
+          - link "レンジフード" [ref=f315e1023] [cursor=pointer]:
+            - /url: /kitchen/food/
+  - generic [ref=f315e1025]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f315e1027] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f315e1028]
+      - generic [ref=f315e1029]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f315e1031] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f315e1032]
+      - generic [ref=f315e1033]: 天井エアコン
+    - link "トイレ トイレ" [ref=f315e1035] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f315e1036]
+      - generic [ref=f315e1037]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f315e1039] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f315e1040]
+      - generic [ref=f315e1041]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f315e1043] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f315e1044]
+      - generic [ref=f315e1045]: 給湯器
+    - link "エコキュート エコキュート" [ref=f315e1047] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f315e1048]
+      - generic [ref=f315e1049]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f315e1051] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f315e1052]
+      - generic [ref=f315e1053]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f315e1055] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f315e1056]
+      - generic [ref=f315e1057]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f315e1059] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f315e1060]
+      - generic [ref=f315e1061]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f315e1063] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f315e1064]
+      - generic [ref=f315e1065]: レンジフード
+    - link "蛇口 蛇口" [ref=f315e1067] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f315e1068]
+      - generic [ref=f315e1069]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f315e1071] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f315e1072]
+      - generic [ref=f315e1073]: 浴室乾燥機
+    - generic [ref=f315e1074]: その他>>
+  - navigation [ref=f315e1076]:
+    - generic [ref=f315e1077]:
+      - generic [ref=f315e1078]:
+        - generic [ref=f315e1079]: 浴室乾燥機
+        - generic [ref=f315e1086]: 総合メニュー
+      - generic [ref=f315e1093]:
+        - link "人気ランキング" [ref=f315e1094] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f315e1096] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f315e1098] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f315e1100] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f315e1102] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f315e1104] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f315e1106]:
+    - generic [ref=f315e1107]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f315e1110]
+    - generic [ref=f315e1111]:
+      - generic [ref=f315e1112]:
+        - term [ref=f315e1113]:
+          - img "サービス案内" [ref=f315e1114]
+          - text: サービス案内
+        - definition [ref=f315e1115]:
+          - list [ref=f315e1116]:
+            - listitem [ref=f315e1117]:
+              - link "ご利用の流れ" [ref=f315e1118] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f315e1119]:
+              - link "無料10年保証" [ref=f315e1120] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f315e1121]:
+              - link "工事対応エリア" [ref=f315e1122] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f315e1123]:
+              - link "工事価格表" [ref=f315e1124] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f315e1125]:
+              - link "おまとめ工事割引" [ref=f315e1126] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f315e1127]:
+              - link "お支払い方法" [ref=f315e1128] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f315e1129]:
+              - link "よくあるご質問" [ref=f315e1130] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f315e1131]:
+              - link "営業日カレンダー" [ref=f315e1132] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f315e1133]:
+        - term [ref=f315e1134]:
+          - img "情報コンテンツ" [ref=f315e1135]
+          - text: 情報コンテンツ
+        - definition [ref=f315e1136]:
+          - list [ref=f315e1137]:
+            - listitem [ref=f315e1138]:
+              - link "最新情報・お知らせ" [ref=f315e1139] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f315e1140]:
+              - link "売れ筋・人気ランキング" [ref=f315e1141] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f315e1142]:
+              - link "お客様の声" [ref=f315e1143] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f315e1144]:
+              - link "施工事例" [ref=f315e1145] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f315e1146]:
+              - link "商品レビュー" [ref=f315e1147] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f315e1148]:
+              - link "かんたん検索一覧" [ref=f315e1149] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f315e1150]:
+              - link "閲覧した商品の履歴" [ref=f315e1151] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f315e1152]:
+              - link "動画コンテンツ" [ref=f315e1153] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f315e1154]:
+        - term [ref=f315e1155]:
+          - img "企業情報" [ref=f315e1156]
+          - text: 企業情報
+        - definition [ref=f315e1157]:
+          - listitem [ref=f315e1158]:
+            - link "会社概要" [ref=f315e1159] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f315e1160]:
+            - link "選ばれる理由" [ref=f315e1161] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f315e1162]:
+            - link "ショールーム（東京・大阪）" [ref=f315e1163] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f315e1164]:
+            - link "スタッフ紹介" [ref=f315e1165] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f315e1166]:
+            - link "スタッフブログ" [ref=f315e1167] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f315e1168]:
+            - link "リフォームからチェンジへ" [ref=f315e1169] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f315e1170]:
+            - link "活動レポート" [ref=f315e1171] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f315e1172]:
+          - link [ref=f315e1174] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f315e1178] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f315e1182] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f315e1186] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f315e1190] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f315e1194] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f315e1197]:
+        - link [ref=f315e1198] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f315e1202]: お問い合わせ一覧
+        - link [ref=f315e1203] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f315e1207]: マイページ・会員登録
+        - link [ref=f315e1208] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f315e1209]
+        - paragraph [ref=f315e1210]: 個人情報保護の認証取得
+    - generic [ref=f315e1211]:
+      - paragraph [ref=f315e1212]: 企業サイト
+      - generic [ref=f315e1213]:
+        - list [ref=f315e1214]:
+          - listitem [ref=f315e1215]:
+            - link "コーポレートサイト" [ref=f315e1216] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f315e1217]
+          - listitem [ref=f315e1218]:
+            - link "投資家向けサイト" [ref=f315e1219] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f315e1220]
+          - listitem [ref=f315e1221]:
+            - link "採用情報サイト" [ref=f315e1222] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f315e1223]
+          - listitem [ref=f315e1224]:
+            - link "交換技能アカデミー" [ref=f315e1225] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f315e1226]
+        - list [ref=f315e1227]:
+          - listitem [ref=f315e1228]:
+            - link [ref=f315e1229] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f315e1230]:
+                - paragraph [ref=f315e1231]: 東証グロースに上場しています
+                - paragraph [ref=f315e1232]: 証券コード 7695
+              - figure [ref=f315e1233]:
+                - img "東証(JPX)ロゴ" [ref=f315e1234]
+    - generic [ref=f315e1235]:
+      - list [ref=f315e1236]:
+        - listitem [ref=f315e1237]:
+          - link "個人情報の取扱い" [ref=f315e1238] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f315e1239]:
+          - link "特定商取引法に基づく表記" [ref=f315e1240] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f315e1241]:
+          - link "サイト利用規約" [ref=f315e1242] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f315e1243]:
+          - link "コンテンツ著作権" [ref=f315e1244] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f315e1245]:
+          - link "施工スタッフ募集" [ref=f315e1246] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f315e1247]
+      - list [ref=f315e1248]:
+        - listitem [ref=f315e1249]: © Koukandekirukun, Inc. 2001-2026

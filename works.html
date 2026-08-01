@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>施工実績｜住まいの設備屋さん（東京・埼玉の水回り設備交換専門）</title>
+  <meta name="description" content="住まいの設備屋さんの施工実績ページです。トイレ・ビルトイン食洗機・ビルトインコンロ・蛇口など、東京・埼玉エリアで対応した交換工事の事例を、施工エリア・取付商品・作業時間とあわせてご紹介しています。">
+
+  <!-- OGP（SNS等でシェアされた際の表示設定） -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="施工実績｜住まいの設備屋さん">
+  <meta property="og:description" content="トイレ・食洗機・コンロ・蛇口など、東京・埼玉エリアで対応した水回り設備交換工事の施工実績をご紹介しています。">
+  <meta property="og:url" content="https://（本番ドメイン確定後にここへ記載）/works.html">
+  <!-- og:image: 施工写真・アイキャッチ画像が用意でき次第、このパスに差し替えてください -->
+  <meta property="og:image" content="images/ogp-default.jpg">
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIyIiBmaWxsPSIjMGY3YTZjIi8+PHRleHQgeD0iNTAiIHk9IjcxIiBmb250LXNpemU9IjU4IiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiPuS9jzwvdGV4dD48L3N2Zz4K">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" defer></script>
+  <script src="js/works.js" defer></script>
+</head>
+<body>
+
+<!--
+  元Wixサイトのブログより実画像を流用（2026-08-01）
+  以下の施工実績カードは、旧サイト（Wix）の施工ブログ記事に掲載されていた
+  実際の施工前後写真・施工日・施工エリア・取付商品・作業時間をもとにしています。
+  画像はimages/works/以下にダウンロード済みのものを使用し、外部サイトへの
+  直接参照は行っていません。浴室乾燥機交換のみ、旧ブログに該当の施工事例
+  記事がなかったため、写真準備中のプレースホルダーのまま残しています。
+-->
+
+<a class="skip-link" href="#main-content">本文へスキップ</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="logo" aria-label="住まいの設備屋さん トップページへ">
+      <span class="logo-mark" aria-hidden="true">住</span>
+      <span class="logo-text">
+        <span class="logo-text-main">住まいの設備屋さん</span>
+        <span class="logo-text-sub">水回り設備 交換専門</span>
+      </span>
+    </a>
+
+    <button type="button" class="hamburger" id="hamburger-btn" aria-expanded="false" aria-controls="site-nav" aria-label="メニューを開く">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="グローバルナビゲーション">
+      <ul>
+        <li><a href="index.html">トップ</a></li>
+        <li><a href="services.html">サービス・料金</a></li>
+        <li><a href="reserve.html">ご予約</a></li>
+        <li><a href="works.html" aria-current="page">施工実績</a></li>
+        <li><a href="area.html">対応エリア</a></li>
+        <li><a href="faq.html">よくある質問</a></li>
+        <li><a href="about.html">会社概要</a></li>
+        <li><a href="contact.html" class="nav-cta">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main-content">
+
+  <nav class="breadcrumb container" aria-label="パンくずリスト">
+    <a href="index.html">トップ</a><span class="sep">&gt;</span><span>施工実績</span>
+  </nav>
+
+  <!-- ===================== ページヘッダー ===================== -->
+  <section class="section" style="padding-top: var(--spacing-lg);">
+    <div class="container">
+      <div class="section-header" style="margin-bottom: var(--spacing-lg);">
+        <span class="section-eyebrow">施工実績</span>
+        <h1 class="section-title">施工実績</h1>
+        <p class="section-lead">
+          東京・埼玉の対応エリアで承った交換工事の一部をご紹介します。実際の施工事例です
+          （順次追加中）。施工エリア・取付商品・作業時間もあわせてご確認いただけます。
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 施工実績カードグリッド ===================== -->
+  <!--
+    施工実績データは content/works.json から js/works.js が取得し、
+    このセクション内に .card 要素を動的に生成します。
+    Decap CMS（admin/index.html）から content/works.json を編集すると、
+    ここに表示される内容もそのまま更新されます。
+  -->
+  <section class="section" style="padding-top: 0;">
+    <div class="container">
+      <p id="works-error" class="section-lead" style="display: none; color: var(--color-text);" role="alert">
+        施工実績の読み込みに失敗しました。時間を置いて再度お試しいただくか、お問い合わせください。
+      </p>
+      <div class="grid grid-3" id="works-grid" aria-live="polite">
+        <p class="section-lead">施工実績を読み込み中です…</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== お問い合わせ・ご予約CTA ===================== -->
+  <section class="section section-alt">
+    <div class="container">
+      <div class="cta-section">
+        <h2>同じような工事のご相談も承っています</h2>
+        <p>
+          掲載中の事例と近い内容のご相談はもちろん、お住まいの設備の状態を見てからの
+          お見積りも可能です。まずはお気軽にご予約・お問い合わせください。
+        </p>
+        <div class="cta-actions">
+          <a href="reserve.html" class="btn btn-primary btn-lg">ご予約はこちら</a>
+          <a href="contact.html" class="btn btn-outline-inverse btn-lg">お問い合わせはこちら</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <a href="index.html" class="logo" aria-label="住まいの設備屋さん トップページへ">
+        <span class="logo-mark" aria-hidden="true">住</span>
+        <span class="logo-text">
+          <span class="logo-text-main">住まいの設備屋さん</span>
+          <span class="logo-text-sub">水回り設備 交換専門</span>
+        </span>
+      </a>
+      <p>東京・埼玉の一部対応エリアにて、トイレ・温水洗浄便座・蛇口・ビルトイン食洗機・ビルトインコンロ・レンジフード・IHクッキングヒーター・浴室乾燥機・換気扇の交換工事を専門に行っています。対応地域と対応商品を絞ることで、明朗な低価格と正確な施工を両立しています。</p>
+    </div>
+
+    <nav class="footer-nav" aria-label="サイト内リンク">
+      <p class="footer-heading">サイトメニュー</p>
+      <ul>
+        <li><a href="index.html">トップ</a></li>
+        <li><a href="services.html">サービス・料金</a></li>
+        <li><a href="reserve.html">ご予約</a></li>
+        <li><a href="works.html">施工実績</a></li>
+        <li><a href="area.html">対応エリア</a></li>
+        <li><a href="faq.html">よくある質問</a></li>
+        <li><a href="about.html">会社概要</a></li>
+        <li><a href="contact.html">お問い合わせ</a></li>
+      </ul>
+    </nav>
+
+    <div class="footer-contact">
+      <p class="footer-heading">お問い合わせ</p>
+      <p>メールでのお問い合わせのみとなります。</p>
+      <p><a class="text-link" href="mailto:sumainosetsubiya@gmail.com">sumainosetsubiya@gmail.com</a></p>
+      <a href="contact.html" class="btn btn-primary">お問い合わせフォームへ</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2026 住まいの設備屋さん All Rights Reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>

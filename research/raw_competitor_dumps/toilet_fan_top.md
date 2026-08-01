@@ -1,0 +1,1038 @@
+- generic [active] [ref=f404e1]:
+  - link [ref=f404e948] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - banner [ref=f404e2]:
+    - heading "トイレ換気扇交換が最大45%OFF｜工事費込み特価" [level=1] [ref=f404e5]
+    - generic [ref=f404e8]:
+      - generic [ref=f404e9]:
+        - link [ref=f404e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f404e12]
+        - link [ref=f404e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f404e14]
+        - link [ref=f404e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f404e16]
+      - generic [ref=f404e17]:
+        - generic "検索" [ref=f404e21]:
+          - combobox [ref=f404e22]:
+            - generic [ref=f404e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f404e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f404e26] [cursor=pointer]:
+            - generic [ref=f404e28]: 検索
+        - generic [ref=f404e29]:
+          - link [ref=f404e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f404e32]
+            - paragraph [ref=f404e33]: 閲覧履歴
+          - link [ref=f404e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f404e36]
+            - paragraph [ref=f404e37]: ログイン
+        - link [ref=f404e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f404e40]
+          - paragraph [ref=f404e41]: お問合せ
+        - generic [ref=f404e42]:
+          - link [ref=f404e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f404e45]
+            - paragraph [ref=f404e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f404e47]:
+    - main [ref=f404e48]:
+      - list [ref=f404e50]:
+        - listitem [ref=f404e51]:
+          - link "交換できるくん home" [ref=f404e52] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f404e53]:
+          - link "トイレ リフォーム・交換" [ref=f404e54] [cursor=pointer]:
+            - /url: /wc/
+          - text: ">"
+        - listitem [ref=f404e55]:
+          - link "トイレ用品を選ぶ" [ref=f404e56] [cursor=pointer]:
+            - /url: /wc/acce/
+          - text: ">"
+        - listitem [ref=f404e57]:
+          - link "トイレ換気扇（天井埋込型）" [ref=f404e58] [cursor=pointer]:
+            - /url: /wc/ventilation/
+      - list [ref=f404e60]:
+        - listitem [ref=f404e61]:
+          - img "旗" [ref=f404e62]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f404e63] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f404e64]:
+          - img "旗" [ref=f404e65]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f404e66] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f404e67]:
+        - img "天井埋込型換気扇の交換" [ref=f404e68]
+        - strong [ref=f404e69]:
+          - text: トイレ換気扇が ＼
+          - generic [ref=f404e70]: 11,011
+          - text: 円(税込)～ ／
+      - paragraph [ref=f404e72]: トイレリフォームと一緒に換気扇も交換しませんか？パナソニック・三菱電機・東芝の換気扇が11,011円(税込)～の特価提供！トイレ室内の脱臭効果や湿気により発生するカビなどを防ぐことができるのでおすすめです！
+      - paragraph [ref=f404e75]: トイレ換気扇交換は、トイレと同時交換のオプション工事となります。トイレ換気扇単体での交換は承っておりません。あらかじめご了承ください。
+      - generic [ref=f404e77]:
+        - generic [ref=f404e78]: 目次
+        - list [ref=f404e79]:
+          - listitem [ref=f404e80]:
+            - link "トイレ換気扇の商品一覧" [ref=f404e81] [cursor=pointer]:
+              - /url: "#to_productList"
+            - list [ref=f404e82]:
+              - listitem [ref=f404e83]:
+                - generic [ref=f404e84]: "1"
+                - link "1室換気タイプ" [ref=f404e85] [cursor=pointer]:
+                  - /url: "#to_1roomVentilation"
+              - listitem [ref=f404e86]:
+                - generic [ref=f404e87]: "2"
+                - link "2室換気タイプ" [ref=f404e88] [cursor=pointer]:
+                  - /url: "#to_2roomVentilation"
+          - listitem [ref=f404e89]:
+            - link "トイレ換気扇 お役立ち情報" [ref=f404e90] [cursor=pointer]:
+              - /url: "#to_usefulInformation"
+          - listitem [ref=f404e91]:
+            - link "トイレ換気扇交換工事について" [ref=f404e92] [cursor=pointer]:
+              - /url: "#to_replacementWork"
+            - list [ref=f404e93]:
+              - listitem [ref=f404e94]:
+                - generic [ref=f404e95]: "1"
+                - link "トイレと同時交換オプション工事です" [ref=f404e96] [cursor=pointer]:
+                  - /url: "#to_simultaneousExchange"
+              - listitem [ref=f404e97]:
+                - generic [ref=f404e98]: "2"
+                - link "交換工事費" [ref=f404e99] [cursor=pointer]:
+                  - /url: "#to_constructionCost"
+              - listitem [ref=f404e100]:
+                - generic [ref=f404e101]: "3"
+                - link "オプション工事費" [ref=f404e102] [cursor=pointer]:
+                  - /url: "#to_optionalConstructionCost"
+              - listitem [ref=f404e103]:
+                - generic [ref=f404e104]: "4"
+                - link "お見積りに必要な情報" [ref=f404e105] [cursor=pointer]:
+                  - /url: "#to_necessaryInformation"
+      - heading "トイレ換気扇の商品一覧" [level=2] [ref=f404e106]
+      - generic [ref=f404e107]:
+        - list [ref=f404e108]:
+          - listitem [ref=f404e109]:
+            - generic [ref=f404e110]: 1室換気タイプ
+          - listitem [ref=f404e111]:
+            - link "2室換気タイプ" [ref=f404e112] [cursor=pointer]:
+              - /url: "#to_2roomVentilation"
+        - generic [ref=f404e114]:
+          - link "1室換気 開口寸法 177mm角 FY-17S7 45%OFF メーカー希望小売価格 20,020円(税込) 商品特価 11,011円(税込)" [ref=f404e115] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-17S7/
+            - generic [ref=f404e116]:
+              - figure [ref=f404e117]:
+                - img "パナソニック(PANASONIC)" [ref=f404e118]
+              - generic [ref=f404e119]:
+                - generic [ref=f404e120]: 1室換気
+                - generic [ref=f404e121]: 開口寸法 177mm角
+              - figure [ref=f404e122]:
+                - img "天井埋込型換気扇 FY-17S7" [ref=f404e123]
+              - generic [ref=f404e124]: FY-17S7
+              - generic [ref=f404e125]: 45%OFF
+              - generic [ref=f404e126]: メーカー希望小売価格20,020円(税込)
+            - generic [ref=f404e127]: 商品特価11,011円(税込)
+          - link "1室換気 開口寸法 177mm角 FY-17C6U 45%OFF メーカー希望小売価格 20,240円(税込) 商品特価 11,132円(税込)" [ref=f404e128] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-17C6U/
+            - generic [ref=f404e129]:
+              - figure [ref=f404e130]:
+                - img "パナソニック(PANASONIC)" [ref=f404e131]
+              - generic [ref=f404e132]:
+                - generic [ref=f404e133]: 1室換気
+                - generic [ref=f404e134]: 開口寸法 177mm角
+              - figure [ref=f404e135]:
+                - img "天井埋込型換気扇 FY-17C6U" [ref=f404e136]
+              - generic [ref=f404e137]: FY-17C6U
+              - generic [ref=f404e138]: 45%OFF
+              - generic [ref=f404e139]: メーカー希望小売価格20,240円(税込)
+            - generic [ref=f404e140]: 商品特価11,132円(税込)
+          - link "1室換気 開口寸法 177mm角 FY-17C8 45%OFF メーカー希望小売価格 21,340円(税込) 商品特価 11,737円(税込)" [ref=f404e141] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-17C8/
+            - generic [ref=f404e142]:
+              - figure [ref=f404e143]:
+                - img "パナソニック(PANASONIC)" [ref=f404e144]
+              - generic [ref=f404e145]:
+                - generic [ref=f404e146]: 1室換気
+                - generic [ref=f404e147]: 開口寸法 177mm角
+              - figure [ref=f404e148]:
+                - img "天井埋込型換気扇 FY-17C8" [ref=f404e149]
+              - generic [ref=f404e150]: FY-17C8
+              - generic [ref=f404e151]: 45%OFF
+              - generic [ref=f404e152]: メーカー希望小売価格21,340円(税込)
+            - generic [ref=f404e153]: 商品特価11,737円(税込)
+          - link "1室換気 開口寸法 175mm角 DVF-A10K4 45%OFF メーカー希望小売価格 21,450円(税込) 商品特価 11,797円(税込)" [ref=f404e154] [cursor=pointer]:
+            - /url: /wc/ventilation/toshiba/DVF-A10K4/
+            - generic [ref=f404e155]:
+              - figure [ref=f404e156]:
+                - img "東芝(TOSHIBA)" [ref=f404e157]
+              - generic [ref=f404e158]:
+                - generic [ref=f404e159]: 1室換気
+                - generic [ref=f404e160]: 開口寸法 175mm角
+              - figure [ref=f404e161]:
+                - img "天井埋込型換気扇 DVF-A10K4" [ref=f404e162]
+              - generic [ref=f404e163]: DVF-A10K4
+              - generic [ref=f404e164]: 45%OFF
+              - generic [ref=f404e165]: メーカー希望小売価格21,450円(税込)
+            - generic [ref=f404e166]: 商品特価11,797円(税込)
+          - link "1室換気 開口寸法 175mm角 DVF-T10CL 45%OFF メーカー希望小売価格 21,670円(税込) 商品特価 11,918円(税込)" [ref=f404e167] [cursor=pointer]:
+            - /url: /wc/ventilation/toshiba/DVF-T10CL/
+            - generic [ref=f404e168]:
+              - figure [ref=f404e169]:
+                - img "東芝(TOSHIBA)" [ref=f404e170]
+              - generic [ref=f404e171]:
+                - generic [ref=f404e172]: 1室換気
+                - generic [ref=f404e173]: 開口寸法 175mm角
+              - figure [ref=f404e174]:
+                - img "天井埋込型換気扇 DVF-T10CL" [ref=f404e175]
+              - generic [ref=f404e176]: DVF-T10CL
+              - generic [ref=f404e177]: 45%OFF
+              - generic [ref=f404e178]: メーカー希望小売価格21,670円(税込)
+            - generic [ref=f404e179]: 商品特価11,918円(税込)
+          - link "1室換気 開口寸法 240mm角 FY-24S7 45%OFF メーカー希望小売価格 23,760円(税込) 商品特価 13,068円(税込)" [ref=f404e180] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-24S7/
+            - generic [ref=f404e181]:
+              - figure [ref=f404e182]:
+                - img "パナソニック(PANASONIC)" [ref=f404e183]
+              - generic [ref=f404e184]:
+                - generic [ref=f404e185]: 1室換気
+                - generic [ref=f404e186]: 開口寸法 240mm角
+              - figure [ref=f404e187]:
+                - img "天井埋込型換気扇 FY-24S7" [ref=f404e188]
+              - generic [ref=f404e189]: FY-24S7
+              - generic [ref=f404e190]: 45%OFF
+              - generic [ref=f404e191]: メーカー希望小売価格23,760円(税込)
+            - generic [ref=f404e192]: 商品特価13,068円(税込)
+          - link "1室換気 開口寸法 177mm角 FY-24C8 45%OFF メーカー希望小売価格 24,750円(税込) 商品特価 13,612円(税込)" [ref=f404e193] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-24C8/
+            - generic [ref=f404e194]:
+              - figure [ref=f404e195]:
+                - img "パナソニック(PANASONIC)" [ref=f404e196]
+              - generic [ref=f404e197]:
+                - generic [ref=f404e198]: 1室換気
+                - generic [ref=f404e199]: 開口寸法 177mm角
+              - figure [ref=f404e200]:
+                - img "天井埋込型換気扇 FY-24C8" [ref=f404e201]
+              - generic [ref=f404e202]: FY-24C8
+              - generic [ref=f404e203]: 45%OFF
+              - generic [ref=f404e204]: メーカー希望小売価格24,750円(税込)
+            - generic [ref=f404e205]: 商品特価13,612円(税込)
+          - link "1室換気 開口寸法 225mm角 DVF-T14CL 45%OFF メーカー希望小売価格 26,510円(税込) 商品特価 14,580円(税込)" [ref=f404e206] [cursor=pointer]:
+            - /url: /wc/ventilation/toshiba/DVF-T14CL/
+            - generic [ref=f404e207]:
+              - figure [ref=f404e208]:
+                - img "東芝(TOSHIBA)" [ref=f404e209]
+              - generic [ref=f404e210]:
+                - generic [ref=f404e211]: 1室換気
+                - generic [ref=f404e212]: 開口寸法 225mm角
+              - figure [ref=f404e213]:
+                - img "天井埋込型換気扇 DVF-T14CL" [ref=f404e214]
+              - generic [ref=f404e215]: DVF-T14CL
+              - generic [ref=f404e216]: 45%OFF
+              - generic [ref=f404e217]: メーカー希望小売価格26,510円(税込)
+            - generic [ref=f404e218]: 商品特価14,580円(税込)
+          - link "1室換気 開口寸法 240mm角 FY-24CK8 45%OFF メーカー希望小売価格 26,290円(税込) 商品特価 14,459円(税込)" [ref=f404e219] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-24CK8/
+            - generic [ref=f404e220]:
+              - figure [ref=f404e221]:
+                - img "パナソニック(PANASONIC)" [ref=f404e222]
+              - generic [ref=f404e223]:
+                - generic [ref=f404e224]: 1室換気
+                - generic [ref=f404e225]: 開口寸法 240mm角
+              - figure [ref=f404e226]:
+                - img "天井埋込型換気扇 FY-24CK8" [ref=f404e227]
+              - generic [ref=f404e228]: FY-24CK8
+              - generic [ref=f404e229]: 45%OFF
+              - generic [ref=f404e230]: メーカー希望小売価格26,290円(税込)
+            - generic [ref=f404e231]: 商品特価14,459円(税込)
+          - link "1室換気 開口寸法 177mm角 FY-17CD8V 45%OFF メーカー希望小売価格 27,280円(税込) 商品特価 15,004円(税込)" [ref=f404e232] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-17CD8V/
+            - generic [ref=f404e233]:
+              - figure [ref=f404e234]:
+                - img "パナソニック(PANASONIC)" [ref=f404e235]
+              - generic [ref=f404e236]:
+                - generic [ref=f404e237]: 1室換気
+                - generic [ref=f404e238]: 開口寸法 177mm角
+              - figure [ref=f404e239]:
+                - img "天井埋込型換気扇 FY-17CD8V" [ref=f404e240]
+              - generic [ref=f404e241]: FY-17CD8V
+              - generic [ref=f404e242]: 45%OFF
+              - generic [ref=f404e243]: メーカー希望小売価格27,280円(税込)
+            - generic [ref=f404e244]: 商品特価15,004円(税込)
+          - link "1室換気 開口寸法 180mm角 VD-10ZVC7 45%OFF メーカー希望小売価格 32,780円(税込) 商品特価 18,029円(税込)" [ref=f404e245] [cursor=pointer]:
+            - /url: /wc/ventilation/mitsubishi/VD-10ZVC7/
+            - generic [ref=f404e246]:
+              - figure [ref=f404e247]:
+                - img "三菱電機(MITSUBISHI)" [ref=f404e248]
+              - generic [ref=f404e249]:
+                - generic [ref=f404e250]: 1室換気
+                - generic [ref=f404e251]: 開口寸法 180mm角
+              - figure [ref=f404e252]:
+                - img "天井埋込型換気扇 VD-10ZVC7" [ref=f404e253]
+              - generic [ref=f404e254]: VD-10ZVC7
+              - generic [ref=f404e255]: 45%OFF
+              - generic [ref=f404e256]: メーカー希望小売価格32,780円(税込)
+            - generic [ref=f404e257]: 商品特価18,029円(税込)
+          - link "1室換気 開口寸法 270mm角 FY-27C8 45%OFF メーカー希望小売価格 38,500円(税込) 商品特価 21,175円(税込)" [ref=f404e258] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-27C8/
+            - generic [ref=f404e259]:
+              - figure [ref=f404e260]:
+                - img "パナソニック(PANASONIC)" [ref=f404e261]
+              - generic [ref=f404e262]:
+                - generic [ref=f404e263]: 1室換気
+                - generic [ref=f404e264]: 開口寸法 270mm角
+              - figure [ref=f404e265]:
+                - img "天井埋込型換気扇 FY-27C8" [ref=f404e266]
+              - generic [ref=f404e267]: FY-27C8
+              - generic [ref=f404e268]: 45%OFF
+              - generic [ref=f404e269]: メーカー希望小売価格38,500円(税込)
+            - generic [ref=f404e270]: 商品特価21,175円(税込)
+          - link "1室換気 開口寸法 260mm角 VD-15ZVC7 45%OFF メーカー希望小売価格 50,820円(税込) 商品特価 27,951円(税込)" [ref=f404e271] [cursor=pointer]:
+            - /url: /wc/ventilation/mitsubishi/VD-15ZVC7/
+            - generic [ref=f404e272]:
+              - figure [ref=f404e273]:
+                - img "三菱電機(MITSUBISHI)" [ref=f404e274]
+              - generic [ref=f404e275]:
+                - generic [ref=f404e276]: 1室換気
+                - generic [ref=f404e277]: 開口寸法 260mm角
+              - figure [ref=f404e278]:
+                - img "天井埋込型換気扇 VD-15ZVC7" [ref=f404e279]
+              - generic [ref=f404e280]: VD-15ZVC7
+              - generic [ref=f404e281]: 45%OFF
+              - generic [ref=f404e282]: メーカー希望小売価格50,820円(税込)
+            - generic [ref=f404e283]: 商品特価27,951円(税込)
+      - generic [ref=f404e284]:
+        - list [ref=f404e285]:
+          - listitem [ref=f404e286]:
+            - link "1室換気タイプ" [ref=f404e287] [cursor=pointer]:
+              - /url: "#to_1roomVentilation"
+          - listitem [ref=f404e288]:
+            - generic [ref=f404e289]: 2室換気タイプ
+        - link "2室換気 開口寸法 260mm角 VD-15ZFVC7 45%OFF メーカー希望小売価格 59,620円(税込) 商品特価 32,791円(税込)" [ref=f404e292] [cursor=pointer]:
+          - /url: /wc/ventilation/mitsubishi/VD-15ZFVC7/
+          - generic [ref=f404e293]:
+            - figure [ref=f404e294]:
+              - img "三菱電機(MITSUBISHI)" [ref=f404e295]
+            - generic [ref=f404e296]:
+              - generic [ref=f404e297]: 2室換気
+              - generic [ref=f404e298]: 開口寸法 260mm角
+            - figure [ref=f404e299]:
+              - img "天井埋込型換気扇 VD-15ZFVC7" [ref=f404e300]
+            - generic [ref=f404e301]: VD-15ZFVC7
+            - generic [ref=f404e302]: 45%OFF
+            - generic [ref=f404e303]: メーカー希望小売価格59,620円(税込)
+          - generic [ref=f404e304]: 商品特価32,791円(税込)
+      - heading "トイレ換気扇 お役立ち情報" [level=2] [ref=f404e305]
+      - generic [ref=f404e307]:
+        - link "トイレ換気扇の故障・寿命｜ファンや内部にホコリなどの汚れが溜まっているとキュルキュルといった異音が発生しやすく、掃除しても直らない場合はモーターの劣化が原因の可能性があります トイレ換気扇の故障・寿命 トイレ換気扇の故障の症状・原因や、換気扇の寿命についてご紹介します。" [ref=f404e309] [cursor=pointer]:
+          - /url: /wc/ventilation/life.html
+          - img "トイレ換気扇の故障・寿命｜ファンや内部にホコリなどの汚れが溜まっているとキュルキュルといった異音が発生しやすく、掃除しても直らない場合はモーターの劣化が原因の可能性があります" [ref=f404e311]
+          - paragraph [ref=f404e312]: トイレ換気扇の故障・寿命
+          - generic [ref=f404e313]: トイレ換気扇の故障の症状・原因や、換気扇の寿命についてご紹介します。
+        - link "ホコリが溜まりやすい換気扇内部の掃除方法｜感電や漏電の原因となるためブレーカーを切り、本体カバー(ルーバー)、フィルター、シロッコファンの順に取り外す トイレ換気扇の掃除 トイレに設置されている天井埋込型換気扇のお掃除のコツをご紹介します。" [ref=f404e315] [cursor=pointer]:
+          - /url: /wc/ventilation/cleaning.html
+          - img "ホコリが溜まりやすい換気扇内部の掃除方法｜感電や漏電の原因となるためブレーカーを切り、本体カバー(ルーバー)、フィルター、シロッコファンの順に取り外す" [ref=f404e317]
+          - paragraph [ref=f404e318]: トイレ換気扇の掃除
+          - generic [ref=f404e319]: トイレに設置されている天井埋込型換気扇のお掃除のコツをご紹介します。
+        - link "トイレ換気扇の電気代の目安は？｜24時間換気システムで電気代はいくらかかる？など消費電力を比較して算出しました。 トイレ換気扇の電気代 トイレ換気扇を使用した場合にかかる電気代についてご紹介します。" [ref=f404e321] [cursor=pointer]:
+          - /url: /wc/ventilation/electricity_bill.html
+          - img "トイレ換気扇の電気代の目安は？｜24時間換気システムで電気代はいくらかかる？など消費電力を比較して算出しました。" [ref=f404e323]
+          - paragraph [ref=f404e324]: トイレ換気扇の電気代
+          - generic [ref=f404e325]: トイレ換気扇を使用した場合にかかる電気代についてご紹介します。
+      - heading "トイレ換気扇交換工事について" [level=2] [ref=f404e326]
+      - heading "トイレと同時交換オプション工事です" [level=3] [ref=f404e327]
+      - generic [ref=f404e328]:
+        - paragraph [ref=f404e329]:
+          - emphasis [ref=f404e330]: トイレ換気扇交換は、トイレと同時交換のオプション工事となります。トイレ換気扇単体での交換は承っておりません。あらかじめご了承ください。
+        - paragraph [ref=f404e331]:
+          - link "トイレ交換お見積りフォーム" [ref=f404e332] [cursor=pointer]:
+            - /url: /system/estimateForm/form/toilet/
+          - text: 内で、現在お使いの換気扇メーカー・品番をお教えいただけましたら、最適な機種にてお見積りいたします。
+      - heading "トイレ換気扇 交換工事" [level=3] [ref=f404e333]
+      - paragraph [ref=f404e335]: 1台の換気扇で連動して換気する室数の違いで交換工事費が異なります。
+      - table [ref=f404e337]:
+        - rowgroup [ref=f404e338]:
+          - row [ref=f404e339]:
+            - rowheader "1室換気型" [ref=f404e340]
+            - cell [ref=f404e342]:
+              - paragraph [ref=f404e343]: 17,800円(税込)
+          - row [ref=f404e344]:
+            - rowheader "2室換気・3室換気型" [ref=f404e345]
+            - cell [ref=f404e347]:
+              - paragraph [ref=f404e348]: 22,800円(税込)
+      - heading "トイレ換気扇 オプション工事費" [level=3] [ref=f404e349]
+      - table [ref=f404e351]:
+        - rowgroup [ref=f404e352]:
+          - row [ref=f404e353]:
+            - rowheader "開口調整費" [ref=f404e354]
+            - cell [ref=f404e356]:
+              - paragraph [ref=f404e357]: 11,000円(税込)
+          - row [ref=f404e358]:
+            - rowheader "単独スイッチ配線 ※現状が照明と同一スイッチで、照明と換気扇のスイッチを分けたい場合 ※コスモほたるスイッチ使用" [ref=f404e359]:
+              - generic [ref=f404e360]: 単独スイッチ配線
+              - generic [ref=f404e361]: ※現状が照明と同一スイッチで、照明と換気扇のスイッチを分けたい場合
+              - generic [ref=f404e362]: ※コスモほたるスイッチ使用
+            - cell [ref=f404e363]:
+              - paragraph [ref=f404e364]: 5,500円(税込)
+          - row [ref=f404e365]:
+            - rowheader "スイッチ取替 ※スイッチも一緒に取付けたい場合 ※コスモほたるスイッチ使用" [ref=f404e366]:
+              - generic [ref=f404e367]: スイッチ取替
+              - generic [ref=f404e368]: ※スイッチも一緒に取付けたい場合
+              - generic [ref=f404e369]: ※コスモほたるスイッチ使用
+            - cell [ref=f404e370]:
+              - paragraph [ref=f404e371]: 11,000円(税込)
+      - heading "見積りに必要な情報" [level=3] [ref=f404e372]
+      - generic [ref=f404e373]:
+        - generic [ref=f404e374]:
+          - heading "現在お使いの換気扇品番をご確認ください" [level=4] [ref=f404e375]
+          - generic [ref=f404e376]:
+            - figure "換気扇カバーに記載されている場合" [ref=f404e377]:
+              - link [ref=f404e379] [cursor=pointer]:
+                - /url: /wc/ventilation/img/160310-kakunin_01_1-big.jpg
+                - img "換気扇カバーに記載されている場合の換気扇の品番確認方法" [ref=f404e380]
+            - figure "換気扇カバーを外して中に記載されている場合" [ref=f404e381]:
+              - link [ref=f404e383] [cursor=pointer]:
+                - /url: /wc/ventilation/img/160310-kakunin_01_2-big.jpg
+                - img "換気扇カバーを外して中に記載されている場合の換気扇の品番確認方法" [ref=f404e384]
+        - generic [ref=f404e385]:
+          - heading "現在の設置状況がわかる写真" [level=4] [ref=f404e386]
+          - generic [ref=f404e387]:
+            - figure [ref=f404e388]:
+              - generic [ref=f404e389]: 換気扇と天井全体が確認できる画像
+              - img "換気扇と天井全体が確認できる画像の例" [ref=f404e390]
+            - figure [ref=f404e391]:
+              - generic [ref=f404e392]: 換気扇のカバーを外して換気扇全体が確認できる画像
+              - img "換気扇のカバーを外して換気扇全体が確認できる画像の例" [ref=f404e393]
+            - figure [ref=f404e394]:
+              - generic [ref=f404e395]: 換気扇のスイッチが確認できる画像
+              - img "換気扇のスイッチが確認できる画像の例" [ref=f404e396]
+      - heading "トイレ換気扇の交換・取り付け依頼について" [level=2] [ref=f404e397]
+      - generic [ref=f404e398]:
+        - generic [ref=f404e399]:
+          - paragraph [ref=f404e400]: トイレ本体の交換をご依頼いただく際にお見積りフォームの「ご質問欄」よりお申しつけください。
+          - paragraph [ref=f404e401]: 他の品番も取り扱いしておりますので、ご希望の方は各メーカーのメーカーカタログ等にて商品をお調べいただき、見積り依頼の際にご希望の商品品番を記載の上、送信してください。
+        - figure [ref=f404e402]:
+          - img "トイレ換気扇の交換・取り付け依頼について" [ref=f404e403]
+      - link [ref=f404e405] [cursor=pointer]:
+        - /url: /system/estimateForm/form/toilet/
+        - img "現地調査不要！今すぐ見積りを取ることができます！" [ref=f404e406]
+      - generic [ref=f404e409]:
+        - link [ref=f404e410] [cursor=pointer]:
+          - /url: /guar/
+          - img "工事保証について" [ref=f404e411]
+        - link [ref=f404e412] [cursor=pointer]:
+          - /url: /site_guide/use/pay.html
+          - img "お支払いについて" [ref=f404e413]
+      - heading "トイレリフォームのオプション工事・費用" [level=3] [ref=f404e414]
+      - paragraph [ref=f404e416]: トイレ本体の交換と一緒に、様々なオプション工事もお選びいただけます。トイレ室内の内装やリフォームをセットで行っても時間（工期）は約半日～１日で完了するのでおすすめです。
+      - generic [ref=f404e418]:
+        - link [ref=f404e420] [cursor=pointer]:
+          - /url: /wc/pricelist/
+          - img "工事価格一覧（いろいろ込みの安心価格）| トイレ交換の基本工事費、システムトイレの設置費、床張り替えなどのオプション費用を説明します。" [ref=f404e422]
+          - paragraph [ref=f404e423]: 工事価格一覧（いろいろ込みの安心価格） トイレ交換の基本工事費、システムトイレの設置費、床張り替えなどのオプション費用を説明します。
+        - link [ref=f404e425] [cursor=pointer]:
+          - /url: /wc/option/cf.html
+          - img "おすすめ内装オプション 床の張り替え | トイレ交換の際にどうしても発生してしまう設置跡を、クッションフロア張り替えで美しく！" [ref=f404e427]
+          - paragraph [ref=f404e428]:
+            - generic [ref=f404e429]: おすすめ内装オプション床の張り替え
+            - text: トイレ交換の際にどうしても発生してしまう設置跡を、クッションフロア張り替えで美しく！
+        - link [ref=f404e431] [cursor=pointer]:
+          - /url: /wc/option/cloth.html
+          - img "おすすめ内装オプション 壁紙の張り替え | トイレ交換と一緒に壁紙クロスも張り替えれば、新築時のようなトイレ空間に早変わり！" [ref=f404e433]
+          - paragraph [ref=f404e434]:
+            - generic [ref=f404e435]: おすすめ内装オプション壁紙の張り替え
+            - text: トイレ交換と一緒に壁紙クロスも張り替えれば、新築時のようなトイレ空間に早変わり！
+        - link [ref=f404e437] [cursor=pointer]:
+          - /url: /washlet/
+          - img "トイレ便座のみ交換 | 組み合わせトイレで機能部(温水洗浄便座)だけを工事セットで交換できます！" [ref=f404e439]
+          - paragraph [ref=f404e440]: トイレ便座のみ交換 ウォシュレット・温水洗浄便座ほか
+        - link [ref=f404e442] [cursor=pointer]:
+          - /url: /wc/ventilation/
+          - img "トイレ換気扇の交換 | 便器交換とセットでトイレ室内換気扇の交換もできるオプションメニュー！" [ref=f404e444]
+          - paragraph [ref=f404e445]: トイレ換気扇の交換 トイレ交換とセットで工事対応
+        - link "紙巻器・タオル掛けの交換 | ペーパーホルダーとタオル掛けを一緒に取り付けできるトイレリフォームのオプション工事。 紙巻器・タオル掛けの交換 ペーパーホルダーも同時に交換" [ref=f404e447] [cursor=pointer]:
+          - /url: /wc/acce/
+          - img "紙巻器・タオル掛けの交換 | ペーパーホルダーとタオル掛けを一緒に取り付けできるトイレリフォームのオプション工事。" [ref=f404e449]
+          - paragraph [ref=f404e450]:
+            - generic [ref=f404e451]: 紙巻器・タオル掛けの交換
+            - text: ペーパーホルダーも同時に交換
+        - link [ref=f404e453] [cursor=pointer]:
+          - /url: /wc/hadle/
+          - img "トイレ手すりの交換 | 樹脂製と、自然な風合いがよい天然木手すり２種類用意。I型、L型手すりどちらも対応可能です。" [ref=f404e455]
+          - paragraph [ref=f404e456]: トイレ手すりの交換 バリアフリーのリフォームにも最適
+        - link [ref=f404e458] [cursor=pointer]:
+          - /url: /wc/hand_wash/
+          - img "トイレ手洗器の交換 | 壁掛けタイプ、埋め込みタイプどちらの洗面器もトイレ交換のオプション工事で承ります！" [ref=f404e460]
+          - paragraph [ref=f404e461]: トイレ手洗器の交換 壁掛けタイプの手洗器交換
+        - link [ref=f404e463] [cursor=pointer]:
+          - /url: /wc/sound/
+          - img "トイレ擬音装置の設置 | 後付け（露出）タイプの乾電池式なら、電源が無くても簡単に後付けできます。" [ref=f404e465]
+          - paragraph [ref=f404e466]: トイレ擬音装置の設置 後付けの乾電池式タイプ
+      - generic [ref=f404e467]:
+        - generic [ref=f404e468]: ※バリアフリーのリフォームで肘掛け紙巻器（ペーパーホルダー）や手すりの設置は別途、オプション費が発生いたします。
+        - generic [ref=f404e469]: ※トイレ修理、水道管の水漏れ修理はお受けしておりません。
+        - generic [ref=f404e470]: ※クッションフロアの張替え工事でフローリングやタイルの上に貼る場合はご相談ください。また、フローリングやタイルの張り替えのみの工事は行っておりません。
+      - heading "トイレリフォーム 人気ページ" [level=3] [ref=f404e471]
+      - generic [ref=f404e473]:
+        - link [ref=f404e474] [cursor=pointer]:
+          - /url: /wc/
+          - img "トイレリフォーム トップページ" [ref=f404e476]
+          - generic [ref=f404e477]:
+            - paragraph [ref=f404e478]: トイレ トップページ
+            - paragraph [ref=f404e479]: TOTO、パナソニック、LIXILのトイレが驚きのネット特価で交換できます。
+        - link [ref=f404e480] [cursor=pointer]:
+          - /url: /wc/choice/type/
+          - img "トイレの種類・選び方" [ref=f404e482]
+          - generic [ref=f404e483]:
+            - paragraph [ref=f404e484]: トイレの種類・選び方
+            - paragraph [ref=f404e485]: 組み合わせ、一体型、タンクレス、システムトイレの特長を徹底解説します。
+        - link [ref=f404e486] [cursor=pointer]:
+          - /url: /wc/choice/ranking/
+          - img "トイレ 人気ランキング" [ref=f404e488]
+          - generic [ref=f404e489]:
+            - paragraph [ref=f404e490]: トイレ 人気ランキング
+            - paragraph [ref=f404e491]: 工事費込みのお得なセット！当社人気トイレをランキング形式でご紹介します。
+        - link [ref=f404e492] [cursor=pointer]:
+          - /url: /wc/search/
+          - img "トイレ 機能・条件を比較して選ぶ" [ref=f404e494]
+          - generic [ref=f404e495]:
+            - paragraph [ref=f404e496]: 機能・条件を比較して選ぶ
+            - paragraph [ref=f404e497]: メーカー、機能、排水タイプ、口コミなどで900点以上のトイレから自由に絞り込めます。
+        - link [ref=f404e498] [cursor=pointer]:
+          - /url: /wc/choice/price/
+          - img "トイレリフォーム費用相場" [ref=f404e500]
+          - generic [ref=f404e501]:
+            - paragraph [ref=f404e502]: トイレリフォーム費用相場
+            - paragraph [ref=f404e503]: 内装工事も含めたコミコミの費用相場を詳しく解説！最安値セットもご紹介します。
+        - link [ref=f404e504] [cursor=pointer]:
+          - /url: /wc/option/cf.html
+          - img "床・壁紙の張り替えリフォーム" [ref=f404e506]
+          - generic [ref=f404e507]:
+            - paragraph [ref=f404e508]: 床・壁紙の張り替えリフォーム
+            - paragraph [ref=f404e509]: トイレの内装工事も同時に行うことで、トイレ空間をリフォーム！
+    - generic [ref=f404e511]:
+      - link [ref=f404e513] [cursor=pointer]:
+        - /url: /wc/choice/ranking/
+        - img "トイレ人気・売れ筋ランキング" [ref=f404e514]
+      - list [ref=f404e515]:
+        - generic [ref=f404e516]: トイレリフォーム
+        - listitem [ref=f404e518]:
+          - link "トイレリフォームTOP" [ref=f404e519] [cursor=pointer]:
+            - /url: /wc/
+        - listitem [ref=f404e520]:
+          - link "ご利用の流れ" [ref=f404e521] [cursor=pointer]:
+            - /url: /wc/pop.html
+        - listitem [ref=f404e522]:
+          - link "サイトマップ" [ref=f404e523] [cursor=pointer]:
+            - /url: /wc/sitemap/
+      - list [ref=f404e524]:
+        - generic [ref=f404e525]: トイレを選ぶ
+        - listitem [ref=f404e527]:
+          - link "トイレ種類から選ぶ" [ref=f404e528] [cursor=pointer]:
+            - /url: /wc/choice/type/
+        - listitem [ref=f404e529]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f404e530] [cursor=pointer]:
+            - /url: /wc/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f404e531]:
+          - link "おすすめ・人気ランキングから選ぶ" [ref=f404e532] [cursor=pointer]:
+            - /url: /wc/choice/ranking/
+        - listitem [ref=f404e533]:
+          - link "価格・費用相場から選ぶ" [ref=f404e534] [cursor=pointer]:
+            - /url: /wc/choice/price/
+        - listitem [ref=f404e535]:
+          - link "内装工事付きトイレリフォームプラン" [ref=f404e536] [cursor=pointer]:
+            - /url: /wc/reformplan/
+        - listitem [ref=f404e537]:
+          - link "節水で選ぶ" [ref=f404e538] [cursor=pointer]:
+            - /url: /wc/product/select-eco.html
+        - listitem [ref=f404e539]:
+          - link "タンクレス徹底比較" [ref=f404e540] [cursor=pointer]:
+            - /url: /wc/choice/type/tankless/
+        - listitem [ref=f404e541]:
+          - link "システムトイレ" [ref=f404e542] [cursor=pointer]:
+            - /url: /wc/product/system_wc/
+        - listitem [ref=f404e543]:
+          - link "トイレ交換費用一覧" [ref=f404e544] [cursor=pointer]:
+            - /url: /wc/price/
+        - listitem [ref=f404e545]:
+          - link "メーカーシリーズから選ぶ" [ref=f404e546] [cursor=pointer]:
+            - /url: /wc/product/
+        - listitem [ref=f404e547]:
+          - link "TOTOロゴ TOTO TOP >" [ref=f404e548] [cursor=pointer]:
+            - /url: /wc/toto/
+            - img "TOTOロゴ" [ref=f404e549]
+            - generic [ref=f404e550]: TOTO TOP >
+        - listitem [ref=f404e551]:
+          - link "TOTO トイレ交換費用" [ref=f404e552] [cursor=pointer]:
+            - /url: /wc/toto/price/
+        - listitem [ref=f404e553]:
+          - link "ピュアレスト徹底比較" [ref=f404e554] [cursor=pointer]:
+            - /url: /wc/toto/qr-ex-difference.html
+        - listitem [ref=f404e555]:
+          - link "ピュアレストQR" [ref=f404e556] [cursor=pointer]:
+            - /url: /wc/choice/brand/toto/purerest_qr/
+        - listitem [ref=f404e557]:
+          - link "ピュアレストEX" [ref=f404e558] [cursor=pointer]:
+            - /url: /wc/toto/purerest_ex.html
+        - listitem [ref=f404e559]:
+          - link "ピュアレストMR" [ref=f404e560] [cursor=pointer]:
+            - /url: /wc/toto/purerest_mr.html
+        - listitem [ref=f404e561]:
+          - link "GG-800/GG" [ref=f404e562] [cursor=pointer]:
+            - /url: /wc/toto/gg.html
+        - listitem [ref=f404e563]:
+          - link "GGA" [ref=f404e564] [cursor=pointer]:
+            - /url: /wc/toto/gga.html
+        - listitem [ref=f404e565]:
+          - link "ネオレストTOP" [ref=f404e566] [cursor=pointer]:
+            - /url: /wc/toto/neorest.html
+        - listitem [ref=f404e567]:
+          - link "ネオレスト徹底比較" [ref=f404e568] [cursor=pointer]:
+            - /url: /wc/toto/neorest-comparison.html
+        - listitem [ref=f404e569]:
+          - link "ネオレストRS" [ref=f404e570] [cursor=pointer]:
+            - /url: /wc/toto/neorest_rh.html
+        - listitem [ref=f404e571]:
+          - link "ネオレストAS" [ref=f404e572] [cursor=pointer]:
+            - /url: /wc/toto/neorest_ah.html
+        - listitem [ref=f404e573]:
+          - link "ネオレストLS" [ref=f404e574] [cursor=pointer]:
+            - /url: /wc/toto/neorest_ls.html
+        - listitem [ref=f404e575]:
+          - link "ネオレストNX" [ref=f404e576] [cursor=pointer]:
+            - /url: /wc/toto/neorest_nx.html
+        - listitem [ref=f404e577]:
+          - link "ネオレスト手洗付" [ref=f404e578] [cursor=pointer]:
+            - /url: /wc/toto/neorest_or.html
+        - listitem [ref=f404e579]:
+          - link "レストパル" [ref=f404e580] [cursor=pointer]:
+            - /url: /wc/toto/restpal.html
+        - listitem [ref=f404e581]:
+          - link "パブリックリモデル" [ref=f404e582] [cursor=pointer]:
+            - /url: /wc/toto/public.html
+        - listitem [ref=f404e583]:
+          - link "量産型一般品便器" [ref=f404e584] [cursor=pointer]:
+            - /url: /wc/toto/for-pro.html
+        - listitem [ref=f404e585]:
+          - link "コンパクトリモデル" [ref=f404e586] [cursor=pointer]:
+            - /url: /wc/toto/corner/
+        - listitem [ref=f404e587]:
+          - link "パナソニックロゴ パナソニックTOP >" [ref=f404e588] [cursor=pointer]:
+            - /url: /wc/choice/brand/panasonic/
+            - img "パナソニックロゴ" [ref=f404e589]
+            - generic [ref=f404e590]: パナソニックTOP >
+        - listitem [ref=f404e591]:
+          - link "Panasonic トイレ交換費用" [ref=f404e592] [cursor=pointer]:
+            - /url: /wc/panasonic/price/
+        - listitem [ref=f404e593]:
+          - link "NewアラウーノV" [ref=f404e594] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_v.html
+        - listitem [ref=f404e595]:
+          - link "アラウーノS160" [ref=f404e596] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_s160.html
+        - listitem [ref=f404e597]:
+          - link "アラウーノL150" [ref=f404e598] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_l150.html
+        - listitem [ref=f404e599]:
+          - link "LIXILロゴ LIXIL(INAX) TOP >" [ref=f404e600] [cursor=pointer]:
+            - /url: /wc/lixil/
+            - img "LIXILロゴ" [ref=f404e601]
+            - generic [ref=f404e602]: LIXIL(INAX) TOP >
+        - listitem [ref=f404e603]:
+          - link "LIXIL トイレ交換費用" [ref=f404e604] [cursor=pointer]:
+            - /url: /wc/lixil/price/
+        - listitem [ref=f404e605]:
+          - link "アメージュ便器" [ref=f404e606] [cursor=pointer]:
+            - /url: /wc/lixil/amagez_b_fl.html
+        - listitem [ref=f404e607]:
+          - link "アメージュシャワートイレ" [ref=f404e608] [cursor=pointer]:
+            - /url: /wc/lixil/amage_s.html
+        - listitem [ref=f404e609]:
+          - link "プレアスLSタイプ" [ref=f404e610] [cursor=pointer]:
+            - /url: /wc/lixil/preus.html
+        - listitem [ref=f404e611]:
+          - link "サティスTOP" [ref=f404e612] [cursor=pointer]:
+            - /url: /wc/lixil/satis.html
+        - listitem [ref=f404e613]:
+          - link "サティスXタイプ" [ref=f404e614] [cursor=pointer]:
+            - /url: /wc/lixil/satis_x.html
+        - listitem [ref=f404e615]:
+          - link "サティスGタイプ" [ref=f404e616] [cursor=pointer]:
+            - /url: /wc/lixil/satis_g.html
+        - listitem [ref=f404e617]:
+          - link "サティスSタイプ" [ref=f404e618] [cursor=pointer]:
+            - /url: /wc/lixil/satis_s.html
+        - listitem [ref=f404e619]:
+          - link "Jフィット" [ref=f404e620] [cursor=pointer]:
+            - /url: /wc/lixil/jfit.html
+        - listitem [ref=f404e621]:
+          - link "Janisロゴ Janis TOP >" [ref=f404e622] [cursor=pointer]:
+            - /url: /wc/janis/
+            - img "Janisロゴ" [ref=f404e623]
+            - generic [ref=f404e624]: Janis TOP >
+      - list [ref=f404e625]:
+        - generic [ref=f404e626]: トイレの排水方式
+        - listitem [ref=f404e628]:
+          - link "交換可能なトイレの確認" [ref=f404e629] [cursor=pointer]:
+            - /url: /wc/product/matching-type.html
+        - listitem [ref=f404e630]:
+          - link "排水方式について" [ref=f404e631] [cursor=pointer]:
+            - /url: /wc/product/matching-drain.html
+      - list [ref=f404e632]:
+        - generic [ref=f404e633]: 交換工事について
+        - listitem [ref=f404e635]:
+          - link "交換工事費" [ref=f404e636] [cursor=pointer]:
+            - /url: /wc/pricelist/
+        - listitem [ref=f404e637]:
+          - link "床クッションフロア張替" [ref=f404e638] [cursor=pointer]:
+            - /url: /wc/option/cf.html
+        - listitem [ref=f404e639]:
+          - link "壁紙の張替" [ref=f404e640] [cursor=pointer]:
+            - /url: /wc/option/cloth.html
+        - listitem [ref=f404e641]:
+          - link "工事対応エリア" [ref=f404e642] [cursor=pointer]:
+            - /url: /wc/area/
+        - listitem [ref=f404e643]:
+          - link "無料10年保証" [ref=f404e644] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f404e645]:
+          - link "交換にかかる時間・日数" [ref=f404e646] [cursor=pointer]:
+            - /url: /wc/how/duration/
+        - listitem [ref=f404e647]:
+          - link "よくあるご質問" [ref=f404e648] [cursor=pointer]:
+            - /url: /wc/faq/
+      - list [ref=f404e649]:
+        - generic [ref=f404e650]: お住まいごとの交換
+        - listitem [ref=f404e652]:
+          - link "マンションのトイレ交換" [ref=f404e653] [cursor=pointer]:
+            - /url: /wc/style/mansion/
+        - listitem [ref=f404e654]:
+          - link "賃貸住宅のトイレ交換" [ref=f404e655] [cursor=pointer]:
+            - /url: /wc/style/rental/
+        - listitem [ref=f404e656]:
+          - link "アパートのトイレ交換" [ref=f404e657] [cursor=pointer]:
+            - /url: /wc/style/apartment/
+        - listitem [ref=f404e658]:
+          - link "団地のトイレ交換" [ref=f404e659] [cursor=pointer]:
+            - /url: /wc/style/danchi/
+        - listitem [ref=f404e660]:
+          - link "市営住宅のトイレ交換" [ref=f404e661] [cursor=pointer]:
+            - /url: /wc/style/municipal/
+        - listitem [ref=f404e662]:
+          - link "2階のトイレ交換" [ref=f404e663] [cursor=pointer]:
+            - /url: /wc/style/upstairs/
+      - list [ref=f404e664]:
+        - generic [ref=f404e665]: トイレ交換ノウハウ
+        - listitem [ref=f404e667]:
+          - link "トイレ交換が安い理由" [ref=f404e668] [cursor=pointer]:
+            - /url: /wc/choice/cutprice/
+        - listitem [ref=f404e669]:
+          - link "トイレ交換の見積りとは？" [ref=f404e670] [cursor=pointer]:
+            - /url: /wc/estimate/
+        - listitem [ref=f404e671]:
+          - link "トイレリフォームのコツ" [ref=f404e672] [cursor=pointer]:
+            - /url: /wc/case_study/
+        - listitem [ref=f404e673]:
+          - link "トイレをまるごと交換" [ref=f404e674] [cursor=pointer]:
+            - /url: /wc/how/whole/
+        - listitem [ref=f404e675]:
+          - link "トイレの交換時期は？" [ref=f404e676] [cursor=pointer]:
+            - /url: /wc/how/timing/
+        - listitem [ref=f404e677]:
+          - link "トイレの現調とは？" [ref=f404e678] [cursor=pointer]:
+            - /url: /wc/how/survey/
+        - listitem [ref=f404e679]:
+          - link "トイレを交換する理由" [ref=f404e680] [cursor=pointer]:
+            - /url: /wc/how/reason/
+        - listitem [ref=f404e681]:
+          - link "トイレ交換業者の選び方" [ref=f404e682] [cursor=pointer]:
+            - /url: /wc/place/
+      - list [ref=f404e683]:
+        - generic [ref=f404e684]: トイレ関連情報
+        - listitem [ref=f404e686]:
+          - link "トイレリフォーム補助金" [ref=f404e687] [cursor=pointer]:
+            - /url: /wc/subsidy/
+        - listitem [ref=f404e688]:
+          - link "トイレつまりの解消法" [ref=f404e689] [cursor=pointer]:
+            - /url: /wc/clogged/
+        - listitem [ref=f404e690]:
+          - link "トイレの水圧確認方法" [ref=f404e691] [cursor=pointer]:
+            - /url: /wc/toto/neorest_rh2.html
+        - listitem [ref=f404e692]:
+          - link "和式から洋式トイレに" [ref=f404e693] [cursor=pointer]:
+            - /url: /wc/wayo/
+      - list [ref=f404e694]:
+        - generic [ref=f404e695]: トイレ関連商品
+        - listitem [ref=f404e697]:
+          - link "トイレ便座交換TOP (ウォシュレット)" [ref=f404e698] [cursor=pointer]:
+            - /url: /washlet/
+            - text: トイレ便座交換TOP(ウォシュレット)
+        - listitem [ref=f404e699]:
+          - link "暖房便座・普通便座" [ref=f404e700] [cursor=pointer]:
+            - /url: /washlet/benza/
+        - listitem [ref=f404e701]:
+          - link "紙巻器・タオル掛け" [ref=f404e702] [cursor=pointer]:
+            - /url: /wc/acce/
+        - listitem [ref=f404e703]:
+          - link "手洗器" [ref=f404e704] [cursor=pointer]:
+            - /url: /wc/hand_wash/
+        - listitem [ref=f404e705]:
+          - link "手すり" [ref=f404e706] [cursor=pointer]:
+            - /url: /wc/hadle/
+        - listitem [ref=f404e707]:
+          - link "トイレ用擬音装置" [ref=f404e708] [cursor=pointer]:
+            - /url: /wc/sound/
+        - listitem [ref=f404e709]:
+          - generic [ref=f404e710]: トイレ換気扇
+      - list [ref=f404e711]:
+        - generic [ref=f404e712]: お客様の声・施工事例
+        - listitem [ref=f404e714]:
+          - link "お客様の声" [ref=f404e715] [cursor=pointer]:
+            - /url: /voice/?s=%E3%83%88%E3%82%A4%E3%83%AC&x=0&y=0
+        - listitem [ref=f404e716]:
+          - link "施工事例" [ref=f404e717] [cursor=pointer]:
+            - /url: /wc/blog/
+        - listitem [ref=f404e718]:
+          - link "スタッフブログ トイレ編" [ref=f404e719] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/wc
+        - listitem [ref=f404e720]:
+          - link "トイレ 商品レビュー" [ref=f404e721] [cursor=pointer]:
+            - /url: /review/?category=wc
+  - generic [ref=f404e723]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f404e725] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f404e726]
+      - generic [ref=f404e727]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f404e729] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f404e730]
+      - generic [ref=f404e731]: 天井エアコン
+    - link "トイレ トイレ" [ref=f404e733] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f404e734]
+      - generic [ref=f404e735]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f404e737] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f404e738]
+      - generic [ref=f404e739]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f404e741] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f404e742]
+      - generic [ref=f404e743]: 給湯器
+    - link "エコキュート エコキュート" [ref=f404e745] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f404e746]
+      - generic [ref=f404e747]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f404e749] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f404e750]
+      - generic [ref=f404e751]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f404e753] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f404e754]
+      - generic [ref=f404e755]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f404e757] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f404e758]
+      - generic [ref=f404e759]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f404e761] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f404e762]
+      - generic [ref=f404e763]: レンジフード
+    - link "蛇口 蛇口" [ref=f404e765] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f404e766]
+      - generic [ref=f404e767]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f404e769] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f404e770]
+      - generic [ref=f404e771]: 浴室乾燥機
+    - generic [ref=f404e772]: その他>>
+  - navigation [ref=f404e774]:
+    - generic [ref=f404e775]:
+      - generic [ref=f404e776]:
+        - generic [ref=f404e777]: トイレ
+        - generic [ref=f404e784]: 総合メニュー
+      - generic [ref=f404e791]:
+        - link "人気ランキング" [ref=f404e792] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f404e794] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f404e796] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f404e798] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f404e800] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f404e802] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f404e804]:
+    - generic [ref=f404e805]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f404e808]
+    - generic [ref=f404e809]:
+      - generic [ref=f404e810]:
+        - term [ref=f404e811]:
+          - img "サービス案内" [ref=f404e812]
+          - text: サービス案内
+        - definition [ref=f404e813]:
+          - list [ref=f404e814]:
+            - listitem [ref=f404e815]:
+              - link "ご利用の流れ" [ref=f404e816] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f404e817]:
+              - link "無料10年保証" [ref=f404e818] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f404e819]:
+              - link "工事対応エリア" [ref=f404e820] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f404e821]:
+              - link "工事価格表" [ref=f404e822] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f404e823]:
+              - link "おまとめ工事割引" [ref=f404e824] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f404e825]:
+              - link "お支払い方法" [ref=f404e826] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f404e827]:
+              - link "よくあるご質問" [ref=f404e828] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f404e829]:
+              - link "営業日カレンダー" [ref=f404e830] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f404e831]:
+        - term [ref=f404e832]:
+          - img "情報コンテンツ" [ref=f404e833]
+          - text: 情報コンテンツ
+        - definition [ref=f404e834]:
+          - list [ref=f404e835]:
+            - listitem [ref=f404e836]:
+              - link "最新情報・お知らせ" [ref=f404e837] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f404e838]:
+              - link "売れ筋・人気ランキング" [ref=f404e839] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f404e840]:
+              - link "お客様の声" [ref=f404e841] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f404e842]:
+              - link "施工事例" [ref=f404e843] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f404e844]:
+              - link "商品レビュー" [ref=f404e845] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f404e846]:
+              - link "かんたん検索一覧" [ref=f404e847] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f404e848]:
+              - link "閲覧した商品の履歴" [ref=f404e849] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f404e850]:
+              - link "動画コンテンツ" [ref=f404e851] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f404e852]:
+        - term [ref=f404e853]:
+          - img "企業情報" [ref=f404e854]
+          - text: 企業情報
+        - definition [ref=f404e855]:
+          - listitem [ref=f404e856]:
+            - link "会社概要" [ref=f404e857] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f404e858]:
+            - link "選ばれる理由" [ref=f404e859] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f404e860]:
+            - link "ショールーム（東京・大阪）" [ref=f404e861] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f404e862]:
+            - link "スタッフ紹介" [ref=f404e863] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f404e864]:
+            - link "スタッフブログ" [ref=f404e865] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f404e866]:
+            - link "リフォームからチェンジへ" [ref=f404e867] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f404e868]:
+            - link "活動レポート" [ref=f404e869] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f404e870]:
+          - link [ref=f404e872] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f404e876] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f404e880] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f404e884] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f404e888] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f404e892] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f404e895]:
+        - link [ref=f404e896] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f404e900]: お問い合わせ一覧
+        - link [ref=f404e901] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f404e905]: マイページ・会員登録
+        - link [ref=f404e906] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f404e907]
+        - paragraph [ref=f404e908]: 個人情報保護の認証取得
+    - generic [ref=f404e909]:
+      - paragraph [ref=f404e910]: 企業サイト
+      - generic [ref=f404e911]:
+        - list [ref=f404e912]:
+          - listitem [ref=f404e913]:
+            - link "コーポレートサイト" [ref=f404e914] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f404e915]
+          - listitem [ref=f404e916]:
+            - link "投資家向けサイト" [ref=f404e917] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f404e918]
+          - listitem [ref=f404e919]:
+            - link "採用情報サイト" [ref=f404e920] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f404e921]
+          - listitem [ref=f404e922]:
+            - link "交換技能アカデミー" [ref=f404e923] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f404e924]
+        - list [ref=f404e925]:
+          - listitem [ref=f404e926]:
+            - link [ref=f404e927] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f404e928]:
+                - paragraph [ref=f404e929]: 東証グロースに上場しています
+                - paragraph [ref=f404e930]: 証券コード 7695
+              - figure [ref=f404e931]:
+                - img "東証(JPX)ロゴ" [ref=f404e932]
+    - generic [ref=f404e933]:
+      - list [ref=f404e934]:
+        - listitem [ref=f404e935]:
+          - link "個人情報の取扱い" [ref=f404e936] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f404e937]:
+          - link "特定商取引法に基づく表記" [ref=f404e938] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f404e939]:
+          - link "サイト利用規約" [ref=f404e940] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f404e941]:
+          - link "コンテンツ著作権" [ref=f404e942] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f404e943]:
+          - link "施工スタッフ募集" [ref=f404e944] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f404e945]
+      - list [ref=f404e946]:
+        - listitem [ref=f404e947]: © Koukandekirukun, Inc. 2001-2026

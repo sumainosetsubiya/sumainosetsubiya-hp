@@ -1,0 +1,1059 @@
+- generic [active] [ref=f305e1]:
+  - generic: 円
+  - banner [ref=f305e2]:
+    - heading "【工事費込み】パロマ ビルトインガスコンロ『FACEIS GRAND(フェイシスグランド)』[天板幅60cm]｜PD-893WS-U60GH" [level=1] [ref=f305e5]
+    - generic [ref=f305e8]:
+      - generic [ref=f305e9]:
+        - link [ref=f305e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f305e12]
+        - link [ref=f305e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f305e14]
+        - link [ref=f305e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f305e16]
+      - generic [ref=f305e17]:
+        - generic "検索" [ref=f305e21]:
+          - combobox [ref=f305e22]:
+            - generic [ref=f305e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f305e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f305e26] [cursor=pointer]:
+            - generic [ref=f305e28]: 検索
+        - generic [ref=f305e29]:
+          - link [ref=f305e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f305e32]
+            - paragraph [ref=f305e33]: 閲覧履歴
+          - link [ref=f305e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f305e36]
+            - paragraph [ref=f305e37]: ログイン
+        - link [ref=f305e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f305e40]
+          - paragraph [ref=f305e41]: お問合せ
+        - generic [ref=f305e42]:
+          - link [ref=f305e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f305e45]
+            - paragraph [ref=f305e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f305e47]:
+    - main [ref=f305e48]:
+      - list [ref=f305e50]:
+        - listitem [ref=f305e51]:
+          - link "交換できるくん home" [ref=f305e52] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f305e53]:
+          - link "ビルトインガスコンロ" [ref=f305e54] [cursor=pointer]:
+            - /url: /gastable/
+          - text: ">"
+        - listitem [ref=f305e55]:
+          - link "パロマ ビルトインガスコンロ" [ref=f305e56] [cursor=pointer]:
+            - /url: /gastable/paloma/
+          - text: ">"
+        - listitem [ref=f305e57]:
+          - link "パロマ フェイシスグランド" [ref=f305e58] [cursor=pointer]:
+            - /url: /gastable/paloma/faceis.html
+          - text: ">"
+        - listitem [ref=f305e59]:
+          - link "PD-893WS-U60GH" [ref=f305e60] [cursor=pointer]:
+            - /url: /gastable/paloma/PD-893WS-U60GH/
+      - list [ref=f305e62]:
+        - listitem [ref=f305e63]:
+          - img "旗" [ref=f305e64]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f305e65] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f305e66]:
+          - img "旗" [ref=f305e67]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f305e68] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f305e70]:
+        - generic [ref=f305e71]:
+          - heading "ランキング1位 パロマ ビルトインガスコンロ 『フェイシスグランド』 PD-893WS-U60GH 天板幅60cm｜天板素材：クリアガラス｜天板カラー：シャインシルバー｜オーブン接続：不可" [level=2] [ref=f305e72]:
+            - generic [ref=f305e73]:
+              - img "ランキング1位" [ref=f305e75]
+              - generic [ref=f305e76]:
+                - text: パロマ ビルトインガスコンロ『フェイシスグランド』PD-893WS-U60GH
+                - generic [ref=f305e77]: 天板幅60cm｜天板素材：クリアガラス｜天板カラー：シャインシルバー｜オーブン接続：不可
+          - generic [ref=f305e78]:
+            - generic [ref=f305e81] [cursor=pointer]:
+              - generic [ref=f305e82]: 
+              - generic [ref=f305e83]: 
+              - generic [ref=f305e84]: 
+              - generic [ref=f305e85]: 
+              - generic [ref=f305e86]: 
+              - generic [ref=f305e87]: 80件
+            - link [ref=f305e89] [cursor=pointer]:
+              - /url: /guar/
+              - img "商品も工事も無料10年保証付き" [ref=f305e90]
+            - img "【工事費込み】パロマ ビルトインガスコンロ『FACEIS GRAND(フェイシスグランド)』[天板幅60cm]｜PD-893WS-U60GH" [ref=f305e91]
+        - generic [ref=f305e92]:
+          - generic [ref=f305e93]:
+            - paragraph [ref=f305e94]: "天板カラー : シャインシルバー"
+            - generic [ref=f305e95]:
+              - link:
+                - /url: https://www.sunrefre.jp/gastable/paloma/PD-893WS-U60GH/
+                - figure
+              - link [ref=f305e96] [cursor=pointer]:
+                - /url: https://www.sunrefre.jp/gastable/paloma/PD-893WS-U60GP/
+                - figure [ref=f305e97]
+          - generic [ref=f305e101]:
+            - generic [ref=f305e102]: フェイシスグランドの機能を確認する
+            - img "フェイシスグランドの機能を確認する" [ref=f305e103]
+          - link [ref=f305e106] [cursor=pointer]:
+            - /url: /gastable/paloma/present/
+            - img "交換できるくんでフェイシスグランドをご購入ならラ・クックレシピブック＆木製プレートをプレゼント！" [ref=f305e107]
+        - generic [ref=f305e108]:
+          - generic [ref=f305e109]:
+            - strong [ref=f305e110]: Paloma PD-893WS-U60GH
+            - generic [ref=f305e111]:
+              - text: パロマ ビルトインガスコンロ『フェイシスグランド』
+              - generic [ref=f305e112]:
+                - generic [ref=f305e113]: 天板幅:60cm
+                - generic [ref=f305e114]: 天板:シャインシルバー・クリアガラス
+                - generic [ref=f305e115]: ごとく:ホーロー
+                - generic [ref=f305e116]: レンジフード連動
+                - generic [ref=f305e117]: オーブン接続不可
+                - generic [ref=f305e118]: 付属品:ラ・クックグラン
+          - generic [ref=f305e119]:
+            - generic [ref=f305e120]: 商品
+            - generic [ref=f305e121]:
+              - generic [ref=f305e122]: メーカー希望小売価格： 274,340円(税込)
+              - generic [ref=f305e124]:
+                - generic [ref=f305e125]:
+                  - text: 交換できるくん価格
+                  - generic [ref=f305e126]: 59%OFF
+                - generic [ref=f305e127]:
+                  - generic [ref=f305e128]: 112,479
+                  - generic [ref=f305e129]: 円(税込)
+          - generic [ref=f305e130]:
+            - generic [ref=f305e131]: まるごとサービスパック
+            - generic [ref=f305e132]:
+              - generic [ref=f305e133]:
+                - list [ref=f305e134]:
+                  - listitem [ref=f305e135]:
+                    - generic [ref=f305e138]: 基本工事費
+                    - figure [ref=f305e139]:
+                      - img "plus" [ref=f305e140]
+                  - listitem [ref=f305e141]:
+                    - generic [ref=f305e144]: 出張費運搬費
+                  - listitem [ref=f305e145]:
+                    - generic [ref=f305e148]: 部材費室内養生費
+                  - listitem [ref=f305e149]:
+                    - generic [ref=f305e152]: 設置前清掃使用説明
+                  - listitem [ref=f305e153]:
+                    - generic [ref=f305e156]: 廃材運搬処分
+                  - listitem [ref=f305e157]:
+                    - generic [ref=f305e160]: 諸経費事務経費
+                - paragraph [ref=f305e161]: まるごとサービスパックは、上記全てを含めたコミコミ価格です！
+              - generic [ref=f305e163]:
+                - generic [ref=f305e164]: 24,900
+                - generic [ref=f305e165]: 円(税込)
+          - generic [ref=f305e166]:
+            - generic [ref=f305e167]: 保証
+            - generic [ref=f305e168]:
+              - generic [ref=f305e169]:
+                - figure [ref=f305e170]:
+                  - img "無料十年保証詳細はこちら" [ref=f305e171]
+                - paragraph [ref=f305e172]:
+                  - text: ご参考：
+                  - generic [ref=f305e173]: メーカー延長保証価格
+              - generic [ref=f305e174]: 無料
+          - generic [ref=f305e177]:
+            - generic [ref=f305e178]:
+              - generic [ref=f305e179]: プレゼント選択
+              - combobox [ref=f305e182]:
+                - option "（プレゼント）を選択してください" [selected]
+                - option "レシピブック(PBOOK-1)・木製プレート(PM-2)・クッキングシート(PLCS-2AK)： 0円"
+                - option "プレゼント不要： 0円"
+            - generic [ref=f305e183]:
+              - generic [ref=f305e184]:
+                - generic [ref=f305e185]: 商品価格+工事費用+10年保証
+                - generic [ref=f305e186]:
+                  - generic [ref=f305e187]: 合計
+                  - text: 137,379
+                  - generic [ref=f305e188]: 円(税込)
+              - generic [ref=f305e189]:
+                - button "取付工事お見積" [ref=f305e191] [cursor=pointer]
+                - generic [ref=f305e192]:
+                  - paragraph [ref=f305e193]:
+                    - link "お気に入り" [ref=f305e195] [cursor=pointer]:
+                      - /url: /system/item_favorite/addj/id=65543,65543,53533/
+                  - generic [ref=f305e197] [cursor=pointer]:
+                    - figure [ref=f305e198]
+                    - paragraph [ref=f305e200]:
+                      - text: LINE
+                      - generic [ref=f305e201]: で共有
+          - generic [ref=f305e202]:
+            - paragraph [ref=f305e204]:
+              - text: ※お住まいの状況により必要となる追加費用はお見積りでご案内いたします。 お見積り内容以外で、工事日当日に追加請求することは一切ございませんので、ご安心ください。
+              - link "工事費やオプション費などの詳細はこちら >" [ref=f305e205] [cursor=pointer]:
+                - /url: /gastable/const/price.html
+            - generic [ref=f305e206]: ※その他、商品についてのご質問はこちらからお問い合わせください。
+        - table [ref=f305e207]:
+          - rowgroup [ref=f305e208]:
+            - row [ref=f305e209]:
+              - columnheader "商品詳細" [ref=f305e210]
+          - rowgroup [ref=f305e211]:
+            - row [ref=f305e212]:
+              - rowheader "商品特性" [ref=f305e213]
+              - cell [ref=f305e214]:
+                - paragraph [ref=f305e216]: 「FACEIS GRAND(フェイシスグランド)」はシンプルデザインの家事がラクなガスコンロです。すっきりとした見た目の美しさはもちろんのこと、直感的な使いやすさやお手入れ性も大切に、お料理が簡単においしく作れる便利な機能もたっぷりつまったコンロです。
+                - heading "スモークカットグリル" [level=3] [ref=f305e217]
+                - generic [ref=f305e218]:
+                  - generic [ref=f305e219]:
+                    - paragraph [ref=f305e220]: グリル使用時の煙と臭いを「アフターバーナー」でカットし、さらに臭いを「触媒フィルター」でWカットします。同梱のラ・クックグランを使用いただくとさらなる減煙効果があり、煙を99%※1カットします。
+                    - generic [ref=f305e221]: ※1 従来コンロと比較して、焼き網使用時約90%カット。ラ・クックグラン使用時約99%カット（パロマ調べ）
+                  - figure [ref=f305e222]:
+                    - img "スモークカットグリル｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e223]
+                - heading "自動調理ガイド機能（アプリ対応）" [level=3] [ref=f305e224]
+                - generic [ref=f305e225]:
+                  - figure [ref=f305e226]:
+                    - img "自動調理ガイド機能（アプリ対応）｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e227]
+                  - paragraph [ref=f305e229]: アプリオートメニューに対応しています。専用アプリ「おまかせシェフ」から検索したレシピを選んでコンロに送信し、手順に従うだけで、簡単に調理が可能です。別売のラ・クックグランポッドにも対応しています。
+                - heading "ラ・クックグランオートメニューでお任せ調理！" [level=3] [ref=f305e230]
+                - generic [ref=f305e231]:
+                  - figure [ref=f305e232]:
+                    - img "ラ・クックグランオートメニューでお任せ調理｜パロマ ビルトインガスコンロ フェイシスグランド"
+                  - paragraph [ref=f305e234]: 付属のラ・クックグランは、奥行が約30cm、深さ4cmのたっぷり容量で、餃子なら約30個、さんまも丸ごと並べて3匹入ります。オートメニューも充実しているので、大人数での食事の準備もお任せ調理でラクラク！
+                  - generic [ref=f305e235]:
+                    - figure [ref=f305e236]:
+                      - img "5回焼いても受皿もピカピカ！｜パロマ ビルトインガスコンロ フェイシスグランド"
+                    - paragraph [ref=f305e238]: さらに、ラ・クックグランを使用すれば、グリル庫内の油汚れや気になるニオイも大幅カット。焼き網を使用する場合と比較して、お手入れも簡単なので家事ストレスも削減します。
+                - heading "明るいグリル" [level=3] [ref=f305e239]
+                - generic [ref=f305e240]:
+                  - paragraph [ref=f305e242]: 点火するとアフターバーナーが発光し、グリル庫内が明るく照らされます。使用状況が分かりやすく、消し忘れにも気づきやすい、あんしん設計です。
+                  - figure [ref=f305e243]:
+                    - img "明るいグリル｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e244]
+                - heading "スムーズスライドレール式グリル" [level=3] [ref=f305e245]
+                - generic [ref=f305e246]:
+                  - paragraph [ref=f305e248]: グリルを滑らかに開閉できる、スライドレール方式を採用しています。
+                  - figure [ref=f305e249]:
+                    - img "スムーズスライドレール式グリル｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e250]
+                - heading "ひろびろ×すっきりトップ" [level=3] [ref=f305e251]
+                - generic [ref=f305e252]:
+                  - figure [ref=f305e253]:
+                    - img "ひろびろ×すっきりトップ｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e254]
+                  - paragraph [ref=f305e256]: グリル排気口をアイランド構造とし、すっきりとさせる事で清掃性の向上や調理中の鍋の仮置きなど、利便性も向上させています。
+                - heading "点火ボタン形状変更とヘアライン風デザインアクリルパネル" [level=3] [ref=f305e257]
+                - generic [ref=f305e258]:
+                  - paragraph [ref=f305e260]: 点火ボタンの形状を変更し、押しやすさを向上させました。また、全周メッキ加工＋スピンドル加工により、見た目も美しくなりました。アクリルパネルは新たにヘアライン風デザインに変更し、より高級感を向上させました。
+                  - figure [ref=f305e261]:
+                    - img "点火ボタン形状変更とヘアライン風デザインアクリルパネル｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e262]
+                - heading "操作パネル" [level=3] [ref=f305e263]
+                - generic [ref=f305e264]:
+                  - figure [ref=f305e265]:
+                    - img "操作パネル｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e266]
+                  - paragraph [ref=f305e268]: 安全・安心・調理補助等、機能を充実させています。音声ガイダンスも搭載しています。
+                - heading "ヒートカットトップ" [level=3] [ref=f305e269]
+                - generic [ref=f305e270]:
+                  - figure [ref=f305e271]:
+                    - img "ヒートカットトップ｜パロマ ビルトインガスコンロ フェイシスグランド" [ref=f305e272]
+                  - generic [ref=f305e273]:
+                    - paragraph [ref=f305e274]: 天板裏にアルミ板を配置することで、バーナー周りの熱を放熱、天板のバーナー周りの焦げ付きを低減させます。
+                    - generic [ref=f305e275]: ※2 ホーロートップと比較、天面温度が約40℃低減。（約30分燃焼後。パロマ調べ）
+                - heading "万が一に備えて、うっかりをカバーするあんしん機能" [level=3] [ref=f305e276]
+                - generic [ref=f305e277]:
+                  - generic [ref=f305e278]:
+                    - figure:
+                      - img "感震停止機能｜パロマ ビルトインガスコンロ フェイシスグランド"
+                  - paragraph [ref=f305e280]: 「感震停止機能」は、万が一の地震の際にも、自動で消火してくれます。 「コンロ30分消化あんしんモード」は、ボタン1つでコンロの消し忘れ消化時間を120分から30分に短縮可能。お料理中に他のことをしていて、ついうっかりの消し忘れもフォローしてくれます。
+            - row [ref=f305e281]:
+              - rowheader "基本仕様" [ref=f305e282]
+              - cell [ref=f305e283]:
+                - table [ref=f305e284]:
+                  - rowgroup [ref=f305e285]:
+                    - row [ref=f305e286]:
+                      - rowheader "品番" [ref=f305e287]
+                      - cell "PD-893WS-U60GH" [ref=f305e288]
+                    - row [ref=f305e289]:
+                      - rowheader "メーカー名" [ref=f305e290]
+                      - cell "パロマ" [ref=f305e291]
+                    - row [ref=f305e292]:
+                      - rowheader "シリーズ名" [ref=f305e293]
+                      - cell "フェイシスグランド" [ref=f305e294]
+                    - row [ref=f305e295]:
+                      - rowheader "対応ガス種" [ref=f305e296]
+                      - cell "都市ガス（12A・13A）/プロパンガス（LPG）" [ref=f305e297]
+                    - row [ref=f305e298]:
+                      - rowheader "天板幅" [ref=f305e299]
+                      - cell "60cm" [ref=f305e300]
+                    - row [ref=f305e301]:
+                      - rowheader "天板素材" [ref=f305e302]
+                      - cell "クリアガラス" [ref=f305e303]
+                    - row [ref=f305e304]:
+                      - rowheader "天板カラー" [ref=f305e305]
+                      - cell "シャインシルバー" [ref=f305e306]
+                    - row [ref=f305e307]:
+                      - rowheader "フェイスカラー" [ref=f305e308]
+                      - cell "ステンレス" [ref=f305e309]
+                    - row [ref=f305e310]:
+                      - rowheader "ごとく" [ref=f305e311]
+                      - cell "ホーロー" [ref=f305e312]
+                    - row [ref=f305e313]:
+                      - rowheader "オーブン接続" [ref=f305e314]
+                      - cell "不可" [ref=f305e315]
+                    - row [ref=f305e316]:
+                      - rowheader "レンジフード連動機能" [ref=f305e317]
+                      - cell "あり" [ref=f305e318]
+                    - row [ref=f305e319]:
+                      - rowheader "付属品" [ref=f305e320]
+                      - cell "ラ・クックグラン(料理レシピ付)" [ref=f305e321]
+                    - row [ref=f305e322]:
+                      - rowheader "発売" [ref=f305e323]
+                      - cell "2024年4月" [ref=f305e324]
+                - paragraph [ref=f305e325]: ※商品の色や見え方は、お客様がお使いのモニターやご覧になる端末により、実際の色と異なる場合があります。
+            - row [ref=f305e326]:
+              - rowheader "関連情報" [ref=f305e327]
+              - cell [ref=f305e328]:
+                - generic [ref=f305e329]:
+                  - paragraph [ref=f305e330]: ■ガスコンロとの同時交換がおすすめ
+                  - generic [ref=f305e331]:
+                    - link "パロマ ビルトインガスオーブンも特価販売中！" [ref=f305e332] [cursor=pointer]:
+                      - /url: /gastable/oven/paloma/
+                      - img "パロマ ビルトインガスオーブンも特価販売中！"
+                    - link "ビルトインガスコンロとレンジフードの同時交換がお得！" [ref=f305e333] [cursor=pointer]:
+                      - /url: /kitchen/food/case.html
+                      - img "ビルトインガスコンロとレンジフードの同時交換がお得！"
+                  - paragraph [ref=f305e335]:
+                    - link "パロマのビルトインガスコンロ当社施工例はこちら" [ref=f305e336] [cursor=pointer]:
+                      - /url: /gastable/blog/paloma/
+                    - link "レンジフードはこちら >" [ref=f305e337] [cursor=pointer]:
+                      - /url: /kitchen/food/
+                    - link "メーカーホームページ" [ref=f305e338] [cursor=pointer]:
+                      - /url: https://www.paloma.co.jp/product/kitchen/builtin_conro/
+                  - paragraph [ref=f305e341]:
+                    - text: ■工事について 現在のビルトインガスコンロの設置状況により、オプション部品やオプション工事が必要になる場合があります。
+                    - link "交換工事費一覧はこちら >" [ref=f305e342] [cursor=pointer]:
+                      - /url: /gastable/const/price.html
+            - row [ref=f305e343]:
+              - rowheader "ページ位置" [ref=f305e344]
+              - cell [ref=f305e345]:
+                - list [ref=f305e346]:
+                  - listitem [ref=f305e347]:
+                    - link "交換できるくん home" [ref=f305e348] [cursor=pointer]:
+                      - /url: /
+                    - text: ">"
+                  - listitem [ref=f305e349]:
+                    - link "ビルトインガスコンロ" [ref=f305e350] [cursor=pointer]:
+                      - /url: /gastable/
+                    - text: ">"
+                  - listitem [ref=f305e351]:
+                    - link "パロマ ビルトインガスコンロ" [ref=f305e352] [cursor=pointer]:
+                      - /url: /gastable/paloma/
+                    - text: ">"
+                  - listitem [ref=f305e353]:
+                    - link "パロマ フェイシスグランド" [ref=f305e354] [cursor=pointer]:
+                      - /url: /gastable/paloma/faceis.html
+                    - text: ">"
+                  - listitem [ref=f305e355]:
+                    - link "PD-893WS-U60GH" [ref=f305e356] [cursor=pointer]:
+                      - /url: /gastable/paloma/PD-893WS-U60GH/
+            - row [ref=f305e357]:
+              - rowheader "旧品番" [ref=f305e358]
+              - cell [ref=f305e359]:
+                - paragraph [ref=f305e360]: PD-863WS-60GH
+            - row [ref=f305e361]:
+              - cell [ref=f305e362]:
+                - generic [ref=f305e363]:
+                  - heading "Paloma「PD-893WS-U60GH」施工事例" [level=3] [ref=f305e364]
+                  - paragraph [ref=f305e365]: ※旧品番の事例も含みます
+                  - generic [ref=f305e366]:
+                    - link "神奈川県川崎市｜パロマビルトインガスコンロの施工事例 2026/04/28" [ref=f305e367] [cursor=pointer]:
+                      - /url: /gastable/blog/paloma/faceis/131273/
+                      - generic [ref=f305e368]: 神奈川県川崎市｜パロマビルトインガスコンロの施工事例
+                      - generic [ref=f305e369]: 2026/04/28
+                      - figure [ref=f305e370]:
+                        - img "神奈川県川崎市｜パロマビルトインガスコンロの施工事例" [ref=f305e371]
+                    - link "東京都目黒区｜パロマビルトインガスコンロの施工事例 2025/12/23" [ref=f305e372] [cursor=pointer]:
+                      - /url: /gastable/blog/paloma/faceis/127726/
+                      - generic [ref=f305e373]: 東京都目黒区｜パロマビルトインガスコンロの施工事例
+                      - generic [ref=f305e374]: 2025/12/23
+                      - figure [ref=f305e375]:
+                        - img "東京都目黒区｜パロマビルトインガスコンロの施工事例" [ref=f305e376]
+                    - link "神奈川県川崎市｜パロマビルトインガスコンロの施工事例 2025/12/12" [ref=f305e377] [cursor=pointer]:
+                      - /url: /gastable/blog/paloma/faceis/128207/
+                      - generic [ref=f305e378]: 神奈川県川崎市｜パロマビルトインガスコンロの施工事例
+                      - generic [ref=f305e379]: 2025/12/12
+                      - figure [ref=f305e380]:
+                        - img "神奈川県川崎市｜パロマビルトインガスコンロの施工事例" [ref=f305e381]
+                    - link "神奈川県横浜市｜パロマビルトインガスコンロの施工事例 2025/09/30" [ref=f305e382] [cursor=pointer]:
+                      - /url: /gastable/blog/paloma/faceis/127001/
+                      - generic [ref=f305e383]: 神奈川県横浜市｜パロマビルトインガスコンロの施工事例
+                      - generic [ref=f305e384]: 2025/09/30
+                      - figure [ref=f305e385]:
+                        - img "神奈川県横浜市｜パロマビルトインガスコンロの施工事例" [ref=f305e386]
+                  - link "この商品の施工事例をもっと見る" [ref=f305e388] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/blog/?s=PD-893WS-U60GH
+                - generic [ref=f305e389]:
+                  - heading "Paloma「PD-893WS-U60GH」お客様の声・口コミ" [level=3] [ref=f305e390]
+                  - paragraph [ref=f305e391]: ※旧品番の事例も含みます
+                  - generic [ref=f305e392]:
+                    - link "東京都新宿区｜ビルトインガスコンロ交換のお客様 2026/07/31" [ref=f305e393] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98782
+                      - generic [ref=f305e394]: 東京都新宿区｜ビルトインガスコンロ交換のお客様
+                      - generic [ref=f305e395]: 2026/07/31
+                      - figure [ref=f305e396]:
+                        - img "東京都新宿区｜ビルトインガスコンロ交換のお客様" [ref=f305e397]
+                    - link "神奈川県横浜市｜壁掛エアコン交換のお客様 2026/07/27" [ref=f305e398] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98899
+                      - generic [ref=f305e399]: 神奈川県横浜市｜壁掛エアコン交換のお客様
+                      - generic [ref=f305e400]: 2026/07/27
+                      - figure [ref=f305e401]:
+                        - img "神奈川県横浜市｜壁掛エアコン交換のお客様" [ref=f305e402]
+                    - link "福岡県福岡市東区｜ビルトインガスコンロ交換のお客様 2026/07/15" [ref=f305e403] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98449
+                      - generic [ref=f305e404]: 福岡県福岡市東区｜ビルトインガスコンロ交換のお客様
+                      - generic [ref=f305e405]: 2026/07/15
+                      - figure [ref=f305e406]:
+                        - img "福岡県福岡市東区｜ビルトインガスコンロ交換のお客様" [ref=f305e407]
+                    - link "愛知県あま市｜ビルトインガスコンロ交換のお客様 2026/07/10" [ref=f305e408] [cursor=pointer]:
+                      - /url: https://www.sunrefre.jp/voice/index.php/archives/98269
+                      - generic [ref=f305e409]: 愛知県あま市｜ビルトインガスコンロ交換のお客様
+                      - generic [ref=f305e410]: 2026/07/10
+                      - figure [ref=f305e411]:
+                        - img "愛知県あま市｜ビルトインガスコンロ交換のお客様" [ref=f305e412]
+                  - link "この商品のお客様の声をもっと見る" [ref=f305e414] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/voice/?s=PD-893WS-U60GH
+            - row [ref=f305e415]:
+              - cell [ref=f305e416]:
+                - heading "商品レビュー・口コミ" [level=3] [ref=f305e417]
+                - link "全ての商品レビュー一覧" [ref=f305e419] [cursor=pointer]:
+                  - /url: /review/
+      - generic [ref=f305e421]:
+        - link "工事エリアについて 工事エリアについて 取付工事は、札幌・仙台・関東・東海・関西・中国・愛媛・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。" [ref=f305e422] [cursor=pointer]:
+          - /url: /gastable/area/
+          - generic [ref=f305e423]:
+            - generic [ref=f305e424]: 工事エリアについて
+            - generic [ref=f305e425]:
+              - img "工事エリアについて" [ref=f305e427]
+              - generic [ref=f305e428]: 取付工事は、札幌・仙台・関東・東海・関西・中国・愛媛・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。
+          - text: ">"
+        - link "お支払い方法について お支払い方法について 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。" [ref=f305e429] [cursor=pointer]:
+          - /url: /site_guide/use/pay.html
+          - generic [ref=f305e430]:
+            - generic [ref=f305e431]: お支払い方法について
+            - generic [ref=f305e432]:
+              - img "お支払い方法について" [ref=f305e434]
+              - generic [ref=f305e435]: 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。
+          - text: ">"
+        - link "無料10年保証について 無償標準保証 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。" [ref=f305e436] [cursor=pointer]:
+          - /url: /guar/
+          - generic [ref=f305e437]:
+            - generic [ref=f305e438]: 無料10年保証について
+            - generic [ref=f305e439]:
+              - img "無償標準保証" [ref=f305e441]
+              - generic [ref=f305e442]: 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。
+          - text: ">"
+        - link "お伺いする工事担当について お伺いする工事担当 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。" [ref=f305e443] [cursor=pointer]:
+          - /url: /site_guide/company/staff.html
+          - generic [ref=f305e444]:
+            - generic [ref=f305e445]: お伺いする工事担当について
+            - generic [ref=f305e446]:
+              - img "お伺いする工事担当" [ref=f305e448]
+              - generic [ref=f305e449]: 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。
+          - text: ">"
+        - link "おまとめ工事割引について おまとめ工事割引 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。" [ref=f305e450] [cursor=pointer]:
+          - /url: /construction/campaign/omatome.html
+          - generic [ref=f305e451]:
+            - generic [ref=f305e452]: おまとめ工事割引について
+            - generic [ref=f305e453]:
+              - img "おまとめ工事割引" [ref=f305e455]
+              - generic [ref=f305e456]: 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。
+          - text: ">"
+        - link "会員登録について 会員登録 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。" [ref=f305e457] [cursor=pointer]:
+          - /url: /system/auth/
+          - generic [ref=f305e458]:
+            - generic [ref=f305e459]: 会員登録について
+            - generic [ref=f305e460]:
+              - img "会員登録" [ref=f305e462]
+              - generic [ref=f305e463]: 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。
+          - text: ">"
+      - generic [ref=f305e464]:
+        - heading "ビルトインガスコンロ 人気ページ" [level=3] [ref=f305e465]
+        - generic [ref=f305e467]:
+          - link [ref=f305e468] [cursor=pointer]:
+            - /url: /gastable/
+            - img "ビルトインガスコンロ トップページ" [ref=f305e470]
+            - paragraph [ref=f305e471]: ガスコンロトップ
+          - link [ref=f305e472] [cursor=pointer]:
+            - /url: /gastable/contents/compare_middle.html
+            - img "ミドルグレード徹底比較 ビルトインガスコンロ" [ref=f305e474]
+            - paragraph [ref=f305e475]: ミドルグレード徹底比較
+          - link [ref=f305e476] [cursor=pointer]:
+            - /url: /gastable/search/
+            - img "ご希望の条件から選ぶ ビルトインガスコンロ" [ref=f305e478]
+            - paragraph [ref=f305e479]: ご希望の条件から選ぶ
+          - link [ref=f305e480] [cursor=pointer]:
+            - /url: /gastable/function/
+            - img "ガスコンロ メーカー機能比較" [ref=f305e482]
+            - paragraph [ref=f305e483]: ガスコンロ メーカー機能比較
+          - link [ref=f305e484] [cursor=pointer]:
+            - /url: /gastable/contents/news.html
+            - img "ビルトインガスコンロの選び方" [ref=f305e486]
+            - paragraph [ref=f305e487]: ビルトインガスコンロ 選び方
+          - link [ref=f305e488] [cursor=pointer]:
+            - /url: /gastable/price/
+            - img "ガスコンロ交換の費用相場" [ref=f305e490]
+            - paragraph [ref=f305e491]: ガスコンロ交換の費用相場
+          - link [ref=f305e492] [cursor=pointer]:
+            - /url: /gastable/rinnai/
+            - img "ビルトインガスコンロ リンナイ（rinnai）TOP" [ref=f305e494]
+          - link [ref=f305e495] [cursor=pointer]:
+            - /url: /gastable/paloma/
+            - img "ビルトインガスコンロ パロマ（paloma）TOP" [ref=f305e497]
+          - link [ref=f305e498] [cursor=pointer]:
+            - /url: /construction/campaign/omatome.html
+            - img "ビルトインガスコンロ レンジフード 同時交換でお得" [ref=f305e500]
+    - generic [ref=f305e502]:
+      - link [ref=f305e504] [cursor=pointer]:
+        - /url: /gastable/ranking.html
+        - img "ビルトインガスコンロ人気・売れ筋ランキング" [ref=f305e505]
+      - list [ref=f305e506]:
+        - generic [ref=f305e507]: ビルトインガスコンロ
+        - listitem [ref=f305e509]:
+          - link "ビルトインガスコンロTOP" [ref=f305e510] [cursor=pointer]:
+            - /url: /gastable/
+        - listitem [ref=f305e511]:
+          - link "お見積り～工事の流れ" [ref=f305e512] [cursor=pointer]:
+            - /url: /gastable/const/flow.html
+        - listitem [ref=f305e513]:
+          - link "レンジフードと同時交換がお得" [ref=f305e514] [cursor=pointer]:
+            - /url: /gastable/hood_set/
+        - listitem [ref=f305e515]:
+          - link "サイトマップ" [ref=f305e516] [cursor=pointer]:
+            - /url: /gastable/sitemap/
+      - list [ref=f305e517]:
+        - generic [ref=f305e518]: ガスコンロの選び方
+        - listitem [ref=f305e520]:
+          - link "ガスコンロの選び方TOP" [ref=f305e521] [cursor=pointer]:
+            - /url: /gastable/contents/news.html
+        - listitem [ref=f305e522]:
+          - link "グリルの特長で比較" [ref=f305e523] [cursor=pointer]:
+            - /url: /gastable/contents/grill_select.html
+        - listitem [ref=f305e524]:
+          - link "コンロの特長で比較" [ref=f305e525] [cursor=pointer]:
+            - /url: /gastable/contents/conro_select.html
+        - listitem [ref=f305e526]:
+          - link "お手入れの性能で比較" [ref=f305e527] [cursor=pointer]:
+            - /url: /gastable/contents/conro_cleaning.html
+        - listitem [ref=f305e528]:
+          - link "安全機能で比較" [ref=f305e529] [cursor=pointer]:
+            - /url: /gastable/contents/safety_select.html
+        - listitem [ref=f305e530]:
+          - link "おすすめ3機種を徹底解剖" [ref=f305e531] [cursor=pointer]:
+            - /url: /gastable/contents/compare.html
+        - listitem [ref=f305e532]:
+          - link "ハイグレード比較" [ref=f305e533] [cursor=pointer]:
+            - /url: /gastable/contents/compare_high.html
+        - listitem [ref=f305e534]:
+          - link "ミドルグレード比較" [ref=f305e535] [cursor=pointer]:
+            - /url: /gastable/contents/compare_middle.html
+        - listitem [ref=f305e536]:
+          - link "ベーシックグレード比較" [ref=f305e537] [cursor=pointer]:
+            - /url: /gastable/contents/compare_basic.html
+        - listitem [ref=f305e538]:
+          - link "リンナイとノーリツの違い" [ref=f305e539] [cursor=pointer]:
+            - /url: /gastable/contents/noritz_rinnai.html
+        - listitem [ref=f305e540]:
+          - link "特殊コンロからの交換" [ref=f305e541] [cursor=pointer]:
+            - /url: /gastable/contents/special-gastable.html
+        - listitem [ref=f305e542]:
+          - link "ガスとIHの違い" [ref=f305e543] [cursor=pointer]:
+            - /url: /gastable/contents/ih.html
+        - listitem [ref=f305e544]:
+          - link "ガスコンロ交換業者の選び方" [ref=f305e545] [cursor=pointer]:
+            - /url: /gastable/place/
+      - list [ref=f305e546]:
+        - generic [ref=f305e547]: ガスコンロを選ぶ
+        - listitem [ref=f305e549]:
+          - link "人気ランキングから選ぶ" [ref=f305e550] [cursor=pointer]:
+            - /url: /gastable/ranking.html
+        - listitem [ref=f305e551]:
+          - link "価格・費用相場で選ぶ" [ref=f305e552] [cursor=pointer]:
+            - /url: /gastable/price/
+        - listitem [ref=f305e553]:
+          - link "シリーズ機能比較から選ぶ" [ref=f305e554] [cursor=pointer]:
+            - /url: /gastable/function/
+        - listitem [ref=f305e555]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f305e556] [cursor=pointer]:
+            - /url: /gastable/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f305e557]:
+          - link "ご使用中のコンロ品番から選ぶ" [ref=f305e558] [cursor=pointer]:
+            - /url: /gastable/search_part_number.html
+        - listitem [ref=f305e559]:
+          - link "リンナイロゴ リンナイTOP >" [ref=f305e560] [cursor=pointer]:
+            - /url: /gastable/rinnai/
+            - img "リンナイロゴ" [ref=f305e561]
+            - generic [ref=f305e562]: リンナイTOP >
+        - listitem [ref=f305e563]:
+          - link "デリシア(3V乾電池式)" [ref=f305e564] [cursor=pointer]:
+            - /url: /gastable/rinnai/delicia3v.html
+        - listitem [ref=f305e565]:
+          - link "デリシア特集" [ref=f305e566] [cursor=pointer]:
+            - /url: /gastable/rinnai/delicia-special.html
+        - listitem [ref=f305e567]:
+          - link "デリシア(100V電源式)" [ref=f305e568] [cursor=pointer]:
+            - /url: /gastable/rinnai/delicia100v.html
+        - listitem [ref=f305e569]:
+          - link "グリレ" [ref=f305e570] [cursor=pointer]:
+            - /url: /gastable/rinnai/deliciagriller.html
+        - listitem [ref=f305e571]:
+          - link "グリレ特集" [ref=f305e572] [cursor=pointer]:
+            - /url: /gastable/rinnai/deliciagriller-special.html
+        - listitem [ref=f305e573]:
+          - link "リッセ" [ref=f305e574] [cursor=pointer]:
+            - /url: /gastable/rinnai/lisse.html
+        - listitem [ref=f305e575]:
+          - link "リッセ特集" [ref=f305e576] [cursor=pointer]:
+            - /url: /gastable/rinnai/lisse-special.html
+        - listitem [ref=f305e577]:
+          - link "マイトーン" [ref=f305e578] [cursor=pointer]:
+            - /url: /gastable/rinnai/mytone.html
+        - listitem [ref=f305e579]:
+          - link "センス" [ref=f305e580] [cursor=pointer]:
+            - /url: /gastable/rinnai/sence.html
+        - listitem [ref=f305e581]:
+          - link "スタンダード" [ref=f305e582] [cursor=pointer]:
+            - /url: /gastable/rinnai/standard.html
+        - listitem [ref=f305e583]:
+          - link "メタルトップ" [ref=f305e584] [cursor=pointer]:
+            - /url: /gastable/rinnai/metaltop.html
+        - listitem [ref=f305e585]:
+          - link "ユーディア・エフ(2口)" [ref=f305e586] [cursor=pointer]:
+            - /url: /gastable/rinnai/udea.html
+        - listitem [ref=f305e587]:
+          - link "セイフル(2口)" [ref=f305e588] [cursor=pointer]:
+            - /url: /gastable/rinnai/safull.html
+        - listitem [ref=f305e589]:
+          - link "パロマロゴ パロマTOP >" [ref=f305e590] [cursor=pointer]:
+            - /url: /gastable/paloma/
+            - img "パロマロゴ" [ref=f305e591]
+            - generic [ref=f305e592]: パロマTOP >
+        - listitem [ref=f305e593]:
+          - link "クレア" [ref=f305e594] [cursor=pointer]:
+            - /url: /gastable/paloma/crea.html
+        - listitem [ref=f305e595]:
+          - link "フェイシスグランド" [ref=f305e596] [cursor=pointer]:
+            - /url: /gastable/paloma/faceis.html
+        - listitem [ref=f305e597]:
+          - link "ウィズナ" [ref=f305e598] [cursor=pointer]:
+            - /url: /gastable/paloma/withna.html
+        - listitem [ref=f305e599]:
+          - link "ブリリオ" [ref=f305e600] [cursor=pointer]:
+            - /url: /gastable/paloma/brillio.html
+        - listitem [ref=f305e601]:
+          - link "リプラ" [ref=f305e602] [cursor=pointer]:
+            - /url: /gastable/paloma/repla.html
+        - listitem [ref=f305e603]:
+          - link "スタンダード" [ref=f305e604] [cursor=pointer]:
+            - /url: /gastable/paloma/standard.html
+        - listitem [ref=f305e605]:
+          - link "アバンセ(2口)" [ref=f305e606] [cursor=pointer]:
+            - /url: /gastable/paloma/avance.html
+        - listitem [ref=f305e607]:
+          - link "シスト(2口)" [ref=f305e608] [cursor=pointer]:
+            - /url: /gastable/paloma/sisto.html
+        - listitem [ref=f305e609]:
+          - link "ノーリツロゴ ノーリツTOP >" [ref=f305e610] [cursor=pointer]:
+            - /url: /gastable/noritz/
+            - img "ノーリツロゴ" [ref=f305e611]
+            - generic [ref=f305e612]: ノーリツTOP >
+        - listitem [ref=f305e613]:
+          - link "プログレ" [ref=f305e614] [cursor=pointer]:
+            - /url: /gastable/noritz/progre.html
+        - listitem [ref=f305e615]:
+          - link "プログレ特集" [ref=f305e616] [cursor=pointer]:
+            - /url: /gastable/noritz/progre-special.html
+        - listitem [ref=f305e617]:
+          - link "＋do(プラスドゥ)" [ref=f305e618] [cursor=pointer]:
+            - /url: /gastable/noritz/plusdo.html
+        - listitem [ref=f305e619]:
+          - link "オルシェ" [ref=f305e620] [cursor=pointer]:
+            - /url: /gastable/noritz/orche.html
+        - listitem [ref=f305e621]:
+          - link "ネスト" [ref=f305e622] [cursor=pointer]:
+            - /url: /gastable/noritz/nest.html
+        - listitem [ref=f305e623]:
+          - link "ミッケ" [ref=f305e624] [cursor=pointer]:
+            - /url: /gastable/noritz/mikke.html
+        - listitem [ref=f305e625]:
+          - link "ファミ" [ref=f305e626] [cursor=pointer]:
+            - /url: /gastable/noritz/fami.html
+        - listitem [ref=f305e627]:
+          - link "メタルトップ" [ref=f305e628] [cursor=pointer]:
+            - /url: /gastable/noritz/metaltop.html
+        - listitem [ref=f305e629]:
+          - link "ネスト・ファミ(2口)" [ref=f305e630] [cursor=pointer]:
+            - /url: /gastable/noritz/two_burner.html
+        - listitem [ref=f305e631]:
+          - img "LIXILロゴ" [ref=f305e632]
+          - generic [ref=f305e633]: リクシル
+        - listitem [ref=f305e634]:
+          - link "セクショナルキッチン用" [ref=f305e635] [cursor=pointer]:
+            - /url: /gastable/sunwave/SURG655TS2A/
+      - list [ref=f305e636]:
+        - generic [ref=f305e637]: 交換工事について
+        - listitem [ref=f305e639]:
+          - link "ガスコンロ交換工事費" [ref=f305e640] [cursor=pointer]:
+            - /url: /gastable/const/price.html
+        - listitem [ref=f305e641]:
+          - link "工事対応エリア" [ref=f305e642] [cursor=pointer]:
+            - /url: /gastable/area/
+        - listitem [ref=f305e643]:
+          - link "無料10年保証" [ref=f305e644] [cursor=pointer]:
+            - /url: /guar/
+      - list [ref=f305e645]:
+        - generic [ref=f305e646]: ガスコンロ関連商品
+        - listitem [ref=f305e648]:
+          - link "ガスオーブンTOP" [ref=f305e649] [cursor=pointer]:
+            - /url: /gastable/oven/
+        - listitem [ref=f305e650]:
+          - link "リンナイオーブン" [ref=f305e651] [cursor=pointer]:
+            - /url: /gastable/oven/rinnai/
+        - listitem [ref=f305e652]:
+          - link "パロマオーブン" [ref=f305e653] [cursor=pointer]:
+            - /url: /gastable/oven/paloma/
+        - listitem [ref=f305e654]:
+          - link "ノーリツオーブン" [ref=f305e655] [cursor=pointer]:
+            - /url: /gastable/oven/noritz/
+        - listitem [ref=f305e656]:
+          - link "リンナイ専用オプション品" [ref=f305e657] [cursor=pointer]:
+            - /url: /gastable/rinnai/option.html
+        - listitem [ref=f305e658]:
+          - link "ココットプレート特集" [ref=f305e659] [cursor=pointer]:
+            - /url: /gastable/rinnai/cocotte.html
+        - listitem [ref=f305e660]:
+          - link "ザ・ココット特集" [ref=f305e661] [cursor=pointer]:
+            - /url: /gastable/rinnai/the_cocotte.html
+        - listitem [ref=f305e662]:
+          - link "パロマ専用オプション品" [ref=f305e663] [cursor=pointer]:
+            - /url: /gastable/paloma/option.html
+        - listitem [ref=f305e664]:
+          - link "ノーリツ専用オプション品" [ref=f305e665] [cursor=pointer]:
+            - /url: /gastable/noritz/option.html
+        - listitem [ref=f305e666]:
+          - link "収納庫" [ref=f305e667] [cursor=pointer]:
+            - /url: /gastable/price/cabinet.html
+      - list [ref=f305e668]:
+        - generic [ref=f305e669]: 動画コンテンツお客様の声・施工事例
+        - listitem [ref=f305e671]:
+          - link "動画コンテンツ" [ref=f305e672] [cursor=pointer]:
+            - /url: /gastable/movie/
+        - listitem [ref=f305e673]:
+          - link "お客様の声" [ref=f305e674] [cursor=pointer]:
+            - /url: /voice/?s=%E3%82%AC%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%AD&x=0&y=0
+        - listitem [ref=f305e675]:
+          - link "施工事例" [ref=f305e676] [cursor=pointer]:
+            - /url: /gastable/blog/
+        - listitem [ref=f305e677]:
+          - link "スタッフブログ" [ref=f305e678] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/gastable
+        - listitem [ref=f305e679]:
+          - link "商品レビュー" [ref=f305e680] [cursor=pointer]:
+            - /url: /review/?category=gastable
+      - list [ref=f305e681]:
+        - generic [ref=f305e682]: 異なるメーカーの交換
+        - listitem [ref=f305e684]:
+          - link "東京ガスのガスコンロ交換" [ref=f305e685] [cursor=pointer]:
+            - /url: /gastable/tokyo_gas/
+        - listitem [ref=f305e686]:
+          - link "大阪ガスのガスコンロ交換" [ref=f305e687] [cursor=pointer]:
+            - /url: /gastable/osaka_gas/
+        - listitem [ref=f305e688]:
+          - link "クリナップのガスコンロ交換" [ref=f305e689] [cursor=pointer]:
+            - /url: /gastable/cleanup/
+        - listitem [ref=f305e690]:
+          - link "タカラスタンダードの ガスコンロ交換" [ref=f305e691] [cursor=pointer]:
+            - /url: /gastable/takara/
+            - text: タカラスタンダードのガスコンロ交換
+      - list [ref=f305e692]:
+        - generic [ref=f305e693]: コンロのケア・掃除
+        - listitem [ref=f305e695]:
+          - link "ガスコンロの掃除" [ref=f305e696] [cursor=pointer]:
+            - /url: /gastable/contents/cleaning/
+        - listitem [ref=f305e697]:
+          - link "天板掃除のコツ" [ref=f305e698] [cursor=pointer]:
+            - /url: /gastable/contents/report_cleaning.html
+        - listitem [ref=f305e699]:
+          - link "ごとく掃除のコツ" [ref=f305e700] [cursor=pointer]:
+            - /url: /gastable/contents/report_cleaning_gotoku.html
+        - listitem [ref=f305e701]:
+          - link "グリル掃除のコツ" [ref=f305e702] [cursor=pointer]:
+            - /url: /gastable/contents/report_cleaning_grill.html
+      - list [ref=f305e703]:
+        - generic [ref=f305e704]: ガスコンロ故障
+        - listitem [ref=f305e706]:
+          - link "ガスコンロの故障・寿命" [ref=f305e707] [cursor=pointer]:
+            - /url: /gastable/breakdown/
+        - listitem [ref=f305e708]: エラーコード一覧
+        - listitem [ref=f305e709]:
+          - link "リンナイ" [ref=f305e710] [cursor=pointer]:
+            - /url: /gastable/breakdown/rinnai/
+        - listitem [ref=f305e711]:
+          - link "パロマ" [ref=f305e712] [cursor=pointer]:
+            - /url: /gastable/breakdown/paloma/
+        - listitem [ref=f305e713]:
+          - link "ノーリツ" [ref=f305e714] [cursor=pointer]:
+            - /url: /gastable/breakdown/noritz/
+      - list [ref=f305e715]:
+        - generic [ref=f305e716]: コンロの交換ノウハウ
+        - listitem [ref=f305e718]:
+          - link "ガスコンロ交換が安い理由" [ref=f305e719] [cursor=pointer]:
+            - /url: /gastable/cutprice/
+        - listitem [ref=f305e720]:
+          - link "ガスコンロの交換時期" [ref=f305e721] [cursor=pointer]:
+            - /url: /gastable/contents/timing/
+        - listitem [ref=f305e722]:
+          - link "ガスコンロの部品交換" [ref=f305e723] [cursor=pointer]:
+            - /url: /gastable/contents/parts/
+        - listitem [ref=f305e724]:
+          - link "賃貸住宅のガスコンロ交換" [ref=f305e725] [cursor=pointer]:
+            - /url: /gastable/style/rental/
+        - listitem [ref=f305e726]:
+          - link "マンションのガスコンロ交換" [ref=f305e727] [cursor=pointer]:
+            - /url: /gastable/style/mansion/
+        - listitem [ref=f305e728]:
+          - link "ガスコンロの電池交換" [ref=f305e729] [cursor=pointer]:
+            - /url: /gastable/contents/battery/
+      - link [ref=f305e731] [cursor=pointer]:
+        - /url: /gastable/lp/
+        - figure [ref=f305e732]:
+          - img "ガスコンロ最強コスパ宣言 シンプルページ" [ref=f305e733]
+  - generic [ref=f305e735]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f305e737] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f305e738]
+      - generic [ref=f305e739]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f305e741] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f305e742]
+      - generic [ref=f305e743]: 天井エアコン
+    - link "トイレ トイレ" [ref=f305e745] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f305e746]
+      - generic [ref=f305e747]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f305e749] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f305e750]
+      - generic [ref=f305e751]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f305e753] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f305e754]
+      - generic [ref=f305e755]: 給湯器
+    - link "エコキュート エコキュート" [ref=f305e757] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f305e758]
+      - generic [ref=f305e759]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f305e761] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f305e762]
+      - generic [ref=f305e763]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f305e765] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f305e766]
+      - generic [ref=f305e767]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f305e769] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f305e770]
+      - generic [ref=f305e771]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f305e773] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f305e774]
+      - generic [ref=f305e775]: レンジフード
+    - link "蛇口 蛇口" [ref=f305e777] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f305e778]
+      - generic [ref=f305e779]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f305e781] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f305e782]
+      - generic [ref=f305e783]: 浴室乾燥機
+    - generic [ref=f305e784]: その他>>
+  - navigation [ref=f305e786]:
+    - generic [ref=f305e787]:
+      - generic [ref=f305e788]:
+        - generic [ref=f305e789]: ガスコンロ
+        - generic [ref=f305e796]: 総合メニュー
+      - generic [ref=f305e803]:
+        - link "人気ランキング" [ref=f305e804] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f305e806] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f305e808] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f305e810] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f305e812] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f305e814] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f305e816]:
+    - generic [ref=f305e817]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f305e820]
+    - generic [ref=f305e821]:
+      - generic [ref=f305e822]:
+        - term [ref=f305e823]:
+          - img "サービス案内" [ref=f305e824]
+          - text: サービス案内
+        - definition [ref=f305e825]:
+          - list [ref=f305e826]:
+            - listitem [ref=f305e827]:
+              - link "ご利用の流れ" [ref=f305e828] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f305e829]:
+              - link "無料10年保証" [ref=f305e830] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f305e831]:
+              - link "工事対応エリア" [ref=f305e832] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f305e833]:
+              - link "工事価格表" [ref=f305e834] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f305e835]:
+              - link "おまとめ工事割引" [ref=f305e836] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f305e837]:
+              - link "お支払い方法" [ref=f305e838] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f305e839]:
+              - link "よくあるご質問" [ref=f305e840] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f305e841]:
+              - link "営業日カレンダー" [ref=f305e842] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f305e843]:
+        - term [ref=f305e844]:
+          - img "情報コンテンツ" [ref=f305e845]
+          - text: 情報コンテンツ
+        - definition [ref=f305e846]:
+          - list [ref=f305e847]:
+            - listitem [ref=f305e848]:
+              - link "最新情報・お知らせ" [ref=f305e849] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f305e850]:
+              - link "売れ筋・人気ランキング" [ref=f305e851] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f305e852]:
+              - link "お客様の声" [ref=f305e853] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f305e854]:
+              - link "施工事例" [ref=f305e855] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f305e856]:
+              - link "商品レビュー" [ref=f305e857] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f305e858]:
+              - link "かんたん検索一覧" [ref=f305e859] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f305e860]:
+              - link "閲覧した商品の履歴" [ref=f305e861] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f305e862]:
+              - link "動画コンテンツ" [ref=f305e863] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f305e864]:
+        - term [ref=f305e865]:
+          - img "企業情報" [ref=f305e866]
+          - text: 企業情報
+        - definition [ref=f305e867]:
+          - listitem [ref=f305e868]:
+            - link "会社概要" [ref=f305e869] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f305e870]:
+            - link "選ばれる理由" [ref=f305e871] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f305e872]:
+            - link "ショールーム（東京・大阪）" [ref=f305e873] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f305e874]:
+            - link "スタッフ紹介" [ref=f305e875] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f305e876]:
+            - link "スタッフブログ" [ref=f305e877] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f305e878]:
+            - link "リフォームからチェンジへ" [ref=f305e879] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f305e880]:
+            - link "活動レポート" [ref=f305e881] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f305e882]:
+          - link [ref=f305e884] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f305e888] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f305e892] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f305e896] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f305e900] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f305e904] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f305e907]:
+        - link [ref=f305e908] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f305e912]: お問い合わせ一覧
+        - link [ref=f305e913] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f305e917]: マイページ・会員登録
+        - link [ref=f305e918] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f305e919]
+        - paragraph [ref=f305e920]: 個人情報保護の認証取得
+    - generic [ref=f305e921]:
+      - paragraph [ref=f305e922]: 企業サイト
+      - generic [ref=f305e923]:
+        - list [ref=f305e924]:
+          - listitem [ref=f305e925]:
+            - link "コーポレートサイト" [ref=f305e926] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f305e927]
+          - listitem [ref=f305e928]:
+            - link "投資家向けサイト" [ref=f305e929] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f305e930]
+          - listitem [ref=f305e931]:
+            - link "採用情報サイト" [ref=f305e932] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f305e933]
+          - listitem [ref=f305e934]:
+            - link "交換技能アカデミー" [ref=f305e935] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f305e936]
+        - list [ref=f305e937]:
+          - listitem [ref=f305e938]:
+            - link [ref=f305e939] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f305e940]:
+                - paragraph [ref=f305e941]: 東証グロースに上場しています
+                - paragraph [ref=f305e942]: 証券コード 7695
+              - figure [ref=f305e943]:
+                - img "東証(JPX)ロゴ" [ref=f305e944]
+    - generic [ref=f305e945]:
+      - list [ref=f305e946]:
+        - listitem [ref=f305e947]:
+          - link "個人情報の取扱い" [ref=f305e948] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f305e949]:
+          - link "特定商取引法に基づく表記" [ref=f305e950] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f305e951]:
+          - link "サイト利用規約" [ref=f305e952] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f305e953]:
+          - link "コンテンツ著作権" [ref=f305e954] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f305e955]:
+          - link "施工スタッフ募集" [ref=f305e956] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f305e957]
+      - list [ref=f305e958]:
+        - listitem [ref=f305e959]: © Koukandekirukun, Inc. 2001-2026

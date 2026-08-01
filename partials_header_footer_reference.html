@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>【参照用】ヘッダー・フッター共通スニペット集 — 住まいの設備屋さん</title>
+</head>
+<body>
+<!--
+=======================================================================
+  partials_header_footer_reference.html
+  住まいの設備屋さん — 全ページ共通パーツ 参照ファイル
+=======================================================================
+  このサイトは静的HTMLのみで構成されており、テンプレート機能や
+  インクルード機構がありません。そのため、以下のスニペットを
+  「コピー＆ペースト」して各HTMLファイル（services.html / works.html /
+  area.html / faq.html / about.html / contact.html など）に直接
+  埋め込んでください。
+
+  【絶対に守ってほしいルール】
+  1. 全ページで <head> に css/style.css と js/main.js を読み込むこと
+       <link rel="stylesheet" href="css/style.css">
+       <script src="js/main.js" defer></script>
+     （サブディレクトリにページを置く場合はパスを調整してください。
+       このプロジェクトでは全HTMLをルート直下に置く想定です）
+
+  2. ヘッダーの8ページへのリンク（index.html / services.html /
+     reserve.html / works.html / area.html / faq.html / about.html /
+     contact.html）は全ページで一言一句同じファイル名・同じ順序にすること。
+     自分が今作っていないページのリンクも先に張ってよい
+     （存在しなくてもリンク切れの心配は不要。後で他の担当が作成します）。
+     ※ reserve.html（ご予約）は「サービス・料金」の直後・「施工実績」の
+       前に位置します。この順序は今後の正のリファレンスなので変更しないこと。
+
+  3. 現在表示中のページのナビリンクには aria-current="page" を
+     付与すること（CSSが自動でハイライトします）。
+     例: about.htmlを作る場合、ナビの「会社概要」の<a>タグに
+         aria-current="page" を追加する。
+
+  4. クラス名は css/style.css で定義済みのものをそのまま使うこと。
+     新しい見た目が必要な場合もマジックナンバーではなく
+     :root 変数ベースで追加してください（命名は既存パターンに揃える）。
+
+  5. <body> の一番上に .skip-link → 直後に header.site-header →
+     最後に footer.site-footer、を必ず配置すること。
+     メインコンテンツは <main id="main-content"> で囲むこと。
+=======================================================================
+-->
+
+
+<!-- =====================================================================
+     A. <head> テンプレート（各ページで書き換えて使用）
+     ---------------------------------------------------------------------
+     ★ title と meta description は必ずページごとに固有の内容にすること
+     ★ og:image は施工写真が揃うまでは仮パスのままでOK（コメントの通り）
+     ===================================================================== -->
+<!--
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>【ページ名】｜住まいの設備屋さん（東京・埼玉の水回り設備交換専門）</title>
+  <meta name="description" content="【このページ固有の120〜160文字程度の紹介文。対象キーワードを自然に含める。例：東京・埼玉の一部対応エリアで、トイレ・食洗機・コンロなど住宅設備の交換工事を行う「住まいの設備屋さん」の◯◯ページです。】">
+
+  <!-- OGP（SNS等でシェアされた際の表示設定） -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="【ページ名】｜住まいの設備屋さん">
+  <meta property="og:description" content="【meta descriptionと同内容、または少し短縮した紹介文】">
+  <meta property="og:url" content="https://（本番ドメイン確定後にここへ記載）/【ファイル名】.html">
+  <!-- og:image: 施工写真・アイキャッチ画像が用意でき次第、下記のパスに差し替えてください -->
+  <meta property="og:image" content="images/ogp-default.jpg">
+
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" defer></script>
+</head>
+-->
+
+
+<!-- =====================================================================
+     B. ヘッダー（全ページ共通・そのままコピー）
+     ---------------------------------------------------------------------
+     ・現在ページのリンクに aria-current="page" を追加すること
+     ・下記はトップページ(index.html)を例に、index.htmlのリンクへ
+       aria-current="page" を付与した状態のサンプルです。
+       他ページで使う場合は対象のリンクへ付け替えてください。
+     ===================================================================== -->
+
+<a class="skip-link" href="#main-content">本文へスキップ</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="logo" aria-label="住まいの設備屋さん トップページへ">
+      <span class="logo-mark" aria-hidden="true">住</span>
+      <span class="logo-text">
+        <span class="logo-text-main">住まいの設備屋さん</span>
+        <span class="logo-text-sub">水回り設備 交換専門</span>
+      </span>
+    </a>
+
+    <button type="button" class="hamburger" id="hamburger-btn" aria-expanded="false" aria-controls="site-nav" aria-label="メニューを開く">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="グローバルナビゲーション">
+      <ul>
+        <li><a href="index.html" aria-current="page">トップ</a></li>
+        <li><a href="services.html">サービス・料金</a></li>
+        <li><a href="reserve.html">ご予約</a></li>
+        <li><a href="works.html">施工実績</a></li>
+        <li><a href="area.html">対応エリア</a></li>
+        <li><a href="faq.html">よくある質問</a></li>
+        <li><a href="about.html">会社概要</a></li>
+        <li><a href="contact.html" class="nav-cta">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+<!-- =====================================================================
+     C. フッター（全ページ共通・そのままコピー）
+     ===================================================================== -->
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <a href="index.html" class="logo" aria-label="住まいの設備屋さん トップページへ">
+        <span class="logo-mark" aria-hidden="true">住</span>
+        <span class="logo-text">
+          <span class="logo-text-main">住まいの設備屋さん</span>
+          <span class="logo-text-sub">水回り設備 交換専門</span>
+        </span>
+      </a>
+      <p>東京・埼玉の一部対応エリアにて、トイレ・温水洗浄便座・蛇口・ビルトイン食洗機・ビルトインコンロ・レンジフード・IHクッキングヒーター・浴室乾燥機・換気扇の交換工事を専門に行っています。対応地域と対応商品を絞ることで、明朗な低価格と正確な施工を両立しています。</p>
+    </div>
+
+    <nav class="footer-nav" aria-label="サイト内リンク">
+      <p class="footer-heading">サイトメニュー</p>
+      <ul>
+        <li><a href="index.html">トップ</a></li>
+        <li><a href="services.html">サービス・料金</a></li>
+        <li><a href="reserve.html">ご予約</a></li>
+        <li><a href="works.html">施工実績</a></li>
+        <li><a href="area.html">対応エリア</a></li>
+        <li><a href="faq.html">よくある質問</a></li>
+        <li><a href="about.html">会社概要</a></li>
+        <li><a href="contact.html">お問い合わせ</a></li>
+      </ul>
+    </nav>
+
+    <div class="footer-contact">
+      <p class="footer-heading">お問い合わせ</p>
+      <p>メールでのお問い合わせのみとなります。</p>
+      <p><a class="text-link" href="mailto:sumainosetsubiya@gmail.com">sumainosetsubiya@gmail.com</a></p>
+      <a href="contact.html" class="btn btn-primary">お問い合わせフォームへ</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2026 住まいの設備屋さん All Rights Reserved.</p>
+  </div>
+</footer>
+
+
+<!-- =====================================================================
+     D. サービスアイコン共有ライブラリ（ライン風SVG・自作）
+     ---------------------------------------------------------------------
+     住宅設備9カテゴリのアイコンです。index.html のサービス紹介や
+     services.html のカテゴリ一覧などで、下記の <svg> をそのまま
+     .icon-badge の中に入れて使い回してください（見た目の一貫性のため、
+     新規にアイコンを描き起こす場合もこの線幅・スタイルに揃えること）。
+
+     使用例:
+       <span class="icon-badge">
+         {{ここに下記のsvgを貼り付け}}
+       </span>
+
+     stroke="currentColor" で色を継承するので、そのまま
+     .icon-badge の color（--color-primary）が適用されます。
+     ===================================================================== -->
+
+<!-- 1. トイレ -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M14 20h20v4a10 10 0 0 1-10 10 10 10 0 0 1-10-10v-4Z"/><path d="M16 20v-6a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v6"/><path d="M10 38h28"/></svg>
+
+<!-- 2. 温水洗浄便座 -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 22c0-3 3-5 6-5h16c3 0 6 2 6 5v2c0 6-6 10-14 10s-14-4-14-10v-2Z"/><path d="M24 8c2 3 4 5 4 7.5a4 4 0 0 1-8 0C20 13 22 11 24 8Z"/></svg>
+
+<!-- 3. 蛇口（キッチン・浴室・洗面 共通） -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 30h10"/><path d="M15 30V16a4 4 0 0 1 4-4h9a6 6 0 0 1 6 6v6"/><path d="M34 24v6a2 2 0 0 1-2 2"/><path d="M22 32v6"/><path d="M17 40h10"/></svg>
+
+<!-- 4. ビルトイン食洗機 -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="9" y="8" width="30" height="32" rx="2"/><line x1="9" y1="17" x2="39" y2="17"/><circle cx="16" cy="12.5" r="1.4" style="fill:currentColor;stroke:none"/><path d="M15 25h18M15 31h18M15 35h12"/></svg>
+
+<!-- 5. ビルトインコンロ -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="7" y="10" width="34" height="28" rx="2"/><circle cx="17" cy="20" r="5"/><circle cx="31" cy="20" r="5"/><circle cx="17" cy="32" r="4"/><circle cx="31" cy="32" r="4"/></svg>
+
+<!-- 6. レンジフード -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 8h28l-4 12H14L10 8Z"/><path d="M20 20v6a4 4 0 0 0 8 0v-6"/><path d="M24 30v10"/><path d="M16 40h16"/></svg>
+
+<!-- 7. IHクッキングヒーター -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="7" y="10" width="34" height="28" rx="2"/><circle cx="18" cy="24" r="7"/><circle cx="18" cy="24" r="3.2"/><circle cx="32" cy="17" r="4"/><circle cx="32" cy="31" r="4"/></svg>
+
+<!-- 8. 浴室乾燥機 -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="10" y="8" width="28" height="14" rx="3"/><circle cx="24" cy="15" r="4"/><path d="M14 28c2 2 4 2 6 0s4-2 6 0 4 2 6 0 4-2 6 0"/><path d="M14 36c2 2 4 2 6 0s4-2 6 0 4 2 6 0 4-2 6 0"/></svg>
+
+<!-- 9. 換気扇（トイレ本体交換時のオプション） -->
+<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="6" width="36" height="36" rx="4"/><circle cx="24" cy="24" r="11"/><path d="M24 24 24 15"/><path d="M24 24 31 29"/><path d="M24 24 17 29"/><circle cx="24" cy="24" r="2" style="fill:currentColor;stroke:none"/></svg>
+
+
+<!-- =====================================================================
+     E. 施工写真プレースホルダー（施工実績・サービス説明で共通利用）
+     ---------------------------------------------------------------------
+     施工写真は依頼主から後日受け取り予定のため、写真を使う箇所には
+     必ずこの形のプレースホルダーを入れてください。
+     alt属性は将来の差し替えを想定し、「何の写真になる予定か」が
+     具体的にわかる文言にすること（例のように）。
+     人物が写った無関係な海外ストック写真は絶対に使用しないこと。
+     ===================================================================== -->
+
+<div class="photo-placeholder" role="img" aria-label="トイレ交換工事の施工写真（準備中）：交換前後の便器の様子を掲載予定">
+  <svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="10" width="36" height="26" rx="2"/><path d="M6 30h36"/><circle cx="16" cy="21" r="3"/><path d="M24 24h12"/><path d="M24 18h9"/></svg>
+  <strong>施工写真 準備中</strong>
+  <span>写真が届き次第、実際の施工事例に差し替えます</span>
+</div>
+
+
+<!-- =====================================================================
+     F. 参考: ページ本文のラップ構造
+     ===================================================================== -->
+<!--
+<main id="main-content">
+  ...各ページの本文（h1は1つだけ、以降h2/h3で階層を守る）...
+</main>
+-->
+
+
+<!-- =====================================================================
+     G. 構造化データ（JSON-LD / LocalBusiness）
+     ---------------------------------------------------------------------
+     地域密着型ビジネス向けのLocalBusiness（サブタイプ:
+     HomeAndConstructionBusiness＝住宅設備工事業）構造化データです。
+
+     ★ このJSON-LDは index.html の </head> 直前にのみ実際に追加しています。
+       他のページ（services.html / reserve.html / works.html / area.html /
+       faq.html / about.html / contact.html）には重複して追加不要です
+       （サイト全体で1箇所、代表ページであるトップページに置けば十分です）。
+
+     ・areaServed には対応エリア（東京都5区・埼玉県各市区）を列挙。
+     ・contactPoint はメールのみ（電話番号は非公開のため含めない）。
+     ・priceRange は「¥¥」程度（明朗な低価格帯であることの目安）。
+     ・所在地（address）は特定商取引法に基づく表記の方針上、
+       請求があった場合のみ開示のため、あえて記載していません。
+     ===================================================================== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "住まいの設備屋さん",
+  "description": "東京都・埼玉県の一部地域で、トイレ・温水洗浄便座・蛇口・ビルトイン食洗機・ビルトインコンロ・レンジフード・IHクッキングヒーター・浴室乾燥機・換気扇などの住宅設備（水回り）交換工事を専門に行う事業者です。対応エリアと取り扱い商品を絞ることで、明朗な低価格と正確な施工を両立しています。",
+  "url": "https://www.sumainosetsubiya.com/",
+  "priceRange": "¥¥",
+  "email": "sumainosetsubiya@gmail.com",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "sumainosetsubiya@gmail.com",
+    "areaServed": "JP",
+    "availableLanguage": "Japanese"
+  },
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "足立区" },
+    { "@type": "AdministrativeArea", "name": "荒川区" },
+    { "@type": "AdministrativeArea", "name": "板橋区" },
+    { "@type": "AdministrativeArea", "name": "北区" },
+    { "@type": "AdministrativeArea", "name": "練馬区" },
+    { "@type": "AdministrativeArea", "name": "上尾市" },
+    { "@type": "AdministrativeArea", "name": "朝霞市" },
+    { "@type": "AdministrativeArea", "name": "桶川市" },
+    { "@type": "AdministrativeArea", "name": "川口市" },
+    { "@type": "AdministrativeArea", "name": "越谷市" },
+    { "@type": "AdministrativeArea", "name": "さいたま市西区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市北区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市大宮区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市見沼区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市中央区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市桜区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市浦和区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市南区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市緑区" },
+    { "@type": "AdministrativeArea", "name": "さいたま市岩槻区" },
+    { "@type": "AdministrativeArea", "name": "志木市" },
+    { "@type": "AdministrativeArea", "name": "草加市" },
+    { "@type": "AdministrativeArea", "name": "戸田市" },
+    { "@type": "AdministrativeArea", "name": "新座市" },
+    { "@type": "AdministrativeArea", "name": "富士見市" },
+    { "@type": "AdministrativeArea", "name": "ふじみ野市" },
+    { "@type": "AdministrativeArea", "name": "和光市" },
+    { "@type": "AdministrativeArea", "name": "蕨市" }
+  ]
+}
+</script>
+
+</body>
+</html>

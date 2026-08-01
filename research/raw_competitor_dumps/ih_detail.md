@@ -1,0 +1,988 @@
+- generic [active] [ref=f290e1]:
+  - link [ref=f290e931] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - generic: 円
+  - banner [ref=f290e2]:
+    - heading "【工事費込み】KZ-N1H6AK｜パナソニック IHクッキングヒーター｜Nシリーズ｜天板幅60cm" [level=1] [ref=f290e5]
+    - generic [ref=f290e8]:
+      - generic [ref=f290e9]:
+        - link [ref=f290e11] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f290e12]
+        - link [ref=f290e13] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f290e14]
+        - link [ref=f290e15] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f290e16]
+      - generic [ref=f290e17]:
+        - generic "検索" [ref=f290e21]:
+          - combobox [ref=f290e22]:
+            - generic [ref=f290e23]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f290e24]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f290e26] [cursor=pointer]:
+            - generic [ref=f290e28]: 検索
+        - generic [ref=f290e29]:
+          - link [ref=f290e30] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f290e32]
+            - paragraph [ref=f290e33]: 閲覧履歴
+          - link [ref=f290e34] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f290e36]
+            - paragraph [ref=f290e37]: ログイン
+        - link [ref=f290e38] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f290e40]
+          - paragraph [ref=f290e41]: お問合せ
+        - generic [ref=f290e42]:
+          - link [ref=f290e43] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f290e45]
+            - paragraph [ref=f290e46]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f290e47]:
+    - main [ref=f290e48]:
+      - list [ref=f290e50]:
+        - listitem [ref=f290e51]:
+          - link "交換できるくん home" [ref=f290e52] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f290e53]:
+          - link "IHクッキングヒーター・IHヒーター" [ref=f290e54] [cursor=pointer]:
+            - /url: /ih/
+          - text: ">"
+        - listitem [ref=f290e55]:
+          - link "パナソニック(Panasonic)" [ref=f290e56] [cursor=pointer]:
+            - /url: /ih/panasonic/
+          - text: ">"
+        - listitem [ref=f290e57]:
+          - link "KZ-N1H6AK｜Nシリーズ" [ref=f290e58] [cursor=pointer]:
+            - /url: /ih/panasonic/KZ-N1H6AK/
+      - list [ref=f290e60]:
+        - listitem [ref=f290e61]:
+          - img "旗" [ref=f290e62]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f290e63] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f290e64]:
+          - img "旗" [ref=f290e65]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f290e66] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f290e68]:
+        - generic [ref=f290e69]:
+          - heading "ランキング1位 ビルトインIHクッキングヒーター パナソニック(Panasonic) 『Nシリーズ』 KZ-N1H6AK 2口IH(鉄・ステンレス対応)＋ラジエント｜天板幅60cm｜天板カラー：ブラック" [level=2] [ref=f290e70]:
+            - generic [ref=f290e71]:
+              - img "ランキング1位" [ref=f290e73]
+              - generic [ref=f290e74]:
+                - text: ビルトインIHクッキングヒーターパナソニック(Panasonic) 『Nシリーズ』KZ-N1H6AK
+                - generic [ref=f290e75]: 2口IH(鉄・ステンレス対応)＋ラジエント｜天板幅60cm｜天板カラー：ブラック
+          - generic [ref=f290e76]:
+            - generic [ref=f290e79] [cursor=pointer]:
+              - generic [ref=f290e80]: 
+              - generic [ref=f290e81]: 
+              - generic [ref=f290e82]: 
+              - generic [ref=f290e83]: 
+              - generic [ref=f290e84]: 
+              - generic [ref=f290e85]: 38件
+            - link [ref=f290e87] [cursor=pointer]:
+              - /url: /guar/
+              - img "商品も工事も無料10年保証付き" [ref=f290e88]
+            - img "【工事費込み】KZ-N1H6AK｜パナソニック IHクッキングヒーター｜Nシリーズ｜天板幅60cm" [ref=f290e89]
+        - generic [ref=f290e93]:
+          - generic [ref=f290e94]: Nシリーズの機能を確認する
+          - img "Nシリーズの機能を確認する" [ref=f290e95]
+        - generic [ref=f290e97]:
+          - generic [ref=f290e98]:
+            - strong [ref=f290e99]: Panasonic KZ-N1H6AK
+            - generic [ref=f290e100]:
+              - text: パナソニック ビルトインIHクッキングヒーター『Nシリーズ』
+              - generic [ref=f290e101]:
+                - generic [ref=f290e102]: 2口IH(鉄・ステンレス対応)＋ラジエント
+                - generic [ref=f290e103]: 天板幅：60cm
+                - generic [ref=f290e104]: 天板カラー：ブラック
+                - generic [ref=f290e105]: 前面フェイス：ブラック
+                - paragraph [ref=f290e106]: ※光るリングなし
+          - generic [ref=f290e107]:
+            - generic [ref=f290e108]: 商品
+            - generic [ref=f290e109]:
+              - generic [ref=f290e110]: メーカー希望小売価格： オープン価格
+              - generic [ref=f290e112]:
+                - generic [ref=f290e113]: 交換できるくん価格
+                - generic [ref=f290e114]:
+                  - generic [ref=f290e115]: 62,370
+                  - generic [ref=f290e116]: 円(税込)
+          - generic [ref=f290e117]:
+            - generic [ref=f290e118]: まるごとサービスパック
+            - generic [ref=f290e119]:
+              - generic [ref=f290e120]:
+                - list [ref=f290e121]:
+                  - listitem [ref=f290e122]:
+                    - generic [ref=f290e125]: 基本工事費
+                    - figure [ref=f290e126]:
+                      - img "plus" [ref=f290e127]
+                  - listitem [ref=f290e128]:
+                    - generic [ref=f290e131]: 出張費運搬費
+                  - listitem [ref=f290e132]:
+                    - generic [ref=f290e135]: 部材費室内養生費
+                  - listitem [ref=f290e136]:
+                    - generic [ref=f290e139]: 設置前清掃使用説明
+                  - listitem [ref=f290e140]:
+                    - generic [ref=f290e143]: 廃材運搬処分
+                  - listitem [ref=f290e144]:
+                    - generic [ref=f290e147]: 諸経費事務経費
+                - paragraph [ref=f290e148]: まるごとサービスパックは、上記全てを含めたコミコミ価格です！
+              - generic [ref=f290e150]:
+                - generic [ref=f290e151]: 20,900
+                - generic [ref=f290e152]: 円(税込)
+          - generic [ref=f290e153]:
+            - generic [ref=f290e154]: 保証
+            - generic [ref=f290e155]:
+              - generic [ref=f290e156]:
+                - figure [ref=f290e157]:
+                  - img "無料十年保証詳細はこちら" [ref=f290e158]
+                - paragraph [ref=f290e159]:
+                  - text: ご参考：
+                  - generic [ref=f290e160]: メーカー延長保証価格
+              - generic [ref=f290e161]: 無料
+          - generic [ref=f290e163]:
+            - generic [ref=f290e164]:
+              - generic [ref=f290e165]: 商品価格+工事費用+10年保証
+              - generic [ref=f290e166]:
+                - generic [ref=f290e167]: 合計
+                - text: 83,270
+                - generic [ref=f290e168]: 円(税込)
+            - generic [ref=f290e169]:
+              - button "取付工事お見積" [ref=f290e173] [cursor=pointer]
+              - generic [ref=f290e174]:
+                - paragraph [ref=f290e175]:
+                  - link "お気に入り" [ref=f290e177] [cursor=pointer]:
+                    - /url: /system/item_favorite/addj/id=71091,71091,53541/
+                - generic [ref=f290e179] [cursor=pointer]:
+                  - figure [ref=f290e180]
+                  - paragraph [ref=f290e182]:
+                    - text: LINE
+                    - generic [ref=f290e183]: で共有
+          - generic [ref=f290e184]:
+            - paragraph [ref=f290e186]:
+              - text: ※お住まいの状況により必要となる追加費用はお見積りでご案内いたします。 お見積り内容以外で、工事日当日に追加請求することは一切ございませんので、ご安心ください。
+              - link "工事費やオプション費などの詳細はこちら >" [ref=f290e187] [cursor=pointer]:
+                - /url: /ih/guide/cost/
+            - generic [ref=f290e188]: ※その他、商品についてのご質問はこちらからお問い合わせください。
+        - table [ref=f290e189]:
+          - rowgroup [ref=f290e190]:
+            - row [ref=f290e191]:
+              - columnheader "商品詳細" [ref=f290e192]
+          - rowgroup [ref=f290e193]:
+            - row [ref=f290e194]:
+              - rowheader "商品特性" [ref=f290e195]
+              - cell [ref=f290e196]:
+                - generic [ref=f290e197]:
+                  - paragraph [ref=f290e198]: シンプルな機能でお買い求めやすい価格帯の『Nシリーズ』。前の2つが鉄・ステンレス対応のIHヒーター、後ろがラジエントヒーターです。
+                  - paragraph [ref=f290e199]: ※Nシリーズに光るリングは搭載されていません。
+                - heading "揚げ物温度調節" [level=3] [ref=f290e200]
+                - generic [ref=f290e201]:
+                  - paragraph [ref=f290e203]: 揚げ物温度調節は、10℃刻みで140℃～200℃の7段階で温度設定ができます。
+                  - figure:
+                    - img "光・揚げ物温度調節で揚げ物もカラッとおいしく"
+                - heading "グリルは焼き網なし・グリル皿タイプ" [level=3] [ref=f290e204]
+                - generic [ref=f290e205]:
+                  - figure:
+                    - img "グリルは焼き網なし・グリル皿タイプ"
+                  - paragraph [ref=f290e207]: グリルは水入れが不要の水なし両面焼き。焼き網なしのグリル皿タイプなので、調理後のお手入れも簡単。
+            - row [ref=f290e208]:
+              - rowheader "基本仕様" [ref=f290e209]
+              - cell [ref=f290e210]:
+                - table [ref=f290e211]:
+                  - rowgroup [ref=f290e212]:
+                    - row [ref=f290e213]:
+                      - rowheader "品番" [ref=f290e214]
+                      - cell "KZ-N1H6AK" [ref=f290e215]
+                    - row [ref=f290e216]:
+                      - rowheader "メーカー名" [ref=f290e217]
+                      - cell "パナソニック" [ref=f290e218]
+                    - row [ref=f290e219]:
+                      - rowheader "シリーズ名" [ref=f290e220]
+                      - cell "Nシリーズ" [ref=f290e221]
+                    - row [ref=f290e222]:
+                      - rowheader "天板幅" [ref=f290e223]
+                      - cell "60cm" [ref=f290e224]
+                    - row [ref=f290e225]:
+                      - rowheader "トッププレート色" [ref=f290e226]
+                      - cell "ブラック（本体正面：ブラック）" [ref=f290e227]
+                    - row [ref=f290e228]:
+                      - rowheader "ヒーター種類" [ref=f290e229]
+                      - cell "2口IH(鉄・ステンレス対応)＋ラジエント" [ref=f290e230]
+                    - row [ref=f290e231]:
+                      - rowheader "最大火力" [ref=f290e232]
+                      - cell "左右IH：3.0kW、ラジエント：1.25kW、グリル：1.55kW" [ref=f290e233]
+                    - row [ref=f290e234]:
+                      - rowheader "火力調節" [ref=f290e235]
+                      - cell "左右IH：8段階、ラジエント：3段階（弱・中・強）" [ref=f290e236]
+                    - row [ref=f290e237]:
+                      - rowheader "光るリング" [ref=f290e238]
+                      - cell "なし" [ref=f290e239]
+                    - row [ref=f290e240]:
+                      - rowheader "レンジフード連動" [ref=f290e241]
+                      - cell "なし" [ref=f290e242]
+                    - row [ref=f290e243]:
+                      - rowheader "グリル庫内有効寸法 (幅×奥行×高さ)" [ref=f290e244]: グリル庫内有効寸法(幅×奥行×高さ)
+                      - cell "グリル皿の調理面から天井面まで：26cm×34.9cm×6.4cm" [ref=f290e245]
+                    - row [ref=f290e246]:
+                      - rowheader "発売日" [ref=f290e247]
+                      - cell "2025年11月" [ref=f290e248]
+                - generic [ref=f290e249]:
+                  - text: ※揚げ物調理の場合は、別売の専用天ぷら鍋
+                  - link "KZ-T3S" [ref=f290e250] [cursor=pointer]:
+                    - /url: /ih/panasonic/KZ-T3S/
+                  - text: の使用がおすすめです。
+            - row [ref=f290e251]:
+              - rowheader "関連情報" [ref=f290e252]
+              - cell [ref=f290e253]:
+                - generic [ref=f290e254]:
+                  - paragraph [ref=f290e255]: ■IHクッキングヒーターとの同時交換がおすすめ
+                  - generic [ref=f290e256]:
+                    - link "電気オーブンも特価販売中！":
+                      - /url: /ih/oven/
+                      - img "電気オーブンも特価販売中！"
+                    - link "IHクッキングヒーターとレンジフードの同時交換がお得！":
+                      - /url: /kitchen/food/case.html
+                      - img "IHクッキングヒーターとレンジフードの同時交換がお得！"
+                  - paragraph [ref=f290e258]:
+                    - link "パナソニックIHクッキングヒーターの当社施工事例はこちら" [ref=f290e259] [cursor=pointer]:
+                      - /url: /ih/blog/panasonic/
+                    - link "レンジフードはこちら >" [ref=f290e260] [cursor=pointer]:
+                      - /url: /kitchen/food/
+                    - link "メーカーホームページ" [ref=f290e261] [cursor=pointer]:
+                      - /url: https://sumai.panasonic.jp/ihcook/lineup/
+                  - paragraph [ref=f290e264]:
+                    - text: ■工事について 現在のビルトインガスコンロの設置状況により、オプション部品やオプション工事が必要になる場合があります。
+                    - link "交換工事費一覧はこちら >" [ref=f290e265] [cursor=pointer]:
+                      - /url: /ih/guide/cost/
+            - row [ref=f290e266]:
+              - rowheader "ページ位置" [ref=f290e267]
+              - cell [ref=f290e268]:
+                - list [ref=f290e269]:
+                  - listitem [ref=f290e270]:
+                    - link "交換できるくん home" [ref=f290e271] [cursor=pointer]:
+                      - /url: /
+                    - text: ">"
+                  - listitem [ref=f290e272]:
+                    - link "IHクッキングヒーター・IHヒーター" [ref=f290e273] [cursor=pointer]:
+                      - /url: /ih/
+                    - text: ">"
+                  - listitem [ref=f290e274]:
+                    - link "パナソニック(Panasonic)" [ref=f290e275] [cursor=pointer]:
+                      - /url: /ih/panasonic/
+                    - text: ">"
+                  - listitem [ref=f290e276]:
+                    - link "KZ-N1H6AK｜Nシリーズ" [ref=f290e277] [cursor=pointer]:
+                      - /url: /ih/panasonic/KZ-N1H6AK/
+            - row [ref=f290e278]:
+              - rowheader "旧品番" [ref=f290e279]
+              - cell "―" [ref=f290e280]
+            - row [ref=f290e281]:
+              - cell [ref=f290e282]:
+                - generic [ref=f290e283]:
+                  - heading "Panasonic「KZ-N1H6AK」施工事例" [level=3] [ref=f290e284]
+                  - paragraph [ref=f290e285]: ※旧品番の事例も含みます
+                  - generic [ref=f290e286]:
+                    - link "兵庫県神戸市｜パナソニックIHクッキングヒーターの施工事例 2026/07/01" [ref=f290e287] [cursor=pointer]:
+                      - /url: /ih/blog/panasonic/132818/
+                      - generic [ref=f290e288]: 兵庫県神戸市｜パナソニックIHクッキングヒーターの施工事例
+                      - generic [ref=f290e289]: 2026/07/01
+                      - figure [ref=f290e290]:
+                        - img "兵庫県神戸市｜パナソニックIHクッキングヒーターの施工事例" [ref=f290e291]
+                    - link "東京都三鷹市｜パナソニックIHクッキングヒーターの施工事例 2026/03/31" [ref=f290e292] [cursor=pointer]:
+                      - /url: /ih/blog/panasonic/130070/
+                      - generic [ref=f290e293]: 東京都三鷹市｜パナソニックIHクッキングヒーターの施工事例
+                      - generic [ref=f290e294]: 2026/03/31
+                      - figure [ref=f290e295]:
+                        - img "東京都三鷹市｜パナソニックIHクッキングヒーターの施工事例" [ref=f290e296]
+                    - link "広島県広島市｜パナソニックIHクッキングヒーターの施工事例 2026/01/26" [ref=f290e297] [cursor=pointer]:
+                      - /url: /ih/blog/panasonic/130074/
+                      - generic [ref=f290e298]: 広島県広島市｜パナソニックIHクッキングヒーターの施工事例
+                      - generic [ref=f290e299]: 2026/01/26
+                      - figure [ref=f290e300]:
+                        - img "広島県広島市｜パナソニックIHクッキングヒーターの施工事例" [ref=f290e301]
+                    - link "神奈川県横須賀市｜パナソニックIHクッキングヒーターの施工事例 2026/01/21" [ref=f290e302] [cursor=pointer]:
+                      - /url: /ih/blog/panasonic/130062/
+                      - generic [ref=f290e303]: 神奈川県横須賀市｜パナソニックIHクッキングヒーターの施工事例
+                      - generic [ref=f290e304]: 2026/01/21
+                      - figure [ref=f290e305]:
+                        - img "神奈川県横須賀市｜パナソニックIHクッキングヒーターの施工事例" [ref=f290e306]
+                  - link "この商品の施工事例をもっと見る" [ref=f290e308] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/blog/?s=KZ-N1H6AK
+            - row [ref=f290e309]:
+              - cell "商品レビュー・口コミ 4.6      38件 日付順 ↓ 評価順 いいね数順 星による評価  写真       よし様 2026-07-19 使いやすいです。 20年前のものを使っていたので、交換していただいたものはとても使いやすいです。  役に立った 0      匿名希望様 2026-07-01 タイトルなし 見積もり、発注から工事日まで時間がちょっとかかること以外は対応も工事の方の対応もとても良かった  役に立った 0      rie様 2026-06-23 タイトルなし グリルに水を入れて使っていたので、交換してからグリル掃除が楽になった。  役に立った 0      アルテマ様 2026-06-16 タイトルなし デザインは良くなったが、機能が少なくなった。  役に立った 0      とく様 2026-06-15 タイトルなし 交換までとてもスムーズで工事担当の方がとても感じの良い方でした  役に立った 1   1 2 3 4 5 6 7 8   全ての商品レビュー一覧" [ref=f290e310]:
+                - heading "商品レビュー・口コミ" [level=3] [ref=f290e311]
+                - generic [ref=f290e314]:
+                  - generic [ref=f290e315]:
+                    - generic [ref=f290e319]:
+                      - strong [ref=f290e321]: "4.6"
+                      - generic [ref=f290e322]: 
+                      - generic [ref=f290e323]: 
+                      - generic [ref=f290e324]: 
+                      - generic [ref=f290e325]: 
+                      - generic [ref=f290e326]: 
+                      - generic [ref=f290e327]: 38件
+                    - generic [ref=f290e329]:
+                      - generic [ref=f290e330]:
+                        - generic [ref=f290e331] [cursor=pointer]: 日付順 ↓
+                        - generic [ref=f290e332] [cursor=pointer]: 評価順
+                        - generic [ref=f290e333] [cursor=pointer]: いいね数順
+                      - generic [ref=f290e335]:
+                        - generic [ref=f290e336]:
+                          - combobox [ref=f290e337]:
+                            - option "星による評価" [selected]
+                            - option "★5(26件)"
+                            - option "★4(10件)"
+                            - option "★3(2件)"
+                            - option "★2(0件)"
+                            - option "★1(0件)"
+                          - text: 
+                        - generic [ref=f290e338]:
+                          - combobox [ref=f290e339]:
+                            - option "写真" [selected]
+                            - option "写真有り"
+                          - text: 
+                  - generic [ref=f290e341]:
+                    - generic [ref=f290e342]:
+                      - generic [ref=f290e343]:
+                        - generic [ref=f290e344]:
+                          - generic [ref=f290e345]:
+                            - generic [ref=f290e346]: 
+                            - generic [ref=f290e347]: 
+                            - generic [ref=f290e348]: 
+                            - generic [ref=f290e349]: 
+                            - generic [ref=f290e350]: 
+                          - generic [ref=f290e351]: よし様
+                        - generic [ref=f290e352]: 2026-07-19
+                      - generic [ref=f290e354]:
+                        - generic [ref=f290e355]: 使いやすいです。
+                        - paragraph [ref=f290e356]: 20年前のものを使っていたので、交換していただいたものはとても使いやすいです。
+                      - button " 役に立った 0" [ref=f290e360] [cursor=pointer]:
+                        - generic [ref=f290e361]: 
+                        - generic [ref=f290e362]: 役に立った
+                        - generic [ref=f290e363]: "0"
+                    - generic [ref=f290e364]:
+                      - generic [ref=f290e365]:
+                        - generic [ref=f290e366]:
+                          - generic [ref=f290e367]:
+                            - generic [ref=f290e368]: 
+                            - generic [ref=f290e369]: 
+                            - generic [ref=f290e370]: 
+                            - generic [ref=f290e371]: 
+                            - generic [ref=f290e372]: 
+                          - generic [ref=f290e373]: 匿名希望様
+                        - generic [ref=f290e374]: 2026-07-01
+                      - generic [ref=f290e376]:
+                        - generic [ref=f290e377]: タイトルなし
+                        - paragraph [ref=f290e378]: 見積もり、発注から工事日まで時間がちょっとかかること以外は対応も工事の方の対応もとても良かった
+                      - button " 役に立った 0" [ref=f290e382] [cursor=pointer]:
+                        - generic [ref=f290e383]: 
+                        - generic [ref=f290e384]: 役に立った
+                        - generic [ref=f290e385]: "0"
+                    - generic [ref=f290e386]:
+                      - generic [ref=f290e387]:
+                        - generic [ref=f290e388]:
+                          - generic [ref=f290e389]:
+                            - generic [ref=f290e390]: 
+                            - generic [ref=f290e391]: 
+                            - generic [ref=f290e392]: 
+                            - generic [ref=f290e393]: 
+                            - generic [ref=f290e394]: 
+                          - generic [ref=f290e395]: rie様
+                        - generic [ref=f290e396]: 2026-06-23
+                      - generic [ref=f290e398]:
+                        - generic [ref=f290e399]: タイトルなし
+                        - paragraph [ref=f290e400]: グリルに水を入れて使っていたので、交換してからグリル掃除が楽になった。
+                      - button " 役に立った 0" [ref=f290e404] [cursor=pointer]:
+                        - generic [ref=f290e405]: 
+                        - generic [ref=f290e406]: 役に立った
+                        - generic [ref=f290e407]: "0"
+                    - generic [ref=f290e408]:
+                      - generic [ref=f290e409]:
+                        - generic [ref=f290e410]:
+                          - generic [ref=f290e411]:
+                            - generic [ref=f290e412]: 
+                            - generic [ref=f290e413]: 
+                            - generic [ref=f290e414]: 
+                            - generic [ref=f290e415]: 
+                            - generic [ref=f290e416]: 
+                          - generic [ref=f290e417]: アルテマ様
+                        - generic [ref=f290e418]: 2026-06-16
+                      - generic [ref=f290e420]:
+                        - generic [ref=f290e421]: タイトルなし
+                        - paragraph [ref=f290e422]: デザインは良くなったが、機能が少なくなった。
+                      - button " 役に立った 0" [ref=f290e426] [cursor=pointer]:
+                        - generic [ref=f290e427]: 
+                        - generic [ref=f290e428]: 役に立った
+                        - generic [ref=f290e429]: "0"
+                    - generic [ref=f290e430]:
+                      - generic [ref=f290e431]:
+                        - generic [ref=f290e432]:
+                          - generic [ref=f290e433]:
+                            - generic [ref=f290e434]: 
+                            - generic [ref=f290e435]: 
+                            - generic [ref=f290e436]: 
+                            - generic [ref=f290e437]: 
+                            - generic [ref=f290e438]: 
+                          - generic [ref=f290e439]: とく様
+                        - generic [ref=f290e440]: 2026-06-15
+                      - generic [ref=f290e442]:
+                        - generic [ref=f290e443]: タイトルなし
+                        - paragraph [ref=f290e444]: 交換までとてもスムーズで工事担当の方がとても感じの良い方でした
+                      - button " 役に立った 1" [ref=f290e448] [cursor=pointer]:
+                        - generic [ref=f290e449]: 
+                        - generic [ref=f290e450]: 役に立った
+                        - generic [ref=f290e451]: "1"
+                    - generic [ref=f290e452]:
+                      - link "" [ref=f290e454] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - generic:
+                        - link "":
+                          - /url: javascript:void(0)
+                      - generic [ref=f290e455] [cursor=pointer]: "1"
+                      - generic [ref=f290e456] [cursor=pointer]: "2"
+                      - generic [ref=f290e457] [cursor=pointer]: "3"
+                      - generic [ref=f290e458] [cursor=pointer]: "4"
+                      - generic [ref=f290e459] [cursor=pointer]: "5"
+                      - generic [ref=f290e460] [cursor=pointer]: "6"
+                      - generic [ref=f290e461] [cursor=pointer]: "7"
+                      - generic [ref=f290e462] [cursor=pointer]: "8"
+                      - link "" [ref=f290e464] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "" [ref=f290e466] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                - link "全ての商品レビュー一覧" [ref=f290e468] [cursor=pointer]:
+                  - /url: /review/
+      - generic [ref=f290e470]:
+        - link "工事エリアについて 工事エリアについて 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。" [ref=f290e471] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+          - generic [ref=f290e472]:
+            - generic [ref=f290e473]: 工事エリアについて
+            - generic [ref=f290e474]:
+              - img "工事エリアについて" [ref=f290e476]
+              - generic [ref=f290e477]: 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。
+          - text: ">"
+        - link "お支払い方法について お支払い方法について 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。" [ref=f290e478] [cursor=pointer]:
+          - /url: /site_guide/use/pay.html
+          - generic [ref=f290e479]:
+            - generic [ref=f290e480]: お支払い方法について
+            - generic [ref=f290e481]:
+              - img "お支払い方法について" [ref=f290e483]
+              - generic [ref=f290e484]: 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。
+          - text: ">"
+        - link "無料10年保証について 無償標準保証 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。" [ref=f290e485] [cursor=pointer]:
+          - /url: /guar/
+          - generic [ref=f290e486]:
+            - generic [ref=f290e487]: 無料10年保証について
+            - generic [ref=f290e488]:
+              - img "無償標準保証" [ref=f290e490]
+              - generic [ref=f290e491]: 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。
+          - text: ">"
+        - link "お伺いする工事担当について お伺いする工事担当 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。" [ref=f290e492] [cursor=pointer]:
+          - /url: /site_guide/company/staff.html
+          - generic [ref=f290e493]:
+            - generic [ref=f290e494]: お伺いする工事担当について
+            - generic [ref=f290e495]:
+              - img "お伺いする工事担当" [ref=f290e497]
+              - generic [ref=f290e498]: 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。
+          - text: ">"
+        - link "おまとめ工事割引について おまとめ工事割引 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。" [ref=f290e499] [cursor=pointer]:
+          - /url: /construction/campaign/omatome.html
+          - generic [ref=f290e500]:
+            - generic [ref=f290e501]: おまとめ工事割引について
+            - generic [ref=f290e502]:
+              - img "おまとめ工事割引" [ref=f290e504]
+              - generic [ref=f290e505]: 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。
+          - text: ">"
+        - link "会員登録について 会員登録 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。" [ref=f290e506] [cursor=pointer]:
+          - /url: /system/auth/
+          - generic [ref=f290e507]:
+            - generic [ref=f290e508]: 会員登録について
+            - generic [ref=f290e509]:
+              - img "会員登録" [ref=f290e511]
+              - generic [ref=f290e512]: 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。
+          - text: ">"
+      - generic [ref=f290e513]:
+        - heading "IHクッキングヒーター・IHコンロ 人気ページ" [level=3] [ref=f290e514]
+        - generic [ref=f290e516]:
+          - link [ref=f290e517] [cursor=pointer]:
+            - /url: /ih/
+            - img "IHクッキングヒーター・IHコンロ トップページ" [ref=f290e519]
+            - paragraph [ref=f290e520]: IHヒーター トップページ IHヒーターが驚きのネット特価でお安く交換できます。
+          - link [ref=f290e521] [cursor=pointer]:
+            - /url: /ih/choice/
+            - img "IHクッキングヒーター・IHコンロ 選び方" [ref=f290e523]
+            - paragraph [ref=f290e524]: IHヒーター 選び方 IHヒーターの選び方を徹底解説！天板幅は？口数は？
+          - link [ref=f290e525] [cursor=pointer]:
+            - /url: /ih/function/
+            - img "IHクッキングヒーター・IHコンロ 機能価格表" [ref=f290e527]
+            - paragraph [ref=f290e528]: IHヒーター 機能価格表 パナソニック、三菱、日立全機種のシリーズ別機能・仕様一覧です。
+          - generic [ref=f290e529]:
+            - link [ref=f290e530] [cursor=pointer]:
+              - /url: /ih/panasonic/
+              - img "IHクッキングヒーター・IHコンロ パナソニック" [ref=f290e531]
+            - paragraph [ref=f290e532]:
+              - text: IHヒーター パナソニック
+              - generic [ref=f290e533]: お手軽なグリル料理と簡単なお手入れが人気、パナソニックのIHです。
+            - generic [ref=f290e534]:
+              - link [ref=f290e535] [cursor=pointer]:
+                - /url: /ih/panasonic/a-series.html
+                - img "パナソニックIH ハイグレード、Aシリーズ" [ref=f290e536]
+              - link [ref=f290e537] [cursor=pointer]:
+                - /url: /ih/panasonic/list-middle.html
+                - img "パナソニックIH ミドルグレード、Bシリーズ・Cシリーズ・Wシリーズ" [ref=f290e538]
+              - link [ref=f290e539] [cursor=pointer]:
+                - /url: /ih/panasonic/list-basic.html
+                - img "パナソニックIH ミドルグレード、Lシリーズ・Kシリーズ" [ref=f290e540]
+          - generic [ref=f290e541]:
+            - link [ref=f290e542] [cursor=pointer]:
+              - /url: /ih/mitsubishi/
+              - img "IHクッキングヒーター・IHコンロ 三菱" [ref=f290e543]
+            - paragraph [ref=f290e544]: IHヒーター 三菱 独自コイル技術でムラなくおいしく、省エネで調理できる三菱のIHです。
+            - generic [ref=f290e545]:
+              - link [ref=f290e546] [cursor=pointer]:
+                - /url: /ih/mitsubishi/list-high.html
+                - img "三菱IH ハイグレード、PT321H、T321Hシリーズ、REシリーズ" [ref=f290e547]
+              - link [ref=f290e548] [cursor=pointer]:
+                - /url: /ih/mitsubishi/list-middle.html
+                - img "三菱IH ミドルグレード、T321V、G321Vシリーズ" [ref=f290e549]
+              - link [ref=f290e550] [cursor=pointer]:
+                - /url: /ih/mitsubishi/list-basic.html
+                - img "三菱IH ベーシックグレード、G321Mシリーズ" [ref=f290e551]
+          - generic [ref=f290e552]:
+            - link [ref=f290e553] [cursor=pointer]:
+              - /url: /ih/hitachi/
+              - img "IHクッキングヒーター・IHコンロ 日立" [ref=f290e554]
+            - paragraph [ref=f290e555]:
+              - text: IHヒーター 日立
+              - generic [ref=f290e556]: 左右IH3.2kWの大火力！火加減マイスター、ラク旨グリル搭載。
+            - generic [ref=f290e557]:
+              - link [ref=f290e558] [cursor=pointer]:
+                - /url: /ih/hitachi/list-high.html
+                - img "日立IH ハイグレード N2500T・N1500T、N2000T・N1000Tシリーズ" [ref=f290e559]
+              - link [ref=f290e560] [cursor=pointer]:
+                - /url: /ih/hitachi/list-middle.html
+                - img "日立IH ミドルグレード N100T・N9T・N8Tシリーズ" [ref=f290e561]
+              - link [ref=f290e562] [cursor=pointer]:
+                - /url: /ih/hitachi/list-basic.html
+                - img "日立IH ベーシックグレード M7STFシリーズ" [ref=f290e563]
+    - generic [ref=f290e565]:
+      - link [ref=f290e567] [cursor=pointer]:
+        - /url: /ih/ranking.html
+        - img "IHクッキングヒーター人気・売れ筋ランキング" [ref=f290e568]
+      - list [ref=f290e569]:
+        - generic [ref=f290e570]: IHクッキングヒーター
+        - listitem [ref=f290e572]:
+          - link "IHクッキングヒーターTOP" [ref=f290e573] [cursor=pointer]:
+            - /url: /ih/
+        - listitem [ref=f290e574]:
+          - link "サイトマップ" [ref=f290e575] [cursor=pointer]:
+            - /url: /ih/sitemap/
+      - list [ref=f290e576]:
+        - generic [ref=f290e577]: IHの選び方
+        - listitem [ref=f290e579]:
+          - link "IHヒーターの選び方TOP" [ref=f290e580] [cursor=pointer]:
+            - /url: /ih/choice/
+        - listitem [ref=f290e581]:
+          - link "IHヒーター機能一覧表" [ref=f290e582] [cursor=pointer]:
+            - /url: /ih/function/
+      - list [ref=f290e583]:
+        - generic [ref=f290e584]: IHを選ぶ
+        - listitem [ref=f290e586]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f290e587] [cursor=pointer]:
+            - /url: /ih/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f290e588]:
+          - link "人気ランキングから選ぶ" [ref=f290e589] [cursor=pointer]:
+            - /url: /ih/ranking.html
+        - listitem [ref=f290e590]:
+          - link "パナソニックロゴ パナソニックTOP >" [ref=f290e591] [cursor=pointer]:
+            - /url: /ih/panasonic/
+            - img "パナソニックロゴ" [ref=f290e592]
+            - generic [ref=f290e593]: パナソニックTOP >
+        - listitem [ref=f290e594]:
+          - link "ハイグレード(Sシリーズ)" [ref=f290e595] [cursor=pointer]:
+            - /url: /ih/panasonic/s-series.html
+        - listitem [ref=f290e596]:
+          - link "ハイグレード(Aシリーズ)" [ref=f290e597] [cursor=pointer]:
+            - /url: /ih/panasonic/a-series.html
+        - listitem [ref=f290e598]:
+          - link "Aシリーズ特集" [ref=f290e599] [cursor=pointer]:
+            - /url: /ih/panasonic/feature-a_series.html
+        - listitem [ref=f290e600]:
+          - link "ミドルグレード" [ref=f290e601] [cursor=pointer]:
+            - /url: /ih/panasonic/list-middle.html
+        - listitem [ref=f290e602]:
+          - link "ベーシックグレード" [ref=f290e603] [cursor=pointer]:
+            - /url: /ih/panasonic/list-basic.html
+        - listitem [ref=f290e604]:
+          - link "2口IH" [ref=f290e605] [cursor=pointer]:
+            - /url: /ih/panasonic/list-2ih.html
+        - listitem [ref=f290e606]:
+          - link "三菱電機ロゴ 三菱電機TOP >" [ref=f290e607] [cursor=pointer]:
+            - /url: /ih/mitsubishi/
+            - img "三菱電機ロゴ" [ref=f290e608]
+            - generic [ref=f290e609]: 三菱電機TOP >
+        - listitem [ref=f290e610]:
+          - link "ハイグレード" [ref=f290e611] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-high.html
+        - listitem [ref=f290e612]:
+          - link "ミドルグレード" [ref=f290e613] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-middle.html
+        - listitem [ref=f290e614]:
+          - link "ベーシックグレード" [ref=f290e615] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-basic.html
+        - listitem [ref=f290e616]:
+          - link "2口IH" [ref=f290e617] [cursor=pointer]:
+            - /url: /ih/mitsubishi/list-2ih.html
+        - listitem [ref=f290e618]:
+          - link "日立ロゴ 日立TOP >" [ref=f290e619] [cursor=pointer]:
+            - /url: /ih/hitachi/
+            - img "日立ロゴ" [ref=f290e620]
+            - generic [ref=f290e621]: 日立TOP >
+        - listitem [ref=f290e622]:
+          - link "ハイグレード" [ref=f290e623] [cursor=pointer]:
+            - /url: /ih/hitachi/list-high.html
+        - listitem [ref=f290e624]:
+          - link "ミドルグレード" [ref=f290e625] [cursor=pointer]:
+            - /url: /ih/hitachi/list-middle.html
+        - listitem [ref=f290e626]:
+          - link "ベーシックグレード" [ref=f290e627] [cursor=pointer]:
+            - /url: /ih/hitachi/list-basic.html
+      - list [ref=f290e628]:
+        - generic [ref=f290e629]: IH関連商品
+        - listitem [ref=f290e631]:
+          - link "電気オーブンTOP" [ref=f290e632] [cursor=pointer]:
+            - /url: /ih/oven/
+        - listitem [ref=f290e633]:
+          - link "パナソニック" [ref=f290e634] [cursor=pointer]:
+            - /url: /ih/oven/panasonic/
+      - list [ref=f290e635]:
+        - generic [ref=f290e636]: 交換工事について
+        - listitem [ref=f290e638]:
+          - link "交換工事費" [ref=f290e639] [cursor=pointer]:
+            - /url: /ih/guide/cost/
+        - listitem [ref=f290e640]:
+          - link "工事対応エリア" [ref=f290e641] [cursor=pointer]:
+            - /url: /site_guide/construction/area.html
+        - listitem [ref=f290e642]:
+          - link "無料10年保証" [ref=f290e643] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f290e644]:
+          - link "工事当日の流れ" [ref=f290e645] [cursor=pointer]:
+            - /url: /ih/construction.html
+      - list [ref=f290e646]:
+        - generic [ref=f290e647]: よくあるご質問
+        - listitem [ref=f290e649]:
+          - link "商品について" [ref=f290e650] [cursor=pointer]:
+            - /url: /ih/faq-item.html
+        - listitem [ref=f290e651]:
+          - link "見積り・注文について" [ref=f290e652] [cursor=pointer]:
+            - /url: /ih/faq-esti.html
+        - listitem [ref=f290e653]:
+          - link "工事について" [ref=f290e654] [cursor=pointer]:
+            - /url: /ih/faq-construction.html
+      - list [ref=f290e655]:
+        - generic [ref=f290e656]: 動画コンテンツお客様の声・施工事例
+        - listitem [ref=f290e658]:
+          - link "動画コンテンツ" [ref=f290e659] [cursor=pointer]:
+            - /url: /ih/movie/
+        - listitem [ref=f290e660]:
+          - link "お客様の声" [ref=f290e661] [cursor=pointer]:
+            - /url: /voice/?s=IH&x=0&y=0
+        - listitem [ref=f290e662]:
+          - link "施工事例" [ref=f290e663] [cursor=pointer]:
+            - /url: /ih/blog/
+        - listitem [ref=f290e664]:
+          - link "スタッフブログ" [ref=f290e665] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/ih
+        - listitem [ref=f290e666]:
+          - link "商品レビュー" [ref=f290e667] [cursor=pointer]:
+            - /url: /review/?category=ih
+      - list [ref=f290e668]:
+        - generic [ref=f290e669]: IHをもっと知る
+        - listitem [ref=f290e671]:
+          - link "家電量販店製品について" [ref=f290e672] [cursor=pointer]:
+            - /url: /ih/search_part_number.html
+        - listitem [ref=f290e673]:
+          - link "オールメタルとは？" [ref=f290e674] [cursor=pointer]:
+            - /url: /ih/contents/what_is_allmetal.html
+        - listitem [ref=f290e675]:
+          - link "ラジエントヒーター" [ref=f290e676] [cursor=pointer]:
+            - /url: /ih/contents/what_is_radiant.html
+        - listitem [ref=f290e677]:
+          - link "IHの特徴とメリット" [ref=f290e678] [cursor=pointer]:
+            - /url: /ih/contents/merit.html
+        - listitem [ref=f290e679]:
+          - link "IHで使える鍋・使えない鍋" [ref=f290e680] [cursor=pointer]:
+            - /url: /ih/contents/nabe.html
+        - listitem [ref=f290e681]:
+          - link "IHの掃除・お手入れ方法" [ref=f290e682] [cursor=pointer]:
+            - /url: /ih/contents/cleaning.html
+        - listitem [ref=f290e683]:
+          - link "IHの電気代と節電豆知識" [ref=f290e684] [cursor=pointer]:
+            - /url: /ih/contents/electricity_bill.html
+        - listitem [ref=f290e685]:
+          - link "ガスとIHの違い" [ref=f290e686] [cursor=pointer]:
+            - /url: /ih/contents/gas_ih.html
+        - listitem [ref=f290e687]:
+          - link "卓上IHとビルトイン比較" [ref=f290e688] [cursor=pointer]:
+            - /url: /ih/contents/builtin_stationary.html
+        - listitem [ref=f290e689]:
+          - link "ひとり暮らしやシニア向けにおすすめのIH" [ref=f290e690] [cursor=pointer]:
+            - /url: /ih/contents/senior.html
+        - listitem [ref=f290e691]:
+          - link "調理レポート さんま塩焼" [ref=f290e692] [cursor=pointer]:
+            - /url: /ih/cook/grill_sanma_shioyaki.html
+      - list [ref=f290e693]:
+        - generic [ref=f290e694]: IHトラブル・故障
+        - listitem [ref=f290e696]:
+          - link "IHヒーターの故障・寿命" [ref=f290e697] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/
+        - listitem [ref=f290e698]: エラーコード一覧
+        - listitem [ref=f290e699]:
+          - link "パナソニック" [ref=f290e700] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/panasonic/
+        - listitem [ref=f290e701]:
+          - link "三菱電機" [ref=f290e702] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/mitsubishi/
+        - listitem [ref=f290e703]:
+          - link "日立" [ref=f290e704] [cursor=pointer]:
+            - /url: /ih/contents/breakdown/hitachi/
+  - generic [ref=f290e706]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f290e708] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f290e709]
+      - generic [ref=f290e710]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f290e712] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f290e713]
+      - generic [ref=f290e714]: 天井エアコン
+    - link "トイレ トイレ" [ref=f290e716] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f290e717]
+      - generic [ref=f290e718]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f290e720] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f290e721]
+      - generic [ref=f290e722]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f290e724] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f290e725]
+      - generic [ref=f290e726]: 給湯器
+    - link "エコキュート エコキュート" [ref=f290e728] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f290e729]
+      - generic [ref=f290e730]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f290e732] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f290e733]
+      - generic [ref=f290e734]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f290e736] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f290e737]
+      - generic [ref=f290e738]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f290e740] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f290e741]
+      - generic [ref=f290e742]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f290e744] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f290e745]
+      - generic [ref=f290e746]: レンジフード
+    - link "蛇口 蛇口" [ref=f290e748] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f290e749]
+      - generic [ref=f290e750]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f290e752] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f290e753]
+      - generic [ref=f290e754]: 浴室乾燥機
+    - generic [ref=f290e755]: その他>>
+  - navigation [ref=f290e757]:
+    - generic [ref=f290e758]:
+      - generic [ref=f290e759]:
+        - generic [ref=f290e760]: IHヒーター
+        - generic [ref=f290e767]: 総合メニュー
+      - generic [ref=f290e774]:
+        - link "人気ランキング" [ref=f290e775] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f290e777] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f290e779] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f290e781] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f290e783] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f290e785] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f290e787]:
+    - generic [ref=f290e788]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f290e791]
+    - generic [ref=f290e792]:
+      - generic [ref=f290e793]:
+        - term [ref=f290e794]:
+          - img "サービス案内" [ref=f290e795]
+          - text: サービス案内
+        - definition [ref=f290e796]:
+          - list [ref=f290e797]:
+            - listitem [ref=f290e798]:
+              - link "ご利用の流れ" [ref=f290e799] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f290e800]:
+              - link "無料10年保証" [ref=f290e801] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f290e802]:
+              - link "工事対応エリア" [ref=f290e803] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f290e804]:
+              - link "工事価格表" [ref=f290e805] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f290e806]:
+              - link "おまとめ工事割引" [ref=f290e807] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f290e808]:
+              - link "お支払い方法" [ref=f290e809] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f290e810]:
+              - link "よくあるご質問" [ref=f290e811] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f290e812]:
+              - link "営業日カレンダー" [ref=f290e813] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f290e814]:
+        - term [ref=f290e815]:
+          - img "情報コンテンツ" [ref=f290e816]
+          - text: 情報コンテンツ
+        - definition [ref=f290e817]:
+          - list [ref=f290e818]:
+            - listitem [ref=f290e819]:
+              - link "最新情報・お知らせ" [ref=f290e820] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f290e821]:
+              - link "売れ筋・人気ランキング" [ref=f290e822] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f290e823]:
+              - link "お客様の声" [ref=f290e824] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f290e825]:
+              - link "施工事例" [ref=f290e826] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f290e827]:
+              - link "商品レビュー" [ref=f290e828] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f290e829]:
+              - link "かんたん検索一覧" [ref=f290e830] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f290e831]:
+              - link "閲覧した商品の履歴" [ref=f290e832] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f290e833]:
+              - link "動画コンテンツ" [ref=f290e834] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f290e835]:
+        - term [ref=f290e836]:
+          - img "企業情報" [ref=f290e837]
+          - text: 企業情報
+        - definition [ref=f290e838]:
+          - listitem [ref=f290e839]:
+            - link "会社概要" [ref=f290e840] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f290e841]:
+            - link "選ばれる理由" [ref=f290e842] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f290e843]:
+            - link "ショールーム（東京・大阪）" [ref=f290e844] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f290e845]:
+            - link "スタッフ紹介" [ref=f290e846] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f290e847]:
+            - link "スタッフブログ" [ref=f290e848] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f290e849]:
+            - link "リフォームからチェンジへ" [ref=f290e850] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f290e851]:
+            - link "活動レポート" [ref=f290e852] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f290e853]:
+          - link [ref=f290e855] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f290e859] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f290e863] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f290e867] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f290e871] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f290e875] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f290e878]:
+        - link [ref=f290e879] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f290e883]: お問い合わせ一覧
+        - link [ref=f290e884] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f290e888]: マイページ・会員登録
+        - link [ref=f290e889] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f290e890]
+        - paragraph [ref=f290e891]: 個人情報保護の認証取得
+    - generic [ref=f290e892]:
+      - paragraph [ref=f290e893]: 企業サイト
+      - generic [ref=f290e894]:
+        - list [ref=f290e895]:
+          - listitem [ref=f290e896]:
+            - link "コーポレートサイト" [ref=f290e897] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f290e898]
+          - listitem [ref=f290e899]:
+            - link "投資家向けサイト" [ref=f290e900] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f290e901]
+          - listitem [ref=f290e902]:
+            - link "採用情報サイト" [ref=f290e903] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f290e904]
+          - listitem [ref=f290e905]:
+            - link "交換技能アカデミー" [ref=f290e906] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f290e907]
+        - list [ref=f290e908]:
+          - listitem [ref=f290e909]:
+            - link [ref=f290e910] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f290e911]:
+                - paragraph [ref=f290e912]: 東証グロースに上場しています
+                - paragraph [ref=f290e913]: 証券コード 7695
+              - figure [ref=f290e914]:
+                - img "東証(JPX)ロゴ" [ref=f290e915]
+    - generic [ref=f290e916]:
+      - list [ref=f290e917]:
+        - listitem [ref=f290e918]:
+          - link "個人情報の取扱い" [ref=f290e919] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f290e920]:
+          - link "特定商取引法に基づく表記" [ref=f290e921] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f290e922]:
+          - link "サイト利用規約" [ref=f290e923] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f290e924]:
+          - link "コンテンツ著作権" [ref=f290e925] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f290e926]:
+          - link "施工スタッフ募集" [ref=f290e927] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f290e928]
+      - list [ref=f290e929]:
+        - listitem [ref=f290e930]: © Koukandekirukun, Inc. 2001-2026

@@ -1,0 +1,898 @@
+- generic [active] [ref=f409e1]:
+  - link [ref=f409e2] [cursor=pointer]:
+    - /url: "#"
+    - text: ___
+  - generic: 円
+  - banner [ref=f409e4]:
+    - heading "パナソニック 天井埋込換気扇｜FY-17S7" [level=1] [ref=f409e7]
+    - generic [ref=f409e10]:
+      - generic [ref=f409e11]:
+        - link [ref=f409e13] [cursor=pointer]:
+          - /url: /
+          - img "交換できるくん" [ref=f409e14]
+        - link [ref=f409e15] [cursor=pointer]:
+          - /url: /guar/
+          - img "全品無料10年保証｜交換できるくん" [ref=f409e16]
+        - link [ref=f409e17] [cursor=pointer]:
+          - /url: /site_guide/company/listing.html
+          - img "東証グロース上場" [ref=f409e18]
+      - generic [ref=f409e19]:
+        - generic "検索" [ref=f409e23]:
+          - combobox [ref=f409e24]:
+            - generic [ref=f409e25]: 検索キーワード入力
+            - textbox "検索キーワード入力" [ref=f409e26]:
+              - /placeholder: " "
+          - button "検索ボタン" [ref=f409e28] [cursor=pointer]:
+            - generic [ref=f409e30]: 検索
+        - generic [ref=f409e31]:
+          - link [ref=f409e32] [cursor=pointer]:
+            - /url: /history/
+            - img "閲覧履歴" [ref=f409e34]
+            - paragraph [ref=f409e35]: 閲覧履歴
+          - link [ref=f409e36] [cursor=pointer]:
+            - /url: /system/auth/
+            - img "ログイン" [ref=f409e38]
+            - paragraph [ref=f409e39]: ログイン
+        - link [ref=f409e40] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - img "お見積り・お問い合わせはこちら" [ref=f409e42]
+          - paragraph [ref=f409e43]: お問合せ
+        - generic [ref=f409e44]:
+          - link [ref=f409e45] [cursor=pointer]:
+            - /url: /system/cartlist/form/
+            - img "カート内の商品数" [ref=f409e47]
+            - paragraph [ref=f409e48]: カート
+          - link:
+            - /url: /system/cartlist/form/
+  - generic [ref=f409e49]:
+    - main [ref=f409e50]:
+      - list [ref=f409e52]:
+        - listitem [ref=f409e53]:
+          - link "交換できるくん home" [ref=f409e54] [cursor=pointer]:
+            - /url: /
+          - text: ">"
+        - listitem [ref=f409e55]:
+          - link "トイレ リフォーム・交換" [ref=f409e56] [cursor=pointer]:
+            - /url: /wc/
+          - text: ">"
+        - listitem [ref=f409e57]:
+          - link "トイレ換気扇（天井埋込型）" [ref=f409e58] [cursor=pointer]:
+            - /url: /wc/ventilation/
+          - text: ">"
+        - listitem [ref=f409e59]:
+          - link "FY-17S7" [ref=f409e60] [cursor=pointer]:
+            - /url: /wc/ventilation/panasonic/FY-17S7/
+      - list [ref=f409e62]:
+        - listitem [ref=f409e63]:
+          - img "旗" [ref=f409e64]
+          - link "2026年度のお得な補助金制度を詳しく解説！ >" [ref=f409e65] [cursor=pointer]:
+            - /url: /information/jutaku-shoene2026/
+        - listitem [ref=f409e66]:
+          - img "旗" [ref=f409e67]
+          - link "がっちりマンデー!!で取り上げられました >" [ref=f409e68] [cursor=pointer]:
+            - /url: /information/release20241129.html
+      - generic [ref=f409e70]:
+        - generic [ref=f409e71]:
+          - heading "パナソニック 天井埋込換気扇 FY-17S7 トイレ/洗面/居室用｜1室換気｜24時間・局所換気兼用｜埋込寸法：177mm角｜低騒音" [level=2] [ref=f409e72]:
+            - text: パナソニック 天井埋込換気扇FY-17S7
+            - generic [ref=f409e73]: トイレ/洗面/居室用｜1室換気｜24時間・局所換気兼用｜埋込寸法：177mm角｜低騒音
+          - generic [ref=f409e74]:
+            - generic [ref=f409e77] [cursor=pointer]:
+              - generic [ref=f409e78]: 
+              - generic [ref=f409e79]: 
+              - generic [ref=f409e80]: 
+              - generic [ref=f409e81]: 
+              - generic [ref=f409e82]: 
+              - generic [ref=f409e83]: 3件
+            - link [ref=f409e85] [cursor=pointer]:
+              - /url: /guar/
+              - img "商品も工事も無料10年保証付き" [ref=f409e86]
+            - img "パナソニック 天井埋込換気扇｜FY-17S7" [ref=f409e87]
+        - generic [ref=f409e88]:
+          - generic [ref=f409e89]:
+            - strong [ref=f409e90]: Panasonic FY-17S7
+            - text: パナソニック 天井埋込換気扇 （トイレ・洗面・居室） 1室換気 24時間・局所換気兼用 240mm角 177mm角 （低騒音）
+          - generic [ref=f409e91]:
+            - generic [ref=f409e92]: 商品
+            - generic [ref=f409e93]:
+              - generic [ref=f409e94]: メーカー希望小売価格： 20,020円(税込)
+              - generic [ref=f409e96]:
+                - generic [ref=f409e97]:
+                  - text: 交換できるくん価格
+                  - generic [ref=f409e98]: 45%OFF
+                - generic [ref=f409e99]:
+                  - generic [ref=f409e100]: 11,011
+                  - generic [ref=f409e101]: 円(税込)
+          - generic [ref=f409e102]:
+            - generic [ref=f409e103]: まるごとサービスパック
+            - generic [ref=f409e104]:
+              - generic [ref=f409e105]:
+                - list [ref=f409e106]:
+                  - listitem [ref=f409e107]:
+                    - generic [ref=f409e110]: 基本工事費
+                    - figure [ref=f409e111]:
+                      - img "plus" [ref=f409e112]
+                  - listitem [ref=f409e113]:
+                    - generic [ref=f409e116]: 出張費運搬費
+                  - listitem [ref=f409e117]:
+                    - generic [ref=f409e120]: 部材費室内養生費
+                  - listitem [ref=f409e121]:
+                    - generic [ref=f409e124]: 設置前清掃使用説明
+                  - listitem [ref=f409e125]:
+                    - generic [ref=f409e128]: 廃材運搬処分
+                  - listitem [ref=f409e129]:
+                    - generic [ref=f409e132]: 諸経費事務経費
+                - paragraph [ref=f409e133]: まるごとサービスパックは、上記全てを含めたコミコミ価格です！
+              - generic [ref=f409e135]:
+                - generic [ref=f409e136]: 17,800
+                - generic [ref=f409e137]: 円(税込)
+          - generic [ref=f409e138]:
+            - generic [ref=f409e139]: 保証
+            - generic [ref=f409e140]:
+              - img "無料十年保証詳細はこちら" [ref=f409e142]
+              - generic [ref=f409e143]: 無料
+          - generic [ref=f409e145]:
+            - generic [ref=f409e146]:
+              - generic [ref=f409e147]: 商品価格+工事費用+10年保証
+              - generic [ref=f409e148]:
+                - generic [ref=f409e149]: 合計
+                - text: 28,811
+                - generic [ref=f409e150]: 円(税込)
+            - generic [ref=f409e152]:
+              - paragraph [ref=f409e153]:
+                - link "お気に入り" [ref=f409e155] [cursor=pointer]:
+                  - /url: /system/item_favorite/addj/id=19979,19979,53588/
+              - generic [ref=f409e157] [cursor=pointer]:
+                - figure [ref=f409e158]
+                - paragraph [ref=f409e160]:
+                  - text: LINE
+                  - generic [ref=f409e161]: で共有
+          - generic [ref=f409e162]:
+            - paragraph [ref=f409e164]:
+              - text: ※お住まいの状況により必要となる追加費用はお見積りでご案内いたします。 お見積り内容以外で、工事日当日に追加請求することは一切ございませんので、ご安心ください。
+              - link "工事費やオプション費などの詳細はこちら >" [ref=f409e165] [cursor=pointer]:
+                - /url: /construction/
+            - generic [ref=f409e166]: ※その他、商品についてのご質問はこちらからお問い合わせください。
+        - table [ref=f409e167]:
+          - rowgroup [ref=f409e168]:
+            - row [ref=f409e169]:
+              - columnheader "商品詳細" [ref=f409e170]
+          - rowgroup [ref=f409e171]:
+            - row [ref=f409e172]:
+              - rowheader "商品特性" [ref=f409e173]
+              - cell [ref=f409e174]:
+                - paragraph [ref=f409e176]: トイレ換気扇交換は、トイレと同時交換のオプション工事となります。トイレ換気扇単体での交換は承っておりません。交換をご希望の場合は、トイレ交換のお見積りご依頼時に、現在設置されている換気扇のメーカー・品番をお知らせください。
+                - generic [ref=f409e177]:
+                  - paragraph [ref=f409e178]: ●高効率モーターとＧ・Ｃシロッコファンの採用で低消費電力 ●実使用時に耳障りな音域をカットした低騒音設計 ●スプリング式ワンタッチルーバーからオリフィス、羽根までが容易に外せてお掃除性を向上 ●風圧式高気密シャッター付 ●電源接続部－本体外部 本体：鋼板製 羽根：樹脂製 ルーバー：樹脂製 埋込寸法：177mm角 適用パイプ：呼び径φ100mm
+                  - paragraph [ref=f409e179]: ■スイッチ(別売品)：FY-SV05W(ON-OFF)壁埋込形
+            - row [ref=f409e180]:
+              - rowheader "基本仕様" [ref=f409e181]
+              - cell [ref=f409e182]:
+                - paragraph [ref=f409e184]: 設置場所：トイレ・洗面所・居間
+            - row [ref=f409e185]:
+              - rowheader "関連情報" [ref=f409e186]
+              - cell [ref=f409e187]:
+                - link "トイレ換気扇の商品一覧はこちら" [ref=f409e189] [cursor=pointer]:
+                  - /url: /wc/ventilation/
+            - row [ref=f409e190]:
+              - rowheader "ページ位置" [ref=f409e191]
+              - cell [ref=f409e192]:
+                - list [ref=f409e193]:
+                  - listitem [ref=f409e194]:
+                    - link "交換できるくん home" [ref=f409e195] [cursor=pointer]:
+                      - /url: /
+                    - text: ">"
+                  - listitem [ref=f409e196]:
+                    - link "トイレ リフォーム・交換" [ref=f409e197] [cursor=pointer]:
+                      - /url: /wc/
+                    - text: ">"
+                  - listitem [ref=f409e198]:
+                    - link "トイレ換気扇（天井埋込型）" [ref=f409e199] [cursor=pointer]:
+                      - /url: /wc/ventilation/
+                    - text: ">"
+                  - listitem [ref=f409e200]:
+                    - link "FY-17S7" [ref=f409e201] [cursor=pointer]:
+                      - /url: /wc/ventilation/panasonic/FY-17S7/
+            - row [ref=f409e202]:
+              - cell [ref=f409e203]:
+                - generic [ref=f409e204]:
+                  - heading "Panasonic「FY-17S7」施工事例" [level=3] [ref=f409e205]
+                  - paragraph [ref=f409e206]: ※旧品番の事例も含みます
+                  - generic [ref=f409e207]:
+                    - link "東京都東久留米市｜リクシルトイレの施工事例 2022/12/27" [ref=f409e208] [cursor=pointer]:
+                      - /url: /wc/blog/lixil/amagebenki/111484/
+                      - generic [ref=f409e209]: 東京都東久留米市｜リクシルトイレの施工事例
+                      - generic [ref=f409e210]: 2022/12/27
+                      - figure [ref=f409e211]:
+                        - img "東京都東久留米市｜リクシルトイレの施工事例" [ref=f409e212]
+                    - link "パナソニック 天井埋込換気扇『FY-17C7』神奈川県横浜市 S様宅 2017/02/16" [ref=f409e213] [cursor=pointer]:
+                      - /url: /bath-dry/blog/59385/
+                      - generic [ref=f409e214]: パナソニック 天井埋込換気扇『FY-17C7』神奈川県横浜市 S様宅
+                      - generic [ref=f409e215]: 2017/02/16
+                      - figure [ref=f409e216]:
+                        - img "パナソニック 天井埋込換気扇『FY-17C7』神奈川県横浜市 S様宅" [ref=f409e217]
+                    - link "TOTO ピュアレストQR『CS230BM+SH231BA』とTOTO アプリコットF1『TCF4711』 2016/01/14" [ref=f409e218] [cursor=pointer]:
+                      - /url: /wc/blog/toto/purerest_qr/49345/
+                      - generic [ref=f409e219]: TOTO ピュアレストQR『CS230BM+SH231BA』とTOTO アプリコットF1『TCF4711』
+                      - generic [ref=f409e220]: 2016/01/14
+                      - figure [ref=f409e221]:
+                        - img "TOTO ピュアレストQR『CS230BM+SH231BA』とTOTO アプリコットF1『TCF4711』" [ref=f409e222]
+                    - link "TOTO ピュアレストEX『CS325BPR+SH321BAKS』とTOTO アプリコットF3AW『TCF4831AK』 2015/05/01" [ref=f409e223] [cursor=pointer]:
+                      - /url: /wc/blog/toto/purerest_ex/40918/
+                      - generic [ref=f409e224]: TOTO ピュアレストEX『CS325BPR+SH321BAKS』とTOTO アプリコットF3AW『TCF4831AK』
+                      - generic [ref=f409e225]: 2015/05/01
+                      - figure [ref=f409e226]:
+                        - img "TOTO ピュアレストEX『CS325BPR+SH321BAKS』とTOTO アプリコットF3AW『TCF4831AK』" [ref=f409e227]
+                  - link "この商品の施工事例をもっと見る" [ref=f409e229] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/blog/?s=FY-17S7
+                - generic [ref=f409e230]:
+                  - heading "Panasonic「FY-17S7」お客様の声・口コミ" [level=3] [ref=f409e231]
+                  - paragraph [ref=f409e232]: ※旧品番の事例も含みます
+                  - link "愛知県名古屋市｜換気扇交換のお客様 2018/12/17" [ref=f409e234] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/voice/index.php/archives/48565
+                    - generic [ref=f409e235]: 愛知県名古屋市｜換気扇交換のお客様
+                    - generic [ref=f409e236]: 2018/12/17
+                    - figure [ref=f409e237]:
+                      - img "愛知県名古屋市｜換気扇交換のお客様" [ref=f409e238]
+                  - link "この商品のお客様の声をもっと見る" [ref=f409e240] [cursor=pointer]:
+                    - /url: https://www.sunrefre.jp/voice/?s=FY-17S7
+            - row [ref=f409e241]:
+              - cell "商品レビュー・口コミ 4.3      3件 日付順 ↓ 評価順 いいね数順 星による評価  写真       購入ユーザー様 2026-02-10 タイトルなし 評価を普通にしたのは、 まだ使い始めて間もないので、可とも不可とも言い難いです。 音は静かになりました。  役に立った 0      波乗りケンタロー様 2025-11-14 タイトルなし お願いして良かったです 商品問い合わせからお見積もりスケジュール調整まで、とても丁寧に対応、工事担当の方もとても丁寧な工事仕上がりと、そして何よりリーズナブルな価格にも大満足。お願いして良かったです。  役に立った 0      ねこたまご様 2025-10-01 毎日ウキウキ！ ウォシュレットが壊れたため、思いきって便器、便座、換気扇、床を新しくしました。25年前のトイレに比べて水の量は半分、音も静かで汚れもつきにくくお掃除のしやすさを実感してます。 注文から施工日まで一週間、当日の施工時間は3時間弱で完成！ 昨年ガスレンジと換気扇を「交換できるくん」でオーダーしていたので信頼感はありましたが、今回も「交換できるくん」にたのんで良かったです。  役に立った 0 全ての商品レビュー一覧" [ref=f409e242]:
+                - heading "商品レビュー・口コミ" [level=3] [ref=f409e243]
+                - generic [ref=f409e246]:
+                  - generic [ref=f409e247]:
+                    - generic [ref=f409e251]:
+                      - strong [ref=f409e253]: "4.3"
+                      - generic [ref=f409e254]: 
+                      - generic [ref=f409e255]: 
+                      - generic [ref=f409e256]: 
+                      - generic [ref=f409e257]: 
+                      - generic [ref=f409e258]: 
+                      - generic [ref=f409e259]: 3件
+                    - generic [ref=f409e261]:
+                      - generic [ref=f409e262]:
+                        - generic [ref=f409e263] [cursor=pointer]: 日付順 ↓
+                        - generic [ref=f409e264] [cursor=pointer]: 評価順
+                        - generic [ref=f409e265] [cursor=pointer]: いいね数順
+                      - generic [ref=f409e267]:
+                        - generic [ref=f409e268]:
+                          - combobox [ref=f409e269]:
+                            - option "星による評価" [selected]
+                            - option "★5(2件)"
+                            - option "★4(0件)"
+                            - option "★3(1件)"
+                            - option "★2(0件)"
+                            - option "★1(0件)"
+                          - text: 
+                        - generic [ref=f409e270]:
+                          - combobox [ref=f409e271]:
+                            - option "写真" [selected]
+                            - option "写真有り"
+                          - text: 
+                  - generic [ref=f409e273]:
+                    - generic [ref=f409e274]:
+                      - generic [ref=f409e275]:
+                        - generic [ref=f409e276]:
+                          - generic [ref=f409e277]:
+                            - generic [ref=f409e278]: 
+                            - generic [ref=f409e279]: 
+                            - generic [ref=f409e280]: 
+                            - generic [ref=f409e281]: 
+                            - generic [ref=f409e282]: 
+                          - generic [ref=f409e283]: 購入ユーザー様
+                        - generic [ref=f409e284]: 2026-02-10
+                      - generic [ref=f409e286]:
+                        - generic [ref=f409e287]: タイトルなし
+                        - paragraph [ref=f409e288]: 評価を普通にしたのは、 まだ使い始めて間もないので、可とも不可とも言い難いです。 音は静かになりました。
+                      - button " 役に立った 0" [ref=f409e292] [cursor=pointer]:
+                        - generic [ref=f409e293]: 
+                        - generic [ref=f409e294]: 役に立った
+                        - generic [ref=f409e295]: "0"
+                    - generic [ref=f409e296]:
+                      - generic [ref=f409e297]:
+                        - generic [ref=f409e298]:
+                          - generic [ref=f409e299]:
+                            - generic [ref=f409e300]: 
+                            - generic [ref=f409e301]: 
+                            - generic [ref=f409e302]: 
+                            - generic [ref=f409e303]: 
+                            - generic [ref=f409e304]: 
+                          - generic [ref=f409e305]: 波乗りケンタロー様
+                        - generic [ref=f409e306]: 2025-11-14
+                      - generic [ref=f409e308]:
+                        - generic [ref=f409e309]: タイトルなし
+                        - paragraph [ref=f409e310]: お願いして良かったです 商品問い合わせからお見積もりスケジュール調整まで、とても丁寧に対応、工事担当の方もとても丁寧な工事仕上がりと、そして何よりリーズナブルな価格にも大満足。お願いして良かったです。
+                      - button " 役に立った 0" [ref=f409e314] [cursor=pointer]:
+                        - generic [ref=f409e315]: 
+                        - generic [ref=f409e316]: 役に立った
+                        - generic [ref=f409e317]: "0"
+                    - generic [ref=f409e318]:
+                      - generic [ref=f409e319]:
+                        - generic [ref=f409e320]:
+                          - generic [ref=f409e321]:
+                            - generic [ref=f409e322]: 
+                            - generic [ref=f409e323]: 
+                            - generic [ref=f409e324]: 
+                            - generic [ref=f409e325]: 
+                            - generic [ref=f409e326]: 
+                          - generic [ref=f409e327]: ねこたまご様
+                        - generic [ref=f409e328]: 2025-10-01
+                      - generic [ref=f409e330]:
+                        - generic [ref=f409e331]: 毎日ウキウキ！
+                        - paragraph [ref=f409e332]: ウォシュレットが壊れたため、思いきって便器、便座、換気扇、床を新しくしました。25年前のトイレに比べて水の量は半分、音も静かで汚れもつきにくくお掃除のしやすさを実感してます。 注文から施工日まで一週間、当日の施工時間は3時間弱で完成！ 昨年ガスレンジと換気扇を「交換できるくん」でオーダーしていたので信頼感はありましたが、今回も「交換できるくん」にたのんで良かったです。
+                      - button " 役に立った 0" [ref=f409e336] [cursor=pointer]:
+                        - generic [ref=f409e337]: 
+                        - generic [ref=f409e338]: 役に立った
+                        - generic [ref=f409e339]: "0"
+                - link "全ての商品レビュー一覧" [ref=f409e341] [cursor=pointer]:
+                  - /url: /review/
+      - generic [ref=f409e343]:
+        - link "工事エリアについて 工事エリアについて 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。" [ref=f409e344] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+          - generic [ref=f409e345]:
+            - generic [ref=f409e346]: 工事エリアについて
+            - generic [ref=f409e347]:
+              - img "工事エリアについて" [ref=f409e349]
+              - generic [ref=f409e350]: 取付工事は、札幌・仙台・関東・東海・関西・中国・福岡エリア限定で承っております。商品により、工事対応が可能な地域が異なります。詳しくはエリア表をご覧ください。
+          - text: ">"
+        - link "お支払い方法について お支払い方法について 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。" [ref=f409e351] [cursor=pointer]:
+          - /url: /site_guide/use/pay.html
+          - generic [ref=f409e352]:
+            - generic [ref=f409e353]: お支払い方法について
+            - generic [ref=f409e354]:
+              - img "お支払い方法について" [ref=f409e356]
+              - generic [ref=f409e357]: 各種お支払い方法をご用意しております。お支払い方法は、ご注文フォーム内でご選択いただけます。
+          - text: ">"
+        - link "無料10年保証について 無償標準保証 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。" [ref=f409e358] [cursor=pointer]:
+          - /url: /guar/
+          - generic [ref=f409e359]:
+            - generic [ref=f409e360]: 無料10年保証について
+            - generic [ref=f409e361]:
+              - img "無償標準保証" [ref=f409e363]
+              - generic [ref=f409e364]: 交換できるくんの工事には、10年間無料で商品と工事のメンテナンス対応を行う保証が含まれております。
+          - text: ">"
+        - link "お伺いする工事担当について お伺いする工事担当 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。" [ref=f409e365] [cursor=pointer]:
+          - /url: /site_guide/company/staff.html
+          - generic [ref=f409e366]:
+            - generic [ref=f409e367]: お伺いする工事担当について
+            - generic [ref=f409e368]:
+              - img "お伺いする工事担当" [ref=f409e370]
+              - generic [ref=f409e371]: 交換できるくんの工事は、当社社員または当社と契約しているエンジニアが施工いたしますので安心です。
+          - text: ">"
+        - link "おまとめ工事割引について おまとめ工事割引 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。" [ref=f409e372] [cursor=pointer]:
+          - /url: /construction/campaign/omatome.html
+          - generic [ref=f409e373]:
+            - generic [ref=f409e374]: おまとめ工事割引について
+            - generic [ref=f409e375]:
+              - img "おまとめ工事割引" [ref=f409e377]
+              - generic [ref=f409e378]: 交換工事は、同日にまとめて行うとお得です。期間限定の1万円特別割引と、商品の組み合わせが自由な最大7000円の割引をご用意しております。
+          - text: ">"
+        - link "会員登録について 会員登録 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。" [ref=f409e379] [cursor=pointer]:
+          - /url: /system/auth/
+          - generic [ref=f409e380]:
+            - generic [ref=f409e381]: 会員登録について
+            - generic [ref=f409e382]:
+              - img "会員登録" [ref=f409e384]
+              - generic [ref=f409e385]: 会員は商品お気に入り登録ができ、お見積りをリストで管理可能。総額の1％がポイントで還元されます。マイページでは注文履歴や保証期限も確認ができます。
+          - text: ">"
+    - generic [ref=f409e387]:
+      - link [ref=f409e389] [cursor=pointer]:
+        - /url: /wc/choice/ranking/
+        - img "トイレ人気・売れ筋ランキング" [ref=f409e390]
+      - list [ref=f409e391]:
+        - generic [ref=f409e392]: トイレリフォーム
+        - listitem [ref=f409e394]:
+          - link "トイレリフォームTOP" [ref=f409e395] [cursor=pointer]:
+            - /url: /wc/
+        - listitem [ref=f409e396]:
+          - link "ご利用の流れ" [ref=f409e397] [cursor=pointer]:
+            - /url: /wc/pop.html
+        - listitem [ref=f409e398]:
+          - link "サイトマップ" [ref=f409e399] [cursor=pointer]:
+            - /url: /wc/sitemap/
+      - list [ref=f409e400]:
+        - generic [ref=f409e401]: トイレを選ぶ
+        - listitem [ref=f409e403]:
+          - link "トイレ種類から選ぶ" [ref=f409e404] [cursor=pointer]:
+            - /url: /wc/choice/type/
+        - listitem [ref=f409e405]:
+          - link "絞り込み検索 工事費込みプラン一覧" [ref=f409e406] [cursor=pointer]:
+            - /url: /wc/search/
+            - text: 絞り込み検索工事費込みプラン一覧
+        - listitem [ref=f409e407]:
+          - link "おすすめ・人気ランキングから選ぶ" [ref=f409e408] [cursor=pointer]:
+            - /url: /wc/choice/ranking/
+        - listitem [ref=f409e409]:
+          - link "価格・費用相場から選ぶ" [ref=f409e410] [cursor=pointer]:
+            - /url: /wc/choice/price/
+        - listitem [ref=f409e411]:
+          - link "内装工事付きトイレリフォームプラン" [ref=f409e412] [cursor=pointer]:
+            - /url: /wc/reformplan/
+        - listitem [ref=f409e413]:
+          - link "節水で選ぶ" [ref=f409e414] [cursor=pointer]:
+            - /url: /wc/product/select-eco.html
+        - listitem [ref=f409e415]:
+          - link "タンクレス徹底比較" [ref=f409e416] [cursor=pointer]:
+            - /url: /wc/choice/type/tankless/
+        - listitem [ref=f409e417]:
+          - link "システムトイレ" [ref=f409e418] [cursor=pointer]:
+            - /url: /wc/product/system_wc/
+        - listitem [ref=f409e419]:
+          - link "トイレ交換費用一覧" [ref=f409e420] [cursor=pointer]:
+            - /url: /wc/price/
+        - listitem [ref=f409e421]:
+          - link "メーカーシリーズから選ぶ" [ref=f409e422] [cursor=pointer]:
+            - /url: /wc/product/
+        - listitem [ref=f409e423]:
+          - link "TOTOロゴ TOTO TOP >" [ref=f409e424] [cursor=pointer]:
+            - /url: /wc/toto/
+            - img "TOTOロゴ" [ref=f409e425]
+            - generic [ref=f409e426]: TOTO TOP >
+        - listitem [ref=f409e427]:
+          - link "TOTO トイレ交換費用" [ref=f409e428] [cursor=pointer]:
+            - /url: /wc/toto/price/
+        - listitem [ref=f409e429]:
+          - link "ピュアレスト徹底比較" [ref=f409e430] [cursor=pointer]:
+            - /url: /wc/toto/qr-ex-difference.html
+        - listitem [ref=f409e431]:
+          - link "ピュアレストQR" [ref=f409e432] [cursor=pointer]:
+            - /url: /wc/choice/brand/toto/purerest_qr/
+        - listitem [ref=f409e433]:
+          - link "ピュアレストEX" [ref=f409e434] [cursor=pointer]:
+            - /url: /wc/toto/purerest_ex.html
+        - listitem [ref=f409e435]:
+          - link "ピュアレストMR" [ref=f409e436] [cursor=pointer]:
+            - /url: /wc/toto/purerest_mr.html
+        - listitem [ref=f409e437]:
+          - link "GG-800/GG" [ref=f409e438] [cursor=pointer]:
+            - /url: /wc/toto/gg.html
+        - listitem [ref=f409e439]:
+          - link "GGA" [ref=f409e440] [cursor=pointer]:
+            - /url: /wc/toto/gga.html
+        - listitem [ref=f409e441]:
+          - link "ネオレストTOP" [ref=f409e442] [cursor=pointer]:
+            - /url: /wc/toto/neorest.html
+        - listitem [ref=f409e443]:
+          - link "ネオレスト徹底比較" [ref=f409e444] [cursor=pointer]:
+            - /url: /wc/toto/neorest-comparison.html
+        - listitem [ref=f409e445]:
+          - link "ネオレストRS" [ref=f409e446] [cursor=pointer]:
+            - /url: /wc/toto/neorest_rh.html
+        - listitem [ref=f409e447]:
+          - link "ネオレストAS" [ref=f409e448] [cursor=pointer]:
+            - /url: /wc/toto/neorest_ah.html
+        - listitem [ref=f409e449]:
+          - link "ネオレストLS" [ref=f409e450] [cursor=pointer]:
+            - /url: /wc/toto/neorest_ls.html
+        - listitem [ref=f409e451]:
+          - link "ネオレストNX" [ref=f409e452] [cursor=pointer]:
+            - /url: /wc/toto/neorest_nx.html
+        - listitem [ref=f409e453]:
+          - link "ネオレスト手洗付" [ref=f409e454] [cursor=pointer]:
+            - /url: /wc/toto/neorest_or.html
+        - listitem [ref=f409e455]:
+          - link "レストパル" [ref=f409e456] [cursor=pointer]:
+            - /url: /wc/toto/restpal.html
+        - listitem [ref=f409e457]:
+          - link "パブリックリモデル" [ref=f409e458] [cursor=pointer]:
+            - /url: /wc/toto/public.html
+        - listitem [ref=f409e459]:
+          - link "量産型一般品便器" [ref=f409e460] [cursor=pointer]:
+            - /url: /wc/toto/for-pro.html
+        - listitem [ref=f409e461]:
+          - link "コンパクトリモデル" [ref=f409e462] [cursor=pointer]:
+            - /url: /wc/toto/corner/
+        - listitem [ref=f409e463]:
+          - link "パナソニックロゴ パナソニックTOP >" [ref=f409e464] [cursor=pointer]:
+            - /url: /wc/choice/brand/panasonic/
+            - img "パナソニックロゴ" [ref=f409e465]
+            - generic [ref=f409e466]: パナソニックTOP >
+        - listitem [ref=f409e467]:
+          - link "Panasonic トイレ交換費用" [ref=f409e468] [cursor=pointer]:
+            - /url: /wc/panasonic/price/
+        - listitem [ref=f409e469]:
+          - link "NewアラウーノV" [ref=f409e470] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_v.html
+        - listitem [ref=f409e471]:
+          - link "アラウーノS160" [ref=f409e472] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_s160.html
+        - listitem [ref=f409e473]:
+          - link "アラウーノL150" [ref=f409e474] [cursor=pointer]:
+            - /url: /wc/panasonic/alauno_l150.html
+        - listitem [ref=f409e475]:
+          - link "LIXILロゴ LIXIL(INAX) TOP >" [ref=f409e476] [cursor=pointer]:
+            - /url: /wc/lixil/
+            - img "LIXILロゴ" [ref=f409e477]
+            - generic [ref=f409e478]: LIXIL(INAX) TOP >
+        - listitem [ref=f409e479]:
+          - link "LIXIL トイレ交換費用" [ref=f409e480] [cursor=pointer]:
+            - /url: /wc/lixil/price/
+        - listitem [ref=f409e481]:
+          - link "アメージュ便器" [ref=f409e482] [cursor=pointer]:
+            - /url: /wc/lixil/amagez_b_fl.html
+        - listitem [ref=f409e483]:
+          - link "アメージュシャワートイレ" [ref=f409e484] [cursor=pointer]:
+            - /url: /wc/lixil/amage_s.html
+        - listitem [ref=f409e485]:
+          - link "プレアスLSタイプ" [ref=f409e486] [cursor=pointer]:
+            - /url: /wc/lixil/preus.html
+        - listitem [ref=f409e487]:
+          - link "サティスTOP" [ref=f409e488] [cursor=pointer]:
+            - /url: /wc/lixil/satis.html
+        - listitem [ref=f409e489]:
+          - link "サティスXタイプ" [ref=f409e490] [cursor=pointer]:
+            - /url: /wc/lixil/satis_x.html
+        - listitem [ref=f409e491]:
+          - link "サティスGタイプ" [ref=f409e492] [cursor=pointer]:
+            - /url: /wc/lixil/satis_g.html
+        - listitem [ref=f409e493]:
+          - link "サティスSタイプ" [ref=f409e494] [cursor=pointer]:
+            - /url: /wc/lixil/satis_s.html
+        - listitem [ref=f409e495]:
+          - link "Jフィット" [ref=f409e496] [cursor=pointer]:
+            - /url: /wc/lixil/jfit.html
+        - listitem [ref=f409e497]:
+          - link "Janisロゴ Janis TOP >" [ref=f409e498] [cursor=pointer]:
+            - /url: /wc/janis/
+            - img "Janisロゴ" [ref=f409e499]
+            - generic [ref=f409e500]: Janis TOP >
+      - list [ref=f409e501]:
+        - generic [ref=f409e502]: トイレの排水方式
+        - listitem [ref=f409e504]:
+          - link "交換可能なトイレの確認" [ref=f409e505] [cursor=pointer]:
+            - /url: /wc/product/matching-type.html
+        - listitem [ref=f409e506]:
+          - link "排水方式について" [ref=f409e507] [cursor=pointer]:
+            - /url: /wc/product/matching-drain.html
+      - list [ref=f409e508]:
+        - generic [ref=f409e509]: 交換工事について
+        - listitem [ref=f409e511]:
+          - link "交換工事費" [ref=f409e512] [cursor=pointer]:
+            - /url: /wc/pricelist/
+        - listitem [ref=f409e513]:
+          - link "床クッションフロア張替" [ref=f409e514] [cursor=pointer]:
+            - /url: /wc/option/cf.html
+        - listitem [ref=f409e515]:
+          - link "壁紙の張替" [ref=f409e516] [cursor=pointer]:
+            - /url: /wc/option/cloth.html
+        - listitem [ref=f409e517]:
+          - link "工事対応エリア" [ref=f409e518] [cursor=pointer]:
+            - /url: /wc/area/
+        - listitem [ref=f409e519]:
+          - link "無料10年保証" [ref=f409e520] [cursor=pointer]:
+            - /url: /guar/
+        - listitem [ref=f409e521]:
+          - link "交換にかかる時間・日数" [ref=f409e522] [cursor=pointer]:
+            - /url: /wc/how/duration/
+        - listitem [ref=f409e523]:
+          - link "よくあるご質問" [ref=f409e524] [cursor=pointer]:
+            - /url: /wc/faq/
+      - list [ref=f409e525]:
+        - generic [ref=f409e526]: お住まいごとの交換
+        - listitem [ref=f409e528]:
+          - link "マンションのトイレ交換" [ref=f409e529] [cursor=pointer]:
+            - /url: /wc/style/mansion/
+        - listitem [ref=f409e530]:
+          - link "賃貸住宅のトイレ交換" [ref=f409e531] [cursor=pointer]:
+            - /url: /wc/style/rental/
+        - listitem [ref=f409e532]:
+          - link "アパートのトイレ交換" [ref=f409e533] [cursor=pointer]:
+            - /url: /wc/style/apartment/
+        - listitem [ref=f409e534]:
+          - link "団地のトイレ交換" [ref=f409e535] [cursor=pointer]:
+            - /url: /wc/style/danchi/
+        - listitem [ref=f409e536]:
+          - link "市営住宅のトイレ交換" [ref=f409e537] [cursor=pointer]:
+            - /url: /wc/style/municipal/
+        - listitem [ref=f409e538]:
+          - link "2階のトイレ交換" [ref=f409e539] [cursor=pointer]:
+            - /url: /wc/style/upstairs/
+      - list [ref=f409e540]:
+        - generic [ref=f409e541]: トイレ交換ノウハウ
+        - listitem [ref=f409e543]:
+          - link "トイレ交換が安い理由" [ref=f409e544] [cursor=pointer]:
+            - /url: /wc/choice/cutprice/
+        - listitem [ref=f409e545]:
+          - link "トイレ交換の見積りとは？" [ref=f409e546] [cursor=pointer]:
+            - /url: /wc/estimate/
+        - listitem [ref=f409e547]:
+          - link "トイレリフォームのコツ" [ref=f409e548] [cursor=pointer]:
+            - /url: /wc/case_study/
+        - listitem [ref=f409e549]:
+          - link "トイレをまるごと交換" [ref=f409e550] [cursor=pointer]:
+            - /url: /wc/how/whole/
+        - listitem [ref=f409e551]:
+          - link "トイレの交換時期は？" [ref=f409e552] [cursor=pointer]:
+            - /url: /wc/how/timing/
+        - listitem [ref=f409e553]:
+          - link "トイレの現調とは？" [ref=f409e554] [cursor=pointer]:
+            - /url: /wc/how/survey/
+        - listitem [ref=f409e555]:
+          - link "トイレを交換する理由" [ref=f409e556] [cursor=pointer]:
+            - /url: /wc/how/reason/
+        - listitem [ref=f409e557]:
+          - link "トイレ交換業者の選び方" [ref=f409e558] [cursor=pointer]:
+            - /url: /wc/place/
+      - list [ref=f409e559]:
+        - generic [ref=f409e560]: トイレ関連情報
+        - listitem [ref=f409e562]:
+          - link "トイレリフォーム補助金" [ref=f409e563] [cursor=pointer]:
+            - /url: /wc/subsidy/
+        - listitem [ref=f409e564]:
+          - link "トイレつまりの解消法" [ref=f409e565] [cursor=pointer]:
+            - /url: /wc/clogged/
+        - listitem [ref=f409e566]:
+          - link "トイレの水圧確認方法" [ref=f409e567] [cursor=pointer]:
+            - /url: /wc/toto/neorest_rh2.html
+        - listitem [ref=f409e568]:
+          - link "和式から洋式トイレに" [ref=f409e569] [cursor=pointer]:
+            - /url: /wc/wayo/
+      - list [ref=f409e570]:
+        - generic [ref=f409e571]: トイレ関連商品
+        - listitem [ref=f409e573]:
+          - link "トイレ便座交換TOP (ウォシュレット)" [ref=f409e574] [cursor=pointer]:
+            - /url: /washlet/
+            - text: トイレ便座交換TOP(ウォシュレット)
+        - listitem [ref=f409e575]:
+          - link "暖房便座・普通便座" [ref=f409e576] [cursor=pointer]:
+            - /url: /washlet/benza/
+        - listitem [ref=f409e577]:
+          - link "紙巻器・タオル掛け" [ref=f409e578] [cursor=pointer]:
+            - /url: /wc/acce/
+        - listitem [ref=f409e579]:
+          - link "手洗器" [ref=f409e580] [cursor=pointer]:
+            - /url: /wc/hand_wash/
+        - listitem [ref=f409e581]:
+          - link "手すり" [ref=f409e582] [cursor=pointer]:
+            - /url: /wc/hadle/
+        - listitem [ref=f409e583]:
+          - link "トイレ用擬音装置" [ref=f409e584] [cursor=pointer]:
+            - /url: /wc/sound/
+        - listitem [ref=f409e585]:
+          - link "トイレ換気扇" [ref=f409e586] [cursor=pointer]:
+            - /url: /wc/ventilation/
+      - list [ref=f409e587]:
+        - generic [ref=f409e588]: お客様の声・施工事例
+        - listitem [ref=f409e590]:
+          - link "お客様の声" [ref=f409e591] [cursor=pointer]:
+            - /url: /voice/?s=%E3%83%88%E3%82%A4%E3%83%AC&x=0&y=0
+        - listitem [ref=f409e592]:
+          - link "施工事例" [ref=f409e593] [cursor=pointer]:
+            - /url: /wc/blog/
+        - listitem [ref=f409e594]:
+          - link "スタッフブログ トイレ編" [ref=f409e595] [cursor=pointer]:
+            - /url: /staff/index.php/archives/category/nikki_top/wc
+        - listitem [ref=f409e596]:
+          - link "トイレ 商品レビュー" [ref=f409e597] [cursor=pointer]:
+            - /url: /review/?category=wc
+  - generic [ref=f409e599]:
+    - link "壁掛エアコン 壁掛エアコン" [ref=f409e601] [cursor=pointer]:
+      - /url: /aircon/
+      - img "壁掛エアコン" [ref=f409e602]
+      - generic [ref=f409e603]: 壁掛エアコン
+    - link "天井エアコン 天井エアコン" [ref=f409e605] [cursor=pointer]:
+      - /url: /aircon/cassette/
+      - img "天井エアコン" [ref=f409e606]
+      - generic [ref=f409e607]: 天井エアコン
+    - link "トイレ トイレ" [ref=f409e609] [cursor=pointer]:
+      - /url: /wc/
+      - img "トイレ" [ref=f409e610]
+      - generic [ref=f409e611]: トイレ
+    - link "ウォシュレット・温水洗浄便座 温水洗浄便座" [ref=f409e613] [cursor=pointer]:
+      - /url: /washlet/
+      - img "ウォシュレット・温水洗浄便座" [ref=f409e614]
+      - generic [ref=f409e615]: 温水洗浄便座
+    - link "ガス給湯器 給湯器" [ref=f409e617] [cursor=pointer]:
+      - /url: /gas/
+      - img "ガス給湯器" [ref=f409e618]
+      - generic [ref=f409e619]: 給湯器
+    - link "エコキュート エコキュート" [ref=f409e621] [cursor=pointer]:
+      - /url: /ecocute/
+      - img "エコキュート" [ref=f409e622]
+      - generic [ref=f409e623]: エコキュート
+    - link "ビルトイン食洗機 食洗機" [ref=f409e625] [cursor=pointer]:
+      - /url: /kitchen/built_in/
+      - img "ビルトイン食洗機" [ref=f409e626]
+      - generic [ref=f409e627]: 食洗機
+    - link "ビルトインガスコンロ ガスコンロ" [ref=f409e629] [cursor=pointer]:
+      - /url: /gastable/
+      - img "ビルトインガスコンロ" [ref=f409e630]
+      - generic [ref=f409e631]: ガスコンロ
+    - link "IHヒーター IHヒーター" [ref=f409e633] [cursor=pointer]:
+      - /url: /ih/
+      - img "IHヒーター" [ref=f409e634]
+      - generic [ref=f409e635]: IHヒーター
+    - link "レンジフード レンジフード" [ref=f409e637] [cursor=pointer]:
+      - /url: /kitchen/food/
+      - img "レンジフード" [ref=f409e638]
+      - generic [ref=f409e639]: レンジフード
+    - link "蛇口 蛇口" [ref=f409e641] [cursor=pointer]:
+      - /url: /faucet/
+      - img "蛇口" [ref=f409e642]
+      - generic [ref=f409e643]: 蛇口
+    - link "浴室乾燥機 浴室乾燥機" [ref=f409e645] [cursor=pointer]:
+      - /url: /bath-dry/
+      - img "浴室乾燥機" [ref=f409e646]
+      - generic [ref=f409e647]: 浴室乾燥機
+    - generic [ref=f409e648]: その他>>
+  - navigation [ref=f409e650]:
+    - generic [ref=f409e651]:
+      - generic [ref=f409e652]:
+        - generic [ref=f409e653]: トイレ
+        - generic [ref=f409e660]: 総合メニュー
+      - generic [ref=f409e667]:
+        - link "人気ランキング" [ref=f409e668] [cursor=pointer]:
+          - /url: /ranking/
+        - link "かんたん検索" [ref=f409e670] [cursor=pointer]:
+          - /url: /search/
+        - link "商品レビュー" [ref=f409e672] [cursor=pointer]:
+          - /url: /review/
+        - link "お客様の声" [ref=f409e674] [cursor=pointer]:
+          - /url: /voice/index.php/archives/category/customerphotos
+        - link "施工事例" [ref=f409e676] [cursor=pointer]:
+          - /url: /blog/
+        - link "工事エリア" [ref=f409e678] [cursor=pointer]:
+          - /url: /site_guide/construction/area.html
+  - generic [ref=f409e680]:
+    - generic [ref=f409e681]: 交換できるくんはおかげ様で27周年 確かな実績による信頼と安心をお届けいたします
+    - img "街並み" [ref=f409e684]
+    - generic [ref=f409e685]:
+      - generic [ref=f409e686]:
+        - term [ref=f409e687]:
+          - img "サービス案内" [ref=f409e688]
+          - text: サービス案内
+        - definition [ref=f409e689]:
+          - list [ref=f409e690]:
+            - listitem [ref=f409e691]:
+              - link "ご利用の流れ" [ref=f409e692] [cursor=pointer]:
+                - /url: /site_guide/use/kouji.html
+            - listitem [ref=f409e693]:
+              - link "無料10年保証" [ref=f409e694] [cursor=pointer]:
+                - /url: /guar/
+            - listitem [ref=f409e695]:
+              - link "工事対応エリア" [ref=f409e696] [cursor=pointer]:
+                - /url: /site_guide/construction/area.html
+            - listitem [ref=f409e697]:
+              - link "工事価格表" [ref=f409e698] [cursor=pointer]:
+                - /url: /construction/
+            - listitem [ref=f409e699]:
+              - link "おまとめ工事割引" [ref=f409e700] [cursor=pointer]:
+                - /url: /construction/campaign/omatome.html
+            - listitem [ref=f409e701]:
+              - link "お支払い方法" [ref=f409e702] [cursor=pointer]:
+                - /url: /site_guide/use/pay.html
+            - listitem [ref=f409e703]:
+              - link "よくあるご質問" [ref=f409e704] [cursor=pointer]:
+                - /url: /site_guide/faq/
+            - listitem [ref=f409e705]:
+              - link "営業日カレンダー" [ref=f409e706] [cursor=pointer]:
+                - /url: /site_guide/contact/#calendar
+      - generic [ref=f409e707]:
+        - term [ref=f409e708]:
+          - img "情報コンテンツ" [ref=f409e709]
+          - text: 情報コンテンツ
+        - definition [ref=f409e710]:
+          - list [ref=f409e711]:
+            - listitem [ref=f409e712]:
+              - link "最新情報・お知らせ" [ref=f409e713] [cursor=pointer]:
+                - /url: /information/
+            - listitem [ref=f409e714]:
+              - link "売れ筋・人気ランキング" [ref=f409e715] [cursor=pointer]:
+                - /url: /ranking/
+            - listitem [ref=f409e716]:
+              - link "お客様の声" [ref=f409e717] [cursor=pointer]:
+                - /url: /voice/index.php/archives/category/customerphotos
+            - listitem [ref=f409e718]:
+              - link "施工事例" [ref=f409e719] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f409e720]:
+              - link "商品レビュー" [ref=f409e721] [cursor=pointer]:
+                - /url: /review/
+            - listitem [ref=f409e722]:
+              - link "かんたん検索一覧" [ref=f409e723] [cursor=pointer]:
+                - /url: /search/
+            - listitem [ref=f409e724]:
+              - link "閲覧した商品の履歴" [ref=f409e725] [cursor=pointer]:
+                - /url: /history/
+            - listitem [ref=f409e726]:
+              - link "動画コンテンツ" [ref=f409e727] [cursor=pointer]:
+                - /url: /media/youtube.html
+      - generic [ref=f409e728]:
+        - term [ref=f409e729]:
+          - img "企業情報" [ref=f409e730]
+          - text: 企業情報
+        - definition [ref=f409e731]:
+          - listitem [ref=f409e732]:
+            - link "会社概要" [ref=f409e733] [cursor=pointer]:
+              - /url: /site_guide/company/
+          - listitem [ref=f409e734]:
+            - link "選ばれる理由" [ref=f409e735] [cursor=pointer]:
+              - /url: /site_guide/promise/
+          - listitem [ref=f409e736]:
+            - link "ショールーム（東京・大阪）" [ref=f409e737] [cursor=pointer]:
+              - /url: /sr/showroom.html
+          - listitem [ref=f409e738]:
+            - link "スタッフ紹介" [ref=f409e739] [cursor=pointer]:
+              - /url: /site_guide/company/staff.html
+          - listitem [ref=f409e740]:
+            - link "スタッフブログ" [ref=f409e741] [cursor=pointer]:
+              - /url: /staff/
+          - listitem [ref=f409e742]:
+            - link "リフォームからチェンジへ" [ref=f409e743] [cursor=pointer]:
+              - /url: /reform/spot_koukan.html
+          - listitem [ref=f409e744]:
+            - link "活動レポート" [ref=f409e745] [cursor=pointer]:
+              - /url: /site_guide/event/
+        - generic [ref=f409e746]:
+          - link [ref=f409e748] [cursor=pointer]:
+            - /url: https://www.youtube.com/@koukandekirukun
+          - link [ref=f409e752] [cursor=pointer]:
+            - /url: https://www.instagram.com/koukandekirukun/
+          - link [ref=f409e756] [cursor=pointer]:
+            - /url: https://x.com/koukandekirukun
+          - link [ref=f409e760] [cursor=pointer]:
+            - /url: https://www.facebook.com/sunrefre.kitchen/
+          - link [ref=f409e764] [cursor=pointer]:
+            - /url: https://jp.pinterest.com/koukandekirukun/
+          - link [ref=f409e768] [cursor=pointer]:
+            - /url: https://www.wantedly.com/companies/dekirukun
+      - generic [ref=f409e771]:
+        - link [ref=f409e772] [cursor=pointer]:
+          - /url: /site_guide/contact/
+          - paragraph [ref=f409e776]: お問い合わせ一覧
+        - link [ref=f409e777] [cursor=pointer]:
+          - /url: /system/auth/
+          - paragraph [ref=f409e781]: マイページ・会員登録
+        - link [ref=f409e782] [cursor=pointer]:
+          - /url: /site_guide/use/privacy.html
+          - img "TRUSTe" [ref=f409e783]
+        - paragraph [ref=f409e784]: 個人情報保護の認証取得
+    - generic [ref=f409e785]:
+      - paragraph [ref=f409e786]: 企業サイト
+      - generic [ref=f409e787]:
+        - list [ref=f409e788]:
+          - listitem [ref=f409e789]:
+            - link "コーポレートサイト" [ref=f409e790] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/
+            - img "別タブで開く" [ref=f409e791]
+          - listitem [ref=f409e792]:
+            - link "投資家向けサイト" [ref=f409e793] [cursor=pointer]:
+              - /url: https://www.dekirukun.co.jp/co/ir/
+            - img "別タブで開く" [ref=f409e794]
+          - listitem [ref=f409e795]:
+            - link "採用情報サイト" [ref=f409e796] [cursor=pointer]:
+              - /url: https://recruit.dekirukun.co.jp/
+            - img "別タブで開く" [ref=f409e797]
+          - listitem [ref=f409e798]:
+            - link "交換技能アカデミー" [ref=f409e799] [cursor=pointer]:
+              - /url: https://koukanshi.com/academy/
+            - img "別タブで開く" [ref=f409e800]
+        - list [ref=f409e801]:
+          - listitem [ref=f409e802]:
+            - link [ref=f409e803] [cursor=pointer]:
+              - /url: /site_guide/company/listing.html
+              - generic [ref=f409e804]:
+                - paragraph [ref=f409e805]: 東証グロースに上場しています
+                - paragraph [ref=f409e806]: 証券コード 7695
+              - figure [ref=f409e807]:
+                - img "東証(JPX)ロゴ" [ref=f409e808]
+    - generic [ref=f409e809]:
+      - list [ref=f409e810]:
+        - listitem [ref=f409e811]:
+          - link "個人情報の取扱い" [ref=f409e812] [cursor=pointer]:
+            - /url: /site_guide/use/privacy.html
+        - listitem [ref=f409e813]:
+          - link "特定商取引法に基づく表記" [ref=f409e814] [cursor=pointer]:
+            - /url: /site_guide/law/
+        - listitem [ref=f409e815]:
+          - link "サイト利用規約" [ref=f409e816] [cursor=pointer]:
+            - /url: /site_guide/rule/
+        - listitem [ref=f409e817]:
+          - link "コンテンツ著作権" [ref=f409e818] [cursor=pointer]:
+            - /url: /terms/
+        - listitem [ref=f409e819]:
+          - link "施工スタッフ募集" [ref=f409e820] [cursor=pointer]:
+            - /url: https://recruit.dekirukun.co.jp/partner_info/
+          - img "別タブで開く" [ref=f409e821]
+      - list [ref=f409e822]:
+        - listitem [ref=f409e823]: © Koukandekirukun, Inc. 2001-2026
