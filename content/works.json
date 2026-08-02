@@ -99,6 +99,14 @@
       "before_image": "images/works/uploads/_placeholder.svg",
       "after_image": "images/works/uploads/_placeholder.svg",
       "note": "施工事例を随時更新予定"
+    },
+    {
+      "area": "テスト用",
+      "before_image": "/images/works/uploads/01_dishwasher_kawaguchi_after.jpg",
+      "category": "テスト用",
+      "product": "テスト用",
+      "duration": "テスト用",
+      "after_image": "/images/works/uploads/01_dishwasher_kawaguchi_after.jpg"
     }
   ]
 }
