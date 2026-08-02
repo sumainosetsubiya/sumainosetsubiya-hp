@@ -15,7 +15,7 @@ backend:
   # 例: "https://decap-cms-oauth-proxy.your-subdomain.workers.dev"
   # これを設定しないと、Decap CMSはデフォルトのNetlify製OAuthサービスに
   # アクセスしようとしてログインできません（MIGRATION_GUIDE.md 手順7・8参照）。
-  base_url: "https://YOUR-WORKER-SUBDOMAIN.workers.dev"
+  base_url: "https://decap-cms-oauth-proxy.sumainosetsubiya.workers.dev"
   auth_endpoint: auth
 
 # サイト公開後のURL（独自ドメイン設定後に書き換える。MIGRATION_GUIDE.md 手順9参照）
