@@ -9,7 +9,7 @@ backend:
   name: github
   # ▼▼▼ 実際のGitHubリポジトリ作成後に、ここを書き換える ▼▼▼
   # "GitHubユーザー名/リポジトリ名" の形式（例: "yamada-taro/sumainosetsubiya-hp"）
-  repo: "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"
+  repo: "sumainosetsubiya/sumainosetsubiya-hp"
   branch: main
   # ▼▼▼ cloudflare-worker-oauth/ でデプロイしたWorkerの公開URLに書き換える ▼▼▼
   # 例: "https://decap-cms-oauth-proxy.your-subdomain.workers.dev"
