@@ -72,9 +72,48 @@
   function renderWorks(container, works) {
     container.innerHTML = "";
 
-    works.forEach(function (work) {
+    sortWorksByDateDesc(works).forEach(function (work) {
       container.appendChild(buildWorkCard(work));
     });
+  }
+
+  /**
+   * 施工実績を施工日の新しい順（降順）に並び替えた新しい配列を返す。
+   * date が空・不正な値（new Date() でパースできない）のエントリは
+   * 日付で比較できないため、常に配列の一番最後に回す。
+   */
+  function sortWorksByDateDesc(works) {
+    return works.slice().sort(function (a, b) {
+      var timeA = parseDateToTime(a.date);
+      var timeB = parseDateToTime(b.date);
+
+      var invalidA = timeA === null;
+      var invalidB = timeB === null;
+
+      if (invalidA && invalidB) {
+        return 0;
+      }
+      if (invalidA) {
+        return 1; // a を後ろへ
+      }
+      if (invalidB) {
+        return -1; // b を後ろへ
+      }
+
+      return timeB - timeA; // 新しい日付が先頭に来るよう降順
+    });
+  }
+
+  /**
+   * 日付文字列を new Date() でパースし、タイムスタンプ(ms)を返す。
+   * 空文字・パース不能な値の場合は null を返す。
+   */
+  function parseDateToTime(dateStr) {
+    if (!dateStr) {
+      return null;
+    }
+    var time = new Date(dateStr).getTime();
+    return isNaN(time) ? null : time;
   }
 
   function buildWorkCard(work) {
