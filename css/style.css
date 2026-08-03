@@ -832,6 +832,24 @@ main {
   font-size: 0.95rem;
 }
 
+/* --- 対応エリア地図（トップページ「対応エリア」セクション） --- */
+.area-map-block {
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm);
+}
+.area-map-block img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.area-map-note {
+  text-align: center;
+  margin: 0.6em 0 0;
+  font-size: 0.9rem;
+}
+
 /* ---------------------------------------------------------------------
    11. CTAセクション
    --------------------------------------------------------------------- */
