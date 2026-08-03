@@ -93,6 +93,12 @@
       <p id="works-error" class="section-lead" style="display: none; color: var(--color-text);" role="alert">
         施工実績の読み込みに失敗しました。時間を置いて再度お試しいただくか、お問い合わせください。
       </p>
+      <!--
+        カテゴリ別フィルタータブ。中身のボタンは js/works.js が
+        content/works.json 取得後に、実際の件数バッジ付きで動的生成する
+        （カテゴリの一覧・件数を二重管理しないため）。
+      -->
+      <div class="filter-tabs" id="works-filter-tabs" role="group" aria-label="カテゴリで絞り込む"></div>
       <div class="grid grid-3" id="works-grid" aria-live="polite">
         <p class="section-lead">施工実績を読み込み中です…</p>
       </div>

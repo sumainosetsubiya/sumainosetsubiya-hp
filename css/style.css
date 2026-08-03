@@ -1476,3 +1476,69 @@ main {
   background: var(--color-primary-dark);
   color: #fff;
 }
+
+/* ---------------------------------------------------------------------
+   23. 施工実績カテゴリフィルター（works.html専用）
+   ---------------------------------------------------------------------
+   施工実績一覧の上部に置くタブ形式のフィルターボタン群。
+   ボタン自体は js/works.js が content/works.json 取得後に、実際の
+   カテゴリ件数バッジ付きで動的生成する（#works-filter-tabs に挿入）。
+   ボタン数（「すべて」+9カテゴリ = 10個）が多いため、狭い画面では
+   折り返す前提のレイアウトにし、横スクロールに頼らず崩れないようにする。
+   --------------------------------------------------------------------- */
+.filter-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: var(--spacing-lg);
+}
+
+.filter-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.55em 1.1em;
+  border-radius: var(--radius-full);
+  border: 2px solid var(--color-border-strong);
+  background: var(--color-bg);
+  color: var(--color-text-light);
+  font-weight: 700;
+  font-size: 0.85rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  transition: background var(--transition-base), color var(--transition-base),
+    border-color var(--transition-base);
+}
+
+.filter-tab:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+}
+
+.filter-tab.is-active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+}
+
+.filter-tab.is-active:hover {
+  background: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+}
+
+.filter-tab-count {
+  font-size: 0.82em;
+  font-weight: 700;
+  opacity: 0.85;
+}
+
+@media (max-width: 480px) {
+  .filter-tabs {
+    gap: 0.4em;
+  }
+
+  .filter-tab {
+    padding: 0.5em 0.9em;
+    font-size: 0.8rem;
+  }
+}

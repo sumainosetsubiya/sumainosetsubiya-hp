@@ -11,7 +11,14 @@
  *   （.card / .work-photo / .tag / .card-title 等）で
  *   施工実績カードを動的に生成する。
  *
+ *   さらに #works-filter-tabs 内に、カテゴリ別の絞り込みタブ
+ *   （「すべて」+9カテゴリ、実件数バッジ付き）を動的生成し、
+ *   クリックで表示中のカードを絞り込む。日付降順ソートは
+ *   絞り込み後も維持する。URLハッシュ（例: #toilet）でカテゴリを
+ *   直接指定して開けるように、簡易的なディープリンクにも対応する。
+ *
  * 依存するHTML構造（works.html 参照）:
+ *   <div class="filter-tabs" id="works-filter-tabs"></div>
  *   <div class="grid grid-3" id="works-grid" aria-live="polite"> ... </div>
  *   <p id="works-error" style="display:none;"> ... </p>
  *
@@ -20,7 +27,7 @@
  *       {
  *         "date": "2024-05-11",            // 施工日（ISO形式 "YYYY-MM-DD"、未定の場合は ""）
  *         "area": "埼玉県川口市",           // 施工エリア
- *         "category": "ビルトイン食洗機交換", // カテゴリ（タグ表示に使用）
+ *         "category": "ビルトイン食洗機交換", // カテゴリ（タグ表示・フィルターに使用）
  *         "product": "Panasonic NP-45MS9S", // 取付商品（型番など）
  *         "duration": "1.5時間",            // 作業時間（"約"は表示側で付与）
  *         "before_image": "images/works/uploads/....jpg",
@@ -33,12 +40,33 @@
   "use strict";
 
   var WORKS_JSON_PATH = "content/works.json";
+  var ALL_SLUG = "all";
+
+  // カテゴリの表示順・ハッシュ用スラッグ。件数が0件のカテゴリでも
+  // ボタン自体は常に表示する（依頼主が指定した9カテゴリの固定リスト）。
+  var CATEGORIES = [
+    { slug: "toilet", label: "トイレ交換" },
+    { slug: "washlet", label: "温水洗浄便座交換" },
+    { slug: "faucet", label: "蛇口交換" },
+    { slug: "dishwasher", label: "ビルトイン食洗機交換" },
+    { slug: "cooktop", label: "ビルトインコンロ交換" },
+    { slug: "rangehood", label: "レンジフード交換" },
+    { slug: "ih-cooktop", label: "IHクッキングヒーター交換" },
+    { slug: "bathroom-dryer", label: "浴室乾燥機交換" },
+    { slug: "vent-fan", label: "換気扇交換" }
+  ];
+
+  var sortedWorks = [];
+  var currentSlug = ALL_SLUG;
+  var gridEl = null;
+  var filterBarEl = null;
 
   document.addEventListener("DOMContentLoaded", function () {
-    var grid = document.getElementById("works-grid");
+    gridEl = document.getElementById("works-grid");
     var errorBox = document.getElementById("works-error");
+    filterBarEl = document.getElementById("works-filter-tabs");
 
-    if (!grid) {
+    if (!gridEl) {
       return;
     }
 
@@ -54,25 +82,184 @@
         if (!works || works.length === 0) {
           throw new Error("works.json に施工実績データが見つかりませんでした。");
         }
-        renderWorks(grid, works);
+
+        sortedWorks = sortWorksByDateDesc(works);
+        currentSlug = resolveSlugFromHash(location.hash);
+
+        if (filterBarEl) {
+          buildFilterTabs(filterBarEl, sortedWorks, currentSlug);
+        }
+        renderFiltered(currentSlug);
+
+        // ブラウザの戻る/進むや、他ページからの #category リンクにも追従する。
+        window.addEventListener("hashchange", function () {
+          var slug = resolveSlugFromHash(location.hash);
+          if (slug === currentSlug) {
+            return;
+          }
+          currentSlug = slug;
+          if (filterBarEl) {
+            updateActiveTab(filterBarEl, currentSlug);
+          }
+          renderFiltered(currentSlug);
+        });
       })
       .catch(function (error) {
         // eslint-disable-next-line no-console
         console.error("施工実績の読み込みに失敗しました:", error);
-        grid.innerHTML = "";
+        gridEl.innerHTML = "";
         if (errorBox) {
           errorBox.style.display = "";
         }
       });
   });
 
+  /* ===================== カテゴリフィルター ===================== */
+
   /**
-   * 施工実績データの配列から .card 要素を生成し、コンテナに描画する。
+   * URLハッシュ（例: "#toilet"）から有効なカテゴリスラッグを取り出す。
+   * 該当なし・空・不正な値の場合は ALL_SLUG（すべて表示）を返す。
+   */
+  function resolveSlugFromHash(hash) {
+    var raw = (hash || "").replace(/^#/, "");
+    if (!raw || raw === ALL_SLUG) {
+      return ALL_SLUG;
+    }
+    return slugToLabel(raw) ? raw : ALL_SLUG;
+  }
+
+  /**
+   * スラッグに対応するカテゴリ表示名を返す。該当なしの場合は null。
+   */
+  function slugToLabel(slug) {
+    for (var i = 0; i < CATEGORIES.length; i++) {
+      if (CATEGORIES[i].slug === slug) {
+        return CATEGORIES[i].label;
+      }
+    }
+    return null;
+  }
+
+  /**
+   * 「すべて」+ 9カテゴリのフィルタータブボタンを構築し、コンテナに描画する。
+   * 各カテゴリの件数は、渡された works（fetch済みの全件データ）から
+   * その場で集計するため、content/works.json 側の更新だけで
+   * バッジの数字も自動的に追従する。
+   */
+  function buildFilterTabs(container, works, activeSlug) {
+    container.innerHTML = "";
+
+    var counts = {};
+    works.forEach(function (work) {
+      var category = work.category || "";
+      counts[category] = (counts[category] || 0) + 1;
+    });
+
+    container.appendChild(
+      buildTabButton(ALL_SLUG, "すべて", works.length, activeSlug === ALL_SLUG)
+    );
+
+    CATEGORIES.forEach(function (cat) {
+      var count = counts[cat.label] || 0;
+      container.appendChild(
+        buildTabButton(cat.slug, cat.label, count, activeSlug === cat.slug)
+      );
+    });
+  }
+
+  function buildTabButton(slug, label, count, isActive) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "filter-tab" + (isActive ? " is-active" : "");
+    btn.setAttribute("data-slug", slug);
+    btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+
+    var labelSpan = document.createElement("span");
+    labelSpan.textContent = label;
+    btn.appendChild(labelSpan);
+
+    var countSpan = document.createElement("span");
+    countSpan.className = "filter-tab-count";
+    countSpan.textContent = "(" + count + ")";
+    btn.appendChild(countSpan);
+
+    btn.addEventListener("click", function () {
+      handleTabClick(slug);
+    });
+
+    return btn;
+  }
+
+  function handleTabClick(slug) {
+    if (slug === currentSlug) {
+      return;
+    }
+    currentSlug = slug;
+
+    if (filterBarEl) {
+      updateActiveTab(filterBarEl, slug);
+    }
+    renderFiltered(slug);
+
+    // URLハッシュに反映し、カテゴリ絞り込み状態を直接リンクできるようにする。
+    // ここで発生する hashchange は currentSlug との一致チェックにより
+    // 二重描画にはならない（"すべて" のときは replaceState でハッシュを消す
+    // ため hashchange 自体が発火しない）。
+    if (slug === ALL_SLUG) {
+      if (location.hash) {
+        history.replaceState(null, "", location.pathname + location.search);
+      }
+    } else {
+      location.hash = slug;
+    }
+  }
+
+  function updateActiveTab(container, activeSlug) {
+    var buttons = container.querySelectorAll(".filter-tab");
+    for (var i = 0; i < buttons.length; i++) {
+      var btn = buttons[i];
+      var isActive = btn.getAttribute("data-slug") === activeSlug;
+      btn.classList.toggle("is-active", isActive);
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+    }
+  }
+
+  /**
+   * 現在選択中のスラッグに応じて sortedWorks を絞り込み、描画する。
+   */
+  function renderFiltered(slug) {
+    if (!gridEl) {
+      return;
+    }
+
+    var label = slug === ALL_SLUG ? null : slugToLabel(slug);
+    var filtered = label
+      ? sortedWorks.filter(function (work) {
+          return work.category === label;
+        })
+      : sortedWorks;
+
+    renderWorks(gridEl, filtered);
+  }
+
+  /* ===================== カード描画 ===================== */
+
+  /**
+   * 施工実績データの配列（既にソート・フィルタ済み）から .card 要素を
+   * 生成し、コンテナに描画する。該当0件の場合は案内文を表示する。
    */
   function renderWorks(container, works) {
     container.innerHTML = "";
 
-    sortWorksByDateDesc(works).forEach(function (work) {
+    if (works.length === 0) {
+      var emptyMsg = document.createElement("p");
+      emptyMsg.className = "section-lead";
+      emptyMsg.textContent = "該当する施工実績がありません。";
+      container.appendChild(emptyMsg);
+      return;
+    }
+
+    works.forEach(function (work) {
       container.appendChild(buildWorkCard(work));
     });
   }
