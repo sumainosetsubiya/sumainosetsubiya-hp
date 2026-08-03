@@ -89,16 +89,19 @@ table {
    2. デザイントークン
    --------------------------------------------------------------------- */
 :root {
-  /* --- 色: ティールグリーン系（旧Wixサイトの配色を踏襲・整理） --- */
-  --color-primary: #0f7a6c;
-  --color-primary-dark: #0b5c52;
-  --color-primary-darker: #084943;
-  --color-primary-light: #e3f1ee;
+  /* --- 色: ティールグリーン系（旧Wixサイトの配色を踏襲・整理）
+     ※2026-08 明るいトーンへ調整。色相（ティールグリーン）は維持しつつ、
+     全体を1段階明るくシフト（旧primary→新primary-dark、旧primary-dark→
+     新primary-darkerへスライドし、新primaryはさらに明るい値を追加）。 --- */
+  --color-primary: #108470;
+  --color-primary-dark: #0f7a6c;
+  --color-primary-darker: #0b5c52;
+  --color-primary-light: #daf3ed;
   --color-primary-lighter: #f4faf9;
 
   /* --- アクセントカラー（CTAボタン等、ここぞという箇所にのみ使用） --- */
-  --color-accent: #c9812f;
-  --color-accent-dark: #a8691f;
+  --color-accent: #c58320;
+  --color-accent-dark: #a76f1b;
 
   /* --- テキスト・背景 --- */
   --color-text: #24302e;
@@ -107,7 +110,7 @@ table {
   --color-text-inverse: #ffffff;
   --color-bg: #ffffff;
   --color-bg-alt: #f6f9f8;
-  --color-bg-dark: #0b3b35;
+  --color-bg-dark: #10473f;
 
   /* --- 罫線・状態色 --- */
   --color-border: #dbe6e3;
