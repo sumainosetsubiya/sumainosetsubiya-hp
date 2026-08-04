@@ -28,7 +28,8 @@
  *         "date": "2024-05-11",            // 施工日（ISO形式 "YYYY-MM-DD"、未定の場合は ""）
  *         "area": "埼玉県川口市",           // 施工エリア
  *         "category": "ビルトイン食洗機交換", // カテゴリ（タグ表示・フィルターに使用）
- *         "product": "Panasonic NP-45MS9S", // 取付商品（型番など）
+ *         "manufacturer": "Panasonic",      // 取付商品のメーカー
+ *         "model": "NP-45MS9S",             // 取付商品の品番
  *         "duration": "1.5時間",            // 作業時間（"約"は表示側で付与）
  *         "before_image": "images/works/uploads/....jpg",
  *         "after_image": "images/works/uploads/....jpg",
@@ -306,7 +307,7 @@
   function buildWorkCard(work) {
     var area = work.area || "";
     var category = work.category || "";
-    var product = work.product || "";
+    var product = buildProductLabel(work);
     var duration = work.duration || "";
     var note = work.note || "";
 
@@ -364,6 +365,23 @@
     card.appendChild(list);
 
     return card;
+  }
+
+  /**
+   * work.manufacturer（メーカー）と work.model（品番）を、これまでの
+   * "product" 文字列（例:「Panasonic NP-45MS9S」）と同じ見た目になるよう
+   * 半角スペース区切りで結合する。Decap CMS側でフィールドが
+   * "product"（単一文字列）から "manufacturer" + "model" の2フィールドに
+   * 分割されたことに伴う互換用ヘルパー。片方だけ入力されている場合は
+   * その値のみを返す。
+   */
+  function buildProductLabel(work) {
+    var manufacturer = (work.manufacturer || "").trim();
+    var model = (work.model || "").trim();
+    if (manufacturer && model) {
+      return manufacturer + " " + model;
+    }
+    return model || manufacturer || "";
   }
 
   function buildListItem(label, value) {
