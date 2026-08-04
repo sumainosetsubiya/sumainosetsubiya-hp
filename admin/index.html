@@ -13,6 +13,406 @@
 <body>
   <!-- config.yml はこのファイルと同じ admin/ フォルダから自動的に読み込まれます -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
+  <script>
+    // ============================================================
+    // カスタムウィジェット「mobile-image」
+    // ------------------------------------------------------------
+    // 標準の image ウィジェットは「Choose an image」を押すと
+    // Decap CMSのメディアライブラリのモーダル画面が開き、その中の
+    // 「Upload」を押してようやくスマホの写真選択が開く、という
+    // 2段階の操作が必要になる。スマホで撮った施工写真をサッと
+    // アップロードしたいだけの依頼主にはこれが手間だったため、
+    // タップ1回で直接スマホの写真選択（<input type="file">）が
+    // 開くようにしたウィジェット。
+    //
+    // 画像の実際のアップロード（gitへのコミット対象への登録）は、
+    // Decap CMSの内部APIである onPersistMedia(file, opts) を呼ぶ
+    // ことで、標準ウィジェットと全く同じ仕組み（persistMedia →
+    // 下書きの mediaFiles に登録 → 「公開する」を押した時に他の
+    // 変更とまとめてコミットされる）に正しく乗せている。
+    // 保存先フォルダは config.yml の media_folder /
+    // public_folder の設定がそのまま使われる。
+    // ============================================================
+    var MobileImageControl = createClass({
+      getInitialState: function () {
+        return { assetUrl: null, uploading: false };
+      },
+
+      componentDidMount: function () {
+        this.updateAsset();
+      },
+
+      componentDidUpdate: function (prevProps) {
+        if (prevProps.value !== this.props.value) {
+          this.updateAsset();
+        }
+      },
+
+      // プレビュー用のURLを解決する。getAsset は Decap CMS が
+      // 標準の image/file ウィジェットでも使っている仕組みで、
+      // まだ公開（コミット）されていない下書き画像であっても
+      // ブラウザ内のキャッシュから表示できる場合はそちらを返す。
+      updateAsset: function () {
+        var value = this.props.value;
+        if (!value) {
+          this.setState({ assetUrl: null });
+          return;
+        }
+        try {
+          var asset = this.props.getAsset(value, this.props.field);
+          this.setState({ assetUrl: asset ? String(asset) : null });
+        } catch (err) {
+          this.setState({ assetUrl: null });
+        }
+      },
+
+      // config.get('public_folder') のように Immutable の Map として
+      // 読めるバージョンと、プレーンなJSオブジェクトとして渡される
+      // バージョンの両方に対応しておく（Decap CMSのバージョンによって
+      // 内部実装が変わる可能性があるための保険）。
+      readConfigValue: function (config, key) {
+        if (!config) return undefined;
+        if (typeof config.get === 'function') return config.get(key);
+        return config[key];
+      },
+
+      handleFileChange: function (e) {
+        var file = e.target.files && e.target.files[0];
+        // 同じファイルを選び直した時にも onChange イベントが
+        // 発火するよう、値をリセットしておく
+        e.target.value = '';
+        if (!file) return;
+
+        var self = this;
+        this.setState({ uploading: true });
+
+        this.props
+          .onPersistMedia(file, { field: this.props.field })
+          .then(function (result) {
+            var mediaFile = result && result.payload ? result.payload : result;
+            var fileName = mediaFile && mediaFile.name;
+            if (!fileName) {
+              throw new Error('アップロード結果からファイル名を取得できませんでした');
+            }
+            var publicFolder = self.readConfigValue(self.props.config, 'public_folder') || '';
+            publicFolder = publicFolder.replace(/\/+$/, '');
+            var publicPath = publicFolder + '/' + fileName;
+            self.props.onChange(publicPath);
+            self.setState({ uploading: false });
+          })
+          .catch(function (err) {
+            console.error('画像のアップロードに失敗しました', err);
+            self.setState({ uploading: false });
+            window.alert('画像のアップロードに失敗しました。もう一度お試しください。');
+          });
+      },
+
+      handleRemove: function (e) {
+        e.preventDefault();
+        this.props.onChange('');
+      },
+
+      render: function () {
+        var forID = this.props.forID;
+        var classNameWrapper = this.props.classNameWrapper;
+        var state = this.state;
+        var children = [];
+
+        if (state.assetUrl) {
+          children.push(
+            h('img', {
+              key: 'preview',
+              src: state.assetUrl,
+              style: {
+                display: 'block',
+                maxWidth: '240px',
+                maxHeight: '240px',
+                objectFit: 'contain',
+                marginBottom: '10px',
+                border: '1px solid #ddd',
+                borderRadius: '4px',
+                backgroundColor: '#f4f4f4',
+              },
+            })
+          );
+        }
+
+        // <label> で <input type="file"> を包むことで、ラベル部分を
+        // タップした瞬間に（モーダル等を挟まず）ネイティブの
+        // 写真選択が直接開く。input 自体は視覚的に隠す。
+        children.push(
+          h(
+            'label',
+            {
+              key: 'label',
+              htmlFor: forID,
+              style: {
+                display: 'inline-block',
+                padding: '12px 20px',
+                marginRight: '10px',
+                backgroundColor: state.uploading ? '#9aa5b1' : '#3a7ca5',
+                color: '#fff',
+                borderRadius: '4px',
+                cursor: state.uploading ? 'default' : 'pointer',
+                fontSize: '15px',
+                fontWeight: 'bold',
+              },
+            },
+            state.uploading ? 'アップロード中…' : state.assetUrl ? '写真を変更する' : '写真を選択する'
+          )
+        );
+
+        children.push(
+          h('input', {
+            key: 'input',
+            id: forID,
+            type: 'file',
+            accept: 'image/*',
+            onChange: this.handleFileChange,
+            disabled: state.uploading,
+            style: {
+              position: 'absolute',
+              width: '1px',
+              height: '1px',
+              padding: 0,
+              margin: '-1px',
+              overflow: 'hidden',
+              clip: 'rect(0,0,0,0)',
+              whiteSpace: 'nowrap',
+              border: 0,
+            },
+          })
+        );
+
+        if (state.assetUrl && !state.uploading) {
+          children.push(
+            h(
+              'button',
+              {
+                key: 'remove',
+                type: 'button',
+                onClick: this.handleRemove,
+                style: {
+                  padding: '12px 16px',
+                  backgroundColor: '#c0392b',
+                  color: '#fff',
+                  border: 'none',
+                  borderRadius: '4px',
+                  cursor: 'pointer',
+                  fontSize: '15px',
+                },
+              },
+              '削除'
+            )
+          );
+        }
+
+        return h('div', { className: classNameWrapper, style: { position: 'relative' } }, children);
+      },
+    });
+
+    // プレビューペイン（右側のプレビュー表示）用。値があれば同じ
+    // getAsset の仕組みでサムネイルを表示する。
+    var MobileImagePreview = createClass({
+      render: function () {
+        var value = this.props.value;
+        var field = this.props.field;
+        var getAsset = this.props.getAsset;
+        if (!value || !getAsset) return null;
+        var asset = getAsset(value, field);
+        if (!asset) return null;
+        return h('img', {
+          src: String(asset),
+          style: { maxWidth: '100%' },
+        });
+      },
+    });
+
+    CMS.registerWidget('mobile-image', MobileImageControl, MobileImagePreview);
+
+    // ============================================================
+    // フォーム最下部への「公開する」複製ボタン
+    // ------------------------------------------------------------
+    // 依頼主から「画面上部の公開ボタンを押そうとして誤操作しやすい」
+    // という要望があったため、フォームの最後（一言コメント欄の直後）
+    // にも同じ動作をするボタンを複製する。
+    //
+    // Decap CMSの編集画面ツールバーの「公開する」ボタンは、実際には
+    // ドロップダウンの開閉トリガーになっており、押すと現れる
+    // メニュー項目（「Publish now」等）が本当のクリックハンドラを
+    // 持っている。そのため、複製ボタンは (1) 本物のトリガーボタンを
+    // 見つけてクリックし、(2) 少し待ってメニュー項目が現れたら
+    // それもクリックする、という2段階の操作を自動で行うプロキシと
+    // して実装している。
+    //
+    // ボタンの特定は、Decap CMS内部の見た目用クラス名
+    // （emotionライブラリが生成する、コンポーネント名に由来する
+    // 識別子を含むクラス名）をキーに行っている。これはDecap CMSの
+    // 公開APIではなく内部実装の詳細であるため、将来のバージョン
+    // アップで変わる可能性がある。もし将来動かなくなった場合でも、
+    // 画面上部の元々のボタンは影響を受けず、通常通り使用できる。
+    // ============================================================
+    (function () {
+      var PROXY_ID = 'mobile-publish-proxy-button';
+
+      function findByToken(token) {
+        var all = document.querySelectorAll('button, [role="button"]');
+        for (var i = 0; i < all.length; i++) {
+          var tokens = (all[i].className || '').toString().split(/[\s-]+/);
+          if (tokens.indexOf(token) !== -1) return all[i];
+        }
+        return null;
+      }
+
+      function fireClick(el) {
+        ['mousedown', 'mouseup', 'click'].forEach(function (type) {
+          el.dispatchEvent(new MouseEvent(type, { bubbles: true, cancelable: true, view: window }));
+        });
+      }
+
+      function handleProxyClick(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        // 少し遅延させてから実行する。この複製ボタン自身への
+        // 本物のクリックイベントは、このハンドラの実行後も
+        // documentまでバブリングし続ける。もし遅延なしで本物の
+        // 公開ボタンを同期的にクリックしてメニューを開くと、
+        // その直後にこの複製ボタンのクリックイベントがdocumentまで
+        // 届いた際に「メニュー外側のクリック」と誤認識されて
+        // 開いたばかりのメニューが即座に閉じてしまう。setTimeoutで
+        // 次のタスクに回すことでこれを回避している。
+        setTimeout(function () {
+          // 編集ワークフロー（publish_mode: editorial_workflow）が
+          // 有効な場合の「Save」ボタン。このプロジェクトでは未使用
+          // だが、将来設定が変わっても動くように一応対応しておく。
+          var saveBtn = findByToken('SaveButton');
+          if (saveBtn && !saveBtn.disabled) {
+            fireClick(saveBtn);
+            return;
+          }
+
+          // 通常モードの「Publish」ドロップダウン
+          var publishBtn = findByToken('PublishButton');
+          if (publishBtn) {
+            fireClick(publishBtn);
+            var attempts = 0;
+            var maxAttempts = 15; // 50ms間隔で最大約750ms待つ
+            var poll = setInterval(function () {
+              attempts++;
+              var item = document.querySelector('[role="menuitem"]');
+              if (item) {
+                clearInterval(poll);
+                fireClick(item);
+              } else if (attempts >= maxAttempts) {
+                clearInterval(poll);
+                window.alert('公開メニューを開けませんでした。お手数ですが画面上部のボタンから操作してください。');
+              }
+            }, 50);
+            return;
+          }
+
+          // 変更なし（すでに公開済み）の場合は押せる対象がない
+          window.alert('現在保存できる変更がありません（既に公開済みです）。');
+        }, 0);
+      }
+
+      // フィールド一覧を囲む「ControlPaneContainer」を探す。
+      // プレビューペイン側にも同名のクラスが付くことがあるため、
+      // "PreviewPaneContainer" を含まないものだけを対象にする。
+      function findControlPane() {
+        var all = document.querySelectorAll('div');
+        for (var i = 0; i < all.length; i++) {
+          var tokens = (all[i].className || '').toString().split(/[\s-]+/);
+          if (tokens.indexOf('ControlPaneContainer') !== -1 && tokens.indexOf('PreviewPaneContainer') === -1) {
+            return all[i];
+          }
+        }
+        return null;
+      }
+
+      // 本物のボタンの現在の見た目（背景色・文字色・角丸など）を
+      // そのまま複製ボタンにコピーし、状態（公開可能/公開済み等）
+      // が変わるたびに見た目も追従するようにする。
+      function syncStyleFrom(sourceEl, targetEl) {
+        var cs = window.getComputedStyle(sourceEl);
+        [
+          'backgroundColor',
+          'color',
+          'fontFamily',
+          'fontSize',
+          'fontWeight',
+          'borderRadius',
+          'paddingTop',
+          'paddingBottom',
+          'paddingLeft',
+          'paddingRight',
+          'border',
+          'boxShadow',
+          'lineHeight',
+        ].forEach(function (prop) {
+          targetEl.style[prop] = cs[prop];
+        });
+      }
+
+      function ensureProxyButton() {
+        var pane = findControlPane();
+        if (!pane) return;
+
+        var btn = document.getElementById(PROXY_ID);
+        if (!btn) {
+          btn = document.createElement('button');
+          btn.id = PROXY_ID;
+          btn.type = 'button';
+          btn.textContent = 'この内容を保存・公開する';
+          btn.style.display = 'block';
+          btn.style.width = '100%';
+          btn.style.marginTop = '28px';
+          btn.style.marginBottom = '24px';
+          btn.style.padding = '18px';
+          btn.style.fontSize = '16px';
+          btn.style.fontWeight = 'bold';
+          btn.style.border = 'none';
+          btn.style.borderRadius = '4px';
+          btn.style.backgroundColor = '#0e4bcf';
+          btn.style.color = '#fff';
+          btn.addEventListener('click', handleProxyClick);
+        }
+
+        // 常にフォームの最後尾（一言コメント欄の直後）に来るようにする
+        if (pane.lastElementChild !== btn) {
+          pane.appendChild(btn);
+        }
+
+        var saveBtn = findByToken('SaveButton');
+        var publishBtn = findByToken('PublishButton');
+        var canAct = (saveBtn && !saveBtn.disabled) || !!publishBtn;
+        btn.disabled = !canAct;
+        btn.style.opacity = canAct ? '1' : '0.5';
+        btn.style.cursor = canAct ? 'pointer' : 'default';
+
+        var refBtn = saveBtn || publishBtn || findByToken('PublishedButton') || findByToken('PublishedToolbarButton');
+        if (refBtn) syncStyleFrom(refBtn, btn);
+      }
+
+      // 画面内のDOM変化（エントリ編集画面の表示・フィールドの
+      // 増減・公開状態の切り替わり等）を監視し、そのたびにボタンの
+      // 位置と見た目を同期する。rAFでまとめることで、連続した
+      // 変化があっても同期処理が過剰に走らないようにしている。
+      var scheduled = false;
+      function scheduleSync() {
+        if (scheduled) return;
+        scheduled = true;
+        requestAnimationFrame(function () {
+          scheduled = false;
+          ensureProxyButton();
+        });
+      }
+
+      var observer = new MutationObserver(scheduleSync);
+      observer.observe(document.body, { childList: true, subtree: true });
+      ensureProxyButton();
+    })();
+  </script>
 </body>
 </html>
-
