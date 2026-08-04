@@ -30,119 +30,135 @@ public_folder: "/images/works/uploads"
 collections:
   - name: "works"
     label: "施工実績"
-    description: "works.html に表示される施工実績カードの内容を編集します。"
-    # content/works.json という単一ファイルを編集対象にする File collection。
-    # ファイル内の "works" 配列を list ウィジェットで複数エントリ編集する構成。
-    files:
-      - name: "works"
-        label: "施工実績一覧"
-        file: "content/works.json"
-        fields:
-          - label: "施工実績"
-            name: "works"
-            widget: "list"
-            label_singular: "施工実績"
-            summary: "{{fields.category}}（{{fields.area}}）"
-            fields:
-              - label: "施工日"
-                name: "date"
-                widget: "datetime"
-                format: "YYYY-MM-DD"
-                date_format: "YYYY-MM-DD"
-                time_format: false
-                required: false
-                hint: "施工事例を随時更新予定などで日付が未定の場合は空欄のままでも構いません"
-              - label: "施工エリア"
-                name: "area"
-                widget: "select"
-                options:
-                  - "東京都足立区"
-                  - "東京都荒川区"
-                  - "東京都板橋区"
-                  - "東京都北区"
-                  - "東京都練馬区"
-                  - "埼玉県上尾市"
-                  - "埼玉県朝霞市"
-                  - "埼玉県桶川市"
-                  - "埼玉県川口市"
-                  - "埼玉県越谷市"
-                  - "埼玉県さいたま市西区"
-                  - "埼玉県さいたま市北区"
-                  - "埼玉県さいたま市大宮区"
-                  - "埼玉県さいたま市見沼区"
-                  - "埼玉県さいたま市中央区"
-                  - "埼玉県さいたま市桜区"
-                  - "埼玉県さいたま市浦和区"
-                  - "埼玉県さいたま市南区"
-                  - "埼玉県さいたま市緑区"
-                  - "埼玉県さいたま市岩槻区"
-                  - "埼玉県志木市"
-                  - "埼玉県草加市"
-                  - "埼玉県戸田市"
-                  - "埼玉県新座市"
-                  - "埼玉県富士見市"
-                  - "埼玉県ふじみ野市"
-                  - "埼玉県和光市"
-                  - "埼玉県蕨市"
-                  - "その他"
-                hint: "対応エリア一覧（area.html）に基づく選択肢です。該当がない場合は「その他」を選んでください"
-              - label: "カテゴリ"
-                name: "category"
-                widget: "select"
-                options:
-                  - "トイレ交換"
-                  - "温水洗浄便座交換"
-                  - "蛇口交換"
-                  - "ビルトイン食洗機交換"
-                  - "ビルトインコンロ交換"
-                  - "レンジフード交換"
-                  - "IHクッキングヒーター交換"
-                  - "浴室乾燥機交換"
-                  - "換気扇交換"
-                hint: "該当する工事カテゴリをタップして選択してください"
-              - label: "メーカー"
-                name: "manufacturer"
-                widget: "relation"
-                collection: "manufacturers"
-                search_fields: ["name"]
-                value_field: "name"
-                display_fields: ["name"]
-                hint: "入力すると候補が絞り込まれます。候補に無い新しいメーカーを使いたい場合は、先に画面左のメニューにある「メーカーマスタ」を開いて名前を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
-              - label: "品番"
-                name: "model"
-                widget: "relation"
-                collection: "models"
-                search_fields: ["name"]
-                value_field: "name"
-                display_fields: ["name", "manufacturer"]
-                hint: "入力すると候補が絞り込まれます。候補に無い新しい品番を使いたい場合は、先に画面左のメニューにある「品番マスタ」を開いて品番を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
-              - label: "作業時間"
-                name: "duration"
-                widget: "select"
-                options:
-                  - "30分"
-                  - "1時間"
-                  - "1.5時間"
-                  - "2時間"
-                  - "2.5時間"
-                  - "3時間"
-                  - "3.5時間"
-                  - "4時間"
-                  - "その他"
-                hint: "「約」は付けずに選択してください（表示側で自動的に「約」が付きます）"
-              - label: "施工前の写真"
-                name: "before_image"
-                widget: "mobile-image"
-                hint: "タップするとスマホの写真選択がそのまま開きます"
-              - label: "施工後の写真"
-                name: "after_image"
-                widget: "mobile-image"
-                hint: "タップするとスマホの写真選択がそのまま開きます"
-              - label: "一言コメント"
-                name: "note"
-                widget: "text"
-                required: false
-                hint: "任意項目です。空欄でも構いません"
+    description: "works.html に表示される施工実績カードの内容を編集します。一覧から各施工実績をクリックすると個別に編集できます。"
+    # content/works/ 配下の *.json（1件=1ファイル）を編集対象にする Folder collection。
+    # 以前は content/works.json という単一ファイルの中の "works" 配列を
+    # list ウィジェットで編集する方式だったが、それだと管理画面上で
+    # 「一覧→個別クリックで編集」というDecap CMS標準のUXにならなかった
+    # ため、1件=1ファイルの folder collection に変更した。
+    #
+    # 公開サイト側（js/works.js）は今まで通り content/works.json
+    # ({ "works": [...] } 形式)を読み込む前提のままなので、
+    # content/works/*.json をビルド時に結合して content/works.json を
+    # 自動生成する処理が別途必要（scripts/build-works-index.js を参照。
+    # Cloudflare Pages のビルドコマンドに
+    #   node scripts/build-works-index.js
+    # を設定すること）。
+    folder: "content/works"
+    create: true
+    delete: true
+    format: "json"
+    # 一覧画面のタイトルに施工日が入るようにする設定。
+    # 例: "2024-05-11 - ビルトイン食洗機交換（埼玉県川口市）"
+    # date が未入力（空文字）のエントリは "施工日未定" と表示される。
+    summary: "{{fields.date | default('施工日未定')}} - {{fields.category}}（{{fields.area}}）"
+    # 新規追加時のファイル名を「施工日-カテゴリ」ベースで自動生成する。
+    # 例: 2026-08-04 に「ビルトインコンロ交換」を追加した場合
+    # -> 2026-08-04-birutoinkonrokoukan.json のようなファイル名になる
+    # （日本語はDecap CMSのslug化処理でローマ字化・記号除去されるため
+    # 厳密な英語表記にはならないが、日付+カテゴリで一意かつ見分けが
+    # つくファイル名になる）
+    slug: "{{fields.date}}-{{fields.category}}"
+    fields:
+      - label: "施工日"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: false
+        hint: "施工事例を随時更新予定などで日付が未定の場合は空欄のままでも構いません"
+      - label: "施工エリア"
+        name: "area"
+        widget: "select"
+        options:
+          - "東京都足立区"
+          - "東京都荒川区"
+          - "東京都板橋区"
+          - "東京都北区"
+          - "東京都練馬区"
+          - "埼玉県上尾市"
+          - "埼玉県朝霞市"
+          - "埼玉県桶川市"
+          - "埼玉県川口市"
+          - "埼玉県越谷市"
+          - "埼玉県さいたま市西区"
+          - "埼玉県さいたま市北区"
+          - "埼玉県さいたま市大宮区"
+          - "埼玉県さいたま市見沼区"
+          - "埼玉県さいたま市中央区"
+          - "埼玉県さいたま市桜区"
+          - "埼玉県さいたま市浦和区"
+          - "埼玉県さいたま市南区"
+          - "埼玉県さいたま市緑区"
+          - "埼玉県さいたま市岩槻区"
+          - "埼玉県志木市"
+          - "埼玉県草加市"
+          - "埼玉県戸田市"
+          - "埼玉県新座市"
+          - "埼玉県富士見市"
+          - "埼玉県ふじみ野市"
+          - "埼玉県和光市"
+          - "埼玉県蕨市"
+          - "その他"
+        hint: "対応エリア一覧（area.html）に基づく選択肢です。該当がない場合は「その他」を選んでください"
+      - label: "カテゴリ"
+        name: "category"
+        widget: "select"
+        options:
+          - "トイレ交換"
+          - "温水洗浄便座交換"
+          - "蛇口交換"
+          - "ビルトイン食洗機交換"
+          - "ビルトインコンロ交換"
+          - "レンジフード交換"
+          - "IHクッキングヒーター交換"
+          - "浴室乾燥機交換"
+          - "換気扇交換"
+        hint: "該当する工事カテゴリをタップして選択してください"
+      - label: "メーカー"
+        name: "manufacturer"
+        widget: "relation"
+        collection: "manufacturers"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
+        hint: "入力すると候補が絞り込まれます。候補に無い新しいメーカーを使いたい場合は、先に画面左のメニューにある「メーカーマスタ」を開いて名前を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
+      - label: "品番"
+        name: "model"
+        widget: "relation"
+        collection: "models"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name", "manufacturer"]
+        hint: "入力すると候補が絞り込まれます。候補に無い新しい品番を使いたい場合は、先に画面左のメニューにある「品番マスタ」を開いて品番を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
+      - label: "作業時間"
+        name: "duration"
+        widget: "select"
+        options:
+          - "30分"
+          - "1時間"
+          - "1.5時間"
+          - "2時間"
+          - "2.5時間"
+          - "3時間"
+          - "3.5時間"
+          - "4時間"
+          - "その他"
+        hint: "「約」は付けずに選択してください（表示側で自動的に「約」が付きます）"
+      - label: "施工前の写真"
+        name: "before_image"
+        widget: "mobile-image"
+        hint: "タップするとスマホの写真選択がそのまま開きます"
+      - label: "施工後の写真"
+        name: "after_image"
+        widget: "mobile-image"
+        hint: "タップするとスマホの写真選択がそのまま開きます"
+      - label: "一言コメント"
+        name: "note"
+        widget: "text"
+        required: false
+        hint: "任意項目です。空欄でも構いません"
 
   # ------------------------------------------------------------
   # メーカー・品番マスタ（施工実績フォームの「メーカー」「品番」の

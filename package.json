@@ -1,0 +1,9 @@
+{
+  "name": "sumainosetsubiya-hp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "住まいの設備屋さん ホームページ（静的サイト・ビルドツール不使用）。Decap CMS で編集する content/works/*.json を content/works.json に結合するビルドスクリプトのみ package.json 経由で提供する。",
+  "scripts": {
+    "build": "node scripts/build-works-index.js"
+  }
+}
