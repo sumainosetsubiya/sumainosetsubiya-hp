@@ -1180,6 +1180,20 @@ main {
   border: 0;
 }
 
+/* お問い合わせフォームのハニーポット（スパム対策用の隠しフィールド）専用。
+   .visually-hidden とは異なり、スクリーンリーダーにも読み上げさせたくない
+   （aria-hidden="true" と併用する）ため、画面外へ完全に追いやる方式にしている。
+   人間の利用者には一切見えないが、フォームを機械的に解析するボットは
+   このフィールドをDOM上で見つけて埋めてしまう、という前提の実装。 */
+.form-honeypot {
+  position: absolute !important;
+  left: -9999px;
+  top: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 .max-w-prose {
   max-width: 68ch;
 }

@@ -1,0 +1,11 @@
+## wrangler CLIでこのWorkerをデプロイする場合に使う設定ファイルです。
+## ダッシュボードから直接貼り付けてデプロイする場合は、このファイルは不要です
+## （README.mdの「方法B」を参照してください）。
+
+name = "contact-form-handler"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+## RESEND_API_KEY はここには書きません。
+## `npx wrangler secret put RESEND_API_KEY` のようにコマンドで安全に登録します。
+## （README.mdの手順を参照）

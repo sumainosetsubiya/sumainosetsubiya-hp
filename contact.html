@@ -77,11 +77,24 @@
         </div>
 
         <!-- =====================================================================
-             お問い合わせフォーム（Formspree使用）
+             お問い合わせフォーム（Cloudflare Worker + Resend経由でメール送信）
              ---------------------------------------------------------------------
-             FormspreeのフォームID反映済み（xykrrybe）
+             ★ action は Worker デプロイ後の本番URLに書き換えてください。
+               下記は cloudflare-worker-contact-form/ をデプロイした際に
+               表示されるURLの形式（あなたのサブドメイン部分は実際の値に置換）。
+               デプロイ手順は cloudflare-worker-contact-form/README.md を参照。
              ===================================================================== -->
-        <form class="card" action="https://formspree.io/f/xykrrybe" method="POST" enctype="multipart/form-data">
+        <form class="card" action="https://contact-form-handler.YOUR-SUBDOMAIN.workers.dev" method="POST" enctype="multipart/form-data">
+
+          <!-- ハニーポット（スパムボット対策用の隠しフィールド）。
+               人間には見えない（.form-honeypotで画面外に配置＋aria-hiddenで
+               スクリーンリーダーからも隠す）が、フォームを機械的に埋める
+               ボットはこのフィールドにも値を入れてしまうことが多いため、
+               Worker側でこのフィールドが埋まっていたら送信を静かに拒否する。 -->
+          <div class="form-honeypot" aria-hidden="true">
+            <label for="_gotcha">このフィールドは空のままにしてください</label>
+            <input type="text" id="_gotcha" name="_gotcha" tabindex="-1" autocomplete="off">
+          </div>
 
           <div class="form-grid">
 
@@ -98,7 +111,7 @@
                 メールアドレス
                 <span class="form-required">必須</span>
               </label>
-              <input class="form-input" type="email" id="email" name="_replyto" placeholder="例）example@example.com" required>
+              <input class="form-input" type="email" id="email" name="メールアドレス" placeholder="例）example@example.com" required>
               <span class="form-hint">ご返信先となりますので、お間違えのないようご入力ください。</span>
             </div>
 
