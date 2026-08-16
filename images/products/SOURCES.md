@@ -43,7 +43,7 @@ Panasonic CH951SPF（スタンダード）は、panasonic.jpの一般消費者�
 | ファイル名 | メーカー | 掲載型番 | 対応商品 | 取得元URL | 備考 |
 |---|---|---|---|---|---|
 | dishwasher_panasonic_9series.jpg | Panasonic | ビルトイン食器洗い乾燥機 9シリーズ | ミドル「Panasonic NP-45MS9S」／ハイグレード「NP-45MD9S」 | https://sumai.panasonic.jp/dishwasher/m9series/ （img/main_pc.jpg、右側の設置写真部分をトリミング） | 型番はシリーズ一致（9シリーズのメインビジュアル。NP-45MS9S/NP-45MD9Sはこのページで紹介されている商品） |
-| dishwasher_mitsubishi_ew45rd1.jpg | 三菱電機 | EW-45RD1シリーズ | スタンダード「三菱電機 EW-45R2S」 | https://www.mitsubishielectric.co.jp/home/builtin-dishwasher/ （img/img_ew-45rd1.jpg） | **型番は後継機種で代替**。EW-45R2Sは生産終了品のため、公式サイト現行ラインナップの後継シリーズ「EW-45RD1」の画像を使用。 |
+| dishwasher_mitsubishi_ew45rd1.jpg | 三菱電機 | EW-45RD1シリーズ | スタンダード「三菱電機 EW-45R3S」（旧型番EW-45R2Sは2026-08-16に依頼主調査によりEW-45R3Sへ更新） | https://www.mitsubishielectric.co.jp/home/builtin-dishwasher/ （img/img_ew-45rd1.jpg） | **型番は近似機種の画像で代替**。EW-45R2S/EW-45R3Sの実機写真が入手できないため、公式サイト現行ラインナップの近似シリーズ「EW-45RD1」の画像を使用。 |
 
 ## ⑤ ビルトインコンロ
 
