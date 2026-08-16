@@ -1,0 +1,25 @@
+## wrangler CLIでこのWorkerをデプロイする場合に使う設定ファイルです。
+## ダッシュボードから直接貼り付けてデプロイする場合は、このファイルは不要です
+## （README.mdの「方法B」を参照してください。ただしその場合、下のCron Triggerは
+## ダッシュボード側の「Triggers」タブから別途手動で設定する必要があります）。
+
+name = "kurama-calendar-sync"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+## Cron Trigger: 6時間おき(1日4回: 0時・6時・12時・18時 UTC)に自動実行する。
+## cron式はUTC基準で評価される点に注意（日本時間からは9時間引いた時刻）。
+## 頻度を変えたい場合はこの配列を書き換えて再デプロイする。
+[triggers]
+crons = ["0 */6 * * *"]
+
+## 以下の環境変数（Secret）はこのファイルには書きません。
+## `npx wrangler secret put <変数名>` のようにコマンドで安全に登録します。
+## （README.mdの手順を参照）
+##   KURAMA_EMAIL          … くらしのマーケットのログインメールアドレス
+##   KURAMA_PASSWORD        … くらしのマーケットのログインパスワード
+##   GOOGLE_CLIENT_ID        … Google OAuth クライアントID
+##   GOOGLE_CLIENT_SECRET    … Google OAuth クライアントシークレット
+##   GOOGLE_REFRESH_TOKEN    … Google OAuth リフレッシュトークン
+##   GOOGLE_CALENDAR_ID      … 反映先のGoogleカレンダーID
+##   MANUAL_TRIGGER_TOKEN    … 手動テスト実行用の秘密トークン
