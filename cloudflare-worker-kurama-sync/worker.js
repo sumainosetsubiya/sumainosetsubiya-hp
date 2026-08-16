@@ -33,7 +33,8 @@
  *   Googleカレンダー側には「予定あり」ということだけが分かれば十分という
  *   依頼主の方針により、工事内容などの詳細（くらしのマーケット側の title）は
  *   一切転記しません。作成するGoogleカレンダーのイベントタイトルは、
- *   常に固定文言（GOOGLE_EVENT_TITLE）です。
+ *   「予約あり（くらしのマーケット）」「ブロック（くらしのマーケット）」の
+ *   ようにeventTypeIdに応じた固定文言のみです（GOOGLE_EVENT_TITLE_BY_TYPE）。
  *
  * ----------------------------------------------------------------
  * ▼▼▼ 重要：Cloudflareの管理画面で必ず設定してください ▼▼▼
@@ -107,8 +108,18 @@ const GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token";
 const GOOGLE_CALENDAR_API_BASE = "https://www.googleapis.com/calendar/v3";
 
 // Googleカレンダー側に作成するイベントのタイトル。
-// 依頼主の方針により、工事内容などの詳細は一切載せず、常にこの固定文言にする。
-const GOOGLE_EVENT_TITLE = "予約あり（くらしのマーケット）";
+// 依頼主の方針により、工事内容などの詳細は一切載せず、eventTypeIdに応じた
+// 固定文言のみを使う（くらしのマーケット側の手動ブロックは元々タイトルが
+// 空欄のため、種別だけ分けて表示しても情報漏洩にはならない）。
+const GOOGLE_EVENT_TITLE_BY_TYPE = {
+  1: "ブロック（くらしのマーケット）",
+  2: "予約あり（くらしのマーケット）",
+};
+const GOOGLE_EVENT_TITLE_FALLBACK = "予定あり（くらしのマーケット）";
+
+function getGoogleEventTitle(kuramaEvent) {
+  return GOOGLE_EVENT_TITLE_BY_TYPE[kuramaEvent.eventTypeId] || GOOGLE_EVENT_TITLE_FALLBACK;
+}
 
 // 重複防止・差分検出用に、作成したGoogleイベントの extendedProperties.private に
 // 埋め込む値のキー名。
@@ -518,7 +529,7 @@ async function listSyncedGoogleEvents(accessToken, calendarId, timeMin, timeMax)
 /** Googleカレンダーに作成/更新するイベント本体を組み立てる（詳細情報は含めない） */
 function buildGoogleEventPayload(kuramaEvent) {
   return {
-    summary: GOOGLE_EVENT_TITLE,
+    summary: getGoogleEventTitle(kuramaEvent),
     start: { dateTime: kuramaEvent.start },
     end: { dateTime: kuramaEvent.end },
     extendedProperties: {
@@ -696,8 +707,11 @@ async function runSync(env) {
     const startChanged = !isSameInstant(existing.start && existing.start.dateTime, kuramaEvent.start);
     const endChanged = !isSameInstant(existing.end && existing.end.dateTime, kuramaEvent.end);
     const wasCancelled = existing.status === "cancelled";
+    // タイトルの出し分け（予約/ブロック）を追加した際、以前の同期で作成済みの
+    // イベントが古い固定タイトルのまま残らないよう、タイトルの差分も更新対象にする。
+    const titleChanged = existing.summary !== getGoogleEventTitle(kuramaEvent);
 
-    if (startChanged || endChanged || wasCancelled) {
+    if (startChanged || endChanged || wasCancelled || titleChanged) {
       try {
         await updateGoogleEvent(accessToken, calendarId, existing.id, kuramaEvent);
         summary.updated++;
