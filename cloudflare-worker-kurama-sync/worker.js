@@ -13,6 +13,11 @@
  *   1. くらしのマーケットのログインページ(GET)から _csrf トークンを取得する
  *   2. email / password / _csrf をPOSTしてログインし、
  *      Set-CookieヘッダーからセッションCookieを取得する
+ *      （curama.jp/shop/login はログイン失敗時もHTTP 200でログインページを
+ *      再描画するだけのため、レスポンス本文にエラー文言・ログインフォームが
+ *      残っていないかを確認し、さらに認証必須ページ(/shop/)への
+ *      アクセスで/shop/loginへリダイレクトされないかを確認する、
+ *      二段階のチェックで成否を判定する）
  *   3. 取得したCookieを使い、今日から60日後までの予約イベントを
  *      くらしのマーケットのAPIから取得する
  *   4. eventTypeId === 2（実際の予約）のイベントだけを抽出する
@@ -65,6 +70,12 @@
 // ---- くらしのマーケット側の設定 ------------------------------------------
 
 const KURAMA_LOGIN_URL = "https://curama.jp/shop/login";
+
+// ログイン成功/失敗を最終確認するための、認証必須の画面系ページ（ダッシュボード）。
+// curama.jpは未認証の場合、画面系ルート(/shop/...)は302で/shop/login/へ
+// リダイレクトする一方、APIルート(/v1/api/...)は404を返す仕様のため、
+// 判定には画面系ページを使う。
+const KURAMA_DASHBOARD_URL = "https://curama.jp/shop/";
 
 // 依頼主の店舗コード（このWorker専用。URLに直接埋め込まれている固定値）。
 const KURAMA_STORE_CODE = "451904803";
@@ -122,6 +133,38 @@ function extractCsrfToken(html) {
 }
 
 /**
+ * ログインPOSTのレスポンス本文（HTML）に、ログイン失敗を示す兆候が
+ * 含まれているかどうかを判定する。
+ *
+ * curama.jp/shop/login はログイン失敗時もHTTP 200を返し、ログインページを
+ * そのまま再描画するだけ（302リダイレクトにならない）という挙動が実機で
+ * 確認されているため、ステータスコードだけでは成否を判定できない。
+ *
+ * 判定方法は2段構え:
+ *   1. 既知のエラー文言（「メールアドレスかパスワードが異なります」等）が
+ *      本文に含まれていないか
+ *   2. （文言がサイト側の変更で変わった場合の保険として）ログインフォーム
+ *      自体、つまり _csrf の隠しフィールドがまだ本文に存在していないか
+ *      ※ ログイン成功時はダッシュボード等へ遷移し、ログインフォームは
+ *        含まれないはずなので、まだ存在する＝ログインページの再描画＝失敗
+ *        とみなせる。
+ */
+function loginPostIndicatesFailure(html) {
+  const KNOWN_LOGIN_ERROR_PHRASES = [
+    "メールアドレスかパスワードが異なります",
+    "メールアドレスまたはパスワードが正しくありません",
+    "メールアドレスかパスワードが間違っています",
+  ];
+  if (KNOWN_LOGIN_ERROR_PHRASES.some((phrase) => html.includes(phrase))) {
+    return true;
+  }
+  if (extractCsrfToken(html)) {
+    return true;
+  }
+  return false;
+}
+
+/**
  * Fetch Responseから Set-Cookie ヘッダーを（複数ある場合は複数とも）取り出す。
  * 標準の Headers.get("set-cookie") は複数値をカンマ結合してしまい、Cookieの値
  * 自体にカンマや日付が含まれるケースと区別がつかず壊れることがあるため、
@@ -169,15 +212,29 @@ function buildCookieHeader(jar) {
  *      さらに手動で拾って合成し、
  *   4. 以降のAPIリクエストのCookieヘッダーとして手動で使い回す
  * という形で、自前のCookieジャー（Map）を使って一連の流れを実装している。
- * また、ログイン成功時はリダイレクト（3xx）が返ると推測されるため、
  * `redirect: "manual"` を指定してリダイレクトを自動追跡させず、
  * リダイレクトレスポンス自体のSet-Cookieを確実に取得できるようにしている。
+ * mergeCookiesIntoJar() は同名のCookieを Map.set() で上書きするため、
+ * POSTレスポンスのSet-Cookieで古い値が残ることはない。
  *
- * 【未検証について】
- * 実際のログイン成功/失敗時のレスポンス形式（ステータスコード、Set-Cookieの
- * 有無やタイミング）は依頼主の開発者ツールでの確認情報のみに基づいており、
- * 実際に一度も実行できていない。想定と異なる場合はエラーメッセージ・
- * ステータスコード判定の調整が必要になる可能性がある。
+ * 【ログイン成否判定について（実機検証済みの重要な注意）】
+ * curama.jp/shop/login は、ログイン失敗時もHTTP 200を返し、ログインページを
+ * そのまま再描画するだけで302リダイレクトにはならないことが実機で確認されて
+ * いる。そのため、ステータスコードが400未満かどうかだけでは成否を判定できず、
+ * 以前の実装ではその判定不備により、未認証のセッションCookieのまま後続の
+ * APIアクセスを行っていた（結果としてAPI側が404を返していた。curama.jpの
+ * APIルート(/v1/api/...)は未認証時にエラーを隠すためあえて404を返す設計で
+ * あるのに対し、画面系ルート(/shop/...)は未認証時302で/shop/login/へ
+ * リダイレクトする）。
+ *
+ * このため、ログイン成否は以下の2段階で判定する。
+ *   A. ログインPOSTのレスポンス本文に、ログイン失敗の兆候
+ *      （エラー文言、またはログインフォームの再描画）がないか確認する
+ *      （loginPostIndicatesFailure()）。
+ *   B. さらに最終確認として、取得したCookieで認証必須ページ
+ *      （KURAMA_DASHBOARD_URL = https://curama.jp/shop/）へ
+ *      `redirect: "manual"` でGETし、/shop/login へリダイレクトされないか
+ *      確認する。リダイレクトされた場合は未認証（＝ログイン失敗）と確定する。
  */
 async function loginToKurama(env) {
   const jar = new Map();
@@ -191,7 +248,7 @@ async function loginToKurama(env) {
 
   if (!loginPageRes.ok) {
     throw new Error(
-      `ログインページの取得に失敗しました(HTTP ${loginPageRes.status})`
+      `[login_page_fetch_failed] ログインページの取得に失敗しました(HTTP ${loginPageRes.status})`
     );
   }
 
@@ -199,7 +256,7 @@ async function loginToKurama(env) {
   const csrfToken = extractCsrfToken(html);
   if (!csrfToken) {
     throw new Error(
-      "ログインページから_csrfトークンを取得できませんでした（HTML構造が変わった可能性があります）"
+      "[login_page_no_csrf] ログインページから_csrfトークンを取得できませんでした（HTML構造が変わった可能性があります）"
     );
   }
 
@@ -226,25 +283,92 @@ async function loginToKurama(env) {
     // Set-Cookieを自前で拾いたいため、リダイレクトは自動追跡させない。
     redirect: "manual",
   });
+  // 既存Cookie（GET時に発行されたもの）と同名のCookieがPOSTレスポンスの
+  // Set-Cookieに含まれていれば、mergeCookiesIntoJar()内のjar.set()により
+  // 新しい値で上書きされ、古い値が残ることはない。
   mergeCookiesIntoJar(jar, getSetCookieHeaders(loginRes));
 
-  // ログイン成功時は 3xx（リダイレクト）が返ると推測している。
   // 4xx/5xxは明確な失敗として扱う。
   if (loginRes.status >= 400) {
     throw new Error(
-      `くらしのマーケットへのログインに失敗しました(HTTP ${loginRes.status})。` +
+      `[login_post_http_error] くらしのマーケットへのログインPOSTがエラーを返しました(HTTP ${loginRes.status})。` +
         "メールアドレス・パスワードが正しいか確認してください。"
     );
+  }
+
+  if (loginRes.status >= 300 && loginRes.status < 400) {
+    // リダイレクトされた場合、その行き先がログインページ自身であれば失敗と確定する。
+    const redirectLocation = loginRes.headers.get("location") || "";
+    if (redirectLocation.includes("/shop/login")) {
+      throw new Error(
+        "[login_post_redirect_to_login] くらしのマーケットへのログインに失敗しました" +
+          "（ログインPOSTが/shop/loginへリダイレクトされました）。メールアドレス・パスワードが正しいか確認してください。"
+      );
+    }
+    // ログインページ以外へのリダイレクトであれば、この時点では成功と推測されるが、
+    // 下記の二段階チェック（認証必須ページへのアクセス）で最終確認する。
+  } else {
+    // 200番台: curama.jpはログイン失敗時もHTTP 200でログインページを
+    // 再描画するだけなので、本文の中身を見て失敗の兆候がないか確認する。
+    // ※ パスワード等の機密情報は変数にもログにも一切出力しない。
+    const loginPostHtml = await loginRes.text();
+    if (loginPostIndicatesFailure(loginPostHtml)) {
+      throw new Error(
+        "[login_post_form_redisplayed] くらしのマーケットへのログインに失敗しました" +
+          "（ログインPOST後もエラー文言またはログインフォームが返されました）。" +
+          "メールアドレス・パスワードが正しいか確認してください。"
+      );
+    }
   }
 
   const cookieHeader = buildCookieHeader(jar);
   if (!cookieHeader) {
     throw new Error(
-      "ログイン処理後にセッションCookieを取得できませんでした（レスポンス形式が想定と異なる可能性があります）"
+      "[login_no_cookie] ログイン処理後にセッションCookieを取得できませんでした（レスポンス形式が想定と異なる可能性があります）"
     );
   }
 
-  return cookieHeader;
+  // 3. 二段階チェック（最終確認）: 認証必須ページ（ダッシュボード）へアクセスし、
+  //    実際にログイン済みとして扱われるかどうかを確認する。
+  //    curama.jpの画面系ルート(/shop/...)は未認証の場合302で/shop/login/へ
+  //    リダイレクトするため、これを確実な成否判定として利用する。
+  const verifyRes = await fetch(KURAMA_DASHBOARD_URL, {
+    method: "GET",
+    headers: {
+      cookie: cookieHeader,
+      "user-agent": REQUEST_USER_AGENT,
+    },
+    redirect: "manual",
+  });
+  // ここで新たに発行されたCookieがあれば、念のため取り込んでおく
+  // （同名Cookieは上書きされ、古い値は残らない）。
+  mergeCookiesIntoJar(jar, getSetCookieHeaders(verifyRes));
+
+  if (verifyRes.status >= 300 && verifyRes.status < 400) {
+    const verifyLocation = verifyRes.headers.get("location") || "";
+    if (verifyLocation.includes("/shop/login")) {
+      throw new Error(
+        `[dashboard_redirect_to_login] くらしのマーケットへのログインに失敗しました` +
+          `（認証必須ページ ${KURAMA_DASHBOARD_URL} へのアクセスが /shop/login へ` +
+          "リダイレクトされ、未認証のセッションであることが確認されました）。" +
+          "メールアドレス・パスワードが正しいか確認してください。"
+      );
+    }
+    // /shop/login 以外へのリダイレクトは、認証自体は成功しており単に別ページへ
+    // 誘導されているだけと判断し、成功として扱う。
+  } else if (!verifyRes.ok) {
+    // 200番台でもなく、/shop/loginへのリダイレクトでもない想定外のステータス
+    // （例: 500番台など）。判定はできないが、安全側に倒して失敗として扱う。
+    throw new Error(
+      `[dashboard_unexpected_status] 認証必須ページ(${KURAMA_DASHBOARD_URL})への` +
+        `アクセスで想定外のステータスが返されました(HTTP ${verifyRes.status})。` +
+        "ログインに失敗している可能性があります。"
+    );
+  }
+  // ここまで到達すれば、200番台での正常応答、またはログインページ以外への
+  // リダイレクトが確認できたため、ログイン成功と確定する。
+
+  return buildCookieHeader(jar);
 }
 
 /**
