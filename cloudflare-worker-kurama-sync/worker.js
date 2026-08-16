@@ -79,7 +79,10 @@ const KURAMA_DASHBOARD_URL = "https://curama.jp/shop/";
 
 // 依頼主の店舗コード（このWorker専用。URLに直接埋め込まれている固定値）。
 const KURAMA_STORE_CODE = "451904803";
-const KURAMA_EVENTS_API_URL = `https://curama.jp/v1/api/calendars/stores/${KURAMA_STORE_CODE}/calendars/events/`;
+// 2026-08-17時点でブラウザの実通信を確認したところ v2 の以下パスが正しい
+// （当初の調査時点ではv1・末尾に calendars/ が1つ多いパスだったが、
+//   サイト側のAPIバージョンが更新されたとみられる）。
+const KURAMA_EVENTS_API_URL = `https://curama.jp/v2/api/calendars/stores/${KURAMA_STORE_CODE}/events/`;
 
 // 実際の予約（顧客からの依頼）を表すイベントの eventTypeId。
 // calendarTypeId: 1 側（営業時間テンプレート等と推測される）は無視する。
