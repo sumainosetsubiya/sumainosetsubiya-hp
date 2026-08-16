@@ -20,8 +20,8 @@
  *      二段階のチェックで成否を判定する）
  *   3. 取得したCookieを使い、今日から60日後までの予約イベントを
  *      くらしのマーケットのAPIから取得する
- *   4. eventTypeId === 2（実際の予約）のイベントだけを抽出する
- *      （calendarTypeId: 1側の営業時間テンプレート等は無視する）
+ *   4. eventTypeId が 1（手動ブロック）または 2（実際の予約）のイベントを抽出する
+ *      （eventTypeId 0＝営業時間外の自動生成データは無視する）
  *   5. Googleカレンダー側の「このWorkerが過去に作成した」イベント一覧を、
  *      extendedProperties.private の目印（kurama_sync=true）を使って取得する
  *   6. くらしのマーケット側のイベントID（kurama_event_id）を軸に差分を計算し、
@@ -84,9 +84,13 @@ const KURAMA_STORE_CODE = "451904803";
 //   サイト側のAPIバージョンが更新されたとみられる）。
 const KURAMA_EVENTS_API_URL = `https://curama.jp/v2/api/calendars/stores/${KURAMA_STORE_CODE}/events/`;
 
-// 実際の予約（顧客からの依頼）を表すイベントの eventTypeId。
-// calendarTypeId: 1 側（営業時間テンプレート等と推測される）は無視する。
-const KURAMA_RESERVATION_EVENT_TYPE_ID = 2;
+// Googleカレンダーに「予定あり」として反映すべきイベントの eventTypeId。
+// 依頼主が実機で確認した内訳:
+//   eventTypeId: 0 … 営業時間外（自動生成、description:"◯の情報をもとに作成したEVENTです"）→ 対象外
+//   eventTypeId: 1 … 事業者が手動でブロックした予定（例:「テストブロック」）→ 対象
+//   eventTypeId: 2 … 顧客からの実際の予約（description:"reservation event"）→ 対象
+// 0（営業時間外の自動生成データ）だけを除外し、1と2の両方を「予定あり」として扱う。
+const KURAMA_SYNC_TARGET_EVENT_TYPE_IDS = new Set([1, 2]);
 
 // 一部のサイトはUser-Agentが無い/不自然なリクエストをボットとして弾くことがあるため、
 // 一般的なブラウザのUser-Agentを明示しておく。
@@ -397,7 +401,8 @@ function formatDateYYYYMMDD(date) {
 
 /**
  * くらしのマーケットの予約イベント取得APIを叩き、
- * eventTypeId === 2（実際の予約）のイベントだけを抽出して返す。
+ * eventTypeId が 1（手動ブロック）または 2（実際の予約）のイベントを抽出して返す。
+ * eventTypeId 0（営業時間外の自動生成データ）は対象外。
  * 念のため calendars配列を全件走査する（calendarTypeIdによらず、
  * イベント側のeventTypeIdで判定する）。
  */
@@ -436,7 +441,7 @@ async function fetchKuramaReservations(cookieHeader, startDate, endDate) {
   for (const calendar of calendars) {
     const events = Array.isArray(calendar.events) ? calendar.events : [];
     for (const ev of events) {
-      if (ev && ev.eventTypeId === KURAMA_RESERVATION_EVENT_TYPE_ID) {
+      if (ev && KURAMA_SYNC_TARGET_EVENT_TYPE_IDS.has(ev.eventTypeId)) {
         reservations.push(ev);
       }
     }
