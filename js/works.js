@@ -326,6 +326,10 @@
     beforeImg.alt = area && category
       ? area + "での" + category + "工事、施工前の様子"
       : "施工前の様子";
+    beforeImg.loading = "lazy";
+    beforeImg.decoding = "async";
+    beforeImg.width = 800;
+    beforeImg.height = 600;
 
     var afterImg = document.createElement("img");
     afterImg.className = "work-photo";
@@ -333,6 +337,10 @@
     afterImg.alt = area && category
       ? area + "での" + category + "工事、施工後の様子"
       : "施工後の様子";
+    afterImg.loading = "lazy";
+    afterImg.decoding = "async";
+    afterImg.width = 800;
+    afterImg.height = 600;
 
     photoGrid.appendChild(beforeImg);
     photoGrid.appendChild(afterImg);

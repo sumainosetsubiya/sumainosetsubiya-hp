@@ -1,0 +1,8 @@
+# Cloudflare Pages リダイレクト設定
+# 参考: https://developers.cloudflare.com/pages/configuration/redirects/
+
+# 開発用の参照ファイルを公開しない（トップページへ301）
+# partials_header_footer_reference.html はヘッダー・フッターのスニペット集で、
+# 未完成の文言を含むため一般公開しない。コード内の参照はコメントのみなので動作に影響なし。
+/partials_header_footer_reference      /  301
+/partials_header_footer_reference.html /  301
