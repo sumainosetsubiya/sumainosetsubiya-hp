@@ -25,6 +25,10 @@
  * content/works.json のデータ構造:
  *   { "works": [
  *       {
+ *         "slug": "2024-05-11-dishwasher-kawaguchi", // 詳細ページのURL識別子
+ *                                           // （scripts/build-works-index.js が
+ *                                           //   content/works/ のファイル名から自動付与。
+ *                                           //   works/<slug>.html が生成されている）
  *         "date": "2024-05-11",            // 施工日（ISO形式 "YYYY-MM-DD"、未定の場合は ""）
  *         "area": "埼玉県川口市",           // 施工エリア
  *         "category": "ビルトイン食洗機交換", // カテゴリ（タグ表示・フィルターに使用）
@@ -261,8 +265,40 @@
     }
 
     works.forEach(function (work) {
-      container.appendChild(buildWorkCard(work));
+      container.appendChild(buildWorkCardItem(work));
     });
+  }
+
+  /**
+   * グリッドに1件分として差し込む要素を返す。
+   * slug が入っていれば、カード全体を詳細ページ（works/<slug>.html を
+   * 拡張子なしURLで公開したもの）へのリンクで包む。
+   * slug が無い古いデータでも、これまで通りリンクなしのカードとして
+   * 表示できるようフォールバックしている（表示が消えるより安全なため）。
+   */
+  function buildWorkCardItem(work) {
+    var card = buildWorkCard(work);
+    var slug = (work.slug || "").trim();
+
+    if (!slug) {
+      return card;
+    }
+
+    var link = document.createElement("a");
+    link.className = "card-link";
+    link.href = "/works/" + encodeURIComponent(slug);
+
+    // カード全体がリンクであることが分かるよう、末尾に誘導文を添える。
+    var more = document.createElement("p");
+    more.className = "card-text mt-sm";
+    more.style.color = "var(--color-primary)";
+    more.style.fontWeight = "700";
+    more.style.marginBottom = "0";
+    more.textContent = "この事例の詳細を見る →";
+    card.appendChild(more);
+
+    link.appendChild(card);
+    return link;
   }
 
   /**

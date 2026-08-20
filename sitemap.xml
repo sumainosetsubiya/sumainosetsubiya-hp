@@ -57,4 +57,259 @@
     <priority>0.5</priority>
   </url>
 
+  <!--
+    ここから下（WORKS:START 〜 WORKS:END の間）は
+    scripts/build-work-pages.js がビルド時に自動生成します。
+    手で編集しても次のビルドで上書きされます。
+    マーカーのコメント自体は消さないでください（消すとビルドが失敗します）。
+    マーカーの外側（上の固定ページ8件）は手書きのまま維持されます。
+  -->
+  <!-- WORKS:START -->
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2026-08-04-cooktop-kawaguchi</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2026-08-01-bathroom-dryer-kita</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-05-11-dishwasher-kawaguchi</loc>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-05-05-faucet-bath-kawaguchi</loc>
+    <lastmod>2024-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-28-faucet-kitchen-saitama</loc>
+    <lastmod>2024-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-28-toilet-kita</loc>
+    <lastmod>2024-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-24-dishwasher-kitamoto</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-24-faucet-bath-kawaguchi2</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-19-cooktop-nerima</loc>
+    <lastmod>2024-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-16-toilet-nerima</loc>
+    <lastmod>2024-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-14-faucet-kitchen-adachi2</loc>
+    <lastmod>2024-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-10-faucet-kitchen-adachi</loc>
+    <lastmod>2024-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-09-toilet-cf-kita</loc>
+    <lastmod>2024-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-09-washlet-adachi</loc>
+    <lastmod>2024-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-07-toilet-koshigaya</loc>
+    <lastmod>2024-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-07-toilet-koshigaya2</loc>
+    <lastmod>2024-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-06-rangehood-urawa</loc>
+    <lastmod>2024-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-04-toilet-cf-kawaguchi</loc>
+    <lastmod>2024-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-03-faucet-kitchen-itabashi</loc>
+    <lastmod>2024-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2024-03-03-toilet-nerima2</loc>
+    <lastmod>2024-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-30-cooktop-iwatsuki</loc>
+    <lastmod>2023-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-29-rangehood-toda</loc>
+    <lastmod>2023-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-27-dishwasher-warabi</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-27-rangehood-toda2</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-25-toilet-urawa</loc>
+    <lastmod>2023-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-24-faucet-kitchen-itabashi2</loc>
+    <lastmod>2023-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-22-rangehood-nerima</loc>
+    <lastmod>2023-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-20-rangehood-adachi</loc>
+    <lastmod>2023-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-20-toilet-cf-adachi</loc>
+    <lastmod>2023-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-18-faucet-bath-soka</loc>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-18-faucet-kitchen-soka</loc>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-18-toilet-kawaguchi</loc>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-16-cooktop-nerima2</loc>
+    <lastmod>2023-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-16-faucet-bath-kawaguchi3</loc>
+    <lastmod>2023-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.sumainosetsubiya.com/works/2023-03-16-faucet-kitchen-koshigaya</loc>
+    <lastmod>2023-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- WORKS:END -->
+
 </urlset>

@@ -1,6 +1,7 @@
 {
   "works": [
     {
+      "slug": "2026-08-04-cooktop-kawaguchi",
       "date": "2026-08-04",
       "area": "埼玉県川口市",
       "category": "ビルトインコンロ交換",
@@ -12,6 +13,7 @@
       "note": "特に問題なく交換できました"
     },
     {
+      "slug": "2026-08-01-bathroom-dryer-kita",
       "date": "2026-08-01",
       "area": "東京都北区",
       "category": "浴室乾燥機交換",
@@ -23,6 +25,7 @@
       "note": "特に問題なくスムーズに作業できました"
     },
     {
+      "slug": "2024-05-11-dishwasher-kawaguchi",
       "date": "2024-05-11",
       "area": "埼玉県川口市",
       "category": "ビルトイン食洗機交換",
@@ -34,6 +37,7 @@
       "note": ""
     },
     {
+      "slug": "2024-05-05-faucet-bath-kawaguchi",
       "date": "2024-05-05",
       "area": "埼玉県川口市",
       "category": "蛇口交換",
@@ -45,6 +49,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-28-faucet-kitchen-saitama",
       "date": "2024-03-28",
       "area": "埼玉県さいたま市南区",
       "category": "蛇口交換",
@@ -56,6 +61,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-28-toilet-kita",
       "date": "2024-03-28",
       "area": "東京都北区",
       "category": "トイレ交換",
@@ -67,6 +73,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-24-dishwasher-kitamoto",
       "date": "2024-03-24",
       "area": "その他",
       "category": "ビルトイン食洗機交換",
@@ -78,6 +85,7 @@
       "note": "施工エリアは埼玉県北本市（現在の対応エリア一覧に無いためフォーム上は「その他」を選択）"
     },
     {
+      "slug": "2024-03-24-faucet-bath-kawaguchi2",
       "date": "2024-03-24",
       "area": "埼玉県川口市",
       "category": "蛇口交換",
@@ -89,6 +97,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-19-cooktop-nerima",
       "date": "2024-03-19",
       "area": "東京都練馬区",
       "category": "ビルトインコンロ交換",
@@ -100,6 +109,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-16-toilet-nerima",
       "date": "2024-03-16",
       "area": "東京都練馬区",
       "category": "トイレ交換",
@@ -111,6 +121,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-14-faucet-kitchen-adachi2",
       "date": "2024-03-14",
       "area": "東京都足立区",
       "category": "蛇口交換",
@@ -122,6 +133,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-10-faucet-kitchen-adachi",
       "date": "2024-03-10",
       "area": "東京都足立区",
       "category": "蛇口交換",
@@ -133,6 +145,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-09-toilet-cf-kita",
       "date": "2024-03-09",
       "area": "東京都北区",
       "category": "トイレ交換",
@@ -144,6 +157,7 @@
       "note": "クッションフロア同時施工"
     },
     {
+      "slug": "2024-03-09-washlet-adachi",
       "date": "2024-03-09",
       "area": "東京都足立区",
       "category": "温水洗浄便座交換",
@@ -155,6 +169,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-07-toilet-koshigaya",
       "date": "2024-03-07",
       "area": "埼玉県越谷市",
       "category": "トイレ交換",
@@ -166,6 +181,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-07-toilet-koshigaya2",
       "date": "2024-03-07",
       "area": "埼玉県越谷市",
       "category": "トイレ交換",
@@ -177,6 +193,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-06-rangehood-urawa",
       "date": "2024-03-06",
       "area": "埼玉県さいたま市浦和区",
       "category": "レンジフード交換",
@@ -188,6 +205,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-04-toilet-cf-kawaguchi",
       "date": "2024-03-04",
       "area": "埼玉県川口市",
       "category": "トイレ交換",
@@ -199,6 +217,7 @@
       "note": "クッションフロア同時施工"
     },
     {
+      "slug": "2024-03-03-faucet-kitchen-itabashi",
       "date": "2024-03-03",
       "area": "東京都板橋区",
       "category": "蛇口交換",
@@ -210,6 +229,7 @@
       "note": ""
     },
     {
+      "slug": "2024-03-03-toilet-nerima2",
       "date": "2024-03-03",
       "area": "東京都練馬区",
       "category": "トイレ交換",
@@ -221,6 +241,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-30-cooktop-iwatsuki",
       "date": "2023-03-30",
       "area": "埼玉県さいたま市岩槻区",
       "category": "ビルトインコンロ交換",
@@ -232,6 +253,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-29-rangehood-toda",
       "date": "2023-03-29",
       "area": "埼玉県戸田市",
       "category": "レンジフード交換",
@@ -243,6 +265,7 @@
       "note": "幅60cmスリム型"
     },
     {
+      "slug": "2023-03-27-dishwasher-warabi",
       "date": "2023-03-27",
       "area": "埼玉県蕨市",
       "category": "ビルトイン食洗機交換",
@@ -254,6 +277,7 @@
       "note": "ミドルタイプ"
     },
     {
+      "slug": "2023-03-27-rangehood-toda2",
       "date": "2023-03-27",
       "area": "埼玉県戸田市",
       "category": "レンジフード交換",
@@ -265,6 +289,7 @@
       "note": "幅90cmスリムタイプ"
     },
     {
+      "slug": "2023-03-25-toilet-urawa",
       "date": "2023-03-25",
       "area": "埼玉県さいたま市浦和区",
       "category": "トイレ交換",
@@ -276,6 +301,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-24-faucet-kitchen-itabashi2",
       "date": "2023-03-24",
       "area": "東京都板橋区",
       "category": "蛇口交換",
@@ -287,6 +313,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-22-rangehood-nerima",
       "date": "2023-03-22",
       "area": "東京都練馬区",
       "category": "レンジフード交換",
@@ -298,6 +325,7 @@
       "note": "幅75cmスリム型"
     },
     {
+      "slug": "2023-03-20-rangehood-adachi",
       "date": "2023-03-20",
       "area": "東京都足立区",
       "category": "レンジフード交換",
@@ -309,6 +337,7 @@
       "note": "幅75cmスリム型"
     },
     {
+      "slug": "2023-03-20-toilet-cf-adachi",
       "date": "2023-03-20",
       "area": "東京都足立区",
       "category": "トイレ交換",
@@ -320,6 +349,7 @@
       "note": "クッションフロア同時施工"
     },
     {
+      "slug": "2023-03-18-faucet-bath-soka",
       "date": "2023-03-18",
       "area": "埼玉県草加市",
       "category": "蛇口交換",
@@ -331,6 +361,7 @@
       "note": "壁付水栓蛇口交換"
     },
     {
+      "slug": "2023-03-18-faucet-kitchen-soka",
       "date": "2023-03-18",
       "area": "埼玉県草加市",
       "category": "蛇口交換",
@@ -342,6 +373,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-18-toilet-kawaguchi",
       "date": "2023-03-18",
       "area": "埼玉県川口市",
       "category": "トイレ交換",
@@ -353,6 +385,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-16-cooktop-nerima2",
       "date": "2023-03-16",
       "area": "東京都練馬区",
       "category": "ビルトインコンロ交換",
@@ -364,6 +397,7 @@
       "note": ""
     },
     {
+      "slug": "2023-03-16-faucet-bath-kawaguchi3",
       "date": "2023-03-16",
       "area": "埼玉県川口市",
       "category": "蛇口交換",
@@ -375,6 +409,7 @@
       "note": "壁付水栓蛇口交換"
     },
     {
+      "slug": "2023-03-16-faucet-kitchen-koshigaya",
       "date": "2023-03-16",
       "area": "埼玉県越谷市",
       "category": "蛇口交換",
@@ -386,6 +421,7 @@
       "note": ""
     },
     {
+      "slug": "pending-date-bathroom-dryer-nerima",
       "date": "",
       "area": "東京都練馬区",
       "category": "浴室乾燥機交換",

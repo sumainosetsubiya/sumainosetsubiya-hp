@@ -23,12 +23,27 @@
  * 公開側 (js/works.js) は取得後に改めて日付降順ソートを行うため
  * 出力側の並び順は必須ではないが、生成物を人間が読んだ時に
  * わかりやすいよう、あらかじめ新しい順に並べて出力する。
+ *
+ * ---------------------------------------------------------------
+ * 【重要】施工実績の詳細ページ生成もここから呼び出している
+ * ---------------------------------------------------------------
+ * Cloudflare Pages のビルドコマンドは
+ *   node scripts/build-works-index.js
+ * のままにしておきたい（依頼主に管理画面を触らせないため）ので、
+ * このスクリプトの最後で scripts/build-work-pages.js を呼び出し、
+ * works/<slug>.html（1件1ページの記事）の生成と sitemap.xml への
+ * 反映まで一括で行う。
+ *
+ * ここを外すと、CMSから追加した施工実績が一覧カードには出るのに
+ * 詳細ページが生成されない（リンク先が404になる）という、
+ * 気付きにくい壊れ方をするので注意すること。
  */
 
 "use strict";
 
 const fs = require("fs");
 const path = require("path");
+const buildWorkPages = require("./build-work-pages.js");
 
 const PROJECT_ROOT = path.resolve(__dirname, "..");
 const WORKS_DIR = path.join(PROJECT_ROOT, "content", "works");
@@ -36,7 +51,10 @@ const OUTPUT_PATH = path.join(PROJECT_ROOT, "content", "works.json");
 
 // content/works.json のエントリとして出力する際のキー順序。
 // Decap CMS の config.yml (works コレクション) のフィールド順と揃えてある。
+// 先頭の "slug" だけは CMS のフィールドではなく、このスクリプトが
+// ファイル名から自動付与するもの（詳細ページのURLに使う）。
 const FIELD_ORDER = [
+  "slug",
   "date",
   "area",
   "category",
@@ -89,7 +107,15 @@ function readWorksDir() {
 
 // 出力するキーの順序を揃え、想定外の余分なキーが混ざっていた場合も
 // 末尾にそのまま残す（データを欠落させないため）。
+//
+// slug（詳細ページ works/<slug>.html のURLに使う識別子）は、
+// content/works/ 配下のファイル名から拡張子を除いたものをそのまま使う。
+// 日付やカテゴリの表記ゆれに影響されず、一度公開したURLが後から
+// 変わらないため（=被リンク・検索結果が無駄にならないため）この方式にしている。
+// JSONの中に slug が書かれていた場合でも、ファイル名を正とする。
 function normalizeEntry(entry, fileName) {
+  const slug = fileName.replace(/\.json$/i, "");
+
   const ordered = {};
   FIELD_ORDER.forEach(function (key) {
     ordered[key] = Object.prototype.hasOwnProperty.call(entry, key)
@@ -101,8 +127,7 @@ function normalizeEntry(entry, fileName) {
       ordered[key] = entry[key];
     }
   });
-  // デバッグ用の由来情報（出力JSONには含めない）。破損検知のみに使う。
-  void fileName;
+  ordered.slug = slug;
   return ordered;
 }
 
@@ -142,6 +167,13 @@ function main() {
       path.relative(PROJECT_ROOT, OUTPUT_PATH) +
       " に書き出しました。"
   );
+
+  // 続けて 1件1ページの詳細記事（works/<slug>.html）と
+  // sitemap.xml の施工実績ブロックを生成する。
+  // ここで例外が出た場合は握りつぶさず、そのままビルドを失敗させる。
+  // （黙って詳細ページだけ生成されないまま公開されるより、
+  //   Cloudflare Pages のビルドを赤くして気付けるほうが安全なため）
+  buildWorkPages.build(sorted);
 }
 
 main();
