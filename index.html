@@ -77,7 +77,21 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-VQEPCXD7CP');
+    // 本人の端末を計測から除外するための印。
+    // https://www.sumainosetsubiya.com/?internal=1 を一度開くとこの端末に印が付き、
+    // 以降 traffic_type=internal を送るので GA4 のデータフィルタ(Internal Traffic)で
+    // 除外される。解除は ?internal=0 。IPが変わっても効き続ける。
+    (function () {
+      var KEY = 'sns_internal_traffic';
+      var config = {};
+      try {
+        var flag = new URLSearchParams(location.search).get('internal');
+        if (flag === '1') { localStorage.setItem(KEY, '1'); }
+        else if (flag === '0') { localStorage.removeItem(KEY); }
+        if (localStorage.getItem(KEY) === '1') { config.traffic_type = 'internal'; }
+      } catch (e) { /* localStorageが使えない環境でも計測自体は続ける */ }
+      gtag('config', 'G-VQEPCXD7CP', config);
+    })();
   </script>
 
 </head>
