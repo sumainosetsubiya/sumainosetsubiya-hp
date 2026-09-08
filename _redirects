@@ -6,3 +6,41 @@
 # 未完成の文言を含むため一般公開しない。コード内の参照はコメントのみなので動作に影響なし。
 /partials_header_footer_reference      /  301
 /partials_header_footer_reference.html /  301
+
+# =====================================================================
+# 旧Wixサイトの残骸URLの受け止め（2026年9月8日 追加）
+# ---------------------------------------------------------------------
+# Googleアナリティクスで、旧Wixブログのタグ／カテゴリページに今も
+# アクセスが来ていることを確認（3年分の検索結果・被リンクが残っている）。
+# これらは404を返しており、せっかくの訪問者を取りこぼしていた。
+#
+# 【並び順の意味】
+# 具体的なタグ名の行を先に、ワイルドカードの行を後に置いている。
+# Cloudflare Pages は先に一致した行を採用するため、日本語パスの照合が
+# 万一うまく動かなくても、下のワイルドカードが必ず受け止める（保険）。
+# =====================================================================
+
+# --- 商品カテゴリのタグ → 施工実績の該当カテゴリへ ---
+/blog/tags/キッチン水栓交換        /works#faucet      301
+/blog/tags/キッチン水栓蛇口        /works#faucet      301
+/blog/tags/浴室水栓              /works#faucet      301
+/blog/tags/ワンホール             /works#faucet      301
+/blog/tags/sf-wm420syx          /works#faucet      301
+/blog/tags/トイレ交換             /works#toilet      301
+/blog/tags/レンジフード交換         /works#rangehood   301
+/blog/categories/ビルトイン食洗機    /works#dishwasher  301
+
+# --- 地域のタグ → 対応エリアページへ ---
+/blog/tags/埼玉県戸田市           /area              301
+/blog/tags/越谷市               /area              301
+/blog/tags/北区                 /area              301
+/blog/tags/足立区                /area              301
+/blog/tags/東京都                /area              301
+
+# --- 上記以外の旧ブログURL（記事本体・未知のタグ）の受け皿 ---
+/blog/tags/*                    /works             301
+/blog/categories/*              /works             301
+/blog/*                         /works             301
+/blog                           /works             301
+/post/*                         /works             301
+/post                           /works             301

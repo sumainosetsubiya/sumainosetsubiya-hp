@@ -2,7 +2,7 @@
  * 住まいの設備屋さん — 共通JS (main.js)
  * ---------------------------------------------------------------
  * フレームワーク不使用の素のJavaScript。
- * 全ページで <script src="js/main.js" defer></script> を
+ * 全ページで <script src="/js/main.js" defer></script> を
  * </body>直前（またはhead内にdefer付き）で読み込んでください。
  *
  * 現在の役割:

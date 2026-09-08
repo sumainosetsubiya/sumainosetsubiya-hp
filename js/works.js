@@ -2,7 +2,7 @@
  * 住まいの設備屋さん — 施工実績ページ (works.html) 専用JS
  * ---------------------------------------------------------------
  * フレームワーク不使用の素のJavaScript。works.html からのみ
- * <script src="js/works.js" defer></script> で読み込まれます。
+ * <script src="/js/works.js" defer></script> で読み込まれます。
  *
  * 役割:
  *   content/works.json（Decap CMSが編集する単一JSONファイル）を
@@ -44,7 +44,7 @@
 (function () {
   "use strict";
 
-  var WORKS_JSON_PATH = "content/works.json";
+  var WORKS_JSON_PATH = "/content/works.json";
   var ALL_SLUG = "all";
 
   // カテゴリの表示順・ハッシュ用スラッグ。件数が0件のカテゴリでも
@@ -340,6 +340,26 @@
     return isNaN(time) ? null : time;
   }
 
+  /**
+   * content/works.json に記録された画像パスをルート絶対パスに正規化する。
+   * Decap CMS が書き出す値は "/images/works/uploads/....jpg" だが、
+   * 初期の手書きデータには "images/works/uploads/....jpg" のような
+   * 相対パスも混在している。相対のままだと詳細ページ（/works/<slug>）から
+   * 見たときに解決先がずれるため、先頭に "/" を補って統一する。
+   * 空文字はそのまま返し（呼び出し側のフォールバックに委ねる）、
+   * http(s):// や data: で始まる値はそのまま通す。
+   */
+  function toRootPath(path) {
+    var value = (path || "").trim();
+    if (!value) {
+      return "";
+    }
+    if (/^(https?:|data:|\/\/|\/)/.test(value)) {
+      return value;
+    }
+    return "/" + value.replace(/^\.?\//, "");
+  }
+
   function buildWorkCard(work) {
     var area = work.area || "";
     var category = work.category || "";
@@ -358,7 +378,7 @@
 
     var beforeImg = document.createElement("img");
     beforeImg.className = "work-photo";
-    beforeImg.src = work.before_image || "images/works/uploads/_placeholder.svg";
+    beforeImg.src = toRootPath(work.before_image) || "/images/works/uploads/_placeholder.svg";
     beforeImg.alt = area && category
       ? area + "での" + category + "工事、施工前の様子"
       : "施工前の様子";
@@ -369,7 +389,7 @@
 
     var afterImg = document.createElement("img");
     afterImg.className = "work-photo";
-    afterImg.src = work.after_image || "images/works/uploads/_placeholder.svg";
+    afterImg.src = toRootPath(work.after_image) || "/images/works/uploads/_placeholder.svg";
     afterImg.alt = area && category
       ? area + "での" + category + "工事、施工後の様子"
       : "施工後の様子";
