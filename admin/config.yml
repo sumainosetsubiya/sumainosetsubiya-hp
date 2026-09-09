@@ -116,14 +116,17 @@ collections:
           - "浴室乾燥機交換"
           - "換気扇交換"
         hint: "該当する工事カテゴリをタップして選択してください"
+      # 候補は「メーカーマスタ」と「これまでの施工実績」の両方から集める。
+      # 候補に無いメーカーはその場で直接入力でき、公開すれば次回から
+      # 候補に出るようになるため、マスタを先に登録する必要はない。
       - label: "メーカー"
         name: "manufacturer"
-        widget: "relation"
+        widget: "suggest-input"
         collection: "manufacturers"
-        search_fields: ["name"]
-        value_field: "name"
-        display_fields: ["name"]
-        hint: "入力すると候補が絞り込まれます。候補に無い新しいメーカーを使いたい場合は、先に画面左のメニューにある「メーカーマスタ」を開いて名前を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
+        learn_from: "works"
+        learn_field: "manufacturer"
+        item_label: "メーカー"
+        hint: "一覧に無い場合は「＋ 一覧に無いメーカーを直接入力する」を選べば、その場で入力できます"
       # 取り付けた品番。標準の relation ウィジェットは他の項目の値を見て
       # 候補を絞り込むことができず、「トイレ交換 × TOTO」を選んでいても
       # Panasonicのレンジフードの品番まで候補に出てしまっていた。
@@ -131,9 +134,13 @@ collections:
       # 上で選んだ「カテゴリ」「メーカー」に一致する品番だけを出すようにしている。
       - label: "取り付けた品番"
         name: "model"
-        widget: "filtered-model"
+        widget: "suggest-input"
         collection: "models"
-        hint: "上で選んだカテゴリ・メーカーに合う品番だけが候補に出ます。候補に無い品番を使いたい場合は、先に画面左のメニューにある「品番マスタ」で1件追加・保存してからこの画面に戻ってください"
+        learn_from: "works"
+        learn_field: "model"
+        filter_by: ["category", "manufacturer"]
+        item_label: "品番"
+        hint: "上で選んだカテゴリ・メーカーに合う品番だけが候補に出ます。一覧に無い場合は「＋ 一覧に無い品番を直接入力する」からその場で入力できます"
       - label: "施工前の品番（任意）"
         name: "model_before"
         widget: "string"
@@ -181,7 +188,7 @@ collections:
   # ------------------------------------------------------------
   - name: "manufacturers"
     label: "メーカーマスタ"
-    description: "「施工実績」フォームの「メーカー」欄の選択肢です。新しいメーカーを使いたいときは、ここに1件追加してから施工実績フォームに戻ってください。"
+    description: "「施工実績」フォームのメーカー候補です。施工実績で直接入力したメーカーは自動的に候補に加わるため、通常ここを触る必要はありません。まだ施工実績が無いメーカーを先回りで登録しておきたい場合に使います。"
     folder: "content/manufacturers"
     create: true
     slug: "{{fields.name}}"
@@ -195,7 +202,7 @@ collections:
 
   - name: "models"
     label: "品番マスタ"
-    description: "「施工実績」フォームの「品番」欄の選択肢です。新しい品番を使いたいときは、ここに1件追加してから施工実績フォームに戻ってください。"
+    description: "「施工実績」フォームの品番候補です。施工実績で直接入力した品番は自動的に候補に加わるため、通常ここを触る必要はありません。まだ施工実績が無い商品を先回りで登録しておきたい場合に使います。"
     folder: "content/models"
     create: true
     slug: "{{fields.name}}"

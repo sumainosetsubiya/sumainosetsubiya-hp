@@ -232,48 +232,63 @@
     CMS.registerWidget('mobile-image', MobileImageControl, MobileImagePreview);
 
     // ============================================================
-    // カスタムウィジェット「filtered-model」
+    // カスタムウィジェット「suggest-input」
     // ------------------------------------------------------------
-    // 標準の relation ウィジェットは、同じフォーム内の他の項目の値を
-    // 見て候補を絞り込むことができない。そのため「カテゴリ=トイレ交換」
-    // 「メーカー=TOTO」を選んでいても、Panasonicのレンジフードの品番まで
-    // 候補に出てしまい、選び間違いの原因になっていた（依頼主からの指摘）。
+    // メーカー・品番の入力欄。以下を1つの欄で満たす:
+    //   1. 過去に使った値が候補として出る（タップで選ぶだけ）
+    //   2. 候補に無い値はその場で直接入力できる
+    //      （マスタ画面へ移動して先に登録する必要がない）
+    //   3. 品番は、選択中の「カテゴリ」「メーカー」に合うものだけに絞る
     //
-    // このウィジェットは品番マスタ（content/models/*.json）を読み込み、
-    // フォーム上で選択中の「カテゴリ」「メーカー」に一致するものだけを
-    // 選択肢に出す。
+    // 【候補をどこから集めるか】
+    // マスタ（content/models, content/manufacturers）に加えて、
+    // **既存の施工実績そのもの**からも集める。施工実績には
+    // （品番・メーカー・カテゴリ）が必ず揃っているため、
+    // 一度その場で入力して公開すれば、次回から候補に出るようになる。
+    // つまりマスタを手入力で育てる必要がない。
+    // マスタは「まだ施工実績が無い商品を先回りで登録しておく」用途として残す。
     //
     // 【他の項目の値をDOMから読んでいる理由】
-    // Decap CMS 3.16 がウィジェットに渡す props を実機で全て確認したところ、
-    // 入力中の下書きの値を持つものが1つも無かった。props.entry は存在するが
-    // 中身は「保存済みの内容」であり、新規作成時は最後まで空のままで、
-    // 既存エントリでも編集中の変更は反映されない（実機で確認済み）。
+    // Decap CMS 3.16 がウィジェットに渡す props を実機で全て確認したが、
+    // 入力中の下書きの値を持つものが1つも無かった。props.entry は存在する
+    // ものの中身は「保存済みの内容」で、新規作成時は最後まで空のまま
+    // （強制的に再描画させても空であることを実機で確認済み）。
     // そのため、同じフォーム内に描画されている入力欄のDOMから直接読む。
-    // 入力欄には項目名に基づく id（例: category-field-3）が振られるので、
+    // 入力欄には項目名に基づく id（例: category-field-3）が振られるので
     // 前方一致で特定できる。
     //
     // 【安全側に倒している点】
-    //  1. 値が読めなかった場合は「絞り込まない」側に倒す。
-    //     → 候補が消えて入力できなくなるより、出過ぎる方が安全。
-    //  2. 品番マスタ側の category / manufacturer が空欄のものは
-    //     「どれにでも該当する」とみなして常に候補に残す。
-    //  3. 既に保存されている値が絞り込み条件に合わない場合でも、
-    //     その値を候補の先頭に残し、勝手に消さない。
-    //  4. 「すべての品番から選ぶ」で絞り込みを解除できる逃げ道を用意。
+    //  1. 値が読めなかった場合は「絞り込まない」側に倒す
+    //  2. マスタ側の分類が空欄のものは「どれにでも該当」として常に残す
+    //  3. 保存済みの値が絞り込み条件に合わなくても消さず、先頭に残す
+    //  4. 「すべてから選ぶ」で絞り込みを解除できる
+    //  5. 候補が0件でも直接入力できるので、入力が詰むことがない
     //
-    // スマホでの入力を優先し、検索ボックスではなくネイティブの
-    // <select> にしている（タップするとOSの選択画面がそのまま開く）。
+    // 【config.yml での指定】
+    //   widget: "suggest-input"
+    //   collection: "models"        # マスタ（任意）
+    //   learn_from: "works"         # 候補を学習する元のコレクション
+    //   learn_field: "model"        # そのコレクション内の項目名
+    //   filter_by: ["category", "manufacturer"]   # 同フォームの項目で絞る
+    //   item_label: "品番"          # 画面表示に使う名称
     // ============================================================
-    var FilteredModelControl = createClass({
+    var SuggestInputControl = createClass({
       getInitialState: function () {
-        return { models: [], loading: true, showAll: false, error: null, cat: '', mf: '' };
+        return {
+          items: [],
+          loading: true,
+          showAll: false,
+          freeMode: false,
+          error: null,
+          siblings: {}
+        };
       },
 
       componentDidMount: function () {
-        this.loadModels();
+        this.loadItems();
         this.syncSiblings();
         // 他の項目が変わったことを知る手段が props から得られないため、
-        // 短い間隔で読み直す。読むのはDOM 2箇所だけなので負荷は無視できる。
+        // 短い間隔で読み直す。読むのはDOM数箇所だけなので負荷は無視できる。
         this.siblingTimer = setInterval(this.syncSiblings, 400);
       },
 
@@ -284,23 +299,53 @@
         }
       },
 
-      // 同じフォーム内の入力欄から、選択中の値を読む。
+      /* ---------- config.yml の読み取り ---------- */
+
+      cfg: function (key, fallback) {
+        try {
+          var field = this.props.field;
+          if (field && typeof field.get === 'function') {
+            var v = field.get(key);
+            if (v === null || v === undefined) return fallback;
+            if (typeof v.toJS === 'function') return v.toJS();
+            return v;
+          }
+        } catch (e) {}
+        return fallback;
+      },
+
+      filterFields: function () {
+        var v = this.cfg('filter_by', []);
+        return Array.isArray(v) ? v : [];
+      },
+
+      itemLabel: function () {
+        return this.cfg('item_label', '値');
+      },
+
+      /* ---------- 同じフォーム内の他項目を読む ---------- */
+
       // 戻り値: 文字列（空文字＝未選択）／ null＝読み取れなかった
       readSiblingFromDom: function (name) {
         try {
-          var input = document.querySelector('[id^="' + name + '-field"]');
-          if (!input) return null;
-          var control = input.closest('div[class*="control"], div[class*="Control"]');
-          if (!control) return null;
-          // react-select は選択中の値を singleValue のクラスを持つ要素に描画する
-          var single = control.querySelector('[class*="ingleValue"]');
-          return single ? String(single.textContent || '').trim() : '';
+          var el = document.querySelector('[id^="' + name + '-field"]');
+          if (!el) return null;
+          // react-select（select / relation ウィジェット）の場合
+          var control = el.closest('div[class*="control"], div[class*="Control"]');
+          if (control) {
+            var single = control.querySelector('[class*="ingleValue"]');
+            if (single) return String(single.textContent || '').trim();
+          }
+          // このウィジェット自身のような素の input / select の場合
+          if (el.tagName === 'SELECT' || el.tagName === 'INPUT') {
+            return String(el.value || '').trim();
+          }
+          return control ? '' : null;
         } catch (e) {
           return null;
         }
       },
 
-      // 保存済みエントリからの読み取り（DOMが読めなかったときの予備手段）
       readSiblingFromEntry: function (name) {
         try {
           var entry = this.props.entry;
@@ -321,165 +366,290 @@
       },
 
       syncSiblings: function () {
-        var cat = this.resolveSibling('category');
-        var mf = this.resolveSibling('manufacturer');
-        if (cat !== this.state.cat || mf !== this.state.mf) {
-          this.setState({ cat: cat, mf: mf });
-        }
+        var self = this;
+        var names = this.filterFields();
+        if (!names.length) return;
+        var next = {};
+        var changed = false;
+        names.forEach(function (n) {
+          next[n] = self.resolveSibling(n);
+          if (next[n] !== self.state.siblings[n]) changed = true;
+        });
+        if (changed) this.setState({ siblings: next });
       },
 
-      // 品番マスタを読み込む。relation ウィジェットが内部で使っている
-      // props.query を同じように呼ぶ（検索語を空にすると全件返る）。
-      loadModels: function () {
+      /* ---------- 候補の読み込み ---------- */
+
+      loadItems: function () {
         var self = this;
-        var field = this.props.field;
-        var collection = (field && field.get && field.get('collection')) || 'models';
+        var masterCollection = this.cfg('collection', null);
+        var learnFrom = this.cfg('learn_from', null);
+        var learnField = this.cfg('learn_field', null);
+        var filterFields = this.filterFields();
+
         if (typeof this.props.query !== 'function') {
-          this.setState({ loading: false, error: '品番マスタを読み込めませんでした（「すべての品番から選ぶ」をお使いください）' });
+          this.setState({ loading: false, error: '候補を読み込めませんでした（直接入力はできます）' });
           return;
         }
-        this.props
-          .query(this.props.forID, collection, ['name'], '')
-          .then(function (res) {
-            var hits = (res && res.payload && res.payload.hits) || [];
-            var list = hits
-              .map(function (hit) {
-                var data = (hit && hit.data) || {};
-                return {
-                  name: String(data.name || ''),
-                  manufacturer: String(data.manufacturer || ''),
-                  category: String(data.category || '')
-                };
-              })
-              .filter(function (m) { return m.name; });
-            list.sort(function (a, b) { return a.name.localeCompare(b.name, 'ja'); });
-            self.setState({ models: list, loading: false });
+
+        var jobs = [];
+
+        // (1) マスタから
+        if (masterCollection) {
+          jobs.push(
+            this.props.query(this.props.forID, masterCollection, ['name'], '').then(function (res) {
+              var hits = (res && res.payload && res.payload.hits) || [];
+              return hits.map(function (hit) {
+                var d = (hit && hit.data) || {};
+                var rec = { name: String(d.name || '').trim(), source: 'master' };
+                filterFields.forEach(function (f) { rec[f] = String(d[f] || '').trim(); });
+                return rec;
+              });
+            }).catch(function () { return []; })
+          );
+        }
+
+        // (2) 既存の施工実績から学習
+        if (learnFrom && learnField) {
+          jobs.push(
+            this.props.query(this.props.forID, learnFrom, [learnField], '').then(function (res) {
+              var hits = (res && res.payload && res.payload.hits) || [];
+              return hits.map(function (hit) {
+                var d = (hit && hit.data) || {};
+                var rec = { name: String(d[learnField] || '').trim(), source: 'works' };
+                filterFields.forEach(function (f) { rec[f] = String(d[f] || '').trim(); });
+                return rec;
+              });
+            }).catch(function () { return []; })
+          );
+        }
+
+        if (!jobs.length) {
+          this.setState({ loading: false, items: [] });
+          return;
+        }
+
+        Promise.all(jobs)
+          .then(function (lists) {
+            var merged = {};
+            lists.forEach(function (list) {
+              list.forEach(function (rec) {
+                if (!rec.name) return;
+                var prev = merged[rec.name];
+                if (!prev) {
+                  merged[rec.name] = rec;
+                  return;
+                }
+                // 同じ名前が複数から来た場合、空欄を埋める方向でまとめる
+                filterFields.forEach(function (f) {
+                  if (!prev[f] && rec[f]) prev[f] = rec[f];
+                });
+              });
+            });
+            var out = Object.keys(merged).map(function (k) { return merged[k]; });
+            out.sort(function (a, b) { return a.name.localeCompare(b.name, 'ja'); });
+            self.setState({ items: out, loading: false });
           })
           .catch(function () {
-            self.setState({ loading: false, error: '品番マスタの読み込みに失敗しました' });
+            self.setState({ loading: false, error: '候補の読み込みに失敗しました（直接入力はできます）' });
           });
       },
 
-      // 絞り込み。マスタ側が空欄の項目は「どれにでも該当する」扱い。
-      matches: function (model) {
-        var cat = this.state.cat;
-        var mf = this.state.mf;
-        if (cat && model.category && model.category !== cat) return false;
-        if (mf && model.manufacturer && model.manufacturer !== mf) return false;
+      /* ---------- 絞り込み ---------- */
+
+      matches: function (item) {
+        var self = this;
+        var names = this.filterFields();
+        for (var i = 0; i < names.length; i++) {
+          var n = names[i];
+          var selected = self.state.siblings[n] || '';
+          var own = item[n] || '';
+          // 選択されていない、または候補側が空欄なら「該当する」扱い
+          if (selected && own && own !== selected) return false;
+        }
         return true;
       },
 
-      handleChange: function (e) {
+      /* ---------- 操作 ---------- */
+
+      handleSelectChange: function (e) {
+        var v = e.target.value;
+        if (v === '__FREE__') {
+          this.setState({ freeMode: true });
+          return;
+        }
+        this.props.onChange(v || '');
+      },
+
+      handleFreeInput: function (e) {
         this.props.onChange(e.target.value || '');
+      },
+
+      backToList: function () {
+        this.setState({ freeMode: false });
       },
 
       toggleShowAll: function (e) {
         this.setState({ showAll: !!e.target.checked });
       },
 
+      /* ---------- 表示 ---------- */
+
       render: function () {
         var self = this;
         var value = this.props.value || '';
-        var cat = this.state.cat;
-        var mf = this.state.mf;
+        var label = this.itemLabel();
+        var names = this.filterFields();
+
+        var inputStyle = {
+          width: '100%',
+          padding: '12px',
+          // iOSで入力時に画面が自動ズームしないよう16px以上にする
+          fontSize: '16px',
+          borderRadius: '4px',
+          border: '1px solid #dfdfe3',
+          background: '#fff'
+        };
+        var noteStyle = { margin: '6px 0 0', fontSize: '12px', color: '#7a7a8c' };
+        var linkStyle = {
+          display: 'inline-block',
+          marginTop: '8px',
+          fontSize: '13px',
+          color: '#3a69c7',
+          background: 'none',
+          border: 'none',
+          padding: 0,
+          cursor: 'pointer',
+          textDecoration: 'underline'
+        };
 
         if (this.state.loading) {
-          return h('div', { className: this.props.classNameWrapper }, '品番マスタを読み込んでいます…');
+          return h('div', { className: this.props.classNameWrapper }, '候補を読み込んでいます…');
         }
 
-        var visible = this.state.showAll
-          ? this.state.models
-          : this.state.models.filter(function (m) { return self.matches(m); });
+        // ---- 直接入力モード ----
+        if (this.state.freeMode) {
+          return h(
+            'div',
+            { className: this.props.classNameWrapper },
+            h('input', {
+              id: this.props.forID,
+              type: 'text',
+              value: value,
+              onChange: this.handleFreeInput,
+              placeholder: label + 'を入力してください',
+              style: inputStyle
+            }),
+            h('button', { type: 'button', onClick: this.backToList, style: linkStyle }, '← 一覧から選ぶ'),
+            h(
+              'p',
+              { style: noteStyle },
+              'ここで入力した' + label + 'は、公開後は自動的に次回以降の候補に出るようになります（マスタへの登録は不要です）。'
+            )
+          );
+        }
 
-        // 保存済みの値が候補に無い場合でも、消さずに先頭へ残す
-        var valueMissing = value && !visible.some(function (m) { return m.name === value; });
+        // ---- 一覧から選ぶモード ----
+        var visible = this.state.showAll
+          ? this.state.items
+          : this.state.items.filter(function (i) { return self.matches(i); });
+
+        var valueMissing = value && !visible.some(function (i) { return i.name === value; });
 
         var options = [h('option', { key: '__empty', value: '' }, '— 選択してください —')];
         if (valueMissing) {
           options.push(h('option', { key: '__current', value: value }, value + '（現在の値）'));
         }
-        visible.forEach(function (m) {
-          var label = m.name;
-          var extra = [m.manufacturer, m.category].filter(Boolean).join(' / ');
-          if (extra) { label += '（' + extra + '）'; }
-          options.push(h('option', { key: m.name, value: m.name }, label));
+        visible.forEach(function (i) {
+          var text = i.name;
+          var extra = names
+            .map(function (n) { return i[n]; })
+            .filter(Boolean)
+            .join(' / ');
+          if (extra) text += '（' + extra + '）';
+          options.push(h('option', { key: i.name, value: i.name }, text));
         });
+        options.push(
+          h('option', { key: '__free', value: '__FREE__' }, '＋ 一覧に無い' + label + 'を直接入力する')
+        );
 
         var notes = [];
-        if (!cat && !mf) {
-          notes.push('先に「カテゴリ」と「メーカー」を選ぶと、候補が絞り込まれます。（全 ' + this.state.models.length + ' 件）');
-        } else if (!this.state.showAll) {
+        var selectedFilters = names
+          .map(function (n) { return self.state.siblings[n]; })
+          .filter(Boolean);
+
+        if (names.length && !selectedFilters.length) {
+          notes.push('（全 ' + this.state.items.length + ' 件）先に上の項目を選ぶと候補が絞り込まれます。');
+        } else if (names.length && !this.state.showAll) {
           notes.push(
-            '絞り込み中：' + [cat, mf].filter(Boolean).join(' × ') +
-            '（該当 ' + visible.length + ' 件 / 全 ' + this.state.models.length + ' 件）'
+            '絞り込み中：' + selectedFilters.join(' × ') +
+            '（該当 ' + visible.length + ' 件 / 全 ' + this.state.items.length + ' 件）'
           );
           if (visible.length === 0) {
-            notes.push('該当する品番がありません。「品番マスタ」に追加するか、下の「すべての品番から選ぶ」をお使いください。');
+            notes.push('該当する' + label + 'がありません。「＋ 一覧に無い' + label + 'を直接入力する」からそのまま入力できます。');
           }
+        } else if (!names.length) {
+          notes.push('（全 ' + this.state.items.length + ' 件）候補に無い場合は「＋ 一覧に無い' + label + 'を直接入力する」を選んでください。');
         }
         if (valueMissing && !this.state.showAll) {
-          notes.push('※現在入っている値は、選択中のカテゴリ・メーカーに一致していません（値はそのまま保持しています）。');
+          notes.push('※現在入っている値は絞り込み条件に一致していません（値はそのまま保持しています）。');
         }
-        if (this.state.error) { notes.push(this.state.error); }
+        if (this.state.error) notes.push(this.state.error);
 
-        return h(
-          'div',
-          { className: this.props.classNameWrapper },
+        var children = [
           h(
             'select',
             {
               id: this.props.forID,
               value: value,
-              onChange: this.handleChange,
-              style: {
-                width: '100%',
-                padding: '12px',
-                // iOSで選択時に画面が自動ズームしないよう16px以上にする
-                fontSize: '16px',
-                borderRadius: '4px',
-                border: '1px solid #dfdfe3',
-                background: '#fff'
-              }
+              onChange: this.handleSelectChange,
+              style: inputStyle
             },
             options
-          ),
-          h(
-            'label',
-            {
-              style: {
-                display: 'block',
-                marginTop: '8px',
-                fontSize: '13px',
-                color: '#5d5d6b',
-                cursor: 'pointer'
-              }
-            },
-            h('input', {
-              type: 'checkbox',
-              checked: this.state.showAll,
-              onChange: this.toggleShowAll,
-              style: { marginRight: '6px' }
-            }),
-            'すべての品番から選ぶ（絞り込みを解除）'
-          ),
-          notes.map(function (t, i) {
-            return h(
-              'p',
-              { key: i, style: { margin: '6px 0 0', fontSize: '12px', color: '#7a7a8c' } },
-              t
-            );
-          })
-        );
+          )
+        ];
+
+        if (names.length) {
+          children.push(
+            h(
+              'label',
+              {
+                style: {
+                  display: 'block',
+                  marginTop: '8px',
+                  fontSize: '13px',
+                  color: '#5d5d6b',
+                  cursor: 'pointer'
+                }
+              },
+              h('input', {
+                type: 'checkbox',
+                checked: this.state.showAll,
+                onChange: this.toggleShowAll,
+                style: { marginRight: '6px' }
+              }),
+              'すべての' + label + 'から選ぶ（絞り込みを解除）'
+            )
+          );
+        }
+
+        notes.forEach(function (t, i) {
+          children.push(h('p', { key: 'n' + i, style: noteStyle }, t));
+        });
+
+        return h('div', { className: this.props.classNameWrapper }, children);
       }
     });
 
-    var FilteredModelPreview = createClass({
+    var SuggestInputPreview = createClass({
       render: function () {
         return h('span', null, this.props.value || '');
       }
     });
 
-    CMS.registerWidget('filtered-model', FilteredModelControl, FilteredModelPreview);
+    CMS.registerWidget('suggest-input', SuggestInputControl, SuggestInputPreview);
+    // 旧名。config.yml と index.html の反映タイミングがずれても壊れないよう別名でも登録しておく。
+    CMS.registerWidget('filtered-model', SuggestInputControl, SuggestInputPreview);
 
     // ============================================================
     // フォーム最下部への「公開する」複製ボタン
