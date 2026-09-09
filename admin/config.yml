@@ -124,14 +124,21 @@ collections:
         value_field: "name"
         display_fields: ["name"]
         hint: "入力すると候補が絞り込まれます。候補に無い新しいメーカーを使いたい場合は、先に画面左のメニューにある「メーカーマスタ」を開いて名前を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
-      - label: "品番"
+      # 取り付けた品番。標準の relation ウィジェットは他の項目の値を見て
+      # 候補を絞り込むことができず、「トイレ交換 × TOTO」を選んでいても
+      # Panasonicのレンジフードの品番まで候補に出てしまっていた。
+      # そこで admin/index.html の filtered-model ウィジェットに差し替え、
+      # 上で選んだ「カテゴリ」「メーカー」に一致する品番だけを出すようにしている。
+      - label: "取り付けた品番"
         name: "model"
-        widget: "relation"
+        widget: "filtered-model"
         collection: "models"
-        search_fields: ["name"]
-        value_field: "name"
-        display_fields: ["name", "manufacturer"]
-        hint: "入力すると候補が絞り込まれます。候補に無い新しい品番を使いたい場合は、先に画面左のメニューにある「品番マスタ」を開いて品番を1件追加・保存してください。その後この画面に戻れば候補に出てきます（一度追加すれば以降ずっと選択肢に残ります）"
+        hint: "上で選んだカテゴリ・メーカーに合う品番だけが候補に出ます。候補に無い品番を使いたい場合は、先に画面左のメニューにある「品番マスタ」で1件追加・保存してからこの画面に戻ってください"
+      - label: "施工前の品番（任意）"
+        name: "model_before"
+        widget: "string"
+        required: false
+        hint: "交換前に付いていた商品の品番です。分からない場合や、そもそも設置されていなかった場合は空欄のままで構いません"
       - label: "作業時間"
         name: "duration"
         widget: "select"
@@ -193,14 +200,38 @@ collections:
     create: true
     slug: "{{fields.name}}"
     format: "json"
-    summary: "{{fields.name}}（{{fields.manufacturer}}）"
+    summary: "{{fields.name}}（{{fields.manufacturer}} / {{fields.category}}）"
     fields:
       - label: "品番"
         name: "name"
         widget: "string"
         hint: "例: NP-45MS9S"
-      - label: "メーカー（任意・参考表示用）"
+      # メーカー名は施工実績側の値と文字列一致で突き合わせて絞り込むため、
+      # メーカーマスタから選ばせて表記ゆれが起きないようにしている。
+      - label: "メーカー"
         name: "manufacturer"
-        widget: "string"
+        widget: "relation"
+        collection: "manufacturers"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
         required: false
-        hint: "この品番がどのメーカーのものか分かる場合は入力してください（任意項目）"
+        hint: "分からない場合は「不明」を選んでください。ここを空欄にすると、施工実績フォームでどのメーカーを選んでもこの品番が候補に出ます"
+      # カテゴリは施工実績フォームで候補を絞り込むための項目。
+      # 空欄にしておくと「どのカテゴリでも候補に出る」扱いになるので、
+      # 分類が分からない品番を無理に決め打ちする必要はない。
+      - label: "カテゴリ"
+        name: "category"
+        widget: "select"
+        required: false
+        options:
+          - "トイレ交換"
+          - "温水洗浄便座交換"
+          - "蛇口交換"
+          - "ビルトイン食洗機交換"
+          - "ビルトインコンロ交換"
+          - "レンジフード交換"
+          - "IHクッキングヒーター交換"
+          - "浴室乾燥機交換"
+          - "換気扇交換"
+        hint: "施工実績フォームでこの品番を候補に出す工事カテゴリです。空欄にすると、どのカテゴリを選んでも候補に出ます"

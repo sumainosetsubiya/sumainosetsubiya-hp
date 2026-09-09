@@ -232,6 +232,218 @@
     CMS.registerWidget('mobile-image', MobileImageControl, MobileImagePreview);
 
     // ============================================================
+    // カスタムウィジェット「filtered-model」
+    // ------------------------------------------------------------
+    // 標準の relation ウィジェットは、同じフォーム内の他の項目の値を
+    // 見て候補を絞り込むことができない。そのため「カテゴリ=トイレ交換」
+    // 「メーカー=TOTO」を選んでいても、Panasonicのレンジフードの品番まで
+    // 候補に出てしまい、選び間違いの原因になっていた（依頼主からの指摘）。
+    //
+    // このウィジェットは品番マスタ（content/models/*.json）を読み込み、
+    // フォーム上で選択中の「カテゴリ」「メーカー」に一致するものだけを
+    // 選択肢に出す。
+    //
+    // 【安全側に倒している点】
+    //  1. 品番マスタ側の category / manufacturer が空欄のものは
+    //     「どれにでも該当する」とみなして常に候補に残す。
+    //     → 分類を決め打ちできない品番が選べなくなる事故を防ぐ。
+    //  2. 既に保存されている値が絞り込み条件に合わない場合でも、
+    //     その値を候補の先頭に残し、勝手に消さない。
+    //     → 過去の実績を開いただけで品番が消える事故を防ぐ。
+    //  3. 「すべての品番から選ぶ」で絞り込みを解除できる逃げ道を用意。
+    //  4. 他の項目の値が読めなかった場合は「絞り込まない」側に倒す。
+    //
+    // スマホでの入力を優先し、検索ボックスではなくネイティブの
+    // <select> にしている（タップするとOSの選択画面がそのまま開く）。
+    // ============================================================
+    var FilteredModelControl = createClass({
+      getInitialState: function () {
+        return { models: [], loading: true, showAll: false, error: null };
+      },
+
+      componentDidMount: function () {
+        this.loadModels();
+      },
+
+      componentDidUpdate: function (prevProps) {
+        // カテゴリ・メーカーが変わったら絞り込み結果を作り直す
+        // （マスタ自体の再取得は不要なので再描画だけ行う）
+        if (
+          this.readSibling(prevProps, 'category') !== this.readSibling(this.props, 'category') ||
+          this.readSibling(prevProps, 'manufacturer') !== this.readSibling(this.props, 'manufacturer')
+        ) {
+          this.forceUpdate();
+        }
+      },
+
+      // 同じフォーム内の他の項目の値を読む。Decap CMS の内部構造に
+      // 依存する部分なので、取れなかった場合は空文字を返して
+      // 「絞り込まない」側に倒す（候補が消えるより出過ぎる方が安全）。
+      readSibling: function (props, name) {
+        try {
+          var entry = props.entry;
+          if (entry && typeof entry.getIn === 'function') {
+            var v = entry.getIn(['data', name]);
+            if (v !== null && v !== undefined) return String(v);
+          }
+        } catch (e) {}
+        return '';
+      },
+
+      // 品番マスタを読み込む。relation ウィジェットが内部で使っている
+      // props.query を同じように呼ぶ（検索語を空にすると全件返る）。
+      loadModels: function () {
+        var self = this;
+        var field = this.props.field;
+        var collection = (field && field.get && field.get('collection')) || 'models';
+        if (typeof this.props.query !== 'function') {
+          this.setState({ loading: false, error: '品番マスタを読み込めませんでした（すべての品番から選んでください）' });
+          return;
+        }
+        this.props
+          .query(this.props.forID, collection, ['name'], '')
+          .then(function (res) {
+            var hits = (res && res.payload && res.payload.hits) || [];
+            var list = hits
+              .map(function (hit) {
+                var data = (hit && hit.data) || {};
+                return {
+                  name: String(data.name || ''),
+                  manufacturer: String(data.manufacturer || ''),
+                  category: String(data.category || '')
+                };
+              })
+              .filter(function (m) { return m.name; });
+            list.sort(function (a, b) { return a.name.localeCompare(b.name, 'ja'); });
+            self.setState({ models: list, loading: false });
+          })
+          .catch(function () {
+            self.setState({ loading: false, error: '品番マスタの読み込みに失敗しました' });
+          });
+      },
+
+      // 絞り込み。マスタ側が空欄の項目は「どれにでも該当する」扱い。
+      matches: function (model) {
+        var cat = this.readSibling(this.props, 'category');
+        var mf = this.readSibling(this.props, 'manufacturer');
+        if (cat && model.category && model.category !== cat) return false;
+        if (mf && model.manufacturer && model.manufacturer !== mf) return false;
+        return true;
+      },
+
+      handleChange: function (e) {
+        this.props.onChange(e.target.value || '');
+      },
+
+      toggleShowAll: function (e) {
+        this.setState({ showAll: !!e.target.checked });
+      },
+
+      render: function () {
+        var self = this;
+        var value = this.props.value || '';
+        var cat = this.readSibling(this.props, 'category');
+        var mf = this.readSibling(this.props, 'manufacturer');
+
+        if (this.state.loading) {
+          return h('div', { className: this.props.classNameWrapper }, '品番マスタを読み込んでいます…');
+        }
+
+        var visible = this.state.showAll
+          ? this.state.models
+          : this.state.models.filter(function (m) { return self.matches(m); });
+
+        // 保存済みの値が候補に無い場合でも、消さずに先頭へ残す
+        var valueMissing = value && !visible.some(function (m) { return m.name === value; });
+
+        var options = [h('option', { key: '__empty', value: '' }, '— 選択してください —')];
+        if (valueMissing) {
+          options.push(h('option', { key: '__current', value: value }, value + '（現在の値）'));
+        }
+        visible.forEach(function (m) {
+          var label = m.name;
+          var extra = [m.manufacturer, m.category].filter(Boolean).join(' / ');
+          if (extra) { label += '（' + extra + '）'; }
+          options.push(h('option', { key: m.name, value: m.name }, label));
+        });
+
+        var notes = [];
+        if (!cat && !mf) {
+          notes.push('先に「カテゴリ」と「メーカー」を選ぶと、候補が絞り込まれます。');
+        } else if (!this.state.showAll) {
+          notes.push(
+            '絞り込み中：' + [cat, mf].filter(Boolean).join(' × ') +
+            '（該当 ' + visible.length + ' 件 / 全 ' + this.state.models.length + ' 件）'
+          );
+          if (visible.length === 0) {
+            notes.push('該当する品番がありません。「品番マスタ」に追加するか、下の「すべての品番から選ぶ」をお使いください。');
+          }
+        }
+        if (valueMissing && !this.state.showAll) {
+          notes.push('※現在入っている値は、選択中のカテゴリ・メーカーに一致していません（値はそのまま保持しています）。');
+        }
+        if (this.state.error) { notes.push(this.state.error); }
+
+        return h(
+          'div',
+          { className: this.props.classNameWrapper },
+          h(
+            'select',
+            {
+              id: this.props.forID,
+              value: value,
+              onChange: this.handleChange,
+              style: {
+                width: '100%',
+                padding: '12px',
+                // iOSで選択時に画面が自動ズームしないよう16px以上にする
+                fontSize: '16px',
+                borderRadius: '4px',
+                border: '1px solid #dfdfe3',
+                background: '#fff'
+              }
+            },
+            options
+          ),
+          h(
+            'label',
+            {
+              style: {
+                display: 'block',
+                marginTop: '8px',
+                fontSize: '13px',
+                color: '#5d5d6b',
+                cursor: 'pointer'
+              }
+            },
+            h('input', {
+              type: 'checkbox',
+              checked: this.state.showAll,
+              onChange: this.toggleShowAll,
+              style: { marginRight: '6px' }
+            }),
+            'すべての品番から選ぶ（絞り込みを解除）'
+          ),
+          notes.map(function (t, i) {
+            return h(
+              'p',
+              { key: i, style: { margin: '6px 0 0', fontSize: '12px', color: '#7a7a8c' } },
+              t
+            );
+          })
+        );
+      }
+    });
+
+    var FilteredModelPreview = createClass({
+      render: function () {
+        return h('span', null, this.props.value || '');
+      }
+    });
+
+    CMS.registerWidget('filtered-model', FilteredModelControl, FilteredModelPreview);
+
+    // ============================================================
     // フォーム最下部への「公開する」複製ボタン
     // ------------------------------------------------------------
     // 依頼主から「画面上部の公開ボタンを押そうとして誤操作しやすい」

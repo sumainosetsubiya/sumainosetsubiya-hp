@@ -774,6 +774,9 @@ function renderPage(entry, allWorks) {
   const category = String(work.category || "").trim();
   const manufacturer = String(work.manufacturer || "").trim();
   const model = String(work.model || "").trim();
+  // 交換前に付いていた商品の品番（任意項目。不明な場合は空）。
+  // 「旧品番 → 新品番」で探している人に拾ってもらうために表示する。
+  const modelBefore = String(work.model_before || "").trim();
   const duration = String(work.duration || "").trim();
   const note = String(work.note || "").trim();
   const product = buildProductLabel(work);
@@ -924,7 +927,8 @@ function renderPage(entry, allWorks) {
     ]);
   }
   if (manufacturer) specRows.push(["メーカー", escapeHtml(manufacturer)]);
-  if (model) specRows.push(["品番", escapeHtml(model)]);
+  if (modelBefore) specRows.push(["交換前の品番", escapeHtml(modelBefore)]);
+  if (model) specRows.push([modelBefore ? "交換後の品番" : "品番", escapeHtml(model)]);
   if (duration) specRows.push(["作業時間", "約" + escapeHtml(duration)]);
 
   const specRowsHtml = specRows
