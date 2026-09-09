@@ -243,51 +243,89 @@
     // フォーム上で選択中の「カテゴリ」「メーカー」に一致するものだけを
     // 選択肢に出す。
     //
+    // 【他の項目の値をDOMから読んでいる理由】
+    // Decap CMS 3.16 がウィジェットに渡す props を実機で全て確認したところ、
+    // 入力中の下書きの値を持つものが1つも無かった。props.entry は存在するが
+    // 中身は「保存済みの内容」であり、新規作成時は最後まで空のままで、
+    // 既存エントリでも編集中の変更は反映されない（実機で確認済み）。
+    // そのため、同じフォーム内に描画されている入力欄のDOMから直接読む。
+    // 入力欄には項目名に基づく id（例: category-field-3）が振られるので、
+    // 前方一致で特定できる。
+    //
     // 【安全側に倒している点】
-    //  1. 品番マスタ側の category / manufacturer が空欄のものは
+    //  1. 値が読めなかった場合は「絞り込まない」側に倒す。
+    //     → 候補が消えて入力できなくなるより、出過ぎる方が安全。
+    //  2. 品番マスタ側の category / manufacturer が空欄のものは
     //     「どれにでも該当する」とみなして常に候補に残す。
-    //     → 分類を決め打ちできない品番が選べなくなる事故を防ぐ。
-    //  2. 既に保存されている値が絞り込み条件に合わない場合でも、
+    //  3. 既に保存されている値が絞り込み条件に合わない場合でも、
     //     その値を候補の先頭に残し、勝手に消さない。
-    //     → 過去の実績を開いただけで品番が消える事故を防ぐ。
-    //  3. 「すべての品番から選ぶ」で絞り込みを解除できる逃げ道を用意。
-    //  4. 他の項目の値が読めなかった場合は「絞り込まない」側に倒す。
+    //  4. 「すべての品番から選ぶ」で絞り込みを解除できる逃げ道を用意。
     //
     // スマホでの入力を優先し、検索ボックスではなくネイティブの
     // <select> にしている（タップするとOSの選択画面がそのまま開く）。
     // ============================================================
     var FilteredModelControl = createClass({
       getInitialState: function () {
-        return { models: [], loading: true, showAll: false, error: null };
+        return { models: [], loading: true, showAll: false, error: null, cat: '', mf: '' };
       },
 
       componentDidMount: function () {
         this.loadModels();
+        this.syncSiblings();
+        // 他の項目が変わったことを知る手段が props から得られないため、
+        // 短い間隔で読み直す。読むのはDOM 2箇所だけなので負荷は無視できる。
+        this.siblingTimer = setInterval(this.syncSiblings, 400);
       },
 
-      componentDidUpdate: function (prevProps) {
-        // カテゴリ・メーカーが変わったら絞り込み結果を作り直す
-        // （マスタ自体の再取得は不要なので再描画だけ行う）
-        if (
-          this.readSibling(prevProps, 'category') !== this.readSibling(this.props, 'category') ||
-          this.readSibling(prevProps, 'manufacturer') !== this.readSibling(this.props, 'manufacturer')
-        ) {
-          this.forceUpdate();
+      componentWillUnmount: function () {
+        if (this.siblingTimer) {
+          clearInterval(this.siblingTimer);
+          this.siblingTimer = null;
         }
       },
 
-      // 同じフォーム内の他の項目の値を読む。Decap CMS の内部構造に
-      // 依存する部分なので、取れなかった場合は空文字を返して
-      // 「絞り込まない」側に倒す（候補が消えるより出過ぎる方が安全）。
-      readSibling: function (props, name) {
+      // 同じフォーム内の入力欄から、選択中の値を読む。
+      // 戻り値: 文字列（空文字＝未選択）／ null＝読み取れなかった
+      readSiblingFromDom: function (name) {
         try {
-          var entry = props.entry;
+          var input = document.querySelector('[id^="' + name + '-field"]');
+          if (!input) return null;
+          var control = input.closest('div[class*="control"], div[class*="Control"]');
+          if (!control) return null;
+          // react-select は選択中の値を singleValue のクラスを持つ要素に描画する
+          var single = control.querySelector('[class*="ingleValue"]');
+          return single ? String(single.textContent || '').trim() : '';
+        } catch (e) {
+          return null;
+        }
+      },
+
+      // 保存済みエントリからの読み取り（DOMが読めなかったときの予備手段）
+      readSiblingFromEntry: function (name) {
+        try {
+          var entry = this.props.entry;
           if (entry && typeof entry.getIn === 'function') {
             var v = entry.getIn(['data', name]);
             if (v !== null && v !== undefined) return String(v);
           }
         } catch (e) {}
-        return '';
+        return null;
+      },
+
+      resolveSibling: function (name) {
+        var v = this.readSiblingFromDom(name);
+        if (v !== null) return v;
+        v = this.readSiblingFromEntry(name);
+        if (v !== null) return v;
+        return ''; // 読めなければ絞り込まない
+      },
+
+      syncSiblings: function () {
+        var cat = this.resolveSibling('category');
+        var mf = this.resolveSibling('manufacturer');
+        if (cat !== this.state.cat || mf !== this.state.mf) {
+          this.setState({ cat: cat, mf: mf });
+        }
       },
 
       // 品番マスタを読み込む。relation ウィジェットが内部で使っている
@@ -297,7 +335,7 @@
         var field = this.props.field;
         var collection = (field && field.get && field.get('collection')) || 'models';
         if (typeof this.props.query !== 'function') {
-          this.setState({ loading: false, error: '品番マスタを読み込めませんでした（すべての品番から選んでください）' });
+          this.setState({ loading: false, error: '品番マスタを読み込めませんでした（「すべての品番から選ぶ」をお使いください）' });
           return;
         }
         this.props
@@ -324,8 +362,8 @@
 
       // 絞り込み。マスタ側が空欄の項目は「どれにでも該当する」扱い。
       matches: function (model) {
-        var cat = this.readSibling(this.props, 'category');
-        var mf = this.readSibling(this.props, 'manufacturer');
+        var cat = this.state.cat;
+        var mf = this.state.mf;
         if (cat && model.category && model.category !== cat) return false;
         if (mf && model.manufacturer && model.manufacturer !== mf) return false;
         return true;
@@ -342,8 +380,8 @@
       render: function () {
         var self = this;
         var value = this.props.value || '';
-        var cat = this.readSibling(this.props, 'category');
-        var mf = this.readSibling(this.props, 'manufacturer');
+        var cat = this.state.cat;
+        var mf = this.state.mf;
 
         if (this.state.loading) {
           return h('div', { className: this.props.classNameWrapper }, '品番マスタを読み込んでいます…');
@@ -369,7 +407,7 @@
 
         var notes = [];
         if (!cat && !mf) {
-          notes.push('先に「カテゴリ」と「メーカー」を選ぶと、候補が絞り込まれます。');
+          notes.push('先に「カテゴリ」と「メーカー」を選ぶと、候補が絞り込まれます。（全 ' + this.state.models.length + ' 件）');
         } else if (!this.state.showAll) {
           notes.push(
             '絞り込み中：' + [cat, mf].filter(Boolean).join(' × ') +
