@@ -34,9 +34,142 @@
     // 保存先フォルダは config.yml の media_folder /
     // public_folder の設定がそのまま使われる。
     // ============================================================
+    // ============================================================
+    // アップロード前に、ブラウザの中で写真を縮小・再圧縮する
+    // ------------------------------------------------------------
+    // スマホで撮った写真はそのままだと1枚2〜3MBある。施工実績が
+    // 増えるたびにリポジトリとサイトが重くなり、詳細ページは
+    // ファーストビューで2枚読むため表示が直撃で遅くなる。
+    // そこで「アップロードする前に、依頼主のブラウザの中で」
+    // 長辺1600px・JPEG品質82まで落としてから送る。
+    // サーバー側にもビルド側にも依存関係を足さずに済み、以後ずっと効く。
+    //
+    // 【EXIF回転について】iPhoneの写真は「横向きに撮って、回転情報
+    // （EXIF Orientation）で縦に見せている」ことがある。canvasに
+    // 素朴に描くと回転が失われて横倒しになる、というのが古くからの
+    // 定番の罠だが、現在のブラウザは <img> の既定が
+    // image-orientation: from-image になっており、naturalWidth /
+    // naturalHeight も drawImage も回転を適用済みの状態で扱う
+    // （Chrome 81+/Firefox 77+/Safari 13.4+）。そのため、あえて
+    // createImageBitmap ではなく <img> 経由で描いている。
+    // createImageBitmap の imageOrientation オプションは、非対応の
+    // ブラウザだと「エラーにならず黙って無視される」ため、回転が
+    // 失われたことに気づけない。<img> の方が安全側に倒れる。
+    //
+    // 【失敗したら必ず元のファイルを使う】縮小はあくまで最適化で
+    // あって、写真が上がらなくなる方が事故として重い。デコード失敗・
+    // 未知の形式・タイムアウト・かえって太った場合は、すべて
+    // 元ファイルをそのまま返す。
+    // ============================================================
+    var COMPRESS_MAX_EDGE = 1600; // 長辺の上限(px)
+    var COMPRESS_QUALITY = 0.82; // JPEG品質
+    var COMPRESS_SKIP_UNDER = 300 * 1024; // これ以下は既に軽いので触らない
+
+    function compressImageFile(file) {
+      return new Promise(function (resolve) {
+        var giveUp = function () {
+          resolve(file);
+        };
+
+        try {
+          if (!file || !file.type) return giveUp();
+          // GIF(アニメが壊れる)やSVG(ベクタ)は対象外
+          if (!/^image\/(jpeg|jpg|png|webp)$/i.test(file.type)) return giveUp();
+          if (file.size <= COMPRESS_SKIP_UNDER) return giveUp();
+          if (typeof URL === 'undefined' || typeof URL.createObjectURL !== 'function') return giveUp();
+
+          var probe = document.createElement('canvas');
+          if (typeof probe.toBlob !== 'function') return giveUp();
+        } catch (err) {
+          return giveUp();
+        }
+
+        var url = URL.createObjectURL(file);
+        var img = new Image();
+        var settled = false;
+
+        // 縮小できてもできなくても、必ず1回だけ後片付けして返す
+        var finish = function (result) {
+          if (settled) return;
+          settled = true;
+          try {
+            URL.revokeObjectURL(url);
+          } catch (err) {
+            /* 後片付けの失敗は無視してよい */
+          }
+          resolve(result || file);
+        };
+
+        // 巨大な画像でデコードが返ってこない場合の保険
+        var timer = window.setTimeout(function () {
+          finish(null);
+        }, 30000);
+
+        img.onerror = function () {
+          window.clearTimeout(timer);
+          finish(null);
+        };
+
+        img.onload = function () {
+          window.clearTimeout(timer);
+          try {
+            var srcW = img.naturalWidth;
+            var srcH = img.naturalHeight;
+            if (!srcW || !srcH) return finish(null);
+
+            var scale = Math.min(1, COMPRESS_MAX_EDGE / Math.max(srcW, srcH));
+            var destW = Math.max(1, Math.round(srcW * scale));
+            var destH = Math.max(1, Math.round(srcH * scale));
+
+            var canvas = document.createElement('canvas');
+            canvas.width = destW;
+            canvas.height = destH;
+            var ctx = canvas.getContext('2d');
+            if (!ctx) return finish(null);
+            // JPEGは透過を扱えない。PNGの透過部分が黒くならないよう白で下地を塗る
+            ctx.fillStyle = '#ffffff';
+            ctx.fillRect(0, 0, destW, destH);
+            ctx.drawImage(img, 0, 0, destW, destH);
+
+            canvas.toBlob(
+              function (blob) {
+                // 変換に失敗した、または元より太った場合は元ファイルを使う
+                if (!blob || !blob.size || blob.size >= file.size) return finish(null);
+
+                var baseName = String(file.name || 'photo').replace(/\.[^.]+$/, '');
+                var newName = (baseName || 'photo') + '.jpg';
+                var converted;
+                try {
+                  converted = new File([blob], newName, {
+                    type: 'image/jpeg',
+                    lastModified: Date.now(),
+                  });
+                } catch (err) {
+                  // File コンストラクタが使えない環境向けの保険
+                  try {
+                    blob.name = newName;
+                    converted = blob;
+                  } catch (err2) {
+                    return finish(null);
+                  }
+                }
+                finish(converted);
+              },
+              'image/jpeg',
+              COMPRESS_QUALITY
+            );
+          } catch (err) {
+            finish(null);
+          }
+        };
+
+        img.src = url;
+      });
+    }
+
     var MobileImageControl = createClass({
       getInitialState: function () {
-        return { assetUrl: null, uploading: false };
+        return { assetUrl: null, uploading: false, stage: '' };
       },
 
       componentDidMount: function () {
@@ -85,10 +218,23 @@
         if (!file) return;
 
         var self = this;
-        this.setState({ uploading: true });
+        var originalSize = file.size;
+        this.setState({ uploading: true, stage: '写真を縮小中…' });
 
-        this.props
-          .onPersistMedia(file, { field: this.props.field })
+        compressImageFile(file)
+          .then(function (prepared) {
+            if (prepared !== file) {
+              console.log(
+                '[mobile-image] 縮小しました: ' +
+                  Math.round(originalSize / 1024) +
+                  'KB → ' +
+                  Math.round(prepared.size / 1024) +
+                  'KB'
+              );
+            }
+            self.setState({ stage: 'アップロード中…' });
+            return self.props.onPersistMedia(prepared, { field: self.props.field });
+          })
           .then(function (result) {
             var mediaFile = result && result.payload ? result.payload : result;
             var fileName = mediaFile && mediaFile.name;
@@ -99,11 +245,11 @@
             publicFolder = publicFolder.replace(/\/+$/, '');
             var publicPath = publicFolder + '/' + fileName;
             self.props.onChange(publicPath);
-            self.setState({ uploading: false });
+            self.setState({ uploading: false, stage: '' });
           })
           .catch(function (err) {
             console.error('画像のアップロードに失敗しました', err);
-            self.setState({ uploading: false });
+            self.setState({ uploading: false, stage: '' });
             window.alert('画像のアップロードに失敗しました。もう一度お試しください。');
           });
       },
@@ -159,7 +305,11 @@
                 fontWeight: 'bold',
               },
             },
-            state.uploading ? 'アップロード中…' : state.assetUrl ? '写真を変更する' : '写真を選択する'
+            state.uploading
+              ? state.stage || 'アップロード中…'
+              : state.assetUrl
+              ? '写真を変更する'
+              : '写真を選択する'
           )
         );
 
