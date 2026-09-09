@@ -1,6 +1,18 @@
 {
   "works": [
     {
+      "slug": "2026-09-09-トイレ交換",
+      "date": "2026-09-09",
+      "area": "東京都北区",
+      "category": "トイレ交換",
+      "manufacturer": "TOTO",
+      "model": "CES9720W",
+      "duration": "2時間",
+      "before_image": "/images/works/uploads/img_3044.jpeg",
+      "after_image": "/images/works/uploads/img_3047.jpeg",
+      "note": "既存の商品の給水管が隠蔽タイプだった為、同じ隠蔽タイプでの交換になります。事前に確認していた為、スムーズに交換できました。"
+    },
+    {
       "slug": "2026-08-04-cooktop-kawaguchi",
       "date": "2026-08-04",
       "area": "埼玉県川口市",
