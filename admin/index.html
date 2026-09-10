@@ -169,7 +169,7 @@
 
     var MobileImageControl = createClass({
       getInitialState: function () {
-        return { assetUrl: null, uploading: false, stage: '' };
+        return { assetUrl: null, uploading: false, stage: '', note: null };
       },
 
       componentDidMount: function () {
@@ -221,16 +221,32 @@
         var originalSize = file.size;
         this.setState({ uploading: true, stage: '写真を縮小中…' });
 
+        this.setState({ note: null });
+
         compressImageFile(file)
           .then(function (prepared) {
+            // 縮小できた時もできなかった時も、必ず画面に結果を出す。
+            // 以前ここを console.log だけにしていたため、実際には縮小されて
+            // いないことに誰も気づけないまま写真が溜まった。
+            var before = Math.round(originalSize / 1024);
+            var after = Math.round(prepared.size / 1024);
             if (prepared !== file) {
-              console.log(
-                '[mobile-image] 縮小しました: ' +
-                  Math.round(originalSize / 1024) +
-                  'KB → ' +
-                  Math.round(prepared.size / 1024) +
-                  'KB'
-              );
+              self.setState({
+                note: { ok: true, text: '写真を縮小しました　' + before + 'KB → ' + after + 'KB' },
+              });
+            } else if (originalSize <= COMPRESS_SKIP_UNDER) {
+              // もともと軽い写真。縮小の必要がないだけで、失敗ではない。
+              // ここを警告として出すと、軽い写真のたびに事故に見えてしまう。
+              self.setState({
+                note: { ok: true, text: 'もともと軽い写真なので、そのまま送ります（' + before + 'KB）' },
+              });
+            } else {
+              self.setState({
+                note: {
+                  ok: false,
+                  text: '縮小できませんでした。元のサイズ（' + before + 'KB）のまま送ります',
+                },
+              });
             }
             self.setState({ stage: 'アップロード中…' });
             return self.props.onPersistMedia(prepared, { field: self.props.field });
@@ -256,6 +272,7 @@
 
       handleRemove: function (e) {
         e.preventDefault();
+        this.setState({ note: null });
         this.props.onChange('');
       },
 
@@ -334,6 +351,28 @@
             },
           })
         );
+
+        if (state.note) {
+          children.push(
+            h(
+              'div',
+              {
+                key: 'note',
+                style: {
+                  marginTop: '10px',
+                  padding: '8px 12px',
+                  borderRadius: '4px',
+                  fontSize: '13px',
+                  lineHeight: 1.5,
+                  backgroundColor: state.note.ok ? '#e8f5e9' : '#fff4e5',
+                  color: state.note.ok ? '#1b5e20' : '#8a5300',
+                  border: '1px solid ' + (state.note.ok ? '#a5d6a7' : '#ffcc80'),
+                },
+              },
+              state.note.text
+            )
+          );
+        }
 
         if (state.assetUrl && !state.uploading) {
           children.push(

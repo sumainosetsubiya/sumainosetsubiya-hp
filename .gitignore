@@ -24,3 +24,5 @@ Thumbs.db
 # Env / secrets
 .env
 .env.local
+# 留守番電話の案内音声（作業用。公開したくないのでリポジトリには入れない）
+docs/voicemail/
